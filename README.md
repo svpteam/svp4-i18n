@@ -1,14 +1,26 @@
-# svp4-i18n
-Translation files for SVP 4 Manager
+# SVP 4 Manager Translations
+
 https://www.svp-team.com
 
 
-1. Get Qt Linguist. 
-If you don't have Qt installed just copy linguist.exe to the SVP's installation dir.
-Download it here: <link>
+## How to deal with tranlsation files
 
-2. Run Linguist, open any .ts file (preferably in your native language ;)) and modify it.
+- Get Qt Linguist. 
+If you don't have Qt installed you can download minimal distribution here:
+https://www.svp-team.com/files/tools/qt-linguist-550.zip
 
-3. If your language is still not here copy empty.ts to <your-lang-code>.ts.
+- Run Linguist, open any .ts file (preferably in your native language ;)).
 
-4. When done, use File -> Compile to produce .qm file, place it into SVP/i18n folder and restart SVP to check your modifications.
+- If your language is not here copy empty.ts to <your-lang-code>.ts, open it and choose the language.
+
+- Make the changes!
+
+- When done, use File -> Compile to produce .qm file, place it into SVP/i18n folder and restart SVP to check your modifications.
+
+
+## Notes for the translators
+
+* All SVP4 versions use the same translation files, so you'll need either SVP 4 Full or Developer build to test your work.
+
+* Please don't drop rich-text format tags when there're present in the source text.
+Example: "Using icons from <b>Icons8</b>".
