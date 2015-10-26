@@ -27,7 +27,7 @@
     <message>
         <location filename="aboutdlg.cpp" line="27"/>
         <source>Manage your license...</source>
-        <translation type="unfinished"></translation>
+        <translation>Quản lý mã đăng ký của bạn...</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="108"/>
@@ -731,17 +731,17 @@
     <message>
         <location filename="playbackobject.cpp" line="156"/>
         <source>2D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Chế độ 2D</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="157"/>
         <source>3D: Side-by-side stereo pair</source>
-        <translation type="unfinished"></translation>
+        <translation>Chế độ 3D: Cặp khung hình cạnh nhau</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="158"/>
         <source>3D: Over-under stereo pair</source>
-        <translation type="unfinished"></translation>
+        <translation>Chế độ 3D: Cặp khung hình trên dưới</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="171"/>
@@ -1052,7 +1052,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="profile.cpp" line="490"/>
         <source>Source frame area</source>
-        <translation type="unfinished"></translation>
+        <translation>Diện tích khung hình gốc</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="491"/>
@@ -1082,7 +1082,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="profile.cpp" line="496"/>
         <source>Is interlaced</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã Interlaced</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="497"/>
@@ -1212,7 +1212,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="trayicon.cpp" line="49"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
-        <translation type="unfinished"></translation>
+        <translation>Tự động bật chế độ stereo với video có tỷ lệ khung hình quá to hoặc quá nhỏ</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="51"/>
@@ -1965,7 +1965,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="trayicon.cpp" line="509"/>
         <source>Additional programs and features...</source>
-        <translation type="unfinished"></translation>
+        <translation>Các chương trình và tính năng khác...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="524"/>
@@ -2049,7 +2049,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="trayicon.cpp" line="580"/>
         <source>Turn stereo mode on by aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật chế độ stereo dựa trên tỷ lệ khung hình</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="583"/>
