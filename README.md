@@ -13,6 +13,8 @@ https://www.svp-team.com/files/tools/qt-linguist-550.zip
 
 - If your language is not here copy ***empty.ts*** to ***\<your-lang-code\>.ts***, open it and choose the language.
 
+- Find a two-letter <your-lang-code> value in that table: http://www.lingoes.net/en/translator/langcode.htm
+
 - Make the changes!
 
 - When done, use File -> Compile to produce ***.qm*** file, place it into ***SVP/i18n*** folder and restart SVP to check your modifications.
