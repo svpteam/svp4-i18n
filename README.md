@@ -3,7 +3,7 @@
 https://www.svp-team.com
 
 
-## How to deal with tranlsation files
+## How to deal with translation files
 
 - Get ***Qt Linguist***. 
 If you don't have Qt installed you can download minimal distribution here:
