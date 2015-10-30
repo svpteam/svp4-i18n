@@ -2034,12 +2034,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="582"/>
         <source>Reset on seek</source>
-        <translation>播放跳转后重置</translation>
+        <translation>播放跳转后...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="397"/>
         <source>Profile for an active video</source>
-        <translation>为当前视频建立视频配置</translation>
+        <translation>为当前视频选择配置</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="503"/>
