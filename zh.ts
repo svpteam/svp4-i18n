@@ -17,7 +17,7 @@
     <message>
         <location filename="aboutdlg.ui" line="206"/>
         <source>This copy is registered!</source>
-        <translation>已注册！</translation>
+        <translation>此软件副本已注册！</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="12"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="activationwnd.ui" line="57"/>
         <source>Please register your copy of SVP 4.</source>
-        <translation>请注册你的 SVP4。</translation>
+        <translation>请注册您的 SVP4 副本。</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="69"/>
@@ -661,7 +661,7 @@
     <message>
         <location filename="logwnd.cpp" line="31"/>
         <source>Copy...</source>
-        <translation>拷贝...</translation>
+        <translation>复制...</translation>
     </message>
 </context>
 <context>
@@ -1045,7 +1045,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="34"/>
         <source>Copy of </source>
-        <translation>新配置，内容拷贝于</translation>
+        <translation>新配置，内容复制于</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="489"/>
@@ -1408,7 +1408,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="81"/>
         <source>&apos;override&apos; script content</source>
-        <translation>“覆盖”脚本内容</translation>
+        <translation>“override”脚本内容</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="83"/>
@@ -1662,7 +1662,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="645"/>
         <source>Width of top coarse level</source>
-        <translation type="unfinished">最高粗略度等级的宽度</translation>
+        <translation>最粗等级宽度</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="651"/>
@@ -1859,7 +1859,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="428"/>
         <source>Advanced controls...</source>
-        <translation>高级控制...</translation>
+        <translation>高级设置...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="434"/>
