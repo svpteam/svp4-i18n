@@ -1074,7 +1074,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="profile.cpp" line="494"/>
-        <source>Is stream</source>
+        <source>Is network stream</source>
         <translation>是网络流媒体</translation>
     </message>
     <message>
