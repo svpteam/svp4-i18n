@@ -1050,12 +1050,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="489"/>
         <source>Frame area</source>
-        <translation>帧区域</translation>
+        <translation>帧大小</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="490"/>
         <source>Source frame area</source>
-        <translation>原始帧区域</translation>
+        <translation>原始帧大小</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="491"/>
