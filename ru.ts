@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -17,7 +17,7 @@
     <message>
         <location filename="aboutdlg.ui" line="206"/>
         <source>This copy is registered!</source>
-        <translation>Зарегистрированная версия</translation>
+        <translation>Зарегистрированная версия.</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="12"/>
@@ -28,30 +28,30 @@
         <location filename="aboutdlg.cpp" line="27"/>
         <source>Manage your license...</source>
         <oldsource>Manage your license.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Управление лицензией...</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="108"/>
+        <location filename="aboutdlg.cpp" line="109"/>
         <source>Developers</source>
         <translation>Разработчики</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="108"/>
+        <location filename="aboutdlg.cpp" line="109"/>
         <source>Special thanks</source>
         <translation>Отдельное спасибо</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="124"/>
+        <location filename="aboutdlg.cpp" line="125"/>
         <source>Indiegogo Co-Authors</source>
         <translation>Indiegogo - Золотая медаль</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="125"/>
+        <location filename="aboutdlg.cpp" line="126"/>
         <source>Indiegogo Part of the Team members</source>
         <translation>Indiegogo - Серебрянная медаль</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="126"/>
+        <location filename="aboutdlg.cpp" line="127"/>
         <source>Indiegogo funders</source>
         <translation>Indiegogo - Бронзовая медаль</translation>
     </message>
@@ -99,22 +99,27 @@
         <translation>Ожидание ответа сервера регистрации...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="71"/>
+        <location filename="activationwnd.cpp" line="82"/>
         <source>Connection error, please try again later</source>
         <translation>Ошибка соединения - пожалуйста, повторите попытку позднее</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="75"/>
+        <location filename="activationwnd.cpp" line="86"/>
         <source>Invalid e-mail or registration key</source>
         <translation>Неверный адрес e-mail или ключ регистрации</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="76"/>
+        <location filename="activationwnd.cpp" line="87"/>
+        <source>Registration key isn&apos;t compatible with this SVP edition</source>
+        <translation>Ключ регистрации не подходит к этой версии SVP</translation>
+    </message>
+    <message>
+        <location filename="activationwnd.cpp" line="88"/>
         <source>Too many activations for the registration key</source>
         <translation>Достигнуто максимальное количество регистраций для данного ключа</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="77"/>
+        <location filename="activationwnd.cpp" line="89"/>
         <source>Unknown error</source>
         <translation>Неизвестная ошибка - обратитесь к разработчику</translation>
     </message>
@@ -213,27 +218,37 @@
 <context>
     <name>ConditionWdg</name>
     <message>
-        <location filename="conditionwdg.ui" line="126"/>
+        <location filename="conditionwdg.ui" line="172"/>
+        <source>Yes</source>
+        <translation>Да</translation>
+    </message>
+    <message>
+        <location filename="conditionwdg.ui" line="216"/>
+        <source>No</source>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <location filename="conditionwdg.ui" line="246"/>
         <source>Remove this condition</source>
         <translation>Удалить это условие</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="33"/>
+        <location filename="profilewnd.cpp" line="35"/>
         <source>Less than</source>
         <translation>Меньше чем</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="34"/>
+        <location filename="profilewnd.cpp" line="36"/>
         <source>Greater than</source>
         <translation>Больше чем</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="35"/>
+        <location filename="profilewnd.cpp" line="37"/>
         <source>Equal to</source>
         <translation>Равно</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="36"/>
+        <location filename="profilewnd.cpp" line="38"/>
         <source>Contains</source>
         <translation>Содержит</translation>
     </message>
@@ -435,6 +450,24 @@
     </message>
 </context>
 <context>
+    <name>FFDShowVideoPlayer</name>
+    <message>
+        <location filename="ffdshowvideoplayer.cpp" line="46"/>
+        <source>64-bit video players are not supported in this version</source>
+        <translation>Эта версия SVP не поддерживает 64-х битные проигрыватели</translation>
+    </message>
+    <message>
+        <location filename="ffdshowvideoplayer.cpp" line="57"/>
+        <source>Access to the video player is denied. Is it running with administrator privileges?</source>
+        <translation>Доступ к проигрывателю запрещен системой. Возможно он запущен с правами администратора?</translation>
+    </message>
+    <message>
+        <location filename="ffdshowvideoplayer.cpp" line="77"/>
+        <source>Unable to locate Avisynth, please re-install it</source>
+        <translation>Не найден Avisynth, попробуйте установить его повторно</translation>
+    </message>
+</context>
+<context>
     <name>FrameControlWnd</name>
     <message>
         <location filename="framecontrolwnd.ui" line="98"/>
@@ -526,38 +559,38 @@
         <translation>Нет активного видео</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.ui" line="723"/>
+        <location filename="framecontrolwnd.ui" line="716"/>
         <source>Preview and fine tuning</source>
         <translation>Тонкая коррекция обрезки</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="424"/>
+        <location filename="framecontrolwnd.cpp" line="441"/>
         <source>Fields:</source>
         <translation>Поля:</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="424"/>
+        <location filename="framecontrolwnd.cpp" line="441"/>
         <source>Vert: %1 - %2, Hor: %3 - %4</source>
         <translation>Верт.: %1 - %2, гориз.: %3 - %4</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="428"/>
+        <location filename="framecontrolwnd.cpp" line="445"/>
         <source>Crop to:</source>
         <translation>Обрезать до:</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="429"/>
-        <location filename="framecontrolwnd.cpp" line="437"/>
+        <location filename="framecontrolwnd.cpp" line="446"/>
+        <location filename="framecontrolwnd.cpp" line="454"/>
         <source>none</source>
         <translation>нет</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="432"/>
+        <location filename="framecontrolwnd.cpp" line="449"/>
         <source>Fine tuning:</source>
         <translation>Коррекция:</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="436"/>
+        <location filename="framecontrolwnd.cpp" line="453"/>
         <source>Scale to:</source>
         <translation>Изм. размер до:</translation>
     </message>
@@ -565,52 +598,57 @@
 <context>
     <name>LightControlWnd</name>
     <message>
-        <location filename="lightcontrolwnd.ui" line="43"/>
+        <location filename="lightcontrolwnd.ui" line="45"/>
         <source>No outer lighting</source>
         <translation>Нет подсветки</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="78"/>
+        <location filename="lightcontrolwnd.ui" line="80"/>
         <source>Fill black bars</source>
         <translation>Подсвечивать  поля</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="107"/>
+        <location filename="lightcontrolwnd.ui" line="109"/>
         <source>Glow light</source>
         <translation>Окружающий свет</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="198"/>
+        <location filename="lightcontrolwnd.ui" line="134"/>
+        <source>Do not use outer lighting while in 3D mode</source>
+        <translation>Не включать подсветку в режиме 3D</translation>
+    </message>
+    <message>
+        <location filename="lightcontrolwnd.ui" line="219"/>
         <source>Preview light pattern</source>
         <translation>Просмотр схемы подсветки</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="205"/>
+        <location filename="lightcontrolwnd.ui" line="226"/>
         <source>Add new pattern...</source>
         <translation>Добавить схему...</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="276"/>
+        <location filename="lightcontrolwnd.ui" line="297"/>
         <source>Light intencity</source>
         <translation>Интенсивность</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="339"/>
+        <location filename="lightcontrolwnd.ui" line="360"/>
         <source>Capture depth</source>
         <translation>Глубина</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="373"/>
+        <location filename="lightcontrolwnd.ui" line="394"/>
         <source>Number of lights</source>
         <translation>Источники</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="398"/>
+        <location filename="lightcontrolwnd.ui" line="419"/>
         <source>Light width</source>
         <translation>Ширина источников</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.cpp" line="271"/>
+        <location filename="lightcontrolwnd.cpp" line="277"/>
         <source>New pattern</source>
         <translation>Новая схема</translation>
     </message>
@@ -735,19 +773,19 @@
     <message>
         <location filename="playbackobject.cpp" line="156"/>
         <source>2D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим 2D</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="157"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>3D: Горизонтальная стереопара</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="158"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>3D: Вертикальная стереопара</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="171"/>
@@ -777,46 +815,46 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Больше не спрашивать</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="282"/>
+        <location filename="playbackobject.cpp" line="288"/>
         <source>Playing at %1 fps</source>
         <translation>Воспроизведение %1 к/с</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="282"/>
+        <location filename="playbackobject.cpp" line="288"/>
         <source>Paused</source>
         <translation>На паузе</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="283"/>
+        <location filename="playbackobject.cpp" line="289"/>
         <source>px</source>
         <translation>пкс</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="301"/>
+        <location filename="playbackobject.cpp" line="307"/>
         <source>SVP: enabled</source>
         <translation>SVP: включено</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="302"/>
+        <location filename="playbackobject.cpp" line="308"/>
         <source>SVP: disabled</source>
         <translation>SVP: выключено</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="763"/>
+        <location filename="playbackobject.cpp" line="773"/>
         <source>Black bars: </source>
         <translation>Поля:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="764"/>
+        <location filename="playbackobject.cpp" line="774"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: воспроизведение %1 к/с
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="804"/>
+        <location filename="playbackobject.cpp" line="814"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Используется несовместимая версия Avisynth! Для работы SVP пожалуйста замените &apos;avisynth.dll&apos; на файл из &lt;Установочная-папка-SVP&gt;\plugins.</translation>
     </message>
 </context>
 <context>
@@ -927,93 +965,93 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Высокое</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="900"/>
+        <location filename="profilewnd.ui" line="907"/>
         <source>Add new condition for applying this profile</source>
         <translation>Добавить новое условие для применения этого профиля</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="903"/>
+        <location filename="profilewnd.ui" line="910"/>
         <source>Apply this profile IF...</source>
         <translation>Применять профиль ЕСЛИ...</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="945"/>
+        <location filename="profilewnd.ui" line="952"/>
         <source>All changes are auto-saved</source>
         <translation>Изменения сохранены</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="955"/>
+        <location filename="profilewnd.ui" line="962"/>
         <source>Revert all recent changes made to this profile</source>
         <translation>Отменить все изменения сделанные в этом профиле</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="958"/>
+        <location filename="profilewnd.ui" line="965"/>
         <source>Revert</source>
         <translation>Отменить</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="205"/>
+        <location filename="profilewnd.cpp" line="222"/>
         <source>Movie frame rate</source>
         <translation>Кадр.частота видео</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="209"/>
+        <location filename="profilewnd.cpp" line="226"/>
         <source>Screen refresh rate</source>
         <translation>Частота обновления экрана</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="213"/>
+        <location filename="profilewnd.cpp" line="230"/>
         <source>Fixed frame rate</source>
         <translation>Фиксированная частота</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="214"/>
-        <location filename="profilewnd.cpp" line="540"/>
+        <location filename="profilewnd.cpp" line="231"/>
+        <location filename="profilewnd.cpp" line="558"/>
         <source>fps</source>
         <translation>к/с</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="360"/>
+        <location filename="profilewnd.cpp" line="378"/>
         <source>SVP - Video profiles</source>
         <translation>SVP - Профили видео</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="360"/>
+        <location filename="profilewnd.cpp" line="378"/>
         <source>Are you sure you want to delete this profile?</source>
         <translation>Вы точно хотите удалить этот профиль?</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="476"/>
+        <location filename="profilewnd.cpp" line="494"/>
         <source>Rendering options</source>
         <translation>Построение кадра</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="480"/>
+        <location filename="profilewnd.cpp" line="498"/>
         <source>Motion vectors options</source>
         <translation>Поиск векторов движения</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="484"/>
+        <location filename="profilewnd.cpp" line="502"/>
         <source>Miscellaneous options</source>
         <translation>Общие параметры</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="539"/>
+        <location filename="profilewnd.cpp" line="557"/>
         <source>Movie</source>
         <translation>Видео</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="539"/>
+        <location filename="profilewnd.cpp" line="557"/>
         <source>Screen</source>
         <translation>Экран</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="540"/>
+        <location filename="profilewnd.cpp" line="558"/>
         <source>Fixed</source>
         <translation>Фикс.</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="587"/>
+        <location filename="profilewnd.cpp" line="605"/>
         <source>User defined options</source>
         <translation>Пользовательские параметры</translation>
     </message>
@@ -1021,29 +1059,29 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="119"/>
+        <location filename="main.cpp" line="124"/>
         <source>SVP - error</source>
         <translation>SVP - Ошибка</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="119"/>
+        <location filename="main.cpp" line="124"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>Пожалуйста, закройте Менеджер SVP 3.1.</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="250"/>
+        <location filename="main.cpp" line="255"/>
         <source>SVP - critical error</source>
         <translation>SVP - Ошибка</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="250"/>
+        <location filename="main.cpp" line="255"/>
         <source>Some of required modules not found, please reinstall SVP.</source>
         <translation>Некоторые необходимые для работы SVP модули не найдены или не совместимы. Пожалуйста, переустановите SVP.</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="88"/>
         <source>Show per-core CPU usage in Performance Monitor window</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать загрузку CPU по ядрам в графиках производительности </translation>
     </message>
     <message>
         <location filename="profile.cpp" line="34"/>
@@ -1058,7 +1096,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="490"/>
         <source>Source frame area</source>
-        <translation type="unfinished"></translation>
+        <translation>Исх. площадь кадра</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="491"/>
@@ -1077,7 +1115,8 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="profile.cpp" line="494"/>
-        <source>Is stream</source>
+        <source>Is network stream</source>
+        <oldsource>Is stream</oldsource>
         <translation>Потоковое видео?</translation>
     </message>
     <message>
@@ -1088,7 +1127,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="496"/>
         <source>Is interlaced</source>
-        <translation type="unfinished"></translation>
+        <translation>Черезстрочное?</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="497"/>
@@ -1116,27 +1155,27 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Глубина цвета</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="503"/>
+        <location filename="profile.cpp" line="502"/>
         <source>Is on battery</source>
         <translation>Работа от батареи?</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="515"/>
+        <location filename="profile.cpp" line="539"/>
         <source>Mpix</source>
         <translation>Мпкс</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="517"/>
+        <location filename="profile.cpp" line="541"/>
         <source>px</source>
         <translation>пкс</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="518"/>
+        <location filename="profile.cpp" line="542"/>
         <source>fps</source>
         <translation>к/с</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="519"/>
+        <location filename="profile.cpp" line="543"/>
         <source>bits</source>
         <translation>бит</translation>
     </message>
@@ -1151,121 +1190,121 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Обычная</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="317"/>
+        <location filename="profilewnd.cpp" line="335"/>
         <source>Last edited FRC profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Последний измененный профиль</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="653"/>
+        <location filename="profilewnd.cpp" line="671"/>
         <source>Custom</source>
         <translation>Другой</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="33"/>
         <source>If we&apos;re running in portable mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Это portable установка?</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="34"/>
         <source>Directory to store all the settings and log files</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь для сохранения настроек</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="35"/>
         <source>Last generated AVS script</source>
-        <translation type="unfinished">Последний использованный скрипт AVS</translation>
+        <translation>Последний использованный скрипт AVS</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="36"/>
         <source>If 64-bit video players are allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддерживаются ли 64-х битные проигрыватели</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="39"/>
         <source>User interface language</source>
         <oldsource>User interface complexity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Язык пользовательского интерфейса</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="42"/>
         <source>Time of last successful check</source>
-        <translation type="unfinished"></translation>
+        <translation>Время последней успешной проверки обновлений</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="43"/>
         <source>Turn off and then on when fast forward or rewind actions occured to minimize freezing</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим сброса скрипта на перемотке для минимизации зависаний проигрывателя</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="44"/>
+        <source>How far should be the next frame for the seek to be detected, in seconds</source>
+        <translation>Насколько далеко, в секундах, должна быть перемотка для выполнения сброса скрипта </translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="45"/>
         <source>Alter video player process priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменять приоритет процесса проигрывателя</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="46"/>
+        <location filename="trayicon.cpp" line="47"/>
         <source>How to handle multiple videos running at the same time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="48"/>
-        <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим управления несколькими одновременно запущенными видео</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="49"/>
+        <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
+        <translation>Предполагать что черезстрочное видео имеет удвоенную частоту после де-интерлейса</translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="50"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
-        <translation type="unfinished"></translation>
+        <translation>Определять стереопары по необычному значению соотношения сторон</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="51"/>
         <location filename="trayicon.cpp" line="52"/>
+        <location filename="trayicon.cpp" line="53"/>
         <source>Measured CPU performance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="54"/>
-        <source>Unique random-generated User ID, clear this value if you don&apos;t want to be &quot;tracked&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Измеренная производительность процессора</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="55"/>
         <source>How many times SVP Manager was started</source>
-        <translation type="unfinished"></translation>
+        <translation>Сколько раз был запущен Менеджер</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="56"/>
         <source>How many videos was viewed with SVP</source>
-        <translation type="unfinished"></translation>
+        <translation>Сколько видео было просмотрено с SVP</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="58"/>
         <source>ID of GPU device using for FRC computations</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать видеокарту с этим ID</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="59"/>
         <source>Number of CPU computation threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество потоков расчета</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="60"/>
         <source>Max relative difference between screen and target refresh rates</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимально допустимая разница между частотами экрана и уплавнения</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="61"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальная частота видео, которая будет уплавняться</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="63"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
-        <translation type="unfinished"></translation>
+        <translation>Не спрашивать про применение 4 ГБ патча</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="64"/>
         <source>Don&apos;t ask about system performance assessment</source>
-        <translation type="unfinished"></translation>
+        <translation>Не предлагать повторно измерить производительность системы</translation>
     </message>
 </context>
 <context>
@@ -1288,7 +1327,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="123"/>
         <source>External control API</source>
-        <translation type="unfinished">API для внешнего управление</translation>
+        <translation>API для внешнего управление</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="31"/>
@@ -1454,246 +1493,246 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="589"/>
+        <location filename="settings.cpp" line="604"/>
         <source>Frames interpolation mode</source>
         <translation>Добавление промежуточных кадров</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="591"/>
+        <location filename="settings.cpp" line="606"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>2m (каждый исходный по два раза)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="591"/>
+        <location filename="settings.cpp" line="606"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>&quot;1.5m&quot; (&quot;1m&quot;, расчетные прижаты)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="592"/>
+        <location filename="settings.cpp" line="607"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>1m (каждый исходный по разу)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="592"/>
+        <location filename="settings.cpp" line="607"/>
         <source>Adaptive</source>
         <translation>Адаптивный режим</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="592"/>
+        <location filename="settings.cpp" line="607"/>
         <source>Uniform (max fluidity)</source>
         <translation>Равномерная интерполяция</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="596"/>
+        <location filename="settings.cpp" line="611"/>
         <source>SVP shader</source>
         <translation>SVP-шейдер</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="598"/>
+        <location filename="settings.cpp" line="613"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. Самый быстрый (для медленных систем)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="598"/>
+        <location filename="settings.cpp" line="613"/>
         <source>2. Sharp (anime)</source>
         <translation>2. Резкий (для аниме)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="599"/>
+        <location filename="settings.cpp" line="614"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. Блочный</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="599"/>
+        <location filename="settings.cpp" line="614"/>
         <source>11. Simple Lite</source>
         <translation>11. Простой (без подавления артефактов)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="600"/>
+        <location filename="settings.cpp" line="615"/>
         <source>21. Simple</source>
         <translation>21. Простой</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="600"/>
+        <location filename="settings.cpp" line="615"/>
         <source>13. Standard</source>
         <translation>13. Стандартный</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="600"/>
+        <location filename="settings.cpp" line="615"/>
         <source>23. Complicated</source>
         <translation>23. Усложненный</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="613"/>
+        <location filename="settings.cpp" line="628"/>
         <source>Motion vectors grid</source>
         <translation>Шаг сетки векторов</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="615"/>
+        <location filename="settings.cpp" line="630"/>
         <source>32 px. Large 0</source>
         <translation>32 пкс. Крупный 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="615"/>
+        <location filename="settings.cpp" line="630"/>
         <source>28 px. Large 1</source>
         <translation>28 пкс. Крупный 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="615"/>
+        <location filename="settings.cpp" line="630"/>
         <source>24 px. Large 2</source>
         <translation>24 пкс. Крупный 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="616"/>
+        <location filename="settings.cpp" line="631"/>
         <source>16 px. Average 0</source>
         <translation>16 пкс. Средний 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="616"/>
+        <location filename="settings.cpp" line="631"/>
         <source>14 px. Average 1</source>
         <translation>14 пкс. Средний 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="616"/>
+        <location filename="settings.cpp" line="631"/>
         <source>12 px. Average 2</source>
         <translation>12 пкс. Средний 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="617"/>
+        <location filename="settings.cpp" line="632"/>
         <source>8 px. Small 0</source>
         <translation>8 пкс. Мелкий 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="617"/>
+        <location filename="settings.cpp" line="632"/>
         <source>7 px. Small 1</source>
         <translation>7 пкс. Мелкий 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="617"/>
+        <location filename="settings.cpp" line="632"/>
         <source>6 px. Small 2</source>
         <translation>6 пкс. Мелкий 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="621"/>
+        <location filename="settings.cpp" line="636"/>
         <source>Decrease grid step</source>
         <translation>Уменьшение шага сетки</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="623"/>
-        <location filename="settings.cpp" line="641"/>
-        <location filename="settings.cpp" line="653"/>
+        <location filename="settings.cpp" line="638"/>
+        <location filename="settings.cpp" line="656"/>
+        <location filename="settings.cpp" line="668"/>
         <source>Disabled</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="624"/>
+        <location filename="settings.cpp" line="639"/>
         <source>By two with local refinement</source>
         <translation>В два раза, с локальным уточнением</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="624"/>
+        <location filename="settings.cpp" line="639"/>
         <source>By two with global refinement</source>
         <translation>В два раза, с глобальным уточнением</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="628"/>
+        <location filename="settings.cpp" line="643"/>
         <source>Search radius</source>
         <translation>Радиус поиска</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="630"/>
+        <location filename="settings.cpp" line="645"/>
         <source>Small and fast</source>
         <translation>Малый быстрый</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="630"/>
-        <location filename="settings.cpp" line="647"/>
+        <location filename="settings.cpp" line="645"/>
+        <location filename="settings.cpp" line="662"/>
         <source>Small</source>
         <translation>Малый</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="630"/>
-        <location filename="settings.cpp" line="641"/>
-        <location filename="settings.cpp" line="647"/>
-        <location filename="settings.cpp" line="654"/>
+        <location filename="settings.cpp" line="645"/>
+        <location filename="settings.cpp" line="656"/>
+        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="669"/>
         <source>Average</source>
         <translation>Средний</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="630"/>
-        <location filename="settings.cpp" line="647"/>
+        <location filename="settings.cpp" line="645"/>
+        <location filename="settings.cpp" line="662"/>
         <source>Large</source>
         <translation>Большой</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="634"/>
+        <location filename="settings.cpp" line="649"/>
         <source>Motion vectors precision</source>
         <translation>Точность векторов движения</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="635"/>
+        <location filename="settings.cpp" line="650"/>
         <source>Two pixels</source>
         <translation>До двух пикселей</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="635"/>
+        <location filename="settings.cpp" line="650"/>
         <source>One pixel</source>
         <translation>До пиксела</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="635"/>
+        <location filename="settings.cpp" line="650"/>
         <source>Half pixel</source>
         <translation>До полу-пиксела</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="639"/>
+        <location filename="settings.cpp" line="654"/>
         <source>Wide search</source>
         <translation>Повторный широкий поиск</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="641"/>
-        <location filename="settings.cpp" line="654"/>
+        <location filename="settings.cpp" line="656"/>
+        <location filename="settings.cpp" line="669"/>
         <source>Strong</source>
         <translation>Сильный</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="641"/>
-        <location filename="settings.cpp" line="654"/>
+        <location filename="settings.cpp" line="656"/>
+        <location filename="settings.cpp" line="669"/>
         <source>Strongest</source>
         <translation>Усиленный</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="645"/>
+        <location filename="settings.cpp" line="660"/>
         <source>Width of top coarse level</source>
         <translation>Ширина последнего грубого уровня</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="651"/>
+        <location filename="settings.cpp" line="666"/>
         <source>Artifacts masking</source>
         <translation>Подавление площадных артефактов</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="653"/>
+        <location filename="settings.cpp" line="668"/>
         <source>Weakest</source>
         <translation>Слабое</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="653"/>
+        <location filename="settings.cpp" line="668"/>
         <source>Weak</source>
         <translation>Ниже среднего</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="658"/>
+        <location filename="settings.cpp" line="673"/>
         <source>Processing of scene changes</source>
         <translation>Построение на смене сцен</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="659"/>
+        <location filename="settings.cpp" line="674"/>
         <source>Blend adjacent frames</source>
         <translation>Смешивать соседние кадры</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="659"/>
+        <location filename="settings.cpp" line="674"/>
         <source>Repeat frame</source>
         <translation>Повторять последний кадр</translation>
     </message>
@@ -1779,387 +1818,388 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="trayicon.cpp" line="310"/>
+        <location filename="trayicon.cpp" line="140"/>
         <source>Start with SVP with right click on the icon</source>
         <translation>Нажмите правой кнопкой на иконке SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="311"/>
+        <location filename="trayicon.cpp" line="141"/>
         <source>Language was changed to %1</source>
         <translation>Язык интерфейса был изменен на %1</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="314"/>
+        <location filename="trayicon.cpp" line="144"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
         <translation>Ваша копия SVP зарегистрирована. Спасибо!</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="317"/>
-        <location filename="trayicon.cpp" line="668"/>
+        <location filename="trayicon.cpp" line="147"/>
+        <location filename="trayicon.cpp" line="498"/>
         <source>Updates available</source>
         <translation>Доступны обновления</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="324"/>
-        <source>You&apos;re using NVIDIA OpenCL 1.2 drivers for Windows 10 which may lead to freezes and crashes. Click here to get more information.</source>
-        <translation>Вы используете драйверы NVIDIA с поддержкой OpenCL 1.2, они имеют проблемы с Windows 10. Нажмите здесь для более подробной информации.</translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="359"/>
+        <location filename="trayicon.cpp" line="183"/>
         <source>No active playback</source>
         <translation>Нет активных видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="392"/>
+        <location filename="trayicon.cpp" line="216"/>
         <source>SVP Control Panel</source>
         <translation>Контрольная панель SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="404"/>
+        <location filename="trayicon.cpp" line="228"/>
         <source>Video frame</source>
         <translation>Размер кадра</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="407"/>
+        <location filename="trayicon.cpp" line="231"/>
         <source>Detect and cut off black bars</source>
         <translation>Поиск и обрезка черных полей</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="408"/>
+        <location filename="trayicon.cpp" line="232"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
-        <translation type="unfinished"></translation>
+        <translation>Анализ кадра для поиска черных полей и автоматичская их обрезка </translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="412"/>
+        <location filename="trayicon.cpp" line="236"/>
         <source>Keep aspect ratio</source>
         <translation>Не обрезать</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="413"/>
+        <location filename="trayicon.cpp" line="237"/>
         <source>Crop to the screen aspect ratio</source>
         <translation>Обрезать до соотношения сторон экрана</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="415"/>
+        <location filename="trayicon.cpp" line="239"/>
         <source>Frame cropping mode applied before any size changing</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрезка кадра видео, выполняемая перед изменением размера</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="420"/>
+        <location filename="trayicon.cpp" line="244"/>
         <source>Keep normal size</source>
         <translation>Не изменять размер</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="421"/>
+        <location filename="trayicon.cpp" line="245"/>
         <source>Decrease to screen size</source>
         <translation>Уменьшать до размера экрана</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="423"/>
+        <location filename="trayicon.cpp" line="247"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшение размера кадра для снижения нагрузки на систему</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="428"/>
+        <location filename="trayicon.cpp" line="252"/>
         <source>Advanced controls...</source>
         <translation>Другие варианты...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="434"/>
+        <location filename="trayicon.cpp" line="258"/>
         <source>Outer lighting</source>
         <translation>Подсветка полей</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="437"/>
+        <location filename="trayicon.cpp" line="264"/>
         <source>Disabled</source>
         <translation>Выключена</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="439"/>
+        <location filename="trayicon.cpp" line="261"/>
         <source>Fill black bars</source>
         <translation>Подсвечивать  поля</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="440"/>
+        <location filename="trayicon.cpp" line="262"/>
         <source>Glow lights</source>
         <translation>Окружающий свет</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="442"/>
+        <location filename="trayicon.cpp" line="266"/>
         <source>Outer lighting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим подсветки полей</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="445"/>
+        <location filename="trayicon.cpp" line="269"/>
         <source>Glow border width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина окружающего света </translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="448"/>
+        <location filename="trayicon.cpp" line="271"/>
+        <source>Disabled in 3D mode</source>
+        <translation>Выключена в режиме 3D</translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="273"/>
+        <source>Enable outer lighting only for 2D videos</source>
+        <translation>Включать подсветку полей только в режиме 2D</translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="279"/>
         <source>Light patterns</source>
         <translation>Схемы подсветки</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="452"/>
+        <location filename="trayicon.cpp" line="283"/>
         <source>Manage patterns...</source>
         <translation>Управление схемами...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="463"/>
+        <location filename="trayicon.cpp" line="292"/>
         <source>My options</source>
         <translation>Мои параметры</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="470"/>
+        <location filename="trayicon.cpp" line="299"/>
         <source>Temporarily disable SVP</source>
         <translation>Временно отключить SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="472"/>
+        <location filename="trayicon.cpp" line="301"/>
         <source>SVP is disabled until next start</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключение SVP до следующего запуска </translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="474"/>
+        <location filename="trayicon.cpp" line="303"/>
         <source>Utilities</source>
         <translation>Утилиты</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="476"/>
+        <location filename="trayicon.cpp" line="305"/>
         <source>Performance Monitor</source>
         <translation>Графики производительности</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="481"/>
+        <location filename="trayicon.cpp" line="310"/>
         <source>Assess system performance</source>
         <translation>Тест производительности системы</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="490"/>
+        <location filename="trayicon.cpp" line="319"/>
         <source>Demonstration mode</source>
         <translation>Демонстрационный режим</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="491"/>
+        <location filename="trayicon.cpp" line="320"/>
         <source>Fluency and tearing test</source>
         <translation>Тест плавности воспроизведения</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="501"/>
+        <location filename="trayicon.cpp" line="330"/>
         <source>Apply 4GB aware patch...</source>
         <translation>Включить поддержку 4 Гб памяти...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="504"/>
+        <location filename="trayicon.cpp" line="333"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
         <translation>После нажатися на &apos;Продолжить&apos; выберите исполняемый файл проигрывателя видео, который требует исправления.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="505"/>
+        <location filename="trayicon.cpp" line="334"/>
         <source>Continue</source>
         <translation>Продолжить</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="505"/>
+        <location filename="trayicon.cpp" line="334"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="509"/>
+        <location filename="trayicon.cpp" line="338"/>
         <source>Additional programs and features...</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка дополнительных программ и модулей...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="524"/>
+        <location filename="trayicon.cpp" line="353"/>
         <source>Application settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="529"/>
+        <location filename="trayicon.cpp" line="358"/>
         <source>No acceleration</source>
         <translation>Выключить ускорение</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="531"/>
+        <location filename="trayicon.cpp" line="360"/>
         <source>Using</source>
         <translation>Использовать</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="534"/>
+        <location filename="trayicon.cpp" line="363"/>
         <source>GPU acceleration</source>
         <translation>Ускорение GPU</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="539"/>
+        <location filename="trayicon.cpp" line="368"/>
         <source>Show OSD messages</source>
         <translation>Показывать сообщения в OSD</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="541"/>
+        <location filename="trayicon.cpp" line="370"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>Изменить клавиатурные комбинации</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="547"/>
+        <location filename="trayicon.cpp" line="376"/>
         <source>Load at Windows startup</source>
         <translation>Загружать вместе с Windows</translation>
     </message>
     <message>
-        <source>Periodically check for updates</source>
-        <translation type="vanished">Проверять наличие обновлений</translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="574"/>
+        <location filename="trayicon.cpp" line="403"/>
         <source>Additional options</source>
         <translation>Дополнительные настройки</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="578"/>
+        <location filename="trayicon.cpp" line="407"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>Де-интерлейс видео удваивает кадровую частоту</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="598"/>
+        <location filename="trayicon.cpp" line="428"/>
         <source>Auto</source>
         <translation>Автоматический выбор</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="600"/>
+        <location filename="trayicon.cpp" line="430"/>
         <source>%1 thread(s)</source>
         <translation>%1 поток(ов)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="601"/>
+        <location filename="trayicon.cpp" line="431"/>
         <source>Processing threads</source>
         <translation>Кол-во потоков расчета</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="582"/>
+        <location filename="trayicon.cpp" line="411"/>
         <source>Reset on seek</source>
         <translation>Сброс на перемотке</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="397"/>
+        <location filename="trayicon.cpp" line="221"/>
         <source>Profile for an active video</source>
         <translation>Профили активного видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="503"/>
+        <location filename="trayicon.cpp" line="332"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - поддержка 4 Гб</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="580"/>
+        <location filename="trayicon.cpp" line="409"/>
         <source>Turn stereo mode on by aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическое влючение режима 3D на основе соотношения сторон кадра</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="583"/>
+        <location filename="trayicon.cpp" line="412"/>
         <source>Don&apos;t reset</source>
         <translation>Не сбрасывать</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="585"/>
+        <location filename="trayicon.cpp" line="414"/>
         <source>Soft reset</source>
         <translation>Мягкий сброс</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="586"/>
+        <location filename="trayicon.cpp" line="415"/>
         <source>Hard reset</source>
         <translation>Жесткий сброс</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="589"/>
+        <location filename="trayicon.cpp" line="419"/>
         <source>Running multiple videos</source>
         <translation>Управление несколькими видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="590"/>
+        <location filename="trayicon.cpp" line="420"/>
         <source>Use SVP in all opened videos</source>
         <translation>Включать SVP во всех видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="591"/>
+        <location filename="trayicon.cpp" line="421"/>
         <source>First opened video only</source>
         <translation>Только в первом открытом видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="592"/>
+        <location filename="trayicon.cpp" line="422"/>
         <source>Latest opened video only</source>
         <translation>Только в последнем открытом видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="605"/>
+        <location filename="trayicon.cpp" line="435"/>
         <source>All settings...</source>
         <translation>Все параметры...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="614"/>
+        <location filename="trayicon.cpp" line="444"/>
         <source>Information</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="616"/>
+        <location filename="trayicon.cpp" line="446"/>
         <source>User manual (online)</source>
         <translation>Руководство пользователя (онлайн)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="619"/>
+        <location filename="trayicon.cpp" line="449"/>
         <source>Video player configuration</source>
         <translation>Настройка проигрывателя видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="626"/>
+        <location filename="trayicon.cpp" line="456"/>
         <source>Full list</source>
         <translation>Полный список проигрывателей</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="635"/>
+        <location filename="trayicon.cpp" line="465"/>
         <source>Send problem report...</source>
         <translation>Сообщить о проблеме...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="642"/>
+        <location filename="trayicon.cpp" line="472"/>
         <source>Events log</source>
         <translation>Журнал</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="645"/>
+        <location filename="trayicon.cpp" line="475"/>
         <source>Additional information</source>
         <translation>Дополнительная информация</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="647"/>
+        <location filename="trayicon.cpp" line="477"/>
         <source>Last generated AVS script</source>
         <translation>Последний использованный скрипт AVS</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="651"/>
+        <location filename="trayicon.cpp" line="481"/>
         <source>OpenCL devices and capabilities</source>
         <translation>Конфигурация OpenCL</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="656"/>
+        <location filename="trayicon.cpp" line="486"/>
         <source>Version and credits...</source>
         <translation>Версия и создатели...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="662"/>
+        <location filename="trayicon.cpp" line="492"/>
         <source>Order full version</source>
         <translation>Купить полную версию</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="678"/>
+        <location filename="trayicon.cpp" line="508"/>
         <source>Exit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="885"/>
+        <location filename="trayicon.cpp" line="875"/>
         <source>SVP - Video player</source>
         <translation>SVP - Проигрыватель видео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="885"/>
+        <location filename="trayicon.cpp" line="875"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>Ошибка связи с проигрывателем видео. Возможно он запущен из-под другого пользовательского аккаунта?</translation>
     </message>
@@ -2230,40 +2270,34 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>UpdateWnd</name>
     <message>
-        <location filename="updatewnd.ui" line="46"/>
-        <source>Release notes:</source>
-        <translation>Что нового:</translation>
-    </message>
-    <message>
-        <location filename="updatewnd.ui" line="74"/>
+        <location filename="updatewnd.cpp" line="321"/>
         <source>More info...</source>
         <translation>Доп. информация...</translation>
     </message>
     <message>
-        <location filename="updatewnd.ui" line="97"/>
-        <source>Install</source>
-        <translation>Установить</translation>
-    </message>
-    <message>
-        <location filename="updatewnd.cpp" line="77"/>
-        <location filename="updatewnd.cpp" line="290"/>
+        <location filename="updatewnd.cpp" line="78"/>
         <source>ver.</source>
         <translation>вер.</translation>
     </message>
     <message>
-        <location filename="updatewnd.cpp" line="79"/>
+        <location filename="updatewnd.cpp" line="80"/>
         <source>plus %1 more update(s)</source>
         <translation>и еще %1 обновлений</translation>
     </message>
     <message>
-        <location filename="updatewnd.cpp" line="283"/>
-        <source>Previous version</source>
-        <translation>Предыдущие версии</translation>
+        <location filename="updatewnd.ui" line="46"/>
+        <source>Changes since last update:</source>
+        <translation>Изменения, появившиеся после последнего обновления</translation>
     </message>
     <message>
-        <location filename="updatewnd.cpp" line="289"/>
-        <source>No release notes</source>
-        <translation>Нет списка новых возможностей</translation>
+        <location filename="updatewnd.ui" line="76"/>
+        <source>View SVP changelog</source>
+        <translation>Список изменений SVP</translation>
+    </message>
+    <message>
+        <location filename="updatewnd.ui" line="102"/>
+        <source>Install via SVP Maintenance tool...</source>
+        <translation>Установить через Менеджер пакетов...</translation>
     </message>
 </context>
 </TS>
