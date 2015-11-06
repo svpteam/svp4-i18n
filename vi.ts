@@ -110,7 +110,7 @@
     <message>
         <location filename="activationwnd.cpp" line="87"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation type="unfinished"></translation>
+        <translation>Mã đăng ký không tương thích với phiên bản SVP này</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="88"/>
@@ -219,12 +219,12 @@
     <message>
         <location filename="conditionwdg.ui" line="172"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Có</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="216"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Không</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="246"/>
@@ -453,17 +453,17 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="46"/>
         <source>64-bit video players are not supported in this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Những trình chơi video 64 bit không được hỗ trợ ở phiên bản này</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="57"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>Không kết nối được với trình chơi video. Chương trình có đang được chạy với quyền quản trị?</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="77"/>
         <source>Unable to locate Avisynth, please re-install it</source>
-        <translation type="unfinished"></translation>
+        <translation>Không tìm thấy Avisynth, vui lòng cài đặt lại Avisynth</translation>
     </message>
 </context>
 <context>
@@ -611,7 +611,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="134"/>
         <source>Do not use outer lighting while in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Không dùng ánh sáng ngoài khi ở trong chế độ 3D</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="219"/>
@@ -1111,7 +1111,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
         <location filename="profile.cpp" line="494"/>
         <source>Is network stream</source>
         <oldsource>Is stream</oldsource>
-        <translation type="unfinished">Là stream</translation>
+        <translation>Là stream</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="495"/>
@@ -1232,7 +1232,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="trayicon.cpp" line="44"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Khoảng thời gian mà khung hình kế tiếp được nhận diện khi tua, tính bằng giây</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="45"/>
@@ -1925,12 +1925,12 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="trayicon.cpp" line="271"/>
         <source>Disabled in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt trong chế độ 3D</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="273"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật ánh sáng ngoài chỉ với video 2D</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="279"/>
@@ -2281,17 +2281,17 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
     <message>
         <location filename="updatewnd.ui" line="46"/>
         <source>Changes since last update:</source>
-        <translation type="unfinished"></translation>
+        <translation>Những thay đổi từ lần cập nhật cuối:</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="76"/>
         <source>View SVP changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Xem những thay đổi của SVP</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="102"/>
         <source>Install via SVP Maintenance tool...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cài đặt qua công cụ SVP Maintenance...</translation>
     </message>
 </context>
 </TS>
