@@ -111,7 +111,7 @@
     <message>
         <location filename="activationwnd.cpp" line="87"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation type="unfinished"></translation>
+        <translation>注册码不兼容此版本的 SVP</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="88"/>
@@ -220,12 +220,12 @@
     <message>
         <location filename="conditionwdg.ui" line="172"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="216"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="246"/>
@@ -454,17 +454,17 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="46"/>
         <source>64-bit video players are not supported in this version</source>
-        <translation type="unfinished"></translation>
+        <translation>此版本不支持 64-bit 播放器</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="57"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>被拒绝访问播放器。播放器是否正以管理员权限运行？</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="77"/>
         <source>Unable to locate Avisynth, please re-install it</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到 Avisynth，请重新安装</translation>
     </message>
 </context>
 <context>
@@ -612,7 +612,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="134"/>
         <source>Do not use outer lighting while in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>不要在 3D 模式下使用背景灯光效果</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="219"/>
@@ -1234,7 +1234,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="44"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>下一帧在多少秒后可被认定为播放跳转</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="45"/>
@@ -1927,12 +1927,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="271"/>
         <source>Disabled in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 模式中已禁用</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="273"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation type="unfinished"></translation>
+        <translation>仅对 2D 视频启用背景灯效果</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="279"/>
@@ -2283,17 +2283,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.ui" line="46"/>
         <source>Changes since last update:</source>
-        <translation type="unfinished"></translation>
+        <translation>与上一版本的更改：</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="76"/>
         <source>View SVP changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 SVP 更新日志</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="102"/>
         <source>Install via SVP Maintenance tool...</source>
-        <translation type="unfinished"></translation>
+        <translation>从 SVP 维护工具里安装...</translation>
     </message>
 </context>
 </TS>
