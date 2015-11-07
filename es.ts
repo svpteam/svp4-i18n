@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es_ES">
+<TS version="2.0" language="es_ES">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -27,7 +27,7 @@
     <message>
         <location filename="aboutdlg.cpp" line="27"/>
         <source>Manage your license...</source>
-        <translation type="unfinished"></translation>
+        <translation>Administre su licencia ...</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="109"/>
@@ -110,7 +110,7 @@
     <message>
         <location filename="activationwnd.cpp" line="87"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation type="unfinished"></translation>
+        <translation>Clave de registro no es compatible con esta edición SVP</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="88"/>
@@ -219,12 +219,12 @@
     <message>
         <location filename="conditionwdg.ui" line="172"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Si</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="216"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="246"/>
@@ -453,17 +453,17 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="46"/>
         <source>64-bit video players are not supported in this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproductores de vídeo de 64 bits no son compatibles con esta versión</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="57"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>El acceso al reproductor de vídeo denegado. ¿Se ejecuta con privilegios de administrador?</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="77"/>
         <source>Unable to locate Avisynth, please re-install it</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede localizar Avisynth, por favor vuelva a instalarlo</translation>
     </message>
 </context>
 <context>
@@ -471,7 +471,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="98"/>
         <source>Crop video frame</source>
-        <translation>Fotograma de vídeo de cultivos</translation>
+        <translation>Cortar marco del video</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="132"/>
@@ -482,7 +482,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="166"/>
         <source>To screen</source>
-        <translation>a la pantalla</translation>
+        <translation>Pantalla</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="200"/>
@@ -497,22 +497,22 @@
     <message>
         <location filename="framecontrolwnd.ui" line="253"/>
         <source>Fixed aspect ratio</source>
-        <translation>Fixed aspect ratio</translation>
+        <translation>Fijar radio aspecto</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="49"/>
         <source>Black bars detection</source>
-        <translation>Detección de barras negras</translation>
+        <translation>Detección de barras</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="72"/>
         <source>Force re-detect black bars</source>
-        <translation>Fuerza re-detectar barras negras</translation>
+        <translation>Forzar re-detectar barras negras</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="443"/>
         <source>Alter video frame size</source>
-        <translation>Modificar el tamaño de fotograma de vídeo</translation>
+        <translation>Modificar el tamaño del marco</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="494"/>
@@ -522,7 +522,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="514"/>
         <source>Decrease&lt;br/&gt;to screen</source>
-        <translation>Disminuir &lt;br/&gt;la pantalla</translation>
+        <translation>Disminuir&lt;br/&gt;la pantalla</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="534"/>
@@ -532,7 +532,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="554"/>
         <source>Decrease&lt;br/&gt;to HD</source>
-        <translation>Disminuir &lt;br/&gt;a HD</translation>
+        <translation>Disminuir&lt;br/&gt;a HD</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="574"/>
@@ -542,7 +542,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="594"/>
         <source>Resize&lt;br/&gt;to screen</source>
-        <translation>Redimensionar &lt;br/&gt; a la pantalla</translation>
+        <translation>Dimension&lt;br/&gt;pantalla</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="626"/>
@@ -596,22 +596,22 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="45"/>
         <source>No outer lighting</source>
-        <translation>No hay iluminación exterior</translation>
+        <translation>No iluminación exterior</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="80"/>
         <source>Fill black bars</source>
-        <translation>Rellene barras negras</translation>
+        <translation>Rellene barras</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="109"/>
         <source>Glow light</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="134"/>
         <source>Do not use outer lighting while in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>No utilizar la iluminación exterior mientras en el modo 3D</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="219"/>
@@ -626,12 +626,12 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="297"/>
         <source>Light intencity</source>
-        <translation>Intensidad de luz</translation>
+        <translation>Intensida luz</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="360"/>
         <source>Capture depth</source>
-        <translation>Profundidad de captura</translation>
+        <translation>Profundidad captura</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="394"/>
@@ -769,7 +769,7 @@
     <message>
         <location filename="playbackobject.cpp" line="156"/>
         <source>2D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>modo 2D</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="157"/>
@@ -964,7 +964,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="910"/>
         <source>Apply this profile IF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar este.perfil IF</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="952"/>
@@ -1020,12 +1020,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="498"/>
         <source>Motion vectors options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones Movimiento Vectores </translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="502"/>
         <source>Miscellaneous options</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="557"/>
@@ -1040,7 +1040,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="558"/>
         <source>Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="605"/>
@@ -1053,12 +1053,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="main.cpp" line="124"/>
         <source>SVP - error</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="main.cpp" line="124"/>
         <source>Please close SVP 3.1 Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, cierre SVP 3.1 Administre primero.</translation>
     </message>
     <message>
         <location filename="main.cpp" line="255"/>
@@ -1083,12 +1083,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="489"/>
         <source>Frame area</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="profile.cpp" line="490"/>
         <source>Source frame area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Source frame area</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="491"/>
@@ -1108,17 +1108,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="494"/>
         <source>Is network stream</source>
-        <translation type="unfinished"></translation>
+        <translation>flujo de red</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="495"/>
         <source>Is stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>es estereo</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="496"/>
         <source>Is interlaced</source>
-        <translation type="unfinished"></translation>
+        <translation>es entrelazado</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="497"/>
@@ -1138,7 +1138,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="500"/>
         <source>Video codec</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="profile.cpp" line="501"/>
@@ -1193,7 +1193,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="33"/>
         <source>If we&apos;re running in portable mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Estamos funcionando en modo portátil</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="34"/>
@@ -1203,7 +1203,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="35"/>
         <source>Last generated AVS script</source>
-        <translation type="unfinished"></translation>
+        <translation>Generado ultimo script AVS</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="36"/>
@@ -1229,7 +1229,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="44"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Hasta qué punto debe ser el siguiente frame que busca, en segundos</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="45"/>
@@ -1684,7 +1684,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="settings.cpp" line="656"/>
         <location filename="settings.cpp" line="669"/>
         <source>Strong</source>
-        <translation type="unfinished">Fuerte</translation>
+        <translation>Fuerte</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="656"/>
@@ -1700,7 +1700,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="666"/>
         <source>Artifacts masking</source>
-        <translation type="unfinished">Disimular Artefactos </translation>
+        <translation>Disimular Artefactos </translation>
     </message>
     <message>
         <location filename="settings.cpp" line="668"/>
@@ -1922,12 +1922,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="271"/>
         <source>Disabled in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivada en el modo 3D</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="273"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar la iluminación exterior sólo para vídeos 2D</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="279"/>
@@ -2002,7 +2002,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="338"/>
         <source>Additional programs and features...</source>
-        <translation type="unfinished"></translation>
+        <translation>Programas y características adicionales ...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="353"/>
@@ -2274,22 +2274,22 @@ Utilice SVP en todos los vídeos abiertos</translation>
     <message>
         <location filename="updatewnd.cpp" line="80"/>
         <source>plus %1 more update(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>más 1% actualizado(s)</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="46"/>
         <source>Changes since last update:</source>
-        <translation type="unfinished"></translation>
+        <translation>Los cambios desde la última actualización:</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="76"/>
         <source>View SVP changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver SVP changelog</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="102"/>
         <source>Install via SVP Maintenance tool...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar a través de la herramienta de mantenimiento SVP ...</translation>
     </message>
 </context>
 </TS>

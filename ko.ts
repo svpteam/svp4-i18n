@@ -111,7 +111,7 @@
     <message>
         <location filename="activationwnd.cpp" line="87"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation type="unfinished"></translation>
+        <translation>등록 코드가 이 SVP의 버전과 호환되지 않습니다</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="88"/>
@@ -220,12 +220,12 @@
     <message>
         <location filename="conditionwdg.ui" line="172"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>예</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="216"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>아니오</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="246"/>
@@ -454,17 +454,17 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="46"/>
         <source>64-bit video players are not supported in this version</source>
-        <translation type="unfinished"></translation>
+        <translation>64비트 비디오 플레이어는 이 SVP 버전과 호환되지 않습니다</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="57"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>비디오 플레이어에 엑세스할 수 없습니다. 관리자 권한으로 실행 중이신가요?</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="77"/>
         <source>Unable to locate Avisynth, please re-install it</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisynth를 복사할 수 없습니다, 재설치 해주세요</translation>
     </message>
 </context>
 <context>
@@ -612,7 +612,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="134"/>
         <source>Do not use outer lighting while in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 동영상일때 외부 광원 사용 안 함</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="219"/>
@@ -1114,7 +1114,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="profile.cpp" line="494"/>
         <source>Is network stream</source>
         <oldsource>Is stream</oldsource>
-        <translation type="unfinished">스트리밍 일 경우</translation>
+        <translation>네트워크 스트리밍 일 경우</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="495"/>
@@ -1235,7 +1235,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="44"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="45"/>
@@ -1928,12 +1928,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="271"/>
         <source>Disabled in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 동영상일때 끄기</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="273"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation type="unfinished"></translation>
+        <translation>2D 동영상일때만 외부 광원 사용</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="279"/>
@@ -2284,17 +2284,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.ui" line="46"/>
         <source>Changes since last update:</source>
-        <translation type="unfinished"></translation>
+        <translation>지난 업데이트 이후 변경점:</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="76"/>
         <source>View SVP changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP 패치 내역 보기</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="102"/>
         <source>Install via SVP Maintenance tool...</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP Maintenance tool로 설치하기...</translation>
     </message>
 </context>
 </TS>

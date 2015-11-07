@@ -605,7 +605,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="80"/>
         <source>Fill black bars</source>
-        <translation>Подсвечивать  поля</translation>
+        <translation>Только  поля</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="109"/>
@@ -1450,7 +1450,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="81"/>
         <source>&apos;override&apos; script content</source>
-        <translation>Содержание скрипта &apos;override&apos;</translation>
+        <translation>Скрипт &apos;override&apos;</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="83"/>
@@ -2091,7 +2091,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="409"/>
         <source>Turn stereo mode on by aspect ratio</source>
-        <translation>Автоматическое влючение режима 3D на основе соотношения сторон кадра</translation>
+        <translation>Определять 3D по соотношению сторон</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="412"/>
