@@ -26,3 +26,7 @@ https://www.svp-team.com/files/tools/qt-linguist-550.zip
 
 * Please don't drop rich-text format tags when there're present in the source text.
 Example: "Using icons from \<b\>Icons8\<\/b\>".
+
+* Don't alter "%" placeholders like "%1", "%2" etc.
+
+* If source string contains line break - it's so for some reason!

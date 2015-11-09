@@ -332,12 +332,12 @@
     <message>
         <location filename="controlpanel.cpp" line="281"/>
         <source>%1 active videos</source>
-        <translation>% 1 vídeos activos</translation>
+        <translation>%1 vídeos activos</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="285"/>
         <source>%1 inactive</source>
-        <translation>1% inactiva</translation>
+        <translation>%1 inactiva</translation>
     </message>
 </context>
 <context>
@@ -810,7 +810,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="288"/>
         <source>Playing at %1 fps</source>
-        <translation>Reproduciendo a % 1 fps</translation>
+        <translation>Reproduciendo a %1 fps</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="288"/>
@@ -841,7 +841,8 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="playbackobject.cpp" line="774"/>
         <source>SVP: playing at %1
 %2%3</source>
-        <translation>SVP: Reproduciendo a 1% % 2% 3</translation>
+        <translation>SVP: Reproduciendo a %1
+%2%3</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="814"/>
@@ -1391,7 +1392,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.ui" line="95"/>
         <source>%1 images max&lt;br&gt;%2 MB each</source>
-        <translation>% 1 imágenes max &lt;br&gt;% 2 MB cada uno</translation>
+        <translation>%1 imágenes max &lt;br&gt;%2 MB cada uno</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="145"/>
@@ -1458,7 +1459,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="201"/>
         <source>Some images ignored due to file size limitation (%1 MB max)</source>
-        <translation>Algunas imágenes ignoradas debido a la limitación de tamaño de archivo (% 1 MB max)</translation>
+        <translation>Algunas imágenes ignoradas debido a la limitación de tamaño de archivo (%1 MB max)</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="203"/>
@@ -1473,7 +1474,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="314"/>
         <source>Sending... %1% (%2 KB/sec)</source>
-        <translation>Enviando ...% 1% (% 2 KB / seg)</translation>
+        <translation>Enviando...%1% (%2 KB/seg)</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="327"/>
@@ -1798,12 +1799,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="statuswnd.cpp" line="121"/>
         <source>%1 active videos</source>
-        <translation>% 1 vídeos activos</translation>
+        <translation>%1 vídeos activos</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="125"/>
         <source>%1 inactive</source>
-        <translation>1% inactiva</translation>
+        <translation>%1 inactiva</translation>
     </message>
 </context>
 <context>
@@ -1816,7 +1817,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="141"/>
         <source>Language was changed to %1</source>
-        <translation>Idioma se cambió a 1%</translation>
+        <translation>Idioma se cambió a %1</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="144"/>
@@ -2057,7 +2058,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="430"/>
         <source>%1 thread(s)</source>
-        <translation>% 1 hilo (s)</translation>
+        <translation>%1 hilo(s)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="431"/>
@@ -2274,7 +2275,7 @@ Utilice SVP en todos los vídeos abiertos</translation>
     <message>
         <location filename="updatewnd.cpp" line="80"/>
         <source>plus %1 more update(s)</source>
-        <translation>más 1% actualizado(s)</translation>
+        <translation>más %1 actualizado(s)</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="46"/>
