@@ -61,7 +61,7 @@
     <message>
         <location filename="activationwnd.ui" line="14"/>
         <source>SVP - Registration</source>
-        <translation>SVPの登録</translation>
+        <translation>SVP - 登録</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="57"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="activationwnd.cpp" line="87"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation type="unfinished"></translation>
+        <translation>このSVPエディションでは使えない登録キーです</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="88"/>
@@ -147,12 +147,12 @@
     <message>
         <location filename="benchmarkwnd.ui" line="104"/>
         <source>We need to measure system performance in order to automatically detect the correct video profile settings.</source>
-        <translation>自動的に適切なプロファイル設定を行うために、システムパフォーマンスの計測を行います。</translation>
+        <translation>適切なプロファイルを自動設定するために、システムパフォーマンスの計測が必要です。</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="118"/>
         <source>This will only take one minute, please close any performance consuming applications including web browser before proceeding.</source>
-        <translation>計測は１分ほどかかります。計測の前に、ウェブブラウザーを含め、パフォーマンスに影響を与えるアプリケーションを終了しておいて下さい。</translation>
+        <translation>計測は１分ほどかかります。計測の前に、ウェブブラウザーなどパフォーマンスに影響を与えるアプリケーションを終了しておいて下さい。</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="145"/>
@@ -187,12 +187,12 @@
     <message>
         <location filename="benchmarkwnd.cpp" line="24"/>
         <source>System performance changed significantly since last test.</source>
-        <translation>最終テスト時に比べ、システムパフォーマンスが大きく変化しています。</translation>
+        <translation>前回の判定からシステムパフォーマンスが大きく変わっています。</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="28"/>
         <source>Re-check system performance.</source>
-        <translation>システムパフォーマンスの再チェック。</translation>
+        <translation>システムパフォーマンスを再チェックします。</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="38"/>
@@ -283,7 +283,7 @@
     <message>
         <location filename="controlpanel.cpp" line="145"/>
         <source>Black bars lighting</source>
-        <translation>余白部分のライティング</translation>
+        <translation>外枠のライティング</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="151"/>
@@ -313,7 +313,7 @@
     <message>
         <location filename="controlpanel.cpp" line="181"/>
         <source>Control options</source>
-        <translation>コントロールオプション</translation>
+        <translation>操作オプション</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="187"/>
@@ -323,22 +323,22 @@
     <message>
         <location filename="controlpanel.cpp" line="279"/>
         <source>No active playback</source>
-        <translation>再生は行われていません</translation>
+        <translation>アクティブ動画：無し</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="280"/>
         <source>1 active video</source>
-        <translation>1本の動画がアクティブです</translation>
+        <translation>アクティブ動画：1</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="281"/>
         <source>%1 active videos</source>
-        <translation>%1本の動画がアクティブです</translation>
+        <translation>アクティブ動画：%1</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="285"/>
         <source>%1 inactive</source>
-        <translation>%1本の動画が非アクティブです</translation>
+        <translation>非アクティブ動画：%1</translation>
     </message>
 </context>
 <context>
@@ -346,7 +346,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="34"/>
         <source>Following user-defined options will be exposed to the script at runtime.&lt;br&gt;&lt;b&gt;Please do not do anything here unless you really know why.&lt;/b&gt;</source>
-        <translation>以下のユーザ定義オプションは実行時のスクリプトに直接影響します。&lt;br&gt;&lt;b&gt;よくわからない場合は触らないようにして下さい。&lt;/b&gt;</translation>
+        <translation>以下のユーザー定義オプションは実行時のスクリプトに直接影響します。&lt;br&gt;&lt;b&gt;よくわからない場合は触らないようにして下さい。&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="74"/>
@@ -381,7 +381,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="124"/>
         <source>Script name:</source>
-        <translation type="unfinished">スクリプト名:</translation>
+        <translation>スクリプト名:</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="174"/>
@@ -391,7 +391,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="181"/>
         <source>FRC profile</source>
-        <translation>フレームレート変換(FRC)プロファイル</translation>
+        <translation>FRCプロファイル</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="191"/>
@@ -431,12 +431,12 @@
     <message>
         <location filename="customoptionwnd.cpp" line="49"/>
         <source>Off</source>
-        <translation>オフ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="49"/>
         <source>On</source>
-        <translation>オン</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="53"/>
@@ -454,17 +454,17 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="46"/>
         <source>64-bit video players are not supported in this version</source>
-        <translation type="unfinished"></translation>
+        <translation>64bitプレーヤーはこのバージョンではサポートされていません</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="57"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤーにアクセスできません。管理者権限で実行されていませんか？</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="77"/>
         <source>Unable to locate Avisynth, please re-install it</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisynthが見つかりません。再インストールして下さい</translation>
     </message>
 </context>
 <context>
@@ -472,7 +472,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="98"/>
         <source>Crop video frame</source>
-        <translation>ビデオフレームのクロップ</translation>
+        <translation>フレームのクロップ</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="132"/>
@@ -483,7 +483,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="166"/>
         <source>To screen</source>
-        <translation>画面にあわせる</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="200"/>
@@ -498,7 +498,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="253"/>
         <source>Fixed aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>画面比の調整</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="49"/>
@@ -518,32 +518,32 @@
     <message>
         <location filename="framecontrolwnd.ui" line="494"/>
         <source>Decrease video size if it&apos;s larger than the screen</source>
-        <translation>画面より大きい場合はフレームサイズを縮小する</translation>
+        <translation>画面より大きい映像は画面サイズに縮小する</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="514"/>
         <source>Decrease&lt;br/&gt;to screen</source>
-        <translation>縮小する&lt;br/&gt;画面にあわせる</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="534"/>
         <source>Decrease to 720p for better performance</source>
-        <translation>パフォーマンス改善のため720pに縮小する</translation>
+        <translation>パフォーマンス向上のため720pに縮小する</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="554"/>
         <source>Decrease&lt;br/&gt;to HD</source>
-        <translation>縮小する&lt;br/&gt;HDサイズにする</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="574"/>
         <source>Resize any video to the screen size</source>
-        <translation>どんな動画も画面サイズにリサイズする</translation>
+        <translation>どんな映像も画面サイズにリサイズする</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="594"/>
         <source>Resize&lt;br/&gt;to screen</source>
-        <translation>リサイズする&lt;br/&gt;画面にあわせる</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="626"/>
@@ -553,7 +553,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="661"/>
         <source>No active video</source>
-        <translation>アクティブな動画がありません</translation>
+        <translation>アクティブ動画：無し</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="716"/>
@@ -612,7 +612,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="134"/>
         <source>Do not use outer lighting while in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>3Dモードではライティングを使用しない</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="219"/>
@@ -888,7 +888,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="303"/>
         <source>To screen</source>
-        <translation>モニターにあわせる</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="332"/>
@@ -1062,7 +1062,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="main.cpp" line="124"/>
         <source>Please close SVP 3.1 Manager first.</source>
-        <translation>SVP3.1のマネージャーを終了して下さい。</translation>
+        <translation>先にSVP3.1のマネージャーを終了して下さい。</translation>
     </message>
     <message>
         <location filename="main.cpp" line="255"/>
@@ -1239,7 +1239,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="45"/>
         <source>Alter video player process priority</source>
-        <translation>動画プレーヤーのプロセス優先度を変更する</translation>
+        <translation>プレーヤーのプロセス優先度を変更する</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="47"/>
@@ -1300,7 +1300,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="64"/>
         <source>Don&apos;t ask about system performance assessment</source>
-        <translation>システムパフォーマンスの判定処理について確認しない</translation>
+        <translation>システムパフォーマンスの判定について確認しない</translation>
     </message>
 </context>
 <context>
@@ -1333,7 +1333,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="38"/>
         <source>Edit active video profile</source>
-        <translation>適用中のビデオプロファイルの編集</translation>
+        <translation>アクティブ動画のプロファイル編集</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="40"/>
@@ -1446,7 +1446,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="81"/>
         <source>&apos;override&apos; script content</source>
-        <translation>&apos;override&apos;スクリプトの内容</translation>
+        <translation>&apos;override&apos;スクリプト</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="83"/>
@@ -1483,7 +1483,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="327"/>
         <source>Error, try again later</source>
-        <translation>エラーが発生しましたので、後でもう一度お試しください</translation>
+        <translation>エラーが発生したので、後でもう一度お試しください</translation>
     </message>
 </context>
 <context>
@@ -1782,7 +1782,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="statuswnd.ui" line="142"/>
         <source>Choose profile for an active video</source>
-        <translation>アクティブな動画に適用するプロファイルの選択</translation>
+        <translation>アクティブ動画のプロファイルの選択</translation>
     </message>
     <message>
         <location filename="statuswnd.ui" line="199"/>
@@ -1793,22 +1793,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="statuswnd.cpp" line="119"/>
         <source>No active playback</source>
-        <translation>再生は行われていません</translation>
+        <translation>再生動画：無し</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="120"/>
         <source>1 active video</source>
-        <translation>1本の動画がアクティブです</translation>
+        <translation>アクティブ動画：1</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="121"/>
         <source>%1 active videos</source>
-        <translation>%1本の動画がアクティブです</translation>
+        <translation>アクティブ動画：%1</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="125"/>
         <source>%1 inactive</source>
-        <translation>%1本の動画が非アクティブです</translation>
+        <translation>非アクティブ動画：%1</translation>
     </message>
 </context>
 <context>
@@ -1837,7 +1837,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="183"/>
         <source>No active playback</source>
-        <translation>再生は行われていません</translation>
+        <translation>再生動画：無し</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="216"/>
@@ -1882,12 +1882,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="245"/>
         <source>Decrease to screen size</source>
-        <translation>画面サイズにあわせて縮小する</translation>
+        <translation>画面サイズに縮小する</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="247"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
-        <translation>フレームレート変換を簡略化するためフレームサイズを縮小する</translation>
+        <translation>フレームレート変換を簡略化するためサイズを縮小する</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="252"/>
@@ -1927,12 +1927,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="271"/>
         <source>Disabled in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>3Dモードでは無効にする</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="273"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation type="unfinished"></translation>
+        <translation>2Dモードでのみライティングを有効にする</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="279"/>
@@ -1957,7 +1957,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="301"/>
         <source>SVP is disabled until next start</source>
-        <translation>次に開始するまでSVPは無効となっています</translation>
+        <translation>次に開始するまでSVPは無効となります</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="303"/>
@@ -1992,7 +1992,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="333"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
-        <translation>「続ける」を押した後、使っている動画プレーヤーの実行ファイルを選択して下さい。</translation>
+        <translation>「続ける」を押した後、使っているプレーヤーの実行ファイルを選択して下さい。</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="334"/>
@@ -2082,7 +2082,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="221"/>
         <source>Profile for an active video</source>
-        <translation>アクティブなプロファイル</translation>
+        <translation>アクティブ動画のプロファイル</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="332"/>
@@ -2187,7 +2187,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="508"/>
         <source>Exit</source>
-        <translation>SVPを終了する</translation>
+        <translation>SVP4を終了する</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="875"/>
@@ -2283,17 +2283,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.ui" line="46"/>
         <source>Changes since last update:</source>
-        <translation type="unfinished"></translation>
+        <translation>最後のアップデートからの変更点:</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="76"/>
         <source>View SVP changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPのチェンジログを見る</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="102"/>
         <source>Install via SVP Maintenance tool...</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPメンテナンスツールでインストール...</translation>
     </message>
 </context>
 </TS>
