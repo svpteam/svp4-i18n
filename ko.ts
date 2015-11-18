@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ko_KR">
+<TS version="2.0" language="ko_KR">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -15,7 +15,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="aboutdlg.ui" line="206"/>
+        <location filename="aboutdlg.ui" line="226"/>
         <source>This copy is registered!</source>
         <translation>이 등록 코드는 활성화 되었습니다!</translation>
     </message>
@@ -25,33 +25,33 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="27"/>
+        <location filename="aboutdlg.ui" line="243"/>
         <source>Manage your license...</source>
         <oldsource>Manage your license.</oldsource>
         <translation>라이센스 인증 관리...</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="109"/>
+        <location filename="aboutdlg.cpp" line="108"/>
         <source>Developers</source>
         <translation>개발진</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="109"/>
+        <location filename="aboutdlg.cpp" line="108"/>
         <source>Special thanks</source>
         <translation>특별히 감사를 드리는 분들</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="125"/>
+        <location filename="aboutdlg.cpp" line="124"/>
         <source>Indiegogo Co-Authors</source>
         <translation>Indiegogo Co-Authors (100$의 Perk을 구매해주신 분들)</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="126"/>
+        <location filename="aboutdlg.cpp" line="125"/>
         <source>Indiegogo Part of the Team members</source>
         <translation>Indiegogo Part of the Team members (25$의 Perk을 구매해주신 분들) (번역자 Kibumm, Kim을 찾아보세요~!)</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="127"/>
+        <location filename="aboutdlg.cpp" line="126"/>
         <source>Indiegogo funders</source>
         <translation>Indiegogo 에서 성금을 모아주신 분들</translation>
     </message>
@@ -74,52 +74,57 @@
         <translation>만약 고객님께서 등록 코드를 가지고 계시지 않는다면 홈페이지를 통해 구매해주세요 &lt;a href=#&gt;our web site&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="90"/>
+        <location filename="activationwnd.ui" line="84"/>
+        <source>Manage your license...</source>
+        <translation>라이센스 인증 관리...</translation>
+    </message>
+    <message>
+        <location filename="activationwnd.ui" line="105"/>
         <source>E-mail address:</source>
         <translation>E-mail 주소:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="97"/>
+        <location filename="activationwnd.ui" line="112"/>
         <source>Registration key:</source>
         <translation>등록 코드:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="140"/>
+        <location filename="activationwnd.ui" line="155"/>
         <source>Register now!</source>
         <translation>지금 등록하기!</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="153"/>
+        <location filename="activationwnd.ui" line="168"/>
         <source>An active Internet connection is required.</source>
         <translation>인터넷 연결이 필요합니다.</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="39"/>
+        <location filename="activationwnd.cpp" line="47"/>
         <source>Please wait for the activation server to respond...</source>
         <translation>정품등록 서버에서 응답을 기다리는중...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="82"/>
+        <location filename="activationwnd.cpp" line="90"/>
         <source>Connection error, please try again later</source>
         <translation>연결에 문제가 발생하였습니다, 나중에 다시 시도해주세요</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="86"/>
+        <location filename="activationwnd.cpp" line="94"/>
         <source>Invalid e-mail or registration key</source>
         <translation>등록 되어있지 않은 E-mai 이거나 등록 코드입니다</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="87"/>
+        <location filename="activationwnd.cpp" line="95"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation>등록 코드가 이 SVP의 버전과 호환되지 않습니다</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="88"/>
+        <location filename="activationwnd.cpp" line="96"/>
         <source>Too many activations for the registration key</source>
         <translation>이 등록 코드에 너무 많은 등록이 이루어져있습니다</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="89"/>
+        <location filename="activationwnd.cpp" line="97"/>
         <source>Unknown error</source>
         <translation>알 수 없는 오류</translation>
     </message>
@@ -160,22 +165,22 @@
         <translation>시스템 사용률:</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="256"/>
+        <location filename="benchmarkwnd.ui" line="250"/>
         <source>Start</source>
         <translation>시작</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="283"/>
+        <location filename="benchmarkwnd.ui" line="266"/>
         <source>Skip</source>
         <translation>건너뛰기</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="307"/>
+        <location filename="benchmarkwnd.ui" line="279"/>
         <source>Don&apos;t ask</source>
         <translation>건너뛰기</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="358"/>
+        <location filename="benchmarkwnd.ui" line="330"/>
         <source>Assessing now:</source>
         <translation>측정 중인 항목:</translation>
     </message>
@@ -200,17 +205,17 @@
         <translation>너무 높습니다</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="79"/>
+        <location filename="benchmarkwnd.cpp" line="82"/>
         <source>motion vectors estimation</source>
         <translation>모션 벡터 예측</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="83"/>
+        <location filename="benchmarkwnd.cpp" line="86"/>
         <source>CPU-based frame rendering</source>
         <translation>CPU-기반 프레임 렌더링</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="87"/>
+        <location filename="benchmarkwnd.cpp" line="90"/>
         <source>GPU-based frame rendering</source>
         <translation>GPU-기반 프레임 렌더링</translation>
     </message>
@@ -218,37 +223,37 @@
 <context>
     <name>ConditionWdg</name>
     <message>
-        <location filename="conditionwdg.ui" line="172"/>
+        <location filename="conditionwdg.ui" line="169"/>
         <source>Yes</source>
         <translation>예</translation>
     </message>
     <message>
-        <location filename="conditionwdg.ui" line="216"/>
+        <location filename="conditionwdg.ui" line="210"/>
         <source>No</source>
         <translation>아니오</translation>
     </message>
     <message>
-        <location filename="conditionwdg.ui" line="246"/>
+        <location filename="conditionwdg.ui" line="240"/>
         <source>Remove this condition</source>
         <translation>이 환경을 제거합니다</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="35"/>
+        <location filename="profilewnd.cpp" line="37"/>
         <source>Less than</source>
         <translation>-보다 낮은</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="36"/>
+        <location filename="profilewnd.cpp" line="38"/>
         <source>Greater than</source>
         <translation>-보다 높은</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="37"/>
+        <location filename="profilewnd.cpp" line="39"/>
         <source>Equal to</source>
         <translation>-와 같은</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="38"/>
+        <location filename="profilewnd.cpp" line="40"/>
         <source>Contains</source>
         <translation>포함</translation>
     </message>
@@ -452,19 +457,24 @@
 <context>
     <name>FFDShowVideoPlayer</name>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="46"/>
+        <location filename="ffdshowvideoplayer.cpp" line="71"/>
         <source>64-bit video players are not supported in this version</source>
         <translation>64비트 비디오 플레이어는 이 SVP 버전과 호환되지 않습니다</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="57"/>
+        <location filename="ffdshowvideoplayer.cpp" line="52"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
         <translation>비디오 플레이어에 엑세스할 수 없습니다. 관리자 권한으로 실행 중이신가요?</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="77"/>
+        <location filename="ffdshowvideoplayer.cpp" line="87"/>
         <source>Unable to locate Avisynth, please re-install it</source>
         <translation>Avisynth를 복사할 수 없습니다, 재설치 해주세요</translation>
+    </message>
+    <message>
+        <location filename="ffdshowvideoplayer.cpp" line="97"/>
+        <source>Error commincating with the video player. Maybe SVP is running with administrator privileges?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -561,33 +571,33 @@
         <translation>미리보기와 고급 설정</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="441"/>
+        <location filename="framecontrolwnd.cpp" line="439"/>
         <source>Fields:</source>
         <translation>필드:</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="441"/>
+        <location filename="framecontrolwnd.cpp" line="439"/>
         <source>Vert: %1 - %2, Hor: %3 - %4</source>
         <translation>세로: %1 - %2, 가로: %3 - %4</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="445"/>
+        <location filename="framecontrolwnd.cpp" line="443"/>
         <source>Crop to:</source>
         <translation>목표 해상도:</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="446"/>
-        <location filename="framecontrolwnd.cpp" line="454"/>
+        <location filename="framecontrolwnd.cpp" line="444"/>
+        <location filename="framecontrolwnd.cpp" line="452"/>
         <source>none</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="449"/>
+        <location filename="framecontrolwnd.cpp" line="447"/>
         <source>Fine tuning:</source>
         <translation>고급 설정:</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="453"/>
+        <location filename="framecontrolwnd.cpp" line="451"/>
         <source>Scale to:</source>
         <translation>목표 비율:</translation>
     </message>
@@ -645,7 +655,7 @@
         <translation>광원의 넓이</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.cpp" line="277"/>
+        <location filename="lightcontrolwnd.cpp" line="276"/>
         <source>New pattern</source>
         <translation>새로운 패턴</translation>
     </message>
@@ -735,32 +745,48 @@
         <translation>비디오 플레이어의 메모리 점유율</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="93"/>
+        <location filename="performancewnd.ui" line="331"/>
+        <source>Scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="performancewnd.ui" line="357"/>
+        <source>Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="performancewnd.ui" line="385"/>
+        <location filename="performancewnd.cpp" line="124"/>
+        <source>NOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="performancewnd.cpp" line="105"/>
         <source>GB</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="139"/>
+        <location filename="performancewnd.cpp" line="209"/>
         <source>%1 GB of %2 GB</source>
         <translation>%2 GB 중 %1 GB </translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="162"/>
+        <location filename="performancewnd.cpp" line="232"/>
         <source>N/A</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="172"/>
+        <location filename="performancewnd.cpp" line="242"/>
         <source>%1 at %2%</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="184"/>
+        <location filename="performancewnd.cpp" line="254"/>
         <source>Cores</source>
         <translation>코어별로 보기</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="184"/>
+        <location filename="performancewnd.cpp" line="254"/>
         <source>Overall</source>
         <translation>전체적인 사용량</translation>
     </message>
@@ -768,88 +794,88 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="156"/>
+        <location filename="playbackobject.cpp" line="158"/>
         <source>2D mode</source>
         <translation>2D 모드</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="157"/>
+        <location filename="playbackobject.cpp" line="159"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
         <translation>3D 좌우 사이드 방식</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="158"/>
+        <location filename="playbackobject.cpp" line="160"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
         <translation>3D 위아래 사이드 방식</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="171"/>
+        <location filename="playbackobject.cpp" line="174"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GB 이상의 파일 패치</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="172"/>
+        <location filename="playbackobject.cpp" line="175"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>고객님의 비디오 플레이어는 4GB이상 재생할 수 없습니다, SVP를 사용하시기 전에 &quot;SVP - 4GB 이상의 파일 패치&quot;를 하시기를 강력하게 추천합니다.
 패치 버튼을 누르시기 전 비디오 플레이어를 종료하십시오.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="173"/>
+        <location filename="playbackobject.cpp" line="176"/>
         <source>Patch</source>
         <translation>패치</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="173"/>
+        <location filename="playbackobject.cpp" line="176"/>
         <source>Not now</source>
         <translation>지금은 하지 않음</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="173"/>
+        <location filename="playbackobject.cpp" line="176"/>
         <source>Don&apos;t ask again</source>
         <translation>다시 묻지 마십시오 (무시)</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="288"/>
+        <location filename="playbackobject.cpp" line="293"/>
         <source>Playing at %1 fps</source>
         <translation>%1 fps으로 재생중</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="288"/>
+        <location filename="playbackobject.cpp" line="293"/>
         <source>Paused</source>
         <translation>정지</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="289"/>
+        <location filename="playbackobject.cpp" line="294"/>
         <source>px</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="307"/>
+        <location filename="playbackobject.cpp" line="312"/>
         <source>SVP: enabled</source>
         <translation>SVP: 가동 개시</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="308"/>
+        <location filename="playbackobject.cpp" line="313"/>
         <source>SVP: disabled</source>
         <translation>SVP: 가동 중지</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="773"/>
+        <location filename="playbackobject.cpp" line="811"/>
         <source>Black bars: </source>
         <translation>여백: </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="774"/>
+        <location filename="playbackobject.cpp" line="815"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: %1
 사용중인 프로필 : %2%3 </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="814"/>
+        <location filename="playbackobject.cpp" line="855"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>고객님께서는 호환되지 않는 Avisynth 버전을 사용하고 계십니다! SVP는 이 버전과 동작하지 않으며 호환되는 &apos;avisynth.dll&apos; 파일을 &lt;SVP-installation-path&gt;\plugins 폴더에 넣어주세요.</translation>
     </message>
@@ -987,68 +1013,68 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>되돌리기</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="222"/>
+        <location filename="profilewnd.cpp" line="221"/>
         <source>Movie frame rate</source>
         <translation>영상 프레임 레이트</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="226"/>
+        <location filename="profilewnd.cpp" line="225"/>
         <source>Screen refresh rate</source>
         <translation>현재 화면의 프레임 레이트</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="230"/>
+        <location filename="profilewnd.cpp" line="229"/>
         <source>Fixed frame rate</source>
         <translation>고정된 프레임 레이트</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="231"/>
-        <location filename="profilewnd.cpp" line="558"/>
+        <location filename="profilewnd.cpp" line="230"/>
+        <location filename="profilewnd.cpp" line="557"/>
         <source>fps</source>
         <translation>fps</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="378"/>
+        <location filename="profilewnd.cpp" line="377"/>
         <source>SVP - Video profiles</source>
         <translation>SVP - 비디오 프로필</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="378"/>
+        <location filename="profilewnd.cpp" line="377"/>
         <source>Are you sure you want to delete this profile?</source>
         <translation>정말 이 프로필을 지우시길 원합니까?</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="494"/>
+        <location filename="profilewnd.cpp" line="493"/>
         <source>Rendering options</source>
         <translation>렌더링 옵션</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="498"/>
+        <location filename="profilewnd.cpp" line="497"/>
         <source>Motion vectors options</source>
         <translation>모션 벡터 옵션</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="502"/>
+        <location filename="profilewnd.cpp" line="501"/>
         <source>Miscellaneous options</source>
         <translation>기타 옵션</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="557"/>
+        <location filename="profilewnd.cpp" line="556"/>
         <source>Movie</source>
         <translation>영상</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="557"/>
+        <location filename="profilewnd.cpp" line="556"/>
         <source>Screen</source>
         <translation>화면</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="558"/>
+        <location filename="profilewnd.cpp" line="557"/>
         <source>Fixed</source>
         <translation>고정</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="605"/>
+        <location filename="profilewnd.cpp" line="604"/>
         <source>User defined options</source>
         <translation>사용자 정의 옵션</translation>
     </message>
@@ -1056,29 +1082,34 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="124"/>
+        <location filename="main.cpp" line="130"/>
         <source>SVP - error</source>
         <translation>SVP - 문제 발생</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="124"/>
+        <location filename="main.cpp" line="130"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>먼저 SVP 3.1 Manager을 종료하여 주세요.</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="255"/>
+        <location filename="main.cpp" line="272"/>
         <source>SVP - critical error</source>
         <translation>SVP - 치명적인 문제 발생</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="255"/>
+        <location filename="main.cpp" line="272"/>
         <source>Some of required modules not found, please reinstall SVP.</source>
         <translation>몇가지의 필요한 모듈들을 찾지 못하였습니다, SVP를 다시 설치하여 주세요.</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="88"/>
+        <location filename="performancewnd.cpp" line="100"/>
         <source>Show per-core CPU usage in Performance Monitor window</source>
         <translation>CPU 코어당 점유율을 성능 확인 창에서 확인</translation>
+    </message>
+    <message>
+        <location filename="performancewnd.cpp" line="107"/>
+        <source>Performance graphs time scale</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="profile.cpp" line="34"/>
@@ -1187,12 +1218,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>초기의 패턴</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="335"/>
+        <location filename="profilewnd.cpp" line="334"/>
         <source>Last edited FRC profile</source>
         <translation>마지막으로 변경된 FRC 프로필</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="671"/>
+        <location filename="profilewnd.cpp" line="689"/>
         <source>Custom</source>
         <translation>커스텀</translation>
     </message>
@@ -1307,67 +1338,97 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>RemoteWnd</name>
     <message>
-        <location filename="remotewnd.ui" line="52"/>
+        <location filename="remotewnd.ui" line="54"/>
         <source>Keyboard shortcuts</source>
         <translation>키보드 단축키</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="87"/>
+        <location filename="remotewnd.ui" line="67"/>
+        <source>On</source>
+        <translation type="unfinished">켜짐</translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="102"/>
+        <source>Off</source>
+        <translation type="unfinished">꺼짐</translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="158"/>
         <source>Action</source>
         <translation>동작</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="92"/>
+        <location filename="remotewnd.ui" line="163"/>
         <source>Key sequence</source>
         <translation>키 지정</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="123"/>
+        <location filename="remotewnd.ui" line="194"/>
         <source>External control API</source>
         <translation>외부 컨트롤 API</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="31"/>
+        <location filename="remotewnd.cpp" line="20"/>
+        <source>Whether keyboard shorcuts are in use on not</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.cpp" line="44"/>
         <source>Enable/disable SVP</source>
         <translation>SVP를 가동/중지</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="38"/>
+        <location filename="remotewnd.cpp" line="47"/>
+        <source>Playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.cpp" line="51"/>
         <source>Edit active video profile</source>
         <translation>사용중인 비디오 프로필을 변경</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="40"/>
+        <location filename="remotewnd.cpp" line="53"/>
         <source>Cycle to the next video profile</source>
         <translation>다음 비디오 프로필로 넘어가기</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="42"/>
+        <location filename="remotewnd.cpp" line="56"/>
         <source>Toggle outer lighting</source>
         <translation>외부 광원 토글</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="44"/>
+        <location filename="remotewnd.cpp" line="58"/>
         <source>Cycle to the next lighting pattern</source>
         <translation>다음 광원 패턴으로 넘어가기</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="46"/>
+        <location filename="remotewnd.cpp" line="61"/>
         <source>Toggle black bars detection</source>
         <translation>여백 탐지를 토글</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="47"/>
+        <location filename="remotewnd.cpp" line="62"/>
         <source>Force re-detect black bars</source>
         <translation>여백을 강제로 다시 찾기</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="54"/>
+        <location filename="remotewnd.cpp" line="64"/>
+        <source>Toggle 3D stereo mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.cpp" line="67"/>
+        <source>Utilities</source>
+        <translation type="unfinished">부가 기능</translation>
+    </message>
+    <message>
+        <location filename="remotewnd.cpp" line="71"/>
         <source>Open Performance Monitor</source>
         <translation>성능 모니터 열기</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="55"/>
+        <location filename="remotewnd.cpp" line="72"/>
         <source>Toggle fluency and tearing test</source>
         <translation>티어링 테스트 토글</translation>
     </message>
@@ -1472,17 +1533,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>몇가지의 이미지들을 불러올 수 없습니다</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="290"/>
+        <location filename="reportwnd.cpp" line="292"/>
         <source>Connecting...</source>
         <translation>연결 중...</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="314"/>
+        <location filename="reportwnd.cpp" line="316"/>
         <source>Sending... %1% (%2 KB/sec)</source>
         <translation>보내는 중... %1% (%2 KB/sec)</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="327"/>
+        <location filename="reportwnd.cpp" line="329"/>
         <source>Error, try again later</source>
         <translation>문제가 발생했습니다, 나중에 다시 시도해주세요</translation>
     </message>
@@ -1490,246 +1551,246 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="604"/>
+        <location filename="settings.cpp" line="623"/>
         <source>Frames interpolation mode</source>
         <translation>프레임 보간 설정</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="606"/>
+        <location filename="settings.cpp" line="625"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>&quot;2m&quot; (아티펙트가 매우 적음)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="606"/>
+        <location filename="settings.cpp" line="625"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>&quot;1.5m&quot; (아티펙트가 적음)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="607"/>
+        <location filename="settings.cpp" line="626"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>&quot;1m&quot; (평균적인 설정)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="607"/>
+        <location filename="settings.cpp" line="626"/>
         <source>Adaptive</source>
         <translation>적응형</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="607"/>
+        <location filename="settings.cpp" line="626"/>
         <source>Uniform (max fluidity)</source>
         <translation>최고 (최대의 부드러움)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="611"/>
+        <location filename="settings.cpp" line="636"/>
         <source>SVP shader</source>
         <translation>SVP 셰이더</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="613"/>
+        <location filename="settings.cpp" line="638"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. 저성능 PC용 매우 빠름</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="613"/>
+        <location filename="settings.cpp" line="638"/>
         <source>2. Sharp (anime)</source>
         <translation>2. 샤프하게 (애니메이션에 적합)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="614"/>
+        <location filename="settings.cpp" line="639"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. CPU만 이용하여 Block으로 처리</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="614"/>
+        <location filename="settings.cpp" line="639"/>
         <source>11. Simple Lite</source>
         <translation>11. 가볍게 간단히</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="615"/>
+        <location filename="settings.cpp" line="640"/>
         <source>21. Simple</source>
         <translation>21. 간단하게</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="615"/>
+        <location filename="settings.cpp" line="640"/>
         <source>13. Standard</source>
         <translation>13. 보통 (Default)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="615"/>
+        <location filename="settings.cpp" line="640"/>
         <source>23. Complicated</source>
         <translation>23. 정교하게 (고사양)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="628"/>
+        <location filename="settings.cpp" line="659"/>
         <source>Motion vectors grid</source>
         <translation>모션 벡터 그리드</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="630"/>
+        <location filename="settings.cpp" line="661"/>
         <source>32 px. Large 0</source>
         <translation>32 px. 크게 0 (매우 적은 아티펙트 발생)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="630"/>
+        <location filename="settings.cpp" line="661"/>
         <source>28 px. Large 1</source>
         <translation>28 px. 크게 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="630"/>
+        <location filename="settings.cpp" line="661"/>
         <source>24 px. Large 2</source>
         <translation>24 px. 크게 2 (2D 애니메이션은 이 아래 옵션 비추천)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="631"/>
+        <location filename="settings.cpp" line="662"/>
         <source>16 px. Average 0</source>
         <translation>16 px. 평균 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="631"/>
+        <location filename="settings.cpp" line="662"/>
         <source>14 px. Average 1</source>
         <translation>14 px. 평균 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="631"/>
+        <location filename="settings.cpp" line="662"/>
         <source>12 px. Average 2</source>
         <translation>12 px. 평균 2 (Default)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="632"/>
+        <location filename="settings.cpp" line="663"/>
         <source>8 px. Small 0</source>
         <translation>8 px. 작게 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="632"/>
+        <location filename="settings.cpp" line="663"/>
         <source>7 px. Small 1</source>
         <translation>7 px. 작게 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="632"/>
+        <location filename="settings.cpp" line="663"/>
         <source>6 px. Small 2</source>
         <translation>6 px. 작게 2 (매우 부드러움, 많은 아티펙트 발생)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="636"/>
+        <location filename="settings.cpp" line="669"/>
         <source>Decrease grid step</source>
         <translation>그리드 스텝 감소 (고사양)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="638"/>
-        <location filename="settings.cpp" line="656"/>
-        <location filename="settings.cpp" line="668"/>
+        <location filename="settings.cpp" line="671"/>
+        <location filename="settings.cpp" line="696"/>
+        <location filename="settings.cpp" line="712"/>
         <source>Disabled</source>
         <translation>사용 안 함</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="639"/>
+        <location filename="settings.cpp" line="672"/>
         <source>By two with local refinement</source>
         <translation>By two with local refinement (고사양)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="639"/>
+        <location filename="settings.cpp" line="672"/>
         <source>By two with global refinement</source>
         <translation>By two with global refinement (초고사양)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="643"/>
+        <location filename="settings.cpp" line="678"/>
         <source>Search radius</source>
         <translation>검색 반경</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="645"/>
+        <location filename="settings.cpp" line="680"/>
         <source>Small and fast</source>
         <translation>작고 빠름</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="645"/>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="680"/>
+        <location filename="settings.cpp" line="704"/>
         <source>Small</source>
         <translation>작음</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="645"/>
-        <location filename="settings.cpp" line="656"/>
-        <location filename="settings.cpp" line="662"/>
-        <location filename="settings.cpp" line="669"/>
+        <location filename="settings.cpp" line="680"/>
+        <location filename="settings.cpp" line="696"/>
+        <location filename="settings.cpp" line="704"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Average</source>
         <translation>보통</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="645"/>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="680"/>
+        <location filename="settings.cpp" line="704"/>
         <source>Large</source>
         <translation>광범위</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="649"/>
+        <location filename="settings.cpp" line="687"/>
         <source>Motion vectors precision</source>
         <translation>모션 벡터 예측</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="650"/>
+        <location filename="settings.cpp" line="688"/>
         <source>Two pixels</source>
         <translation>두 픽셀 (저사양)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="650"/>
+        <location filename="settings.cpp" line="688"/>
         <source>One pixel</source>
         <translation>한 픽셀</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="650"/>
+        <location filename="settings.cpp" line="688"/>
         <source>Half pixel</source>
         <translation>반 픽셀 (고사양)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="654"/>
+        <location filename="settings.cpp" line="694"/>
         <source>Wide search</source>
         <translation>범위 검색</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="656"/>
-        <location filename="settings.cpp" line="669"/>
+        <location filename="settings.cpp" line="696"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Strong</source>
         <translation>강하게</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="656"/>
-        <location filename="settings.cpp" line="669"/>
+        <location filename="settings.cpp" line="696"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Strongest</source>
         <translation>매우 강하게</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="660"/>
+        <location filename="settings.cpp" line="702"/>
         <source>Width of top coarse level</source>
         <translation>아티펙트의 폭</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="666"/>
+        <location filename="settings.cpp" line="710"/>
         <source>Artifacts masking</source>
         <translation>아티펙트 제거 (2D 애니메이션은 비추천)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="668"/>
+        <location filename="settings.cpp" line="712"/>
         <source>Weakest</source>
         <translation>최대한 약하게</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="668"/>
+        <location filename="settings.cpp" line="712"/>
         <source>Weak</source>
         <translation>약하게</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="673"/>
+        <location filename="settings.cpp" line="721"/>
         <source>Processing of scene changes</source>
         <translation>장면 변환에 대한 처리</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="674"/>
+        <location filename="settings.cpp" line="722"/>
         <source>Blend adjacent frames</source>
         <translation>인접한 프레임을 혼합 (AMD Fluid Motion과 비슷)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="674"/>
+        <location filename="settings.cpp" line="722"/>
         <source>Repeat frame</source>
         <translation>프레임 반복 (추천)</translation>
     </message>
@@ -1815,388 +1876,388 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="trayicon.cpp" line="140"/>
+        <location filename="trayicon.cpp" line="150"/>
         <source>Start with SVP with right click on the icon</source>
         <translation>SVP 아이콘을 클릭하여 SVP를 시작</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="141"/>
+        <location filename="trayicon.cpp" line="151"/>
         <source>Language was changed to %1</source>
         <translation>언어가 %1 로 변경 되었습니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="144"/>
+        <location filename="trayicon.cpp" line="154"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
         <translation>이 SVP의 등록이 정상적으로 이루어졌습니다. 감사합니다!</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="147"/>
-        <location filename="trayicon.cpp" line="498"/>
+        <location filename="trayicon.cpp" line="157"/>
+        <location filename="trayicon.cpp" line="515"/>
         <source>Updates available</source>
         <translation>업데이트가 가능합니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="183"/>
+        <location filename="trayicon.cpp" line="193"/>
         <source>No active playback</source>
         <translation>현재 재생중인 영상이 없습니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="216"/>
+        <location filename="trayicon.cpp" line="226"/>
         <source>SVP Control Panel</source>
         <translation>SVP 컨트롤 패널</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="228"/>
+        <location filename="trayicon.cpp" line="238"/>
         <source>Video frame</source>
         <translation>영상</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="231"/>
+        <location filename="trayicon.cpp" line="241"/>
         <source>Detect and cut off black bars</source>
         <translation>여백을 찾아내고 제거합니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="232"/>
+        <location filename="trayicon.cpp" line="242"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
         <translation>영상 내의 여백을 자동으로 추적 및 제거</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="236"/>
+        <location filename="trayicon.cpp" line="246"/>
         <source>Keep aspect ratio</source>
         <translation>비디오의 원본 비율 유지하기</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="237"/>
+        <location filename="trayicon.cpp" line="247"/>
         <source>Crop to the screen aspect ratio</source>
         <translation>화면의 가로세로 비율로 비디오를 확대/축소</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="239"/>
+        <location filename="trayicon.cpp" line="249"/>
         <source>Frame cropping mode applied before any size changing</source>
         <translation>비디오 해상도 조정 전에 프레임 조정 적용</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="244"/>
+        <location filename="trayicon.cpp" line="254"/>
         <source>Keep normal size</source>
         <translation>원본 해상도 유지</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="245"/>
+        <location filename="trayicon.cpp" line="255"/>
         <source>Decrease to screen size</source>
         <translation>화면의 해상도로 줄이기</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="247"/>
+        <location filename="trayicon.cpp" line="257"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
         <translation>프레임 레이트 조정을 간단히 하기 위하여 비디오의 해상도를 줄이기</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="252"/>
+        <location filename="trayicon.cpp" line="262"/>
         <source>Advanced controls...</source>
         <translation>고급 설정...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="258"/>
+        <location filename="trayicon.cpp" line="268"/>
         <source>Outer lighting</source>
         <translation>여백 채우기</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="264"/>
+        <location filename="trayicon.cpp" line="274"/>
         <source>Disabled</source>
         <translation>사용 안 함</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="261"/>
+        <location filename="trayicon.cpp" line="271"/>
         <source>Fill black bars</source>
         <translation>여백을 채웁니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="262"/>
+        <location filename="trayicon.cpp" line="272"/>
         <source>Glow lights</source>
         <translation>글로우 라이트</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="266"/>
+        <location filename="trayicon.cpp" line="276"/>
         <source>Outer lighting mode</source>
         <translation>외부의 광원의 형태</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="269"/>
+        <location filename="trayicon.cpp" line="279"/>
         <source>Glow border width</source>
         <translation>경계 폭 밝히기</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="271"/>
+        <location filename="trayicon.cpp" line="281"/>
         <source>Disabled in 3D mode</source>
         <translation>3D 동영상일때 끄기</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="273"/>
+        <location filename="trayicon.cpp" line="283"/>
         <source>Enable outer lighting only for 2D videos</source>
         <translation>2D 동영상일때만 외부 광원 사용</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="279"/>
+        <location filename="trayicon.cpp" line="289"/>
         <source>Light patterns</source>
         <translation>광원의 패턴</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="283"/>
+        <location filename="trayicon.cpp" line="293"/>
         <source>Manage patterns...</source>
         <translation>패턴 조정...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="292"/>
+        <location filename="trayicon.cpp" line="302"/>
         <source>My options</source>
         <translation>내 설정</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="299"/>
+        <location filename="trayicon.cpp" line="309"/>
         <source>Temporarily disable SVP</source>
         <translation>잠시 SVP를 끕니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="301"/>
+        <location filename="trayicon.cpp" line="311"/>
         <source>SVP is disabled until next start</source>
         <translation>다음 시작시 SVP를 끕니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="303"/>
+        <location filename="trayicon.cpp" line="313"/>
         <source>Utilities</source>
         <translation>부가 기능</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="305"/>
+        <location filename="trayicon.cpp" line="315"/>
         <source>Performance Monitor</source>
         <translation>성능 모니터링</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="310"/>
+        <location filename="trayicon.cpp" line="320"/>
         <source>Assess system performance</source>
         <translation>시스템 성능 측정</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="319"/>
+        <location filename="trayicon.cpp" line="329"/>
         <source>Demonstration mode</source>
         <translation>원본과 비교 하기</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="320"/>
+        <location filename="trayicon.cpp" line="330"/>
         <source>Fluency and tearing test</source>
         <translation>티어링 테스트</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="330"/>
+        <location filename="trayicon.cpp" line="340"/>
         <source>Apply 4GB aware patch...</source>
         <translation>4GB 이상 파일 패치를 적용...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="333"/>
+        <location filename="trayicon.cpp" line="343"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
         <translation>&apos;계속&apos;을 누르면 비디오 플레이어 의 주 실행 파일을 찾습니다 .</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="334"/>
+        <location filename="trayicon.cpp" line="344"/>
         <source>Continue</source>
         <translation>계속</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="334"/>
+        <location filename="trayicon.cpp" line="344"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="338"/>
+        <location filename="trayicon.cpp" line="348"/>
         <source>Additional programs and features...</source>
         <translation>부가 프로그램 및 기능들...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="353"/>
+        <location filename="trayicon.cpp" line="363"/>
         <source>Application settings</source>
         <translation>프로그램 설정</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="358"/>
+        <location filename="trayicon.cpp" line="368"/>
         <source>No acceleration</source>
         <translation>하드웨어 가속 사용 안 함</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="360"/>
+        <location filename="trayicon.cpp" line="370"/>
         <source>Using</source>
         <translation>-</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="363"/>
+        <location filename="trayicon.cpp" line="380"/>
         <source>GPU acceleration</source>
         <translation>GPU 가속</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="368"/>
+        <location filename="trayicon.cpp" line="385"/>
         <source>Show OSD messages</source>
         <translation>비디오에 OSD 메세지를 표시</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="370"/>
+        <location filename="trayicon.cpp" line="387"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>키보드 단축키 설정...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="376"/>
+        <location filename="trayicon.cpp" line="393"/>
         <source>Load at Windows startup</source>
         <translation>윈도우 시작시 실행</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="403"/>
+        <location filename="trayicon.cpp" line="420"/>
         <source>Additional options</source>
         <translation>추가적인 옵션</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="407"/>
+        <location filename="trayicon.cpp" line="424"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>인터레이스된 비디오를 위해 X2 프레임 레이트를 적용합니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="428"/>
+        <location filename="trayicon.cpp" line="445"/>
         <source>Auto</source>
         <translation>자동</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="430"/>
+        <location filename="trayicon.cpp" line="447"/>
         <source>%1 thread(s)</source>
         <translation>%1 쓰레드</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="431"/>
+        <location filename="trayicon.cpp" line="448"/>
         <source>Processing threads</source>
         <translation>작업 쓰레드</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="411"/>
+        <location filename="trayicon.cpp" line="428"/>
         <source>Reset on seek</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="221"/>
+        <location filename="trayicon.cpp" line="231"/>
         <source>Profile for an active video</source>
         <translation>활성 비디오를 위한 프로필</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="332"/>
+        <location filename="trayicon.cpp" line="342"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GB 이상 파일 패치</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="409"/>
+        <location filename="trayicon.cpp" line="426"/>
         <source>Turn stereo mode on by aspect ratio</source>
         <translation>가로세로비로 3D 모드 전환</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="412"/>
+        <location filename="trayicon.cpp" line="429"/>
         <source>Don&apos;t reset</source>
         <translation>리셋하지 않음</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="414"/>
+        <location filename="trayicon.cpp" line="431"/>
         <source>Soft reset</source>
         <translation>소프트 리셋</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="415"/>
+        <location filename="trayicon.cpp" line="432"/>
         <source>Hard reset</source>
         <translation>하드 리셋</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="419"/>
+        <location filename="trayicon.cpp" line="436"/>
         <source>Running multiple videos</source>
         <translation>여러 비디오를 동시에 재생</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="420"/>
+        <location filename="trayicon.cpp" line="437"/>
         <source>Use SVP in all opened videos</source>
         <translation>SVP를 재생중인 모든 비디오에 적용합니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="421"/>
+        <location filename="trayicon.cpp" line="438"/>
         <source>First opened video only</source>
         <translation>처음으로 연 비디오만 적용</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="422"/>
+        <location filename="trayicon.cpp" line="439"/>
         <source>Latest opened video only</source>
         <translation>마지막으로 연 비디오만 적용</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="435"/>
+        <location filename="trayicon.cpp" line="452"/>
         <source>All settings...</source>
         <translation>모든 설정...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="444"/>
+        <location filename="trayicon.cpp" line="461"/>
         <source>Information</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="446"/>
+        <location filename="trayicon.cpp" line="463"/>
         <source>User manual (online)</source>
         <translation>유저 메뉴얼 (온라인)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="449"/>
+        <location filename="trayicon.cpp" line="466"/>
         <source>Video player configuration</source>
         <translation>비디오 플레이어의 설정 방법</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="456"/>
+        <location filename="trayicon.cpp" line="473"/>
         <source>Full list</source>
         <translation>전체 목록</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="465"/>
+        <location filename="trayicon.cpp" line="482"/>
         <source>Send problem report...</source>
         <translation>버그 신고하기...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="472"/>
+        <location filename="trayicon.cpp" line="489"/>
         <source>Events log</source>
         <translation>이벤트 로그</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="475"/>
+        <location filename="trayicon.cpp" line="492"/>
         <source>Additional information</source>
         <translation>추가적인 정보</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="477"/>
+        <location filename="trayicon.cpp" line="494"/>
         <source>Last generated AVS script</source>
         <translation>마지막으로 생성된 AVS script</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="481"/>
+        <location filename="trayicon.cpp" line="498"/>
         <source>OpenCL devices and capabilities</source>
         <translation>OpenCL 장치들과 호환성 목록</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="486"/>
+        <location filename="trayicon.cpp" line="503"/>
         <source>Version and credits...</source>
         <translation>버전과 만든 사람들...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="492"/>
+        <location filename="trayicon.cpp" line="509"/>
         <source>Order full version</source>
         <translation>Full 버전을 구매</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="508"/>
+        <location filename="trayicon.cpp" line="525"/>
         <source>Exit</source>
         <translation>종료</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="875"/>
+        <location filename="trayicon.cpp" line="906"/>
         <source>SVP - Video player</source>
         <translation>SVP - 비디오 플레이어</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="875"/>
+        <location filename="trayicon.cpp" line="906"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>비디오 플레이어와 연결할 수 없습니다. 다른 사용자의 계정에서 실행중인지 확인해주세요.</translation>
     </message>
@@ -2267,7 +2328,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>UpdateWnd</name>
     <message>
-        <location filename="updatewnd.cpp" line="321"/>
+        <location filename="updatewnd.cpp" line="326"/>
         <source>More info...</source>
         <translation>더 많은 정보...</translation>
     </message>
