@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja">
+<TS version="2.1" language="ja">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -76,7 +76,7 @@
     <message>
         <location filename="activationwnd.ui" line="84"/>
         <source>Manage your license...</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンスの管理...</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="105"/>
@@ -474,7 +474,7 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="97"/>
         <source>Error commincating with the video player. Maybe SVP is running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>プレーヤーと連携できません。SVPが管理者権限で実行されていませんか？</translation>
     </message>
 </context>
 <context>
@@ -1108,7 +1108,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="performancewnd.cpp" line="107"/>
         <source>Performance graphs time scale</source>
-        <translation type="unfinished"></translation>
+        <translation>パフォーマンスグラフのタイムスケール</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="34"/>
@@ -1369,7 +1369,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="20"/>
         <source>Whether keyboard shorcuts are in use on not</source>
-        <translation type="unfinished"></translation>
+        <translation>キーボードショートカットの有効化・無効化</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="44"/>
@@ -1379,7 +1379,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="47"/>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>再生</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="51"/>
@@ -1414,12 +1414,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="64"/>
         <source>Toggle 3D stereo mode</source>
-        <translation type="unfinished"></translation>
+        <translation>3DステレオモードのON/OFF</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="67"/>
         <source>Utilities</source>
-        <translation type="unfinished">ユーティリティ</translation>
+        <translation>ユーティリティ</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="71"/>
@@ -2349,7 +2349,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.ui" line="76"/>
         <source>View SVP changelog</source>
-        <translation>SVPのチェンジログを見る</translation>
+        <translation>SVPの更新履歴を見る</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="102"/>
