@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="vi_VN">
+<TS version="2.1" language="vi_VN">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -220,6 +220,37 @@
     </message>
 </context>
 <context>
+    <name>BlacklistItemWdg</name>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="51"/>
+        <source>Do not enable SVP in this video player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="54"/>
+        <source>Don&apos;t use</source>
+        <oldsource>Do not use</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="80"/>
+        <source>Do not allow frame transformation (crop, resize and outer lighting)</source>
+        <oldsource>Do not use any frame transforming features</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="83"/>
+        <source>Don&apos;t change size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="109"/>
+        <source>Enable all SVP features in this video player</source>
+        <oldsource>Enable SVP in this video player</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ConditionWdg</name>
     <message>
         <location filename="conditionwdg.ui" line="169"/>
@@ -275,29 +306,35 @@
         <translation>Hiệu suất CPU. Bấm để mở cửa sổ Màn theo dõi hiệu năng.</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="133"/>
+        <location filename="controlpanel.cpp" line="131"/>
         <source>Video profiles</source>
         <translation>Cấu hình video</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="139"/>
+        <location filename="controlpanel.cpp" line="137"/>
         <source>Frame size</source>
         <translation>Kích thước khung hình</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="145"/>
+        <location filename="controlpanel.cpp" line="143"/>
         <source>Black bars lighting</source>
         <translation>Làm sáng dải đen</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="151"/>
+        <location filename="controlpanel.cpp" line="149"/>
         <source>Performance monitor</source>
         <translation>Màn giám sát hiệu năng</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="157"/>
+        <location filename="controlpanel.cpp" line="155"/>
         <source>Updates</source>
         <translation>Cập nhật</translation>
+    </message>
+    <message>
+        <location filename="controlpanel.cpp" line="157"/>
+        <location filename="controlpanel.cpp" line="169"/>
+        <source>Utilities</source>
+        <translation>Công cụ</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="163"/>
@@ -305,42 +342,42 @@
         <translation>Báo cáo một vấn đề</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="169"/>
+        <location filename="controlpanel.cpp" line="175"/>
         <source>Events log</source>
         <translation>Báo cáo sự kiện</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="175"/>
+        <location filename="controlpanel.cpp" line="181"/>
         <source>Application settings</source>
         <translation>Cài đặt ứng dụng</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="181"/>
+        <location filename="controlpanel.cpp" line="187"/>
         <source>Control options</source>
         <translation>Tùy chỉnh điều khiển</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="187"/>
+        <location filename="controlpanel.cpp" line="193"/>
         <source>Unlock SVP features</source>
         <translation>Mở khóa các tính năng của SVP</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="279"/>
+        <location filename="controlpanel.cpp" line="304"/>
         <source>No active playback</source>
         <translation>Không có video đang chạy</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="280"/>
+        <location filename="controlpanel.cpp" line="305"/>
         <source>1 active video</source>
         <translation>1 video đang chạy</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="281"/>
+        <location filename="controlpanel.cpp" line="306"/>
         <source>%1 active videos</source>
         <translation>%1 video đang chạy</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="285"/>
+        <location filename="controlpanel.cpp" line="310"/>
         <source>%1 inactive</source>
         <translation>%1 video không chạy</translation>
     </message>
@@ -456,23 +493,23 @@
 <context>
     <name>FFDShowVideoPlayer</name>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="71"/>
+        <location filename="ffdshowvideoplayer.cpp" line="80"/>
         <source>64-bit video players are not supported in this version</source>
         <translation>Những trình chơi video 64 bit không được hỗ trợ ở phiên bản này</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="52"/>
+        <location filename="ffdshowvideoplayer.cpp" line="54"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
         <translation>Không kết nối được với trình chơi video. Chương trình có đang được chạy với quyền quản trị?</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="87"/>
+        <location filename="ffdshowvideoplayer.cpp" line="96"/>
         <source>Unable to locate Avisynth, please re-install it</source>
         <translation>Không tìm thấy Avisynth, vui lòng cài đặt lại Avisynth</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="97"/>
-        <source>Error commincating with the video player. Maybe SVP is running with administrator privileges?</source>
+        <location filename="ffdshowvideoplayer.cpp" line="106"/>
+        <source>Error communicating with the video player. Maybe SVP is running with administrator privileges?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -793,86 +830,86 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="158"/>
+        <location filename="playbackobject.cpp" line="38"/>
         <source>2D mode</source>
         <translation>Chế độ 2D</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="159"/>
+        <location filename="playbackobject.cpp" line="39"/>
         <source>3D: Side-by-side stereo pair</source>
         <translation>Chế độ 3D: Cặp khung hình cạnh nhau</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="160"/>
+        <location filename="playbackobject.cpp" line="40"/>
         <source>3D: Over-under stereo pair</source>
         <translation>Chế độ 3D: Cặp khung hình trên dưới</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="174"/>
+        <location filename="playbackobject.cpp" line="54"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - Bản vá 4GB</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="175"/>
+        <location filename="playbackobject.cpp" line="55"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Trình chơi video của bạn không nhận đủ 4GB, chúng tôi đề nghị sử dụng bản vá này trước khi sử dụng SVP.
 Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apos;.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="176"/>
+        <location filename="playbackobject.cpp" line="56"/>
         <source>Patch</source>
         <translation>Sử dụng</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="176"/>
+        <location filename="playbackobject.cpp" line="56"/>
         <source>Not now</source>
         <translation>Để sau</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="176"/>
+        <location filename="playbackobject.cpp" line="56"/>
         <source>Don&apos;t ask again</source>
         <translation>Đừng hỏi lại</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="293"/>
+        <location filename="playbackobject.cpp" line="173"/>
         <source>Playing at %1 fps</source>
         <translation>Chạy ở %1 fps</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="293"/>
+        <location filename="playbackobject.cpp" line="173"/>
         <source>Paused</source>
         <translation>Đã ngừng</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="294"/>
+        <location filename="playbackobject.cpp" line="174"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="312"/>
+        <location filename="playbackobject.cpp" line="192"/>
         <source>SVP: enabled</source>
         <translation>SVP: Đã bật</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="313"/>
+        <location filename="playbackobject.cpp" line="193"/>
         <source>SVP: disabled</source>
         <translation>SVP: Đã tắt</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="811"/>
+        <location filename="playbackobject.cpp" line="712"/>
         <source>Black bars: </source>
         <translation>Dải đen:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="815"/>
+        <location filename="playbackobject.cpp" line="716"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: Chạy ở %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="855"/>
+        <location filename="playbackobject.cpp" line="758"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>Bạn đang sử dụng phiên bản Avisynth không phù hợp! SVP sẽ không hoạt động được với nó, vui lòng sử dụng &apos;avisynth.dll&apos; ở thư mục &lt;SVP-installation-path&gt;\plugins.</translation>
     </message>
@@ -1335,97 +1372,117 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
 <context>
     <name>RemoteWnd</name>
     <message>
-        <location filename="remotewnd.ui" line="54"/>
+        <location filename="remotewnd.ui" line="36"/>
+        <source>Don&apos;t use SVP in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="43"/>
+        <source>Add active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="63"/>
+        <source>Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="145"/>
         <source>Keyboard shortcuts</source>
         <translation>Phím tắt</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="67"/>
+        <location filename="remotewnd.ui" line="158"/>
         <source>On</source>
         <translation type="unfinished">Bật</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="102"/>
+        <location filename="remotewnd.ui" line="193"/>
         <source>Off</source>
         <translation type="unfinished">Tắt</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="158"/>
+        <location filename="remotewnd.ui" line="249"/>
         <source>Action</source>
         <translation>Hành động</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="163"/>
+        <location filename="remotewnd.ui" line="254"/>
         <source>Key sequence</source>
         <translation>Tổ hợp phím</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="194"/>
+        <location filename="remotewnd.ui" line="282"/>
         <source>External control API</source>
         <translation>API điểu khiển ngoài</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="20"/>
-        <source>Whether keyboard shorcuts are in use on not</source>
+        <location filename="remotewnd.cpp" line="54"/>
+        <source>Choose application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="44"/>
+        <location filename="remotewnd.cpp" line="78"/>
+        <source>Whether keyboard shorcuts are in use or not</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.cpp" line="139"/>
         <source>Enable/disable SVP</source>
         <translation>Bật/Tắt SVP</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="47"/>
+        <location filename="remotewnd.cpp" line="142"/>
         <source>Playback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="51"/>
+        <location filename="remotewnd.cpp" line="146"/>
         <source>Edit active video profile</source>
         <translation>Chỉnh sửa cấu hình video hiện tại</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="53"/>
+        <location filename="remotewnd.cpp" line="148"/>
         <source>Cycle to the next video profile</source>
         <translation>Chuyển tới cấu hình video kế</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="56"/>
+        <location filename="remotewnd.cpp" line="151"/>
         <source>Toggle outer lighting</source>
         <translation>Chuyển chế độ ánh sáng ngoài</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="58"/>
+        <location filename="remotewnd.cpp" line="153"/>
         <source>Cycle to the next lighting pattern</source>
         <translation>Chuyển tới mẫu sáng kế</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="61"/>
+        <location filename="remotewnd.cpp" line="156"/>
         <source>Toggle black bars detection</source>
         <translation>Chuyển chế độ nhận diện dải đen</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="62"/>
+        <location filename="remotewnd.cpp" line="157"/>
         <source>Force re-detect black bars</source>
         <translation>Bắt nhận diện lại dải đen</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="64"/>
+        <location filename="remotewnd.cpp" line="159"/>
         <source>Toggle 3D stereo mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="67"/>
+        <location filename="remotewnd.cpp" line="162"/>
         <source>Utilities</source>
         <translation type="unfinished">Công cụ</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="71"/>
+        <location filename="remotewnd.cpp" line="166"/>
         <source>Open Performance Monitor</source>
         <translation>Bật Màn theo dõi hiệu năng</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="72"/>
+        <location filename="remotewnd.cpp" line="167"/>
         <source>Toggle fluency and tearing test</source>
         <translation>Chuyển chế độ kiểm tra độ mượt và xé hình</translation>
     </message>
@@ -1548,246 +1605,246 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="623"/>
+        <location filename="settings.cpp" line="648"/>
         <source>Frames interpolation mode</source>
         <translation>Chế độ tạo thêm khung hình</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="625"/>
+        <location filename="settings.cpp" line="650"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>&quot;2m&quot; (ít lỗi nhất)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="625"/>
+        <location filename="settings.cpp" line="650"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>&quot;1.5m&quot; (ít lỗi)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="626"/>
+        <location filename="settings.cpp" line="651"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>&quot;1m&quot; (chế độ trung bình)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="626"/>
+        <location filename="settings.cpp" line="651"/>
         <source>Adaptive</source>
         <translation>Mượt</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="626"/>
+        <location filename="settings.cpp" line="651"/>
         <source>Uniform (max fluidity)</source>
         <translation>Rất mượt</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="636"/>
+        <location filename="settings.cpp" line="661"/>
         <source>SVP shader</source>
         <translation>Xử lý đổ bóng SVP</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="638"/>
+        <location filename="settings.cpp" line="663"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. Nhanh nhất (dành cho máy yếu)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="638"/>
+        <location filename="settings.cpp" line="663"/>
         <source>2. Sharp (anime)</source>
         <translation>2. Sắc nét (cho anime)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="639"/>
+        <location filename="settings.cpp" line="664"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. Bằng khối (chỉ CPU)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="639"/>
+        <location filename="settings.cpp" line="664"/>
         <source>11. Simple Lite</source>
         <translation>11. Rất đơn giản</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="640"/>
+        <location filename="settings.cpp" line="665"/>
         <source>21. Simple</source>
         <translation>21. Đơn giản</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="640"/>
+        <location filename="settings.cpp" line="665"/>
         <source>13. Standard</source>
         <translation>13. Tiêu chuẩn</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="640"/>
+        <location filename="settings.cpp" line="665"/>
         <source>23. Complicated</source>
         <translation>23. Phức tạp</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="659"/>
+        <location filename="settings.cpp" line="684"/>
         <source>Motion vectors grid</source>
         <translation>Lưới vector chuyển động</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="661"/>
+        <location filename="settings.cpp" line="686"/>
         <source>32 px. Large 0</source>
         <translation>32 px. Lớn 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="661"/>
+        <location filename="settings.cpp" line="686"/>
         <source>28 px. Large 1</source>
         <translation>28 px. Lớn 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="661"/>
+        <location filename="settings.cpp" line="686"/>
         <source>24 px. Large 2</source>
         <translation>24 px. Lớn 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="687"/>
         <source>16 px. Average 0</source>
         <translation>16 px. Trung bình 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="687"/>
         <source>14 px. Average 1</source>
         <translation>14 px. Trung bình 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="687"/>
         <source>12 px. Average 2</source>
         <translation>12 px. Trung bình 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="663"/>
+        <location filename="settings.cpp" line="688"/>
         <source>8 px. Small 0</source>
         <translation>8 px. Nhỏ 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="663"/>
+        <location filename="settings.cpp" line="688"/>
         <source>7 px. Small 1</source>
         <translation>7 px. Nhỏ 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="663"/>
+        <location filename="settings.cpp" line="688"/>
         <source>6 px. Small 2</source>
         <translation>6 px. Nhỏ 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="669"/>
+        <location filename="settings.cpp" line="694"/>
         <source>Decrease grid step</source>
         <translation>Giảm bước trong lưới</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="671"/>
         <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="737"/>
         <source>Disabled</source>
         <translation>Tắt</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="672"/>
+        <location filename="settings.cpp" line="697"/>
         <source>By two with local refinement</source>
         <translation>Hai giá trị với cải tiến cục bộ</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="672"/>
+        <location filename="settings.cpp" line="697"/>
         <source>By two with global refinement</source>
         <translation>Hai giá trị với cải tiến toàn cục</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="678"/>
+        <location filename="settings.cpp" line="703"/>
         <source>Search radius</source>
         <translation>Phạm vi tìm kiếm</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
+        <location filename="settings.cpp" line="705"/>
         <source>Small and fast</source>
         <translation>Nhỏ và nhanh</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
-        <location filename="settings.cpp" line="704"/>
+        <location filename="settings.cpp" line="705"/>
+        <location filename="settings.cpp" line="729"/>
         <source>Small</source>
         <translation>Nhỏ</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
-        <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="704"/>
-        <location filename="settings.cpp" line="713"/>
+        <location filename="settings.cpp" line="705"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="729"/>
+        <location filename="settings.cpp" line="738"/>
         <source>Average</source>
         <translation>Trung bình</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
-        <location filename="settings.cpp" line="704"/>
+        <location filename="settings.cpp" line="705"/>
+        <location filename="settings.cpp" line="729"/>
         <source>Large</source>
         <translation>Lớn</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="687"/>
+        <location filename="settings.cpp" line="712"/>
         <source>Motion vectors precision</source>
         <translation>Độ chính xác của vector chuyển động</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Two pixels</source>
         <translation>Hai pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="713"/>
         <source>One pixel</source>
         <translation>Một pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Half pixel</source>
         <translation>Nửa pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="694"/>
+        <location filename="settings.cpp" line="719"/>
         <source>Wide search</source>
         <translation>Tìm kiếm rộng</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="713"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="738"/>
         <source>Strong</source>
         <translation>Mạnh</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="713"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="738"/>
         <source>Strongest</source>
         <translation>Mạnh nhất</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="702"/>
+        <location filename="settings.cpp" line="727"/>
         <source>Width of top coarse level</source>
         <translation>Độ rộng của mức thô nhất</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="710"/>
+        <location filename="settings.cpp" line="735"/>
         <source>Artifacts masking</source>
         <translation>Che lỗi</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="737"/>
         <source>Weakest</source>
         <translation>Yếu nhất</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="737"/>
         <source>Weak</source>
         <translation>Yếu</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="746"/>
         <source>Processing of scene changes</source>
         <translation>Xử lý khi cảnh thay đổi</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="722"/>
+        <location filename="settings.cpp" line="747"/>
         <source>Blend adjacent frames</source>
         <translation>Chèn khung hình kế tiếp vào</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="722"/>
+        <location filename="settings.cpp" line="747"/>
         <source>Repeat frame</source>
         <translation>Lặp lại khung hình</translation>
     </message>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="de">
+<TS version="2.1" language="de">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -221,6 +221,37 @@
     </message>
 </context>
 <context>
+    <name>BlacklistItemWdg</name>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="51"/>
+        <source>Do not enable SVP in this video player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="54"/>
+        <source>Don&apos;t use</source>
+        <oldsource>Do not use</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="80"/>
+        <source>Do not allow frame transformation (crop, resize and outer lighting)</source>
+        <oldsource>Do not use any frame transforming features</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="83"/>
+        <source>Don&apos;t change size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="blacklistitemwdg.ui" line="109"/>
+        <source>Enable all SVP features in this video player</source>
+        <oldsource>Enable SVP in this video player</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ConditionWdg</name>
     <message>
         <location filename="conditionwdg.ui" line="169"/>
@@ -276,29 +307,35 @@
         <translation>CPU Leistung. Klicken zum Öffnen des Leistungsmonitors.</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="133"/>
+        <location filename="controlpanel.cpp" line="131"/>
         <source>Video profiles</source>
         <translation>Videoprofile</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="139"/>
+        <location filename="controlpanel.cpp" line="137"/>
         <source>Frame size</source>
         <translation>Bild Größe</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="145"/>
+        <location filename="controlpanel.cpp" line="143"/>
         <source>Black bars lighting</source>
         <translation>Schwarzbalkenbeleuchtung</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="151"/>
+        <location filename="controlpanel.cpp" line="149"/>
         <source>Performance monitor</source>
         <translation>Leistungsmonitor</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="157"/>
+        <location filename="controlpanel.cpp" line="155"/>
         <source>Updates</source>
         <translation>Updates</translation>
+    </message>
+    <message>
+        <location filename="controlpanel.cpp" line="157"/>
+        <location filename="controlpanel.cpp" line="169"/>
+        <source>Utilities</source>
+        <translation>Werkzeuge</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="163"/>
@@ -306,42 +343,42 @@
         <translation>Problem melden</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="169"/>
+        <location filename="controlpanel.cpp" line="175"/>
         <source>Events log</source>
         <translation>Ereignisprotokoll</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="175"/>
+        <location filename="controlpanel.cpp" line="181"/>
         <source>Application settings</source>
         <translation>Anwendungseinstellungen</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="181"/>
+        <location filename="controlpanel.cpp" line="187"/>
         <source>Control options</source>
         <translation>Steuerungsoptionen</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="187"/>
+        <location filename="controlpanel.cpp" line="193"/>
         <source>Unlock SVP features</source>
         <translation>SVP Features entsperren</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="279"/>
+        <location filename="controlpanel.cpp" line="304"/>
         <source>No active playback</source>
         <translation>Keine aktive Wiedergabe</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="280"/>
+        <location filename="controlpanel.cpp" line="305"/>
         <source>1 active video</source>
         <translation>1 aktives Video</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="281"/>
+        <location filename="controlpanel.cpp" line="306"/>
         <source>%1 active videos</source>
         <translation>%1 aktive Videos</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="285"/>
+        <location filename="controlpanel.cpp" line="310"/>
         <source>%1 inactive</source>
         <translation>%1 nicht aktive</translation>
     </message>
@@ -457,23 +494,23 @@
 <context>
     <name>FFDShowVideoPlayer</name>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="71"/>
+        <location filename="ffdshowvideoplayer.cpp" line="80"/>
         <source>64-bit video players are not supported in this version</source>
         <translation>64-Bit Videoplayer werden in dieser Version nicht unterstützt</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="52"/>
+        <location filename="ffdshowvideoplayer.cpp" line="54"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
         <translation>Zugriff zum Videoplayer wurde verweigert. Läuft er mit Administrator Recht?</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="87"/>
+        <location filename="ffdshowvideoplayer.cpp" line="96"/>
         <source>Unable to locate Avisynth, please re-install it</source>
         <translation>Avisynth nicht gefunden, bitte erneut installieren</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="97"/>
-        <source>Error commincating with the video player. Maybe SVP is running with administrator privileges?</source>
+        <location filename="ffdshowvideoplayer.cpp" line="106"/>
+        <source>Error communicating with the video player. Maybe SVP is running with administrator privileges?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -794,88 +831,88 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="158"/>
+        <location filename="playbackobject.cpp" line="38"/>
         <source>2D mode</source>
         <translation>2D Modus</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="159"/>
+        <location filename="playbackobject.cpp" line="39"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
         <translation>3D: Stereopaar nebeneinander</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="160"/>
+        <location filename="playbackobject.cpp" line="40"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
         <translation>3D: Stereopaar untereinander</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="174"/>
+        <location filename="playbackobject.cpp" line="54"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GB Grenze Patch</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="175"/>
+        <location filename="playbackobject.cpp" line="55"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Ihr Video Player ist mit 4GB Speichernutzung begschränkt, es ist sehr ratsam ihn zu patchen bevor der Verwendung mit SVP.
 Bitte schließen Sie den Player bevor Sie den &apos;Patch&apos; Knopf drücken.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="176"/>
+        <location filename="playbackobject.cpp" line="56"/>
         <source>Patch</source>
         <translation>Patch</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="176"/>
+        <location filename="playbackobject.cpp" line="56"/>
         <source>Not now</source>
         <translation>Jetzt nicht</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="176"/>
+        <location filename="playbackobject.cpp" line="56"/>
         <source>Don&apos;t ask again</source>
         <translation>Nicht wieder fragen</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="293"/>
+        <location filename="playbackobject.cpp" line="173"/>
         <source>Playing at %1 fps</source>
         <translation>Wiedergabe mit %1 fps</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="293"/>
+        <location filename="playbackobject.cpp" line="173"/>
         <source>Paused</source>
         <translation>Pausiert</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="294"/>
+        <location filename="playbackobject.cpp" line="174"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="312"/>
+        <location filename="playbackobject.cpp" line="192"/>
         <source>SVP: enabled</source>
         <translation>SVP: aktiviert</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="313"/>
+        <location filename="playbackobject.cpp" line="193"/>
         <source>SVP: disabled</source>
         <translation>SVP: deaktiviert</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="811"/>
+        <location filename="playbackobject.cpp" line="712"/>
         <source>Black bars: </source>
         <translation>Schwarzbalken:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="815"/>
+        <location filename="playbackobject.cpp" line="716"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: Wiedergabe auf %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="855"/>
+        <location filename="playbackobject.cpp" line="758"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>Ihre Avisynth Version ist nicht kompatibel mit SVP! Bitte verwenden Sie&apos;avisynth.dll&apos; im &lt;SVP-installation-path&gt;\plugins Verzeichnis.</translation>
     </message>
@@ -1338,97 +1375,117 @@ Bitte schließen Sie den Player bevor Sie den &apos;Patch&apos; Knopf drücken.<
 <context>
     <name>RemoteWnd</name>
     <message>
-        <location filename="remotewnd.ui" line="54"/>
+        <location filename="remotewnd.ui" line="36"/>
+        <source>Don&apos;t use SVP in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="43"/>
+        <source>Add active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="63"/>
+        <source>Browse...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.ui" line="145"/>
         <source>Keyboard shortcuts</source>
         <translation>Tastaturkürzel</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="67"/>
+        <location filename="remotewnd.ui" line="158"/>
         <source>On</source>
         <translation type="unfinished">An</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="102"/>
+        <location filename="remotewnd.ui" line="193"/>
         <source>Off</source>
         <translation type="unfinished">Aus</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="158"/>
+        <location filename="remotewnd.ui" line="249"/>
         <source>Action</source>
         <translation>Aktion</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="163"/>
+        <location filename="remotewnd.ui" line="254"/>
         <source>Key sequence</source>
         <translation>Tastenkombination</translation>
     </message>
     <message>
-        <location filename="remotewnd.ui" line="194"/>
+        <location filename="remotewnd.ui" line="282"/>
         <source>External control API</source>
         <translation>Externe Steuerungs-API</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="20"/>
-        <source>Whether keyboard shorcuts are in use on not</source>
+        <location filename="remotewnd.cpp" line="54"/>
+        <source>Choose application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="44"/>
+        <location filename="remotewnd.cpp" line="78"/>
+        <source>Whether keyboard shorcuts are in use or not</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.cpp" line="139"/>
         <source>Enable/disable SVP</source>
         <translation>SVP aktivieren/deaktivieren</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="47"/>
+        <location filename="remotewnd.cpp" line="142"/>
         <source>Playback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="51"/>
+        <location filename="remotewnd.cpp" line="146"/>
         <source>Edit active video profile</source>
         <translation>Aktives Videoprofil bearbeiten</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="53"/>
+        <location filename="remotewnd.cpp" line="148"/>
         <source>Cycle to the next video profile</source>
         <translation>Nächster Videoprofil</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="56"/>
+        <location filename="remotewnd.cpp" line="151"/>
         <source>Toggle outer lighting</source>
         <translation>Randbeleuchtung an/aus schalten</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="58"/>
+        <location filename="remotewnd.cpp" line="153"/>
         <source>Cycle to the next lighting pattern</source>
         <translation>Nächster Beleuchtungsmuster</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="61"/>
+        <location filename="remotewnd.cpp" line="156"/>
         <source>Toggle black bars detection</source>
         <translation>Schwarzbalkenerkennung an/aus</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="62"/>
+        <location filename="remotewnd.cpp" line="157"/>
         <source>Force re-detect black bars</source>
         <translation>Schwarzbalkenerkennung erzwingen</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="64"/>
+        <location filename="remotewnd.cpp" line="159"/>
         <source>Toggle 3D stereo mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="67"/>
+        <location filename="remotewnd.cpp" line="162"/>
         <source>Utilities</source>
         <translation type="unfinished">Werkzeuge</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="71"/>
+        <location filename="remotewnd.cpp" line="166"/>
         <source>Open Performance Monitor</source>
         <translation>Leistungsmonitor öffnen</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="72"/>
+        <location filename="remotewnd.cpp" line="167"/>
         <source>Toggle fluency and tearing test</source>
         <translation>Fließ- und Reißtest an/aus</translation>
     </message>
@@ -1551,246 +1608,246 @@ Bitte schließen Sie den Player bevor Sie den &apos;Patch&apos; Knopf drücken.<
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="623"/>
+        <location filename="settings.cpp" line="648"/>
         <source>Frames interpolation mode</source>
         <translation>Bildinterpolationsmodus</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="625"/>
+        <location filename="settings.cpp" line="650"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>&quot;2m&quot; (min Artifakte)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="625"/>
+        <location filename="settings.cpp" line="650"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>&quot;1.5m&quot; (weniger Artifakte)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="626"/>
+        <location filename="settings.cpp" line="651"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>&quot;1m&quot; (Mittlerer Modus)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="626"/>
+        <location filename="settings.cpp" line="651"/>
         <source>Adaptive</source>
         <translation>Adaptiv</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="626"/>
+        <location filename="settings.cpp" line="651"/>
         <source>Uniform (max fluidity)</source>
         <translation>Uniform (max Flüssigkeit)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="636"/>
+        <location filename="settings.cpp" line="661"/>
         <source>SVP shader</source>
         <translation>SVP Shader</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="638"/>
+        <location filename="settings.cpp" line="663"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. Schnellst (langsame PCs)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="638"/>
+        <location filename="settings.cpp" line="663"/>
         <source>2. Sharp (anime)</source>
         <translation>2. Scharf (Anime)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="639"/>
+        <location filename="settings.cpp" line="664"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. Blockweise (nur CPU)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="639"/>
+        <location filename="settings.cpp" line="664"/>
         <source>11. Simple Lite</source>
         <translation>11. Einfach Lite</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="640"/>
+        <location filename="settings.cpp" line="665"/>
         <source>21. Simple</source>
         <translation>21. Einfach</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="640"/>
+        <location filename="settings.cpp" line="665"/>
         <source>13. Standard</source>
         <translation>13. Standard</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="640"/>
+        <location filename="settings.cpp" line="665"/>
         <source>23. Complicated</source>
         <translation>23. Kompliziert</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="659"/>
+        <location filename="settings.cpp" line="684"/>
         <source>Motion vectors grid</source>
         <translation>Bewegungsvektornetz</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="661"/>
+        <location filename="settings.cpp" line="686"/>
         <source>32 px. Large 0</source>
         <translation>32 px. Groß 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="661"/>
+        <location filename="settings.cpp" line="686"/>
         <source>28 px. Large 1</source>
         <translation>28 px. Groß 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="661"/>
+        <location filename="settings.cpp" line="686"/>
         <source>24 px. Large 2</source>
         <translation>24 px. Groß 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="687"/>
         <source>16 px. Average 0</source>
         <translation>16 px. Mittel 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="687"/>
         <source>14 px. Average 1</source>
         <translation>16 px. Mittel 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="662"/>
+        <location filename="settings.cpp" line="687"/>
         <source>12 px. Average 2</source>
         <translation>16 px. Mittel 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="663"/>
+        <location filename="settings.cpp" line="688"/>
         <source>8 px. Small 0</source>
         <translation>8 px. Klein 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="663"/>
+        <location filename="settings.cpp" line="688"/>
         <source>7 px. Small 1</source>
         <translation>7 px. Klein 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="663"/>
+        <location filename="settings.cpp" line="688"/>
         <source>6 px. Small 2</source>
         <translation>6 px. Klein 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="669"/>
+        <location filename="settings.cpp" line="694"/>
         <source>Decrease grid step</source>
         <translation>Netzschritt verkleinern</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="671"/>
         <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="737"/>
         <source>Disabled</source>
         <translation>Deaktiviert</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="672"/>
+        <location filename="settings.cpp" line="697"/>
         <source>By two with local refinement</source>
         <translation>Bei zwei mit lokaler Verfeinerung</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="672"/>
+        <location filename="settings.cpp" line="697"/>
         <source>By two with global refinement</source>
         <translation>Bei zwei mit globaler Verfeinerung</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="678"/>
+        <location filename="settings.cpp" line="703"/>
         <source>Search radius</source>
         <translation>Suchradius</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
+        <location filename="settings.cpp" line="705"/>
         <source>Small and fast</source>
         <translation>Klein und schnell</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
-        <location filename="settings.cpp" line="704"/>
+        <location filename="settings.cpp" line="705"/>
+        <location filename="settings.cpp" line="729"/>
         <source>Small</source>
         <translation>Klein</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
-        <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="704"/>
-        <location filename="settings.cpp" line="713"/>
+        <location filename="settings.cpp" line="705"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="729"/>
+        <location filename="settings.cpp" line="738"/>
         <source>Average</source>
         <translation>Mittel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="680"/>
-        <location filename="settings.cpp" line="704"/>
+        <location filename="settings.cpp" line="705"/>
+        <location filename="settings.cpp" line="729"/>
         <source>Large</source>
         <translation>Groß</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="687"/>
+        <location filename="settings.cpp" line="712"/>
         <source>Motion vectors precision</source>
         <translation>Genauigkeit der Bewegungsvektoren</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Two pixels</source>
         <translation>Zwei Pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="713"/>
         <source>One pixel</source>
         <translation>Ein Pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Half pixel</source>
         <translation>Halber Pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="694"/>
+        <location filename="settings.cpp" line="719"/>
         <source>Wide search</source>
         <translation>Weite Suche</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="713"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="738"/>
         <source>Strong</source>
         <translation>Stark</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="696"/>
-        <location filename="settings.cpp" line="713"/>
+        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="738"/>
         <source>Strongest</source>
         <translation>Am stärksten</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="702"/>
+        <location filename="settings.cpp" line="727"/>
         <source>Width of top coarse level</source>
         <translation>Breite der oberen Grobstufe</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="710"/>
+        <location filename="settings.cpp" line="735"/>
         <source>Artifacts masking</source>
         <translation>Maskierung der Artefakte</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="737"/>
         <source>Weakest</source>
         <translation>Am schwächsten</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="737"/>
         <source>Weak</source>
         <translation>Schwach</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="746"/>
         <source>Processing of scene changes</source>
         <translation>Szenenwechselverarbeitung</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="722"/>
+        <location filename="settings.cpp" line="747"/>
         <source>Blend adjacent frames</source>
         <translation>Mit angrenzenden Bildern verschmelzen</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="722"/>
+        <location filename="settings.cpp" line="747"/>
         <source>Repeat frame</source>
         <translation>Bild wiederholen</translation>
     </message>
