@@ -28,7 +28,7 @@
         <location filename="aboutdlg.ui" line="243"/>
         <source>Manage your license...</source>
         <oldsource>Manage your license.</oldsource>
-        <translation type="unfinished">ライセンスの管理...</translation>
+        <translation>ライセンスの管理...</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="108"/>
@@ -225,30 +225,30 @@
     <message>
         <location filename="blacklistitemwdg.ui" line="51"/>
         <source>Do not enable SVP in this video player</source>
-        <translation type="unfinished"></translation>
+        <translation>このプレーヤーではSVPを使わない</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="54"/>
         <source>Don&apos;t use</source>
         <oldsource>Do not use</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>使用しない</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="80"/>
         <source>Do not allow frame transformation (crop, resize and outer lighting)</source>
         <oldsource>Do not use any frame transforming features</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>クロップやリサイズ、ライティング等のサイズ変更を行わない</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="83"/>
         <source>Don&apos;t change size</source>
-        <translation type="unfinished"></translation>
+        <translation>サイズ変更しない</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="109"/>
         <source>Enable all SVP features in this video player</source>
         <oldsource>Enable SVP in this video player</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>このプレーヤーでSVPの全機能を有効にする</translation>
     </message>
 </context>
 <context>
@@ -1376,7 +1376,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="36"/>
         <source>Don&apos;t use SVP in</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPの使用制限</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="43"/>
@@ -1421,7 +1421,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="54"/>
         <source>Choose application</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションの選択</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="78"/>
