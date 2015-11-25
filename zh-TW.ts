@@ -225,30 +225,30 @@
     <message>
         <location filename="blacklistitemwdg.ui" line="51"/>
         <source>Do not enable SVP in this video player</source>
-        <translation type="unfinished"></translation>
+        <translation>不要在此播放器中啟用 SVP</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="54"/>
         <source>Don&apos;t use</source>
         <oldsource>Do not use</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">不使用</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="80"/>
         <source>Do not allow frame transformation (crop, resize and outer lighting)</source>
         <oldsource>Do not use any frame transforming features</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>不允許幀處理（包括裁剪，尺寸變換和燈光效果）</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="83"/>
         <source>Don&apos;t change size</source>
-        <translation type="unfinished"></translation>
+        <translation>不要改變大小</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="109"/>
         <source>Enable all SVP features in this video player</source>
         <oldsource>Enable SVP in this video player</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>在此播放器中啟用所有 SVP 的功能</translation>
     </message>
 </context>
 <context>
@@ -511,7 +511,7 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="106"/>
         <source>Error communicating with the video player. Maybe SVP is running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>與播放器通訊錯誤。可能 SVP 正在以管理員許可權運行？</translation>
     </message>
 </context>
 <context>
@@ -784,18 +784,18 @@
     <message>
         <location filename="performancewnd.ui" line="331"/>
         <source>Scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>滾動</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="357"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>拉伸</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="385"/>
         <location filename="performancewnd.cpp" line="124"/>
         <source>NOW</source>
-        <translation type="unfinished"></translation>
+        <translation>現在</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="105"/>
@@ -1146,7 +1146,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="performancewnd.cpp" line="107"/>
         <source>Performance graphs time scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">效能圖表時間跨度</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="34"/>
@@ -1376,7 +1376,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="36"/>
         <source>Don&apos;t use SVP in</source>
-        <translation type="unfinished"></translation>
+        <translation>不要在...中使用SVP</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="43"/>
@@ -1386,7 +1386,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="63"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>瀏覽...</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="145"/>
@@ -1421,12 +1421,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="54"/>
         <source>Choose application</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇應用程式</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="78"/>
         <source>Whether keyboard shorcuts are in use or not</source>
-        <translation type="unfinished"></translation>
+        <translation>是否在使用鍵盤快捷鍵</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="139"/>
@@ -1436,7 +1436,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="142"/>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">播放</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="146"/>
@@ -1471,12 +1471,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="159"/>
         <source>Toggle 3D stereo mode</source>
-        <translation type="unfinished"></translation>
+        <translation>開關 3D 立體模式</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="162"/>
         <source>Utilities</source>
-        <translation type="unfinished">工具</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="166"/>
