@@ -815,7 +815,7 @@
     <message>
         <location filename="performancewnd.cpp" line="196"/>
         <source>%1% of %2 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>使用率: %1% 主頻: %2 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="217"/>
@@ -1378,7 +1378,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="63"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
-        <translation type="unfinished"></translation>
+        <translation>修改視訊幀寬度至4或8的整數倍</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="65"/>
@@ -1436,12 +1436,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="288"/>
         <source>External control via HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>通過 HTTP 進行外部控制</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="325"/>
         <source>TCP port number</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP 埠</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="56"/>
@@ -1516,7 +1516,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="182"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>擴展</translation>
     </message>
 </context>
 <context>
@@ -2180,7 +2180,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="386"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
-        <translation type="unfinished"></translation>
+        <translation>為什麼 GPU 加速不可用？</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="393"/>
