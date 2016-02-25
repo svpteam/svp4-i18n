@@ -48,7 +48,7 @@
     <message>
         <location filename="aboutdlg.cpp" line="131"/>
         <source>Pre-Indiegogo donators</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiegogo 之前的捐赠者</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="132"/>
@@ -236,7 +236,7 @@
         <location filename="blacklistitemwdg.ui" line="54"/>
         <source>Don&apos;t use</source>
         <oldsource>Do not use</oldsource>
-        <translation type="unfinished">不使用</translation>
+        <translation>不使用</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="80"/>
@@ -759,7 +759,7 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="10"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-unix-socket mpv option)</source>
-        <translation type="unfinished"></translation>
+        <translation>mpv 的 JSON IPC socket 路径 (参考 mpv 的 --input-unix-socket 选项)</translation>
     </message>
 </context>
 <context>
@@ -813,12 +813,12 @@
     <message>
         <location filename="performancewnd.cpp" line="55"/>
         <source>%1 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="61"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="113"/>
@@ -833,7 +833,7 @@
     <message>
         <location filename="performancewnd.cpp" line="217"/>
         <source>%1 GB of %2 GB</source>
-        <translation>%1 GB/%2 GB</translation>
+        <translation>播放器占用: %1 GB 总占用: %2 GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="240"/>
@@ -942,7 +942,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="750"/>
         <source>SVP: adjusting frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP: 调整帧大小</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="796"/>
@@ -1180,7 +1180,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="performancewnd.cpp" line="115"/>
         <source>Performance graphs time scale</source>
-        <translation type="unfinished">性能图表时间跨度</translation>
+        <translation>性能图表时间跨度</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="34"/>
@@ -1346,7 +1346,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="56"/>
         <source>How to handle multiple videos running at the same time</source>
-        <translation>如何处理同时播放的多路视频</translation>
+        <translation>如何处理多路同时播放的视频</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="58"/>
@@ -1415,12 +1415,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="57"/>
         <source>Don&apos;t use SVP in</source>
-        <translation>不要在...中使用SVP</translation>
+        <translation>不要在以下播放器中使用SVP</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="69"/>
         <source>Add active</source>
-        <translation type="unfinished"></translation>
+        <translation>增加当前播放器</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="94"/>
@@ -1435,12 +1435,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="197"/>
         <source>On</source>
-        <translation type="unfinished">开启</translation>
+        <translation>开启</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="237"/>
         <source>Off</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="293"/>
@@ -1470,22 +1470,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="119"/>
         <source>Whether remote API is in use or not</source>
-        <translation type="unfinished"></translation>
+        <translation>是否使用远程 API</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="120"/>
         <source>Remote API TCP port number</source>
-        <translation type="unfinished"></translation>
+        <translation>远程 API TCP 端口号</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="158"/>
         <source>Listening on port &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;click here to view help page&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>监听端口 &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;点击此处查看帮助&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="159"/>
         <source>Error listening on port &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>监听端口 &lt;b&gt;%1&lt;/b&gt;时出错</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="204"/>
@@ -1882,7 +1882,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="751"/>
         <source>Width of top coarse level</source>
-        <translation>最粗等级宽度</translation>
+        <translation type="unfinished">粗等级处理的最大宽度</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="759"/>
@@ -2094,7 +2094,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="183"/>
         <source>Default configuration restored</source>
-        <translation type="unfinished"></translation>
+        <translation>默认配置已还原</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="296"/>
@@ -2114,7 +2114,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="305"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>背景照明效果的最大帧放大率</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="307"/>
@@ -2244,7 +2244,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="428"/>
         <source>Load at system startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在系统重启后重新打开</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="456"/>
@@ -2279,7 +2279,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1270"/>
         <source>SVP 4 Manager is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP 4 管理器已经运行。</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="465"/>
@@ -2334,32 +2334,32 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="492"/>
         <source>Reset settings to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>把设定重置为默认值</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="494"/>
         <source>SVP - Configuration reset</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - 重置配置</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="494"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
-        <translation type="unfinished"></translation>
+        <translation>你真的要重置 SVP 的所有设定？</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="495"/>
         <source>No</source>
-        <translation type="unfinished">否</translation>
+        <translation>否</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="495"/>
         <source>Yes, but keep video profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>是，但是保留视频配置</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="495"/>
         <source>Yes, reset all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>是，重置所有设定</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="501"/>
@@ -2409,7 +2409,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="552"/>
         <source>Last generated script</source>
-        <translation type="unfinished"></translation>
+        <translation>最近一次生成的脚本</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="558"/>
