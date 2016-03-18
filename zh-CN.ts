@@ -4,18 +4,18 @@
 <context>
     <name>AboutDlg</name>
     <message>
-        <location filename="aboutdlg.ui" line="83"/>
+        <location filename="aboutdlg.ui" line="98"/>
         <source>Funded with &lt;b&gt;Indiegogo&lt;/b&gt;</source>
         <translation>由 &lt;b&gt;Indiegogo&lt;/b&gt; 提供赞助</translation>
     </message>
     <message>
-        <location filename="aboutdlg.ui" line="116"/>
+        <location filename="aboutdlg.ui" line="140"/>
         <source>Icons by &lt;b&gt;Icons8&lt;/b&gt;</source>
         <oldsource>Using icons from &lt;b&gt;Icons8&lt;/b&gt;</oldsource>
         <translation>由 &lt;b&gt;Icons8&lt;/b&gt; 设计图标</translation>
     </message>
     <message>
-        <location filename="aboutdlg.ui" line="225"/>
+        <location filename="aboutdlg.ui" line="258"/>
         <source>This copy is registered!</source>
         <translation>此软件副本已注册！</translation>
     </message>
@@ -25,38 +25,38 @@
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="aboutdlg.ui" line="242"/>
+        <location filename="aboutdlg.ui" line="275"/>
         <source>Manage your license...</source>
         <oldsource>Manage your license.</oldsource>
         <translation>管理软件许可...</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="114"/>
+        <location filename="aboutdlg.cpp" line="117"/>
         <source>Developers</source>
         <translation>开发者</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="114"/>
+        <location filename="aboutdlg.cpp" line="117"/>
         <source>Special thanks</source>
         <translation>鸣谢</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="130"/>
+        <location filename="aboutdlg.cpp" line="133"/>
         <source>Indiegogo Co-Authors</source>
         <translation>Indiegogo 合作者</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="131"/>
+        <location filename="aboutdlg.cpp" line="134"/>
         <source>Pre-Indiegogo donators</source>
         <translation>Indiegogo 之前的捐赠者</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="132"/>
+        <location filename="aboutdlg.cpp" line="135"/>
         <source>Indiegogo Part of the Team members</source>
         <translation>Indiegogo 团队成员</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="133"/>
+        <location filename="aboutdlg.cpp" line="136"/>
         <source>Indiegogo funders</source>
         <translation>Indiegogo 赞助者</translation>
     </message>
@@ -102,6 +102,11 @@
         <location filename="activationwnd.ui" line="168"/>
         <source>An active Internet connection is required.</source>
         <translation>需要网络连接。</translation>
+    </message>
+    <message>
+        <location filename="activationwnd.cpp" line="19"/>
+        <source>To get access to this Preview version you need a valid SVP 4 Pro &lt;a href=#&gt;registration key&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="54"/>
@@ -259,17 +264,17 @@
 <context>
     <name>ConditionWdg</name>
     <message>
-        <location filename="conditionwdg.ui" line="174"/>
+        <location filename="conditionwdg.ui" line="192"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="conditionwdg.ui" line="220"/>
+        <location filename="conditionwdg.ui" line="238"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="conditionwdg.ui" line="250"/>
+        <location filename="conditionwdg.ui" line="268"/>
         <source>Remove this condition</source>
         <translation>删除此条件</translation>
     </message>
@@ -312,78 +317,78 @@
         <translation>CPU 性能。点击以打开性能监视器窗口。</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="141"/>
+        <location filename="controlpanel.cpp" line="140"/>
         <source>Video profiles</source>
         <translation>视频配置</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="147"/>
+        <location filename="controlpanel.cpp" line="146"/>
         <source>Frame size</source>
         <translation>帧大小</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="153"/>
+        <location filename="controlpanel.cpp" line="152"/>
         <source>Black bars lighting</source>
         <translation>黑边灯光效果</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="159"/>
+        <location filename="controlpanel.cpp" line="158"/>
         <source>Performance monitor</source>
         <translation>性能监视器</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="165"/>
+        <location filename="controlpanel.cpp" line="164"/>
         <source>Updates</source>
         <translation>更新</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="167"/>
-        <location filename="controlpanel.cpp" line="179"/>
+        <location filename="controlpanel.cpp" line="166"/>
+        <location filename="controlpanel.cpp" line="178"/>
         <source>Utilities</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="173"/>
+        <location filename="controlpanel.cpp" line="172"/>
         <source>Report a problem</source>
         <translation>报告问题</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="185"/>
+        <location filename="controlpanel.cpp" line="184"/>
         <source>Events log</source>
         <translation>事件日志</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="191"/>
+        <location filename="controlpanel.cpp" line="190"/>
         <source>Application settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="197"/>
+        <location filename="controlpanel.cpp" line="196"/>
         <source>Control options</source>
         <translation>控制选项</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="203"/>
+        <location filename="controlpanel.cpp" line="202"/>
         <source>Unlock SVP features</source>
         <translation>解锁 SVP 功能</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="325"/>
+        <location filename="controlpanel.cpp" line="326"/>
         <source>No active playback</source>
         <translation>等待处理视频</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="326"/>
+        <location filename="controlpanel.cpp" line="327"/>
         <source>1 active video</source>
         <translation>正在处理视频</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="327"/>
+        <location filename="controlpanel.cpp" line="328"/>
         <source>%1 active videos</source>
         <translation>正在处理 %1 路视频</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="331"/>
+        <location filename="controlpanel.cpp" line="332"/>
         <source>%1 inactive</source>
         <translation>%1 路视频未处理</translation>
     </message>
@@ -499,22 +504,22 @@
 <context>
     <name>FFDShowVideoPlayer</name>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="84"/>
-        <source>64-bit video players are not supported in this version</source>
-        <translation>此版本不支持 64-bit 播放器</translation>
-    </message>
-    <message>
         <location filename="ffdshowvideoplayer.cpp" line="55"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
         <translation>被拒绝访问播放器。播放器是否正以管理员权限运行？</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="100"/>
+        <location filename="ffdshowvideoplayer.cpp" line="81"/>
+        <source>64-bit SVP engine is not installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ffdshowvideoplayer.cpp" line="97"/>
         <source>Unable to locate Avisynth, please re-install it</source>
         <translation>无法找到 Avisynth，请重新安装</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="110"/>
+        <location filename="ffdshowvideoplayer.cpp" line="107"/>
         <source>Error communicating with the video player. Maybe SVP is running with administrator privileges?</source>
         <translation>与播放器通讯错误。可能 SVP 正在以管理员权限运行？</translation>
     </message>
@@ -603,43 +608,43 @@
         <translation>总览</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.ui" line="661"/>
+        <location filename="framecontrolwnd.ui" line="670"/>
         <source>No active video</source>
         <translation>等待处理视频</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.ui" line="716"/>
+        <location filename="framecontrolwnd.ui" line="725"/>
         <source>Preview and fine tuning</source>
         <translation>预览与微调</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="441"/>
+        <location filename="framecontrolwnd.cpp" line="444"/>
         <source>Fields:</source>
         <translation>画面：</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="441"/>
+        <location filename="framecontrolwnd.cpp" line="444"/>
         <source>Vert: %1 - %2, Hor: %3 - %4</source>
         <translation>纵向: %1 - %2, 横向: %3 - %4</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="445"/>
+        <location filename="framecontrolwnd.cpp" line="448"/>
         <source>Crop to:</source>
         <translation>裁剪至：</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="446"/>
-        <location filename="framecontrolwnd.cpp" line="454"/>
+        <location filename="framecontrolwnd.cpp" line="449"/>
+        <location filename="framecontrolwnd.cpp" line="457"/>
         <source>none</source>
         <translation>无</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="449"/>
+        <location filename="framecontrolwnd.cpp" line="452"/>
         <source>Fine tuning:</source>
         <translation>微调：</translation>
     </message>
     <message>
-        <location filename="framecontrolwnd.cpp" line="453"/>
+        <location filename="framecontrolwnd.cpp" line="456"/>
         <source>Scale to:</source>
         <translation>拉伸至：</translation>
     </message>
@@ -757,9 +762,24 @@
 <context>
     <name>MpvFinder</name>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="10"/>
+        <location filename="mpvvideoplayer.cpp" line="27"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-unix-socket mpv option)</source>
         <translation>mpv 的 JSON IPC socket 路径 (参考 mpv 的 --input-unix-socket 选项)</translation>
+    </message>
+    <message>
+        <location filename="mpvvideoplayer.cpp" line="30"/>
+        <source>TCP port for mpv&apos;s JSON IPC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mpvvideoplayer.cpp" line="34"/>
+        <source>Path to the external video player to execute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mpvvideoplayer.cpp" line="36"/>
+        <source>External player&apos;s arguments separated with &apos;;&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -795,18 +815,18 @@
         <translation>播放器内存使用</translation>
     </message>
     <message>
-        <location filename="performancewnd.ui" line="331"/>
+        <location filename="performancewnd.ui" line="340"/>
         <source>Scroll</source>
         <translation>滚动</translation>
     </message>
     <message>
-        <location filename="performancewnd.ui" line="357"/>
+        <location filename="performancewnd.ui" line="375"/>
         <source>Scale</source>
         <translation>拉伸</translation>
     </message>
     <message>
-        <location filename="performancewnd.ui" line="385"/>
-        <location filename="performancewnd.cpp" line="132"/>
+        <location filename="performancewnd.ui" line="403"/>
+        <location filename="performancewnd.cpp" line="135"/>
         <source>NOW</source>
         <translation>现在</translation>
     </message>
@@ -826,32 +846,32 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="196"/>
+        <location filename="performancewnd.cpp" line="199"/>
         <source>%1% of %2 GHz</source>
         <translation>使用率: %1% 主频: %2 GHz</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="217"/>
+        <location filename="performancewnd.cpp" line="220"/>
         <source>%1 GB of %2 GB</source>
         <translation>播放器占用: %1 GB 总占用: %2 GB</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="240"/>
+        <location filename="performancewnd.cpp" line="243"/>
         <source>N/A</source>
         <translation>不可用</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="250"/>
+        <location filename="performancewnd.cpp" line="253"/>
         <source>%1 at %2%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="262"/>
+        <location filename="performancewnd.cpp" line="265"/>
         <source>Cores</source>
         <translation>逻辑处理器</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="262"/>
+        <location filename="performancewnd.cpp" line="265"/>
         <source>Overall</source>
         <translation>总体利用率</translation>
     </message>
@@ -859,93 +879,93 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="37"/>
+        <location filename="playbackobject.cpp" line="43"/>
         <source>2D mode</source>
         <translation>2D 模式</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="39"/>
+        <location filename="playbackobject.cpp" line="45"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
         <translation>3D: 左右式 3D</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="38"/>
+        <location filename="playbackobject.cpp" line="44"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
         <translation>3D: 上下式 3D</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="54"/>
+        <location filename="playbackobject.cpp" line="60"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GB 内存补丁</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="55"/>
+        <location filename="playbackobject.cpp" line="61"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>您的播放器不能使用 4GB 内存，我们强烈推荐在使用 SVP 前对其应用补丁。
 请在点击“应用补丁”之前关闭播放器。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="56"/>
+        <location filename="playbackobject.cpp" line="62"/>
         <source>Patch</source>
         <translation>应用补丁</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="56"/>
+        <location filename="playbackobject.cpp" line="62"/>
         <source>Not now</source>
         <translation>暂时不要</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="56"/>
+        <location filename="playbackobject.cpp" line="62"/>
         <source>Don&apos;t ask again</source>
         <translation>不再询问</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="178"/>
+        <location filename="playbackobject.cpp" line="211"/>
         <source>Playing at %1 fps</source>
         <translation>播放帧率: %1fps</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="178"/>
+        <location filename="playbackobject.cpp" line="211"/>
         <source>Paused</source>
         <translation>暂停</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="179"/>
+        <location filename="playbackobject.cpp" line="212"/>
         <source>px</source>
         <translation>像素</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="197"/>
+        <location filename="playbackobject.cpp" line="230"/>
         <source>SVP: enabled</source>
         <translation>SVP: 启用</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="198"/>
+        <location filename="playbackobject.cpp" line="231"/>
         <source>SVP: disabled</source>
         <translation>SVP: 禁用</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="734"/>
+        <location filename="playbackobject.cpp" line="770"/>
         <source>Black bars: </source>
         <translation>黑边: </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="740"/>
+        <location filename="playbackobject.cpp" line="776"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: 播放于 %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="750"/>
+        <location filename="playbackobject.cpp" line="786"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: 调整帧大小</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="796"/>
+        <location filename="playbackobject.cpp" line="833"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>您正在使用不兼容的 Avisynth 版本！SVP 不能正常工作，请使用 &lt;SVP-installation-path&gt;\plugins 文件夹中的&quot;avisynth.dll&quot;。</translation>
     </message>
@@ -1009,143 +1029,143 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>自动选项选择</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="504"/>
+        <location filename="profilewnd.ui" line="513"/>
         <source>Higher performance</source>
         <translation>更高性能</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="528"/>
+        <location filename="profilewnd.ui" line="537"/>
         <source>Higher quality</source>
         <translation>更高质量</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="518"/>
+        <location filename="profilewnd.ui" line="527"/>
         <source>OPTIMAL</source>
         <translation>平衡</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="611"/>
+        <location filename="profilewnd.ui" line="629"/>
         <source>Optimized for</source>
         <translation>为以下内容优化</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="635"/>
+        <location filename="profilewnd.ui" line="653"/>
         <source>Film</source>
         <translation>影视</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="664"/>
+        <location filename="profilewnd.ui" line="682"/>
         <source>Animation</source>
         <translation>动画</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="717"/>
+        <location filename="profilewnd.ui" line="735"/>
         <source>Artifacts masking</source>
         <translation>伪影去除</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="741"/>
+        <location filename="profilewnd.ui" line="759"/>
         <source>Low</source>
         <translation>低</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="770"/>
+        <location filename="profilewnd.ui" line="788"/>
         <source>Medium</source>
         <translation>中</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="799"/>
+        <location filename="profilewnd.ui" line="817"/>
         <source>High</source>
         <translation>高</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="907"/>
+        <location filename="profilewnd.ui" line="925"/>
         <source>Add new condition for applying this profile</source>
         <translation>为此配置增加新的应用条件</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="910"/>
+        <location filename="profilewnd.ui" line="928"/>
         <source>Apply this profile IF...</source>
         <translation>如果...，应用此配置</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="952"/>
+        <location filename="profilewnd.ui" line="970"/>
         <source>All changes are auto-saved</source>
         <translation>所有更改已自动保存</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="962"/>
+        <location filename="profilewnd.ui" line="980"/>
         <source>Revert all recent changes made to this profile</source>
         <translation>撤销所有对此配置最近的修改</translation>
     </message>
     <message>
-        <location filename="profilewnd.ui" line="965"/>
+        <location filename="profilewnd.ui" line="983"/>
         <source>Revert</source>
         <translation>撤销</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="225"/>
+        <location filename="profilewnd.cpp" line="228"/>
         <source>Movie frame rate</source>
         <translation>视频原始帧率</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="230"/>
+        <location filename="profilewnd.cpp" line="233"/>
         <source>Screen refresh rate</source>
         <translation>屏幕刷新率</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="234"/>
+        <location filename="profilewnd.cpp" line="237"/>
         <source>Fixed frame rate</source>
         <translation>固定帧率</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="235"/>
-        <location filename="profilewnd.cpp" line="562"/>
+        <location filename="profilewnd.cpp" line="238"/>
+        <location filename="profilewnd.cpp" line="571"/>
         <source>fps</source>
         <translation>帧每秒</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="382"/>
+        <location filename="profilewnd.cpp" line="388"/>
         <source>SVP - Video profiles</source>
         <translation>SVP - 视频配置</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="382"/>
+        <location filename="profilewnd.cpp" line="388"/>
         <source>Are you sure you want to delete this profile?</source>
         <translation>确定删除此配置？</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="498"/>
+        <location filename="profilewnd.cpp" line="507"/>
         <source>Rendering options</source>
         <translation>渲染选项</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="502"/>
+        <location filename="profilewnd.cpp" line="511"/>
         <source>Motion vectors options</source>
         <translation>运动向量选项</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="506"/>
+        <location filename="profilewnd.cpp" line="515"/>
         <source>Miscellaneous options</source>
         <translation>其他选项</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="561"/>
+        <location filename="profilewnd.cpp" line="570"/>
         <source>Movie</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="561"/>
+        <location filename="profilewnd.cpp" line="570"/>
         <source>Screen</source>
         <translation>屏幕</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="562"/>
+        <location filename="profilewnd.cpp" line="571"/>
         <source>Fixed</source>
         <translation>固定</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="609"/>
+        <location filename="profilewnd.cpp" line="618"/>
         <source>User defined options</source>
         <translation>用户定义选项</translation>
     </message>
@@ -1153,22 +1173,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="174"/>
+        <location filename="main.cpp" line="221"/>
         <source>SVP - error</source>
         <translation>SVP - 错误</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="174"/>
+        <location filename="main.cpp" line="221"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>请先关闭 SVP 3.1 管理器。</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="375"/>
+        <location filename="main.cpp" line="414"/>
         <source>SVP - critical error</source>
         <translation>SVP - 严重错误</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="375"/>
+        <location filename="main.cpp" line="414"/>
         <source>Some of required modules not found, please reinstall SVP.</source>
         <translation>一些必需的模块未找到，请重新安装 SVP。</translation>
     </message>
@@ -1288,126 +1308,136 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>默认效果</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="339"/>
+        <location filename="profilewnd.cpp" line="345"/>
         <source>Last edited FRC profile</source>
         <translation>最近一次编辑过的 FRC 配置</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="695"/>
+        <location filename="profilewnd.cpp" line="704"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="39"/>
+        <location filename="trayicon.cpp" line="37"/>
         <source>If we&apos;re running in portable mode</source>
         <translation>是否在绿色模式下运行</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="40"/>
+        <location filename="trayicon.cpp" line="38"/>
         <source>Directory to store all the settings and log files</source>
         <translation>保存所有设置和日志的路径</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="41"/>
+        <location filename="trayicon.cpp" line="39"/>
         <source>Last generated AVS script</source>
         <translation>最近一次生成的 AVS 脚本</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="43"/>
+        <location filename="trayicon.cpp" line="41"/>
         <source>If 64-bit video players are allowed</source>
         <translation>是否允许 64-bit 播放器</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="46"/>
+        <location filename="trayicon.cpp" line="44"/>
+        <source>Whether to place SVP icon into system tray or not</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="45"/>
         <source>User interface language</source>
         <oldsource>User interface complexity</oldsource>
         <translation>用户界面语言</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="49"/>
+        <location filename="trayicon.cpp" line="48"/>
         <source>Time of last successful check</source>
         <translation>最近一次成功检测的时间</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="51"/>
+        <location filename="trayicon.cpp" line="50"/>
         <source>Turn off and then on when fast forward or rewind actions occured to minimize freezing</source>
         <translation>当视频快进或后退时，关闭再开启 SVP 以减少停顿</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="52"/>
+        <location filename="trayicon.cpp" line="51"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
         <translation>下一帧在多少秒后可被认定为播放跳转</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="54"/>
+        <location filename="trayicon.cpp" line="53"/>
         <source>Alter video player process priority</source>
         <translation>提高播放器进程的优先级</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="56"/>
+        <location filename="trayicon.cpp" line="55"/>
         <source>How to handle multiple videos running at the same time</source>
         <translation>如何处理多路同时播放的视频</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="58"/>
+        <location filename="trayicon.cpp" line="57"/>
         <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
         <translation>假定隔行扫描的视频经过去隔行后帧率加倍</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="59"/>
+        <location filename="trayicon.cpp" line="58"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
         <translation>如果视频的比例过大或过小，则自动开启 3D 模式</translation>
     </message>
     <message>
+        <location filename="trayicon.cpp" line="60"/>
         <location filename="trayicon.cpp" line="61"/>
-        <location filename="trayicon.cpp" line="62"/>
         <source>Measured CPU performance</source>
         <translation>CPU 性能测试结果</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="64"/>
+        <location filename="trayicon.cpp" line="63"/>
         <source>How many times SVP Manager was started</source>
         <translation>SVP 管理器已启动了多少次</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="65"/>
+        <location filename="trayicon.cpp" line="64"/>
         <source>How many videos was viewed with SVP</source>
         <translation>有多少视频已使用 SVP 观看</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="67"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>FRC 运算所使用的 GPU 设备 ID</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="67"/>
         <source>Number of CPU computation threads</source>
         <translation>CPU 运算线程数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="69"/>
+        <location filename="trayicon.cpp" line="68"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>屏幕刷新率与目标帧率之间的最大相差帧数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="70"/>
+        <location filename="trayicon.cpp" line="69"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
         <translation>使用 FRC 引擎处理的最高帧率</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="71"/>
+        <location filename="trayicon.cpp" line="70"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation>修改视频帧宽度至4或8的整数倍</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="73"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>不再询问 4GB 内存补丁</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="76"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>不再询问有关系统性能测试</translation>
+    </message>
+    <message>
+        <location filename="fontsize.cpp" line="15"/>
+        <source>Fonts scaling factor [1.0-2.0]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1671,246 +1701,246 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="672"/>
+        <location filename="settings.cpp" line="677"/>
         <source>Frames interpolation mode</source>
         <translation>帧插补模式</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="674"/>
+        <location filename="settings.cpp" line="679"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>“2m” (伪影最少)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="674"/>
+        <location filename="settings.cpp" line="679"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>“1.5m” (少量伪影)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="675"/>
+        <location filename="settings.cpp" line="680"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>“1m” (普通模式)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="675"/>
+        <location filename="settings.cpp" line="680"/>
         <source>Adaptive</source>
         <translation>自适应</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="675"/>
+        <location filename="settings.cpp" line="680"/>
         <source>Uniform (max fluidity)</source>
         <translation>恒定帧间隔 (最流畅)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="685"/>
+        <location filename="settings.cpp" line="690"/>
         <source>SVP shader</source>
         <translation>SVP着色器</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="687"/>
+        <location filename="settings.cpp" line="692"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. 最快 (适用于慢电脑)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="687"/>
+        <location filename="settings.cpp" line="692"/>
         <source>2. Sharp (anime)</source>
         <translation>2. 锐利 (适用于动画)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="693"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. 分块 (仅使用 CPU)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="688"/>
+        <location filename="settings.cpp" line="693"/>
         <source>11. Simple Lite</source>
         <translation>11. 简单清淡</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="689"/>
+        <location filename="settings.cpp" line="694"/>
         <source>21. Simple</source>
         <translation>21. 简单</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="689"/>
+        <location filename="settings.cpp" line="694"/>
         <source>13. Standard</source>
         <translation>13. 标准</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="689"/>
+        <location filename="settings.cpp" line="694"/>
         <source>23. Complicated</source>
         <translation>23. 复杂</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="708"/>
+        <location filename="settings.cpp" line="713"/>
         <source>Motion vectors grid</source>
         <translation>运动向量网格</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="710"/>
+        <location filename="settings.cpp" line="715"/>
         <source>32 px. Large 0</source>
         <translation>32 像素. 粗略 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="710"/>
+        <location filename="settings.cpp" line="715"/>
         <source>28 px. Large 1</source>
         <translation>28 像素. 粗略 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="710"/>
+        <location filename="settings.cpp" line="715"/>
         <source>24 px. Large 2</source>
         <translation>24 像素. 粗略 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="711"/>
+        <location filename="settings.cpp" line="716"/>
         <source>16 px. Average 0</source>
         <translation>16 像素. 中等 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="711"/>
+        <location filename="settings.cpp" line="716"/>
         <source>14 px. Average 1</source>
         <translation>14 像素. 中等 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="711"/>
+        <location filename="settings.cpp" line="716"/>
         <source>12 px. Average 2</source>
         <translation>12 像素. 中等 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="717"/>
         <source>8 px. Small 0</source>
         <translation>8 像素. 精细 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="717"/>
         <source>7 px. Small 1</source>
         <translation>7 像素. 精细 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="712"/>
+        <location filename="settings.cpp" line="717"/>
         <source>6 px. Small 2</source>
         <translation>6 像素. 精细 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="718"/>
+        <location filename="settings.cpp" line="723"/>
         <source>Decrease grid step</source>
         <translation>减小网格步长</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="720"/>
-        <location filename="settings.cpp" line="745"/>
-        <location filename="settings.cpp" line="761"/>
+        <location filename="settings.cpp" line="725"/>
+        <location filename="settings.cpp" line="750"/>
+        <location filename="settings.cpp" line="766"/>
         <source>Disabled</source>
         <translation>禁用</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="726"/>
         <source>By two with local refinement</source>
         <translation>用局部细化使步长减二</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="721"/>
+        <location filename="settings.cpp" line="726"/>
         <source>By two with global refinement</source>
         <translation>用全局细化使步长减二</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="727"/>
+        <location filename="settings.cpp" line="732"/>
         <source>Search radius</source>
         <translation>搜索半径</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="729"/>
+        <location filename="settings.cpp" line="734"/>
         <source>Small and fast</source>
         <translation>小并且快速</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="729"/>
-        <location filename="settings.cpp" line="753"/>
+        <location filename="settings.cpp" line="734"/>
+        <location filename="settings.cpp" line="758"/>
         <source>Small</source>
         <translation>小</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="729"/>
-        <location filename="settings.cpp" line="745"/>
-        <location filename="settings.cpp" line="753"/>
-        <location filename="settings.cpp" line="762"/>
+        <location filename="settings.cpp" line="734"/>
+        <location filename="settings.cpp" line="750"/>
+        <location filename="settings.cpp" line="758"/>
+        <location filename="settings.cpp" line="767"/>
         <source>Average</source>
         <translation>中等</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="729"/>
-        <location filename="settings.cpp" line="753"/>
+        <location filename="settings.cpp" line="734"/>
+        <location filename="settings.cpp" line="758"/>
         <source>Large</source>
         <translation>大</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="736"/>
+        <location filename="settings.cpp" line="741"/>
         <source>Motion vectors precision</source>
         <translation>运动向量精度</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="737"/>
+        <location filename="settings.cpp" line="742"/>
         <source>Two pixels</source>
         <translation>2 像素</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="737"/>
+        <location filename="settings.cpp" line="742"/>
         <source>One pixel</source>
         <translation>1 像素</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="737"/>
+        <location filename="settings.cpp" line="742"/>
         <source>Half pixel</source>
         <translation>半像素</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="743"/>
+        <location filename="settings.cpp" line="748"/>
         <source>Wide search</source>
         <translation>宽范围搜索力度</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="745"/>
-        <location filename="settings.cpp" line="762"/>
+        <location filename="settings.cpp" line="750"/>
+        <location filename="settings.cpp" line="767"/>
         <source>Strong</source>
         <translation>强</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="745"/>
-        <location filename="settings.cpp" line="762"/>
+        <location filename="settings.cpp" line="750"/>
+        <location filename="settings.cpp" line="767"/>
         <source>Strongest</source>
         <translation>最强</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="751"/>
+        <location filename="settings.cpp" line="756"/>
         <source>Width of top coarse level</source>
         <translation type="unfinished">粗等级处理的最大宽度</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="759"/>
+        <location filename="settings.cpp" line="764"/>
         <source>Artifacts masking</source>
         <translation>伪影去除力度</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="761"/>
+        <location filename="settings.cpp" line="766"/>
         <source>Weakest</source>
         <translation>最轻微</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="761"/>
+        <location filename="settings.cpp" line="766"/>
         <source>Weak</source>
         <translation>轻微</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="770"/>
+        <location filename="settings.cpp" line="775"/>
         <source>Processing of scene changes</source>
         <translation>场景变换处理</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="771"/>
+        <location filename="settings.cpp" line="776"/>
         <source>Blend adjacent frames</source>
         <translation>混合相邻帧</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="771"/>
+        <location filename="settings.cpp" line="776"/>
         <source>Repeat frame</source>
         <translation>帧重复</translation>
     </message>
@@ -1938,23 +1968,23 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>描述</translation>
     </message>
     <message>
-        <location filename="settingswnd.ui" line="105"/>
+        <location filename="settingswnd.ui" line="114"/>
         <source>Modify these values at your own risk, read the manual first!</source>
         <oldsource>&lt;a href=&quot;#&quot;&gt;Modify these values at your own risk, read the manual first!&lt;/a&gt;</oldsource>
         <translation>修改这些值之前请先阅读手册，自担风险！</translation>
     </message>
     <message>
-        <location filename="settingswnd.cpp" line="59"/>
+        <location filename="settingswnd.cpp" line="60"/>
         <source>1. SVP Manager and general FRC engine options</source>
         <translation>1. SVP 管理器和 FRC 引擎综合选项</translation>
     </message>
     <message>
-        <location filename="settingswnd.cpp" line="60"/>
+        <location filename="settingswnd.cpp" line="61"/>
         <source>2. Video profiles options</source>
         <translation>2. 视频配置选项</translation>
     </message>
     <message>
-        <location filename="settingswnd.cpp" line="61"/>
+        <location filename="settingswnd.cpp" line="62"/>
         <source>3. Outer light patterns</source>
         <translation>3. 背景灯效果</translation>
     </message>
@@ -1996,448 +2026,478 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="trayicon.cpp" line="170"/>
+        <location filename="trayicon.cpp" line="171"/>
         <source>Start with SVP with right click on the icon</source>
         <translation>右键点击图标开启 SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="171"/>
+        <location filename="trayicon.cpp" line="172"/>
         <source>Language was changed to %1</source>
         <translation>语言已改成 %1</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="174"/>
+        <location filename="trayicon.cpp" line="175"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
         <translation>此份 SVP 软件副本已成功注册。感谢！</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="177"/>
-        <location filename="trayicon.cpp" line="575"/>
+        <location filename="trayicon.cpp" line="178"/>
+        <location filename="trayicon.cpp" line="605"/>
         <source>Updates available</source>
         <translation>发现更新</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="214"/>
+        <location filename="trayicon.cpp" line="215"/>
         <source>No active playback</source>
         <translation>等待处理视频</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="250"/>
+        <location filename="trayicon.cpp" line="251"/>
         <source>SVP Control Panel</source>
         <translation>SVP 控制面板</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="262"/>
+        <location filename="trayicon.cpp" line="287"/>
         <source>Video frame</source>
         <translation>视频帧处理</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="265"/>
+        <location filename="trayicon.cpp" line="290"/>
         <source>Detect and cut off black bars</source>
         <translation>检测并切掉黑边</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="266"/>
+        <location filename="trayicon.cpp" line="291"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
         <translation>自动检测视频中的黑边并切掉</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="270"/>
+        <location filename="trayicon.cpp" line="295"/>
         <source>Keep aspect ratio</source>
         <translation>保持纵横比例</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="271"/>
+        <location filename="trayicon.cpp" line="296"/>
         <source>Crop to the screen aspect ratio</source>
         <translation>裁剪至屏幕纵横比</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="273"/>
+        <location filename="trayicon.cpp" line="298"/>
         <source>Frame cropping mode applied before any size changing</source>
         <translation>在调整尺寸之前裁剪帧</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="278"/>
+        <location filename="trayicon.cpp" line="303"/>
         <source>Keep normal size</source>
         <translation>保持正常大小</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="279"/>
+        <location filename="trayicon.cpp" line="304"/>
         <source>Decrease to screen size</source>
         <translation>缩减至屏幕大小</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="281"/>
+        <location filename="trayicon.cpp" line="306"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
         <translation>缩减帧的大小以减少帧插补处理的运算量</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="286"/>
+        <location filename="trayicon.cpp" line="311"/>
         <source>Advanced controls...</source>
         <translation>高级设置...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="292"/>
+        <location filename="trayicon.cpp" line="317"/>
         <source>Outer lighting</source>
         <translation>背景灯效果</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="298"/>
+        <location filename="trayicon.cpp" line="323"/>
         <source>Disabled</source>
         <translation>禁用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="295"/>
+        <location filename="trayicon.cpp" line="320"/>
         <source>Fill black bars</source>
         <translation>填充黑边</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="183"/>
+        <location filename="trayicon.cpp" line="184"/>
         <source>Default configuration restored</source>
         <translation>默认配置已还原</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="296"/>
+        <location filename="trayicon.cpp" line="266"/>
+        <source>Open file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="274"/>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="274"/>
+        <source>Video files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="321"/>
         <source>Glow lights</source>
         <translation>渐变光</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="300"/>
+        <location filename="trayicon.cpp" line="325"/>
         <source>Outer lighting mode</source>
         <translation>背景灯模式</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="303"/>
+        <location filename="trayicon.cpp" line="328"/>
         <source>Glow border width</source>
         <translation>渐变边缘宽度</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="305"/>
+        <location filename="trayicon.cpp" line="330"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
         <translation>背景照明效果的最大帧放大率</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="307"/>
+        <location filename="trayicon.cpp" line="332"/>
         <source>Disabled in 3D mode</source>
         <translation>3D 模式中已禁用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="309"/>
+        <location filename="trayicon.cpp" line="334"/>
         <source>Enable outer lighting only for 2D videos</source>
         <translation>仅对 2D 视频启用背景灯效果</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="315"/>
+        <location filename="trayicon.cpp" line="340"/>
         <source>Light patterns</source>
         <translation>灯光效果</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="319"/>
+        <location filename="trayicon.cpp" line="344"/>
         <source>Manage patterns...</source>
         <translation>管理效果...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="328"/>
+        <location filename="trayicon.cpp" line="353"/>
         <source>My options</source>
         <translation>我的选项</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="335"/>
+        <location filename="trayicon.cpp" line="360"/>
         <source>Temporarily disable SVP</source>
         <translation>暂时禁用 SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="337"/>
+        <location filename="trayicon.cpp" line="362"/>
         <source>SVP is disabled until next start</source>
         <translation>禁用 SVP 至下次启动</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="339"/>
+        <location filename="trayicon.cpp" line="364"/>
         <source>Utilities</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="341"/>
+        <location filename="trayicon.cpp" line="366"/>
         <source>Performance Monitor</source>
         <translation>性能监视器</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="346"/>
+        <location filename="trayicon.cpp" line="371"/>
         <source>Assess system performance</source>
         <translation>测试系统性能</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="355"/>
+        <location filename="trayicon.cpp" line="380"/>
         <source>Demonstration mode</source>
         <translation>演示模式</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="356"/>
+        <location filename="trayicon.cpp" line="381"/>
         <source>Fluency and tearing test</source>
         <translation>流畅度与图像断裂测试</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="366"/>
+        <location filename="trayicon.cpp" line="391"/>
         <source>Apply 4GB aware patch...</source>
         <translation>应用 4GB 内存补丁...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="369"/>
+        <location filename="trayicon.cpp" line="394"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
         <translation>在点击“继续”后浏览播放器 exe 执行文件。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="370"/>
+        <location filename="trayicon.cpp" line="395"/>
         <source>Continue</source>
         <translation>继续</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="370"/>
+        <location filename="trayicon.cpp" line="395"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="373"/>
+        <location filename="trayicon.cpp" line="400"/>
         <source>Additional programs and features...</source>
         <translation>高级功能...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="382"/>
+        <location filename="trayicon.cpp" line="409"/>
         <source>Application settings</source>
         <translation>应用程序设置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="387"/>
+        <location filename="trayicon.cpp" line="414"/>
         <source>No acceleration</source>
         <translation>禁用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="392"/>
+        <location filename="trayicon.cpp" line="419"/>
         <source>Using</source>
         <translation>使用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="406"/>
+        <location filename="trayicon.cpp" line="433"/>
         <source>GPU acceleration</source>
         <translation>GPU 加速</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="410"/>
+        <location filename="trayicon.cpp" line="437"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
         <translation>为什么 GPU 加速不可用？</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="417"/>
+        <location filename="trayicon.cpp" line="444"/>
         <source>Show OSD messages</source>
         <translation>显示 OSD 信息</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="419"/>
+        <location filename="trayicon.cpp" line="446"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>编辑键盘快捷键...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="426"/>
+        <location filename="trayicon.cpp" line="454"/>
         <source>Load at Windows startup</source>
         <translation>随 Windows 启动</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="428"/>
+        <location filename="trayicon.cpp" line="456"/>
         <source>Load at system startup</source>
         <translation type="unfinished">在系统重启后重新打开</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="456"/>
+        <location filename="trayicon.cpp" line="477"/>
         <source>Additional options</source>
         <translation>附加选项</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="460"/>
+        <location filename="trayicon.cpp" line="481"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>假定隔行视频有双倍帧率</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="462"/>
+        <location filename="trayicon.cpp" line="483"/>
         <source>Turn stereo mode on by aspect ratio</source>
         <translation>通过视频比例判断是否开启 3D 模式</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="485"/>
+        <location filename="trayicon.cpp" line="506"/>
         <source>Auto</source>
         <translation>自动</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="487"/>
+        <location filename="trayicon.cpp" line="508"/>
         <source>%1 thread(s)</source>
         <translation>%1 线程</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="488"/>
+        <location filename="trayicon.cpp" line="509"/>
         <source>Processing threads</source>
         <translation>处理线程</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1270"/>
+        <location filename="trayicon.cpp" line="536"/>
+        <source>Linux specific notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="539"/>
+        <source>Mac OS X specific notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="631"/>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="1339"/>
         <source>SVP 4 Manager is already running.</source>
         <translation>SVP 4 管理器已经运行。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="465"/>
+        <location filename="trayicon.cpp" line="486"/>
         <source>Reset on seek</source>
         <translation>播放跳转后...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="255"/>
+        <location filename="trayicon.cpp" line="257"/>
         <source>Profile for an active video</source>
         <translation>为当前视频选择配置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="368"/>
+        <location filename="trayicon.cpp" line="393"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 使用 4GB 内存补丁</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="466"/>
+        <location filename="trayicon.cpp" line="487"/>
         <source>Don&apos;t reset</source>
         <translation>不重置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="468"/>
+        <location filename="trayicon.cpp" line="489"/>
         <source>Soft reset</source>
         <translation>软重置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="469"/>
+        <location filename="trayicon.cpp" line="490"/>
         <source>Hard reset</source>
         <translation>硬重置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="476"/>
+        <location filename="trayicon.cpp" line="497"/>
         <source>Running multiple videos</source>
         <translation>启用多路视频</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="477"/>
+        <location filename="trayicon.cpp" line="498"/>
         <source>Use SVP in all opened videos</source>
         <translation>对所有播放中的视频使用 SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="478"/>
+        <location filename="trayicon.cpp" line="499"/>
         <source>First opened video only</source>
         <translation>仅对第一个打开的视频使用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="479"/>
+        <location filename="trayicon.cpp" line="500"/>
         <source>Latest opened video only</source>
         <translation>仅对最后一个打开的视频使用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="492"/>
+        <location filename="trayicon.cpp" line="513"/>
         <source>Reset settings to defaults</source>
         <translation>把设定重置为默认值</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="494"/>
+        <location filename="trayicon.cpp" line="515"/>
         <source>SVP - Configuration reset</source>
         <translation>SVP - 重置配置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="494"/>
+        <location filename="trayicon.cpp" line="515"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
         <translation>你真的要重置 SVP 的所有设定？</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="495"/>
+        <location filename="trayicon.cpp" line="516"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="495"/>
+        <location filename="trayicon.cpp" line="516"/>
         <source>Yes, but keep video profiles</source>
         <translation>是，但是保留视频配置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="495"/>
+        <location filename="trayicon.cpp" line="516"/>
         <source>Yes, reset all settings</source>
         <translation>是，重置所有设定</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="501"/>
+        <location filename="trayicon.cpp" line="522"/>
         <source>All settings...</source>
         <translation>所有设置...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="510"/>
+        <location filename="trayicon.cpp" line="531"/>
         <source>Information</source>
         <translation>帮助</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="512"/>
+        <location filename="trayicon.cpp" line="533"/>
         <source>User manual (online)</source>
         <translation>用户手册 (在线)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="515"/>
+        <location filename="trayicon.cpp" line="543"/>
         <source>Video player configuration</source>
         <translation>播放器设置</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="523"/>
+        <location filename="trayicon.cpp" line="551"/>
         <source>Full list</source>
         <translation>完整列表</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="536"/>
+        <location filename="trayicon.cpp" line="566"/>
         <source>Send problem report...</source>
         <translation>发送问题报告...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="543"/>
+        <location filename="trayicon.cpp" line="573"/>
         <source>Events log</source>
         <translation>事件日志</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="546"/>
+        <location filename="trayicon.cpp" line="576"/>
         <source>Additional information</source>
         <translation>附加信息</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="550"/>
+        <location filename="trayicon.cpp" line="580"/>
         <source>Last generated AVS script</source>
         <translation>最近一次生成的 AVS 脚本</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="552"/>
+        <location filename="trayicon.cpp" line="582"/>
         <source>Last generated script</source>
         <translation>最近一次生成的脚本</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="558"/>
+        <location filename="trayicon.cpp" line="588"/>
         <source>OpenCL devices and capabilities</source>
         <translation>OpenCL 设备与兼容性</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="563"/>
+        <location filename="trayicon.cpp" line="593"/>
         <source>Version and credits...</source>
         <translation>版本与开发者信息...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="569"/>
+        <location filename="trayicon.cpp" line="599"/>
         <source>Order full version</source>
         <translation>订购完整版</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="585"/>
+        <location filename="trayicon.cpp" line="615"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1003"/>
+        <location filename="trayicon.cpp" line="1071"/>
         <source>SVP - Video player</source>
         <translation>SVP - 播放器</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1003"/>
+        <location filename="trayicon.cpp" line="1071"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>无法与播放器通信，请检查播放器是否正在使用其他用户账户运行。</translation>
     </message>
@@ -2508,17 +2568,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>UpdateWnd</name>
     <message>
-        <location filename="updatewnd.cpp" line="335"/>
+        <location filename="updatewnd.cpp" line="349"/>
         <source>More info...</source>
         <translation>详细信息...</translation>
     </message>
     <message>
-        <location filename="updatewnd.cpp" line="79"/>
+        <location filename="updatewnd.cpp" line="93"/>
         <source>ver.</source>
         <translation>ver.</translation>
     </message>
     <message>
-        <location filename="updatewnd.cpp" line="81"/>
+        <location filename="updatewnd.cpp" line="30"/>
+        <source>Get updated package...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="updatewnd.cpp" line="95"/>
         <source>plus %1 more update(s)</source>
         <translation>新增 %1 项更新</translation>
     </message>
@@ -2528,12 +2593,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>与上一版本的更改：</translation>
     </message>
     <message>
-        <location filename="updatewnd.ui" line="76"/>
+        <location filename="updatewnd.ui" line="85"/>
         <source>View SVP changelog</source>
         <translation>查看 SVP 更新日志</translation>
     </message>
     <message>
-        <location filename="updatewnd.ui" line="102"/>
+        <location filename="updatewnd.ui" line="111"/>
         <source>Install via SVP Maintenance tool...</source>
         <translation>从 SVP 维护工具里安装...</translation>
     </message>
