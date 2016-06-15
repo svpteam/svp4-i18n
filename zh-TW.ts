@@ -106,7 +106,7 @@
     <message>
         <location filename="activationwnd.cpp" line="19"/>
         <source>To get access to this Preview version you need a valid SVP 4 Pro &lt;a href=#&gt;registration key&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>要獲得此預覽版本，你需要SVP 4 Pro的&lt;a href=#&gt;註冊碼&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="54"/>
@@ -502,7 +502,7 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="85"/>
         <source>64-bit SVP engine is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>64-bit SVP 引擎未安裝</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="104"/>
@@ -512,7 +512,7 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="117"/>
         <source>Legacy Avisynth 2.5 is not supported, please use either Avisynth 2.6 or Avisynth+</source>
-        <translation type="unfinished"></translation>
+        <translation>不再支援Avisynth 2.5 舊版本，請用Avisynth 2.6或者Avisynth+</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="133"/>
@@ -616,17 +616,17 @@
     <message>
         <location filename="framecontrolwnd.cpp" line="88"/>
         <source>Tracking mode</source>
-        <translation type="unfinished"></translation>
+        <translation>實時監測模式</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="89"/>
         <source>One time only</source>
-        <translation type="unfinished"></translation>
+        <translation>僅檢查一次</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="91"/>
         <source>Long press to choose black bars detection mode</source>
-        <translation type="unfinished"></translation>
+        <translation>長按選擇黑邊檢測模式</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="512"/>
@@ -775,17 +775,17 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="32"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-unix-socket mpv option)</source>
-        <translation>mpv 的 JSON IPC socket 路徑 (參考 mpv 的 --input-unix-socket 選項)</translation>
+        <translation>mpv 的 JSON IPC socket 路徑 (對應 mpv 的 --input-unix-socket 選項)</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="39"/>
         <source>Path to the external video player to execute</source>
-        <translation type="unfinished"></translation>
+        <translation>外部視訊播放器的路徑</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="41"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>外部播放器的參數用‘;’分隔</translation>
     </message>
 </context>
 <context>
@@ -978,7 +978,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="1213"/>
         <source>Other profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>其他配置</translation>
     </message>
 </context>
 <context>
@@ -1291,7 +1291,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="507"/>
         <source>Expert: add scores</source>
-        <translation type="unfinished"></translation>
+        <translation>專家: 增加評分</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="543"/>
@@ -1356,7 +1356,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="47"/>
         <source>Whether to place SVP icon into system tray or not</source>
-        <translation type="unfinished"></translation>
+        <translation>是否要把 SVP 圖示加入系統欄</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="48"/>
@@ -1402,7 +1402,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="63"/>
         <source>Delay to help ReClock to detected the video frame rate, in milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>延時已輔助ReClock檢測視訊幀率，單位微秒</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="66"/>
@@ -1458,7 +1458,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="fontsize.cpp" line="15"/>
         <source>Fonts scaling factor [1.0-2.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>字型拉伸係數 [1.0-2.0]</translation>
     </message>
 </context>
 <context>
@@ -1968,17 +1968,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="880"/>
         <source>Rendering device</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染裝置</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="881"/>
         <source>Do not change</source>
-        <translation type="unfinished"></translation>
+        <translation>不改變</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="881"/>
         <source>CPU only</source>
-        <translation type="unfinished"></translation>
+        <translation>僅使用CPU</translation>
     </message>
 </context>
 <context>
@@ -2165,22 +2165,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="252"/>
         <source>Open file...</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟檔案...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="260"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="260"/>
         <source>Video files</source>
-        <translation type="unfinished"></translation>
+        <translation>視訊檔案</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="280"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
-        <translation type="unfinished"></translation>
+        <translation>連續監測黑邊或僅檢測一次</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="311"/>
@@ -2285,7 +2285,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="392"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">VLC 的 SVP 插件 (替換去隔行濾鏡)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="400"/>
@@ -2375,27 +2375,27 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="539"/>
         <source>Linux specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux 詳細資訊</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="542"/>
         <source>Mac OS X specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>MacOS 詳細資訊</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="637"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1291"/>
         <source>SVP - Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - 擴展</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1291"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>我們需要重啟管理器以應用設定更改。</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1346"/>
@@ -2641,7 +2641,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.cpp" line="30"/>
         <source>Get updated package...</source>
-        <translation type="unfinished"></translation>
+        <translation>獲取更新包...</translation>
     </message>
     <message>
         <location filename="updatewnd.cpp" line="95"/>
@@ -2669,27 +2669,27 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="80"/>
         <source>Choose the VLC executable</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇 VLC 的可執行檔案</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="148"/>
         <source>Operation failed. Check that SVP Manager have write access to &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>操作失敗。請確認 SVP 管理器有對 ‘%1’ 的寫入許可權。</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="150"/>
         <source>SVP support DISABLED, you can now use deinterlace filter in VLC.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP 支援已禁用，你現在可以在 VLC 中使用去隔行濾鏡。</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="151"/>
         <source>SVP support ENABLED but the deinterlace filter in VLC is not available any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP 支援已啟用，但是 VLC 無法再使用去隔行濾鏡。</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="153"/>
         <source>SVP in VLC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">VLC 的 SVP 插件</translation>
     </message>
 </context>
 </TS>
