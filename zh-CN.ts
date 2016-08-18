@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN" sourcelanguage="en">
+<TS version="2.0" language="zh_CN" sourcelanguage="en">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -20,7 +20,7 @@
         <translation>此软件副本已注册！</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="17"/>
+        <location filename="aboutdlg.cpp" line="19"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
@@ -31,32 +31,32 @@
         <translation>管理软件许可...</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Developers</source>
         <translation>开发者</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Special thanks</source>
         <translation>鸣谢</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="133"/>
+        <location filename="aboutdlg.cpp" line="83"/>
         <source>Indiegogo Co-Authors</source>
         <translation>Indiegogo 合作者</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="134"/>
+        <location filename="aboutdlg.cpp" line="84"/>
         <source>Pre-Indiegogo donators</source>
         <translation>Indiegogo 之前的捐赠者</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="135"/>
+        <location filename="aboutdlg.cpp" line="85"/>
         <source>Indiegogo Part of the Team members</source>
         <translation>Indiegogo 团队成员</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="136"/>
+        <location filename="aboutdlg.cpp" line="86"/>
         <source>Indiegogo funders</source>
         <translation>Indiegogo 赞助者</translation>
     </message>
@@ -79,62 +79,62 @@
         <translation>如果你没有注册码，你可以随时通过&lt;a href=#&gt;我们的网站&lt;/a&gt;购买。</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="84"/>
+        <location filename="activationwnd.ui" line="124"/>
+        <source>Restore your license after OS re-installation or transfer it to another PC.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="activationwnd.ui" line="127"/>
         <source>Manage your license...</source>
         <translation>管理软件许可...</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="105"/>
+        <location filename="activationwnd.ui" line="150"/>
         <source>E-mail address:</source>
         <translation>邮箱地址：</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="112"/>
+        <location filename="activationwnd.ui" line="157"/>
         <source>Registration key:</source>
         <translation>注册码：</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="155"/>
+        <location filename="activationwnd.ui" line="200"/>
         <source>Register now!</source>
         <translation>现在注册！</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="168"/>
+        <location filename="activationwnd.ui" line="213"/>
         <source>An active Internet connection is required.</source>
         <translation>需要网络连接。</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="19"/>
-        <source>To get access to this Preview version you need a valid SVP 4 Pro &lt;a href=#&gt;registration key&lt;/a&gt;.</source>
-        <translation>要获得此预览版本，你需要SVP 4 Pro的&lt;a href=#&gt;注册码&lt;/a&gt;。</translation>
-    </message>
-    <message>
-        <location filename="activationwnd.cpp" line="54"/>
+        <location filename="activationwnd.cpp" line="51"/>
         <source>Please wait for the activation server to respond...</source>
         <translation>请等待激活服务器响应...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="97"/>
+        <location filename="activationwnd.cpp" line="94"/>
         <source>Connection error, please try again later</source>
         <translation>连接失败，请稍侯再尝试</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="101"/>
+        <location filename="activationwnd.cpp" line="98"/>
         <source>Invalid e-mail or registration key</source>
         <translation>邮箱或注册码无效</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="102"/>
+        <location filename="activationwnd.cpp" line="99"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation>注册码不兼容此版本的 SVP</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="103"/>
+        <location filename="activationwnd.cpp" line="100"/>
         <source>Too many activations for the registration key</source>
         <translation>注册码已被使用多次</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="104"/>
+        <location filename="activationwnd.cpp" line="101"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
     </message>
@@ -793,17 +793,17 @@
 <context>
     <name>MpvFinder</name>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="32"/>
-        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-unix-socket mpv option)</source>
-        <translation>mpv 的 JSON IPC socket 路径 (对应 mpv 的 --input-unix-socket 选项)</translation>
+        <location filename="mpvvideoplayer.cpp" line="36"/>
+        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
+        <translation>mpv 的 JSON IPC socket 路径 (对应 mpv 的 --input-ipc-server 选项)</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="39"/>
+        <location filename="mpvvideoplayer.cpp" line="43"/>
         <source>Path to the external video player to execute</source>
         <translation>外部视频播放器的路径</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="41"/>
+        <location filename="mpvvideoplayer.cpp" line="45"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
         <translation>外部播放器的参数用‘;’分隔</translation>
     </message>
@@ -974,29 +974,29 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>SVP: 禁用</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="796"/>
+        <location filename="playbackobject.cpp" line="798"/>
         <source>Black bars: </source>
         <translation>黑边: </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="802"/>
+        <location filename="playbackobject.cpp" line="804"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: 播放于 %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="815"/>
+        <location filename="playbackobject.cpp" line="817"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: 调整帧大小</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="882"/>
+        <location filename="playbackobject.cpp" line="884"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>您正在使用不兼容的 Avisynth 版本！SVP 不能正常工作，请使用 &lt;SVP-installation-path&gt;\plugins 文件夹中的&quot;avisynth.dll&quot;。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1227"/>
+        <location filename="playbackobject.cpp" line="1229"/>
         <source>Other profiles</source>
         <translation>其他配置</translation>
     </message>
@@ -1209,12 +1209,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>SVP - error</source>
         <translation>SVP - 错误</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>请先关闭 SVP 3.1 管理器。</translation>
     </message>
@@ -1415,53 +1415,58 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>延时已辅助ReClock检测视频帧率，单位微秒</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="64"/>
+        <location filename="trayicon.cpp" line="63"/>
+        <source>Clips shorter than this value in seconds will be ignored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="trayicon.cpp" line="65"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>Measured CPU performance</source>
         <translation>CPU 性能测试结果</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="67"/>
+        <location filename="trayicon.cpp" line="68"/>
         <source>How many times SVP Manager was started</source>
         <translation>SVP 管理器已启动了多少次</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="69"/>
         <source>How many videos was viewed with SVP</source>
         <translation>有多少视频已使用 SVP 观看</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="70"/>
+        <location filename="trayicon.cpp" line="71"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>FRC 运算所使用的 GPU 设备 ID</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="71"/>
+        <location filename="trayicon.cpp" line="72"/>
         <source>Number of CPU computation threads</source>
         <translation>CPU 运算线程数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="72"/>
+        <location filename="trayicon.cpp" line="73"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>屏幕刷新率与目标帧率之间的最大相差帧数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="73"/>
+        <location filename="trayicon.cpp" line="74"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
         <translation>使用 FRC 引擎处理的最高帧率</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation>修改视频帧宽度至4或8的整数倍</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="77"/>
+        <location filename="trayicon.cpp" line="78"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>不再询问 4GB 内存补丁</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="79"/>
+        <location filename="trayicon.cpp" line="80"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>不再询问有关系统性能测试</translation>
     </message>
@@ -2398,17 +2403,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>帮助</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>SVP - Extensions</source>
         <translation>SVP - 扩展</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>我们需要重启管理器以应用设置更改。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1344"/>
+        <location filename="trayicon.cpp" line="1351"/>
         <source>SVP 4 Manager is already running.</source>
         <translation>SVP 4 管理器已经运行。</translation>
     </message>

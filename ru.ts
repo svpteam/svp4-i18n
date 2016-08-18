@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.0" language="ru_RU">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -20,7 +20,7 @@
         <translation>Зарегистрированная версия.</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="17"/>
+        <location filename="aboutdlg.cpp" line="19"/>
         <source>About</source>
         <translation>Про</translation>
     </message>
@@ -31,32 +31,32 @@
         <translation>Управление лицензией...</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Developers</source>
         <translation>Разработчики</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Special thanks</source>
         <translation>Отдельное спасибо</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="133"/>
+        <location filename="aboutdlg.cpp" line="83"/>
         <source>Indiegogo Co-Authors</source>
         <translation>Indiegogo - Золотая медаль</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="134"/>
+        <location filename="aboutdlg.cpp" line="84"/>
         <source>Pre-Indiegogo donators</source>
         <translation>Оказали помощь ранее</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="135"/>
+        <location filename="aboutdlg.cpp" line="85"/>
         <source>Indiegogo Part of the Team members</source>
         <translation>Indiegogo - Серебрянная медаль</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="136"/>
+        <location filename="aboutdlg.cpp" line="86"/>
         <source>Indiegogo funders</source>
         <translation>Indiegogo - Бронзовая медаль</translation>
     </message>
@@ -79,62 +79,62 @@
         <translation>Электронный ключ для регистрации можно купить &lt;a href=#&gt;на нашем сайте&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="84"/>
+        <location filename="activationwnd.ui" line="124"/>
+        <source>Restore your license after OS re-installation or transfer it to another PC.</source>
+        <translation>Восстановление лицензии после переустановки ОС или перенос её на другой компьютер.</translation>
+    </message>
+    <message>
+        <location filename="activationwnd.ui" line="127"/>
         <source>Manage your license...</source>
         <translation>Управление лицензией...</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="105"/>
+        <location filename="activationwnd.ui" line="150"/>
         <source>E-mail address:</source>
         <translation>Адрес e-mail:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="112"/>
+        <location filename="activationwnd.ui" line="157"/>
         <source>Registration key:</source>
         <translation>Ключ регистрации:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="155"/>
+        <location filename="activationwnd.ui" line="200"/>
         <source>Register now!</source>
         <translation>Зарегистрировать!</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="168"/>
+        <location filename="activationwnd.ui" line="213"/>
         <source>An active Internet connection is required.</source>
         <translation>Необходимо активное подключение к Internet.</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="19"/>
-        <source>To get access to this Preview version you need a valid SVP 4 Pro &lt;a href=#&gt;registration key&lt;/a&gt;.</source>
-        <translation>Для активации этой &lt;b&gt;предварительной&lt;/b&gt; версии необходим &lt;a href=#&gt;действующий ключ&lt;/a&gt; SVP 4 Pro.</translation>
-    </message>
-    <message>
-        <location filename="activationwnd.cpp" line="54"/>
+        <location filename="activationwnd.cpp" line="51"/>
         <source>Please wait for the activation server to respond...</source>
         <translation>Ожидание ответа сервера регистрации...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="97"/>
+        <location filename="activationwnd.cpp" line="94"/>
         <source>Connection error, please try again later</source>
         <translation>Ошибка соединения - пожалуйста, повторите попытку позднее</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="101"/>
+        <location filename="activationwnd.cpp" line="98"/>
         <source>Invalid e-mail or registration key</source>
         <translation>Неверный адрес e-mail или ключ регистрации</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="102"/>
+        <location filename="activationwnd.cpp" line="99"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation>Ключ регистрации не подходит к этой версии SVP</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="103"/>
+        <location filename="activationwnd.cpp" line="100"/>
         <source>Too many activations for the registration key</source>
         <translation>Достигнуто максимальное количество регистраций для данного ключа</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="104"/>
+        <location filename="activationwnd.cpp" line="101"/>
         <source>Unknown error</source>
         <translation>Неизвестная ошибка - обратитесь к разработчику</translation>
     </message>
@@ -796,17 +796,17 @@
 <context>
     <name>MpvFinder</name>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="32"/>
-        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-unix-socket mpv option)</source>
-        <translation>Путь к сокету mpv для JSON IPC (см. описание параметра --input-unix-socket)</translation>
+        <location filename="mpvvideoplayer.cpp" line="36"/>
+        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
+        <translation>Путь к сокету mpv для JSON IPC (см. описание параметра --input-ipc-server)</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="39"/>
+        <location filename="mpvvideoplayer.cpp" line="43"/>
         <source>Path to the external video player to execute</source>
         <translation>Исполняемый файл для запуска проигрывателя видео</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="41"/>
+        <location filename="mpvvideoplayer.cpp" line="45"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
         <translation>Доп. аргументы для запуска проигрывателя, разделенные символом &apos;;&apos;</translation>
     </message>
@@ -977,29 +977,29 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>SVP: выключено</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="796"/>
+        <location filename="playbackobject.cpp" line="798"/>
         <source>Black bars: </source>
         <translation>Поля:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="802"/>
+        <location filename="playbackobject.cpp" line="804"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: воспроизведение %1 к/с
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="815"/>
+        <location filename="playbackobject.cpp" line="817"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: установка размера кадра</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="882"/>
+        <location filename="playbackobject.cpp" line="884"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>Используется несовместимая версия Avisynth! Для работы SVP пожалуйста замените &apos;avisynth.dll&apos; на файл из &lt;Установочная-папка-SVP&gt;\plugins.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1227"/>
+        <location filename="playbackobject.cpp" line="1229"/>
         <source>Other profiles</source>
         <translation>Еще профили</translation>
     </message>
@@ -1212,12 +1212,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>SVP - error</source>
         <translation>SVP - Ошибка</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>Пожалуйста, закройте Менеджер SVP 3.1.</translation>
     </message>
@@ -1419,53 +1419,58 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Задержка включения плавности, полезно для ReClock, в мс</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="64"/>
+        <location filename="trayicon.cpp" line="63"/>
+        <source>Clips shorter than this value in seconds will be ignored</source>
+        <translation>Игнорировать видео короче чем это значение, в секундах</translation>
+    </message>
+    <message>
         <location filename="trayicon.cpp" line="65"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>Measured CPU performance</source>
         <translation>Измеренная производительность процессора</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="67"/>
+        <location filename="trayicon.cpp" line="68"/>
         <source>How many times SVP Manager was started</source>
         <translation>Сколько раз был запущен Менеджер</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="69"/>
         <source>How many videos was viewed with SVP</source>
         <translation>Сколько видео было просмотрено с SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="70"/>
+        <location filename="trayicon.cpp" line="71"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>Использовать видеокарту с этим ID</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="71"/>
+        <location filename="trayicon.cpp" line="72"/>
         <source>Number of CPU computation threads</source>
         <translation>Количество потоков расчета</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="72"/>
+        <location filename="trayicon.cpp" line="73"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>Максимально допустимая разница между частотами экрана и уплавнения</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="73"/>
+        <location filename="trayicon.cpp" line="74"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
         <translation>Максимальная частота видео, которая будет уплавняться</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation>Выравнивание ширины кадра до кратности этому значению</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="77"/>
+        <location filename="trayicon.cpp" line="78"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>Не спрашивать про применение 4 ГБ патча</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="79"/>
+        <location filename="trayicon.cpp" line="80"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>Не предлагать повторно измерить производительность системы</translation>
     </message>
@@ -2384,7 +2389,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="540"/>
         <source>Linux specific notes</source>
-        <translation>Замечаения для Linux</translation>
+        <translation>Замечания для Linux</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="543"/>
@@ -2397,17 +2402,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>SVP - Extensions</source>
         <translation>SVP - Расширения</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>Для изменения списка расширений необходимо перезапустить Менеджер. </translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1344"/>
+        <location filename="trayicon.cpp" line="1351"/>
         <source>SVP 4 Manager is already running.</source>
         <translation>Менеджер SVP уже запущен.</translation>
     </message>

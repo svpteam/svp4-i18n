@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ko_KR">
+<TS version="2.0" language="ko_KR">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -20,7 +20,7 @@
         <translation>이 등록 코드는 활성화 되었습니다!</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="17"/>
+        <location filename="aboutdlg.cpp" line="19"/>
         <source>About</source>
         <translation></translation>
     </message>
@@ -31,32 +31,32 @@
         <translation>라이센스 인증 관리...</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Developers</source>
         <translation>개발진</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Special thanks</source>
         <translation>특별히 감사를 드리는 분들</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="133"/>
+        <location filename="aboutdlg.cpp" line="83"/>
         <source>Indiegogo Co-Authors</source>
         <translation>Indiegogo Co-Authors (100$의 Perk을 구매해주신 분들)</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="134"/>
+        <location filename="aboutdlg.cpp" line="84"/>
         <source>Pre-Indiegogo donators</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="135"/>
+        <location filename="aboutdlg.cpp" line="85"/>
         <source>Indiegogo Part of the Team members</source>
         <translation>Indiegogo Part of the Team members (25$의 Perk을 구매해주신 분들) (번역자 Kibumm, Kim을 찾아보세요~!)</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="136"/>
+        <location filename="aboutdlg.cpp" line="86"/>
         <source>Indiegogo funders</source>
         <translation>Indiegogo 에서 성금을 모아주신 분들</translation>
     </message>
@@ -79,62 +79,62 @@
         <translation>만약 고객님께서 등록 코드를 가지고 계시지 않는다면 홈페이지를 통해 구매해주세요 &lt;a href=#&gt;our web site&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="84"/>
+        <location filename="activationwnd.ui" line="124"/>
+        <source>Restore your license after OS re-installation or transfer it to another PC.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="activationwnd.ui" line="127"/>
         <source>Manage your license...</source>
         <translation>라이센스 인증 관리...</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="105"/>
+        <location filename="activationwnd.ui" line="150"/>
         <source>E-mail address:</source>
         <translation>E-mail 주소:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="112"/>
+        <location filename="activationwnd.ui" line="157"/>
         <source>Registration key:</source>
         <translation>등록 코드:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="155"/>
+        <location filename="activationwnd.ui" line="200"/>
         <source>Register now!</source>
         <translation>지금 등록하기!</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="168"/>
+        <location filename="activationwnd.ui" line="213"/>
         <source>An active Internet connection is required.</source>
         <translation>인터넷 연결이 필요합니다.</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="19"/>
-        <source>To get access to this Preview version you need a valid SVP 4 Pro &lt;a href=#&gt;registration key&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="activationwnd.cpp" line="54"/>
+        <location filename="activationwnd.cpp" line="51"/>
         <source>Please wait for the activation server to respond...</source>
         <translation>정품등록 서버에서 응답을 기다리는중...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="97"/>
+        <location filename="activationwnd.cpp" line="94"/>
         <source>Connection error, please try again later</source>
         <translation>연결에 문제가 발생하였습니다, 나중에 다시 시도해주세요</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="101"/>
+        <location filename="activationwnd.cpp" line="98"/>
         <source>Invalid e-mail or registration key</source>
         <translation>등록 되어있지 않은 E-mai 이거나 등록 코드입니다</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="102"/>
+        <location filename="activationwnd.cpp" line="99"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation>등록 코드가 이 SVP의 버전과 호환되지 않습니다</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="103"/>
+        <location filename="activationwnd.cpp" line="100"/>
         <source>Too many activations for the registration key</source>
         <translation>이 등록 코드에 너무 많은 등록이 이루어져있습니다</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="104"/>
+        <location filename="activationwnd.cpp" line="101"/>
         <source>Unknown error</source>
         <translation>알 수 없는 오류</translation>
     </message>
@@ -793,17 +793,17 @@
 <context>
     <name>MpvFinder</name>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="32"/>
-        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-unix-socket mpv option)</source>
+        <location filename="mpvvideoplayer.cpp" line="36"/>
+        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="39"/>
+        <location filename="mpvvideoplayer.cpp" line="43"/>
         <source>Path to the external video player to execute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="41"/>
+        <location filename="mpvvideoplayer.cpp" line="45"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -974,29 +974,29 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>SVP: 가동 중지</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="796"/>
+        <location filename="playbackobject.cpp" line="798"/>
         <source>Black bars: </source>
         <translation>여백: </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="802"/>
+        <location filename="playbackobject.cpp" line="804"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: %1
 사용중인 프로필 : %2%3 </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="815"/>
+        <location filename="playbackobject.cpp" line="817"/>
         <source>SVP: adjusting frame size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="882"/>
+        <location filename="playbackobject.cpp" line="884"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>고객님께서는 호환되지 않는 Avisynth 버전을 사용하고 계십니다! SVP는 이 버전과 동작하지 않으며 호환되는 &apos;avisynth.dll&apos; 파일을 &lt;SVP-installation-path&gt;\plugins 폴더에 넣어주세요.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1227"/>
+        <location filename="playbackobject.cpp" line="1229"/>
         <source>Other profiles</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1209,12 +1209,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>SVP - error</source>
         <translation>SVP - 문제 발생</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>먼저 SVP 3.1 Manager을 종료하여 주세요.</translation>
     </message>
@@ -1416,53 +1416,58 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="64"/>
+        <location filename="trayicon.cpp" line="63"/>
+        <source>Clips shorter than this value in seconds will be ignored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="trayicon.cpp" line="65"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>Measured CPU performance</source>
         <translation>측정된 CPU의 성능</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="67"/>
+        <location filename="trayicon.cpp" line="68"/>
         <source>How many times SVP Manager was started</source>
         <translation>SVP가 시작된 횟수</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="69"/>
         <source>How many videos was viewed with SVP</source>
         <translation>SVP로 영상을 시청한 횟수</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="70"/>
+        <location filename="trayicon.cpp" line="71"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>GPU의 ID를 FRC 계산에 사용</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="71"/>
+        <location filename="trayicon.cpp" line="72"/>
         <source>Number of CPU computation threads</source>
         <translation>CPU 계산에 쓰일 쓰레드의 갯수</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="72"/>
+        <location filename="trayicon.cpp" line="73"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>화면 및 대상 재생 빈도 사이의 최대 상대적 차이</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="73"/>
+        <location filename="trayicon.cpp" line="74"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
         <translation>FRC 엔진으로 최대 소스 fps를 처리</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="77"/>
+        <location filename="trayicon.cpp" line="78"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>4GB 이상 파일의 패치를 더이상 묻지 않습니다</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="79"/>
+        <location filename="trayicon.cpp" line="80"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>시스템 성능 측정 하지 않기</translation>
     </message>
@@ -2394,17 +2399,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>SVP - Extensions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1344"/>
+        <location filename="trayicon.cpp" line="1351"/>
         <source>SVP 4 Manager is already running.</source>
         <translation type="unfinished"></translation>
     </message>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en">
+<TS version="2.0" language="en">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -20,7 +20,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="17"/>
+        <location filename="aboutdlg.cpp" line="19"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
@@ -31,32 +31,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="117"/>
+        <location filename="aboutdlg.cpp" line="208"/>
         <source>Special thanks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="133"/>
+        <location filename="aboutdlg.cpp" line="83"/>
         <source>Indiegogo Co-Authors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="134"/>
+        <location filename="aboutdlg.cpp" line="84"/>
         <source>Pre-Indiegogo donators</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="135"/>
+        <location filename="aboutdlg.cpp" line="85"/>
         <source>Indiegogo Part of the Team members</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="136"/>
+        <location filename="aboutdlg.cpp" line="86"/>
         <source>Indiegogo funders</source>
         <translation type="unfinished"></translation>
     </message>
@@ -79,62 +79,62 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="84"/>
+        <location filename="activationwnd.ui" line="124"/>
+        <source>Restore your license after OS re-installation or transfer it to another PC.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="activationwnd.ui" line="127"/>
         <source>Manage your license...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="105"/>
+        <location filename="activationwnd.ui" line="150"/>
         <source>E-mail address:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="112"/>
+        <location filename="activationwnd.ui" line="157"/>
         <source>Registration key:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="155"/>
+        <location filename="activationwnd.ui" line="200"/>
         <source>Register now!</source>
         <translation>Activate now!</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="168"/>
+        <location filename="activationwnd.ui" line="213"/>
         <source>An active Internet connection is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="19"/>
-        <source>To get access to this Preview version you need a valid SVP 4 Pro &lt;a href=#&gt;registration key&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="activationwnd.cpp" line="54"/>
+        <location filename="activationwnd.cpp" line="51"/>
         <source>Please wait for the activation server to respond...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="97"/>
+        <location filename="activationwnd.cpp" line="94"/>
         <source>Connection error, please try again later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="101"/>
+        <location filename="activationwnd.cpp" line="98"/>
         <source>Invalid e-mail or registration key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="102"/>
+        <location filename="activationwnd.cpp" line="99"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="103"/>
+        <location filename="activationwnd.cpp" line="100"/>
         <source>Too many activations for the registration key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="104"/>
+        <location filename="activationwnd.cpp" line="101"/>
         <source>Unknown error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -793,17 +793,17 @@
 <context>
     <name>MpvFinder</name>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="32"/>
-        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-unix-socket mpv option)</source>
+        <location filename="mpvvideoplayer.cpp" line="36"/>
+        <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="39"/>
+        <location filename="mpvvideoplayer.cpp" line="43"/>
         <source>Path to the external video player to execute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="41"/>
+        <location filename="mpvvideoplayer.cpp" line="45"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -973,28 +973,28 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="796"/>
+        <location filename="playbackobject.cpp" line="798"/>
         <source>Black bars: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="802"/>
+        <location filename="playbackobject.cpp" line="804"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="815"/>
+        <location filename="playbackobject.cpp" line="817"/>
         <source>SVP: adjusting frame size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="882"/>
+        <location filename="playbackobject.cpp" line="884"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1227"/>
+        <location filename="playbackobject.cpp" line="1229"/>
         <source>Other profiles</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1207,12 +1207,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>SVP - error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="main.cpp" line="279"/>
+        <location filename="main.cpp" line="283"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1414,53 +1414,58 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="64"/>
+        <location filename="trayicon.cpp" line="63"/>
+        <source>Clips shorter than this value in seconds will be ignored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="trayicon.cpp" line="65"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>Measured CPU performance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="67"/>
+        <location filename="trayicon.cpp" line="68"/>
         <source>How many times SVP Manager was started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="69"/>
         <source>How many videos was viewed with SVP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="70"/>
+        <location filename="trayicon.cpp" line="71"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="71"/>
+        <location filename="trayicon.cpp" line="72"/>
         <source>Number of CPU computation threads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="72"/>
+        <location filename="trayicon.cpp" line="73"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="73"/>
+        <location filename="trayicon.cpp" line="74"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="77"/>
+        <location filename="trayicon.cpp" line="78"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="79"/>
+        <location filename="trayicon.cpp" line="80"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2397,17 +2402,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>SVP - Extensions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1293"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1344"/>
+        <location filename="trayicon.cpp" line="1351"/>
         <source>SVP 4 Manager is already running.</source>
         <translation type="unfinished"></translation>
     </message>
