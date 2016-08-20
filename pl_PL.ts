@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL" sourcelanguage="en">
+<TS version="2.1" language="pl_PL" sourcelanguage="en">
 <context>
     <name>AboutDlg</name>
     <message>
@@ -17,7 +17,7 @@
     <message>
         <location filename="aboutdlg.ui" line="258"/>
         <source>This copy is registered!</source>
-        <translation>Kopia jest zarejestrowana!</translation>
+        <translation>Ta kopia jest zarejestrowana!</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="19"/>
@@ -43,17 +43,17 @@
     <message>
         <location filename="aboutdlg.cpp" line="83"/>
         <source>Indiegogo Co-Authors</source>
-        <translation>Współautorzy Indiegogo</translation>
+        <translation>Indiegogo: Współautorzy</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="84"/>
         <source>Pre-Indiegogo donators</source>
-        <translation type="unfinished"></translation>
+        <translation>Fundatorzy przed Indiegogo</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="85"/>
         <source>Indiegogo Part of the Team members</source>
-        <translation>Członkowie zespołu Indiegogo</translation>
+        <translation>Indiegogo: Członkowie zespołu</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="86"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="activationwnd.ui" line="124"/>
         <source>Restore your license after OS re-installation or transfer it to another PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przywróć swoją licencję zanim przeinstalujesz system lub przeniesiesz do innego komputera.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="127"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="benchmarkwnd.ui" line="104"/>
         <source>We need to measure system performance in order to automatically detect the correct video profile settings.</source>
-        <translation>Musimy sprawdzić wydajność systemu, aby dopasować odpowiedni profil video.</translation>
+        <translation>Musimy sprawdzić wydajność systemu, aby dopasować odpowiedni profil wideo.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="118"/>
@@ -235,7 +235,7 @@
     <message>
         <location filename="blacklistitemwdg.ui" line="51"/>
         <source>Do not enable SVP in this video player</source>
-        <translation>Nie włączaj SVP w odtwarzaczu</translation>
+        <translation>Nie włączaj SVP w tym odtwarzaczu</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="54"/>
@@ -258,7 +258,7 @@
         <location filename="blacklistitemwdg.ui" line="109"/>
         <source>Enable all SVP features in this video player</source>
         <oldsource>Enable SVP in this video player</oldsource>
-        <translation>Włącz wszystkie funkcje SVP w odtwarzaczu</translation>
+        <translation>Włącz wszystkie funkcje SVP w tym odtwarzaczu</translation>
     </message>
 </context>
 <context>
@@ -281,17 +281,17 @@
     <message>
         <location filename="profilewnd.cpp" line="26"/>
         <source>Numeric value (integer)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość liczbowa (całkowita)</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="27"/>
         <source>Numeric value (floating point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość liczbowa (zmiennoprzecinkowa)</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="28"/>
         <source>Text string or a regular expression enclosed with &apos;\&apos; characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst lub wyrażenie regularne zakończone znakiem &apos;\&apos;</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="49"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="controlpanel.ui" line="200"/>
         <source>Choose profile for an active video</source>
-        <translation>Wybierz profil dla altywnego filmu</translation>
+        <translation>Wybierz profil dla aktywnego wideo</translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="247"/>
@@ -334,7 +334,7 @@
     <message>
         <location filename="controlpanel.cpp" line="155"/>
         <source>Video profiles</source>
-        <translation>Profile video</translation>
+        <translation>Profile wideo</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="161"/>
@@ -344,7 +344,7 @@
     <message>
         <location filename="controlpanel.cpp" line="167"/>
         <source>Black bars lighting</source>
-        <translation>Oświetlanie czarnych pasów</translation>
+        <translation>Oświetlanie pasów</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="173"/>
@@ -396,7 +396,7 @@
         <location filename="controlpanel.cpp" line="367"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>+%1 więcej</translation>
     </message>
 </context>
 <context>
@@ -449,7 +449,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="161"/>
         <source>FRC profile</source>
-        <translation>Profil konwersji klatek</translation>
+        <translation>Profil FRC</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="171"/>
@@ -517,12 +517,12 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="87"/>
         <source>64-bit SVP engine is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>64-bitowy silnik SVP nie jest zainstalowany</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="88"/>
         <source>32-bit SVP engine is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bitowy silnik SVP nie jest zainstalowany</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="106"/>
@@ -532,7 +532,7 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="119"/>
         <source>Legacy Avisynth 2.5 is not supported, please use either Avisynth 2.6 or Avisynth+</source>
-        <translation type="unfinished"></translation>
+        <translation>Przestarzały Avisynth 2.5 nie jest wspierany, skorzystaj z Avisynth 2.6 lub Avisynth+</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="135"/>
@@ -545,7 +545,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="104"/>
         <source>Crop video frame</source>
-        <translation>Przycinanie klatki video</translation>
+        <translation>Przycinanie klatki wideo</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="138"/>
@@ -586,7 +586,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="449"/>
         <source>Alter video frame size</source>
-        <translation>Dopasowywanie wielkości video</translation>
+        <translation>Dopasowywanie wielkości wideo</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="500"/>
@@ -611,7 +611,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="580"/>
         <source>Resize any video to the screen size</source>
-        <translation>Zmień rozmiar każdego filmu do wielkości ekranu</translation>
+        <translation>Zmień rozmiar każdego wideo do wielkości ekranu</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="600"/>
@@ -626,7 +626,7 @@
     <message>
         <location filename="framecontrolwnd.ui" line="676"/>
         <source>No active video</source>
-        <translation>Brak aktywnego filmu</translation>
+        <translation>Brak aktywnego wideo</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="731"/>
@@ -636,17 +636,17 @@
     <message>
         <location filename="framecontrolwnd.cpp" line="88"/>
         <source>Tracking mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb śledzenia</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="89"/>
         <source>One time only</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednorazowo</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="91"/>
         <source>Long press to choose black bars detection mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Długo naciśnij aby wybrać tryb detekcji czarnych pasów</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="512"/>
@@ -690,7 +690,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="86"/>
         <source>Fill black bars</source>
-        <translation>Zapełnij czarne pasy</translation>
+        <translation>Wypełnij pasy</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="120"/>
@@ -795,17 +795,17 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="36"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka do gniazda JSON IPC(nawiązuje do opcji mpv --input-ipc-server)</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="43"/>
         <source>Path to the external video player to execute</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka do pliku wykonywalnego zewnętrznego odtwarzacza</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="45"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumenty zewnętrznego odtwarzacza oddzielone za pomocą &apos;;&apos;</translation>
     </message>
 </context>
 <context>
@@ -859,12 +859,12 @@
     <message>
         <location filename="performancewnd.cpp" line="56"/>
         <source>%1 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="62"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="114"/>
@@ -874,7 +874,7 @@
     <message>
         <location filename="performancewnd.cpp" line="203"/>
         <source>%1% of %2 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% z %2 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="224"/>
@@ -952,7 +952,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="playbackobject.cpp" line="221"/>
         <source>Playing at %1 fps</source>
-        <translation>Odtwarzanie przy %1 kl./sek.</translation>
+        <translation>Odtwarzanie w %1 kl./sek.</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="223"/>
@@ -962,7 +962,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="playbackobject.cpp" line="224"/>
         <source>px</source>
-        <translation>pix.</translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="244"/>
@@ -983,13 +983,13 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
         <location filename="playbackobject.cpp" line="804"/>
         <source>SVP: playing at %1
 %2%3</source>
-        <translation>SVP: odtwarzanie przy %1
+        <translation>SVP: odtwarzanie w %1
 %2%3</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="817"/>
         <source>SVP: adjusting frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP: Dostosowanie wielkości wideo</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="884"/>
@@ -999,7 +999,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="playbackobject.cpp" line="1229"/>
         <source>Other profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Inne profile</translation>
     </message>
 </context>
 <context>
@@ -1007,7 +1007,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="profilewnd.ui" line="71"/>
         <source>List all video profiles</source>
-        <translation>Lista profili video</translation>
+        <translation>Lista profili wideo</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="131"/>
@@ -1017,7 +1017,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="profilewnd.ui" line="154"/>
         <source>Add a new video profile as a copy of current one</source>
-        <translation>Dodaj nowy profil video albo skopiuj aktualny</translation>
+        <translation>Dodaj nowy profil wideo albo skopiuj aktualny</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="157"/>
@@ -1037,7 +1037,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="profilewnd.ui" line="278"/>
         <source>Completely disable SVP</source>
-        <translation type="unfinished"></translation>
+        <translation>Całkowicie wyłącz SVP</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="333"/>
@@ -1164,7 +1164,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="profilewnd.cpp" line="407"/>
         <source>SVP - Video profiles</source>
-        <translation>SVP - Profile video</translation>
+        <translation>SVP - Profile wideo</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="407"/>
@@ -1257,7 +1257,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="profile.cpp" line="499"/>
         <source>Video frame rate</source>
-        <translation>Ilość kl./sek. filmu</translation>
+        <translation>Ilość kl./sek. wideo</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="500"/>
@@ -1293,7 +1293,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="profile.cpp" line="506"/>
         <source>Video codec</source>
-        <translation>Kodek video</translation>
+        <translation>Kodek wideo</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="507"/>
@@ -1308,7 +1308,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="profile.cpp" line="509"/>
         <source>Expert: add scores</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaaw.: dodaj punkty</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="545"/>
@@ -1368,7 +1368,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="45"/>
         <source>Whether to place SVP icon into system tray or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy umieścić ikonę SVP na pasku zadań, czy nie</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="46"/>
@@ -1399,27 +1399,27 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="56"/>
         <source>How to handle multiple videos running at the same time</source>
-        <translation>Jak ma być operowane wiele filmów uruchomionych w tym samym czasie</translation>
+        <translation>Jak obchodzić się z wieloma wideo uruchomionymi w tym samym czasie</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="58"/>
         <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
-        <translation>Przyjmij, że filmy s przeplotem mają podwojoną ilość kl./sek. po usunięciu przeplotu</translation>
+        <translation>Przyjmij, że wideo z przeplotem mają podwojoną ilość kl./sek. po usunięciu przeplotu</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="59"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
-        <translation>Automatycznie włącz tryb podwójny (3D) dla filmów, ktore mają za duże albo za małe proporcje</translation>
+        <translation>Automatycznie włącz tryb podwójny (3D) dla wideo, ktore mają za duże albo za małe proporcje</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="61"/>
         <source>Delay to help ReClock to detected the video frame rate, in milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Opóźnij, aby pomóc ReClockowi wykryć ilość klatek na sekundę wideo, w milisekundach</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="63"/>
         <source>Clips shorter than this value in seconds will be ignored</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipy krótsze niż ta wartość w sekundach będą ignorowane</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="65"/>
@@ -1435,7 +1435,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="69"/>
         <source>How many videos was viewed with SVP</source>
-        <translation>Ile filmów było odtworzonych przy SVP</translation>
+        <translation>Ile wideo było odtworzonych przy SVP</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="71"/>
@@ -1460,7 +1460,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="75"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw szerokość kadru na wielokrotność 4 lub 8</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="78"/>
@@ -1475,7 +1475,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="fontsize.cpp" line="15"/>
         <source>Fonts scaling factor [1.0-2.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Współczynnik skalowania czcionki [1.0-2.0]</translation>
     </message>
 </context>
 <context>
@@ -1523,7 +1523,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="remotewnd.ui" line="334"/>
         <source>External control via HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>Zewnętrzne sterowanie za pomocą HTTP</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="66"/>
@@ -1538,22 +1538,22 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="remotewnd.cpp" line="119"/>
         <source>Whether remote API is in use or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy zdalne API jest używane, czy nie</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="120"/>
         <source>Remote API TCP port number</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdalny port API TCP</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="158"/>
         <source>Listening on port &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;click here to view help page&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasłuchiwanie na porcie &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;kliknij tutaj, aby otworzyć stronę pomocy&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="159"/>
         <source>Error listening on port &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd nasłuchiwania na porcie &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="204"/>
@@ -1568,12 +1568,12 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="remotewnd.cpp" line="211"/>
         <source>Edit active video profile</source>
-        <translation>Edytuj aktywny profil video</translation>
+        <translation>Edytuj aktywny profil wideo</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="213"/>
         <source>Cycle to the next video profile</source>
-        <translation>Przełącz na następny profil video</translation>
+        <translation>Przełącz na następny profil wideo</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="216"/>
@@ -1618,7 +1618,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="remotewnd.cpp" line="240"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerzenia</translation>
     </message>
 </context>
 <context>
@@ -1681,7 +1681,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="reportwnd.cpp" line="83"/>
         <source>FRC profiles</source>
-        <translation>Profile konwersji</translation>
+        <translation>Profile FRC</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="84"/>
@@ -1986,17 +1986,17 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="settings.cpp" line="884"/>
         <source>Rendering device</source>
-        <translation type="unfinished"></translation>
+        <translation>Urządzenie renderujące</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="885"/>
         <source>Do not change</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zmieniaj</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="885"/>
         <source>CPU only</source>
-        <translation type="unfinished"></translation>
+        <translation>tylko CPU</translation>
     </message>
 </context>
 <context>
@@ -2030,17 +2030,17 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="settingswnd.cpp" line="60"/>
         <source>1. SVP Manager and general FRC engine options</source>
-        <translation>Menadżer SVP i generalne opcje silnika FRC</translation>
+        <translation>1. Menadżer SVP i główne opcje silnika FRC</translation>
     </message>
     <message>
         <location filename="settingswnd.cpp" line="61"/>
         <source>2. Video profiles options</source>
-        <translation>Opcje profili video</translation>
+        <translation>2. Opcje profili wideo</translation>
     </message>
     <message>
         <location filename="settingswnd.cpp" line="62"/>
         <source>3. Outer light patterns</source>
-        <translation>Wzory zewnętrzenj poświaty</translation>
+        <translation>3. Wzory zewnętrzenj poświaty</translation>
     </message>
 </context>
 <context>
@@ -2048,7 +2048,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="statuswnd.ui" line="130"/>
         <source>Choose profile for an active video</source>
-        <translation>Wybierz profil dla altywnego filmu</translation>
+        <translation>Wybierz profil dla altywnego wideo</translation>
     </message>
     <message>
         <location filename="statuswnd.ui" line="187"/>
@@ -2064,12 +2064,12 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="statuswnd.cpp" line="125"/>
         <source>1 active video</source>
-        <translation>1 aktywny film</translation>
+        <translation>1 aktywne wideo</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="126"/>
         <source>%1 active videos</source>
-        <translation>%1 aktywnych filmów</translation>
+        <translation>%1 aktywnych wideo</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="130"/>
@@ -2113,7 +2113,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="271"/>
         <source>Video frame</source>
-        <translation>Klatka obrazu</translation>
+        <translation>Klatka wideo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="274"/>
@@ -2173,32 +2173,32 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="308"/>
         <source>Fill black bars</source>
-        <translation>Zapełnij czarne pasy</translation>
+        <translation>Wypełnij pasy</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="195"/>
         <source>Default configuration restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślna konfiguracja przywrócona</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="250"/>
         <source>Open file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz plik...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="258"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="258"/>
         <source>Video files</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik wideo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="278"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy przeprowadzać analizę czarnych pasów stale, czy jednorazowo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="309"/>
@@ -2218,7 +2218,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="321"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartośc maksymalnego powiększenia klatki w związku z zewnętrznym oświetleniem</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="323"/>
@@ -2228,7 +2228,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="325"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation>Uzyj zewnętrznej poświaty tylko dla filmów 2D</translation>
+        <translation>Uzyj zewnętrznej poświaty tylko dla wideo 2D</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="331"/>
@@ -2303,7 +2303,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="393"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP w VLC (zamień filtr usuwania przeplotu)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="401"/>
@@ -2333,7 +2333,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="438"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dlaczego akceleracja GPU nie jest dostępna?</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="445"/>
@@ -2348,12 +2348,12 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="455"/>
         <source>Load at Windows startup</source>
-        <translation>Wczytaj wraz ze starten Windows-a</translation>
+        <translation>Uruchom wraz ze startem Windowsa</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="457"/>
         <source>Load at system startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom wraz ze startem systemu</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="478"/>
@@ -2363,7 +2363,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="482"/>
         <source>Assume double frame rate for interlaced videos</source>
-        <translation>Zastosuj podwojenie ilości klatek dla filmów z przeplotem</translation>
+        <translation>Zastosuj podwojenie ilości klatek dla wideo z przeplotem</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="484"/>
@@ -2388,37 +2388,37 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="513"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerzenia</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="540"/>
         <source>Linux specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notatki właściwe dla Linuxa</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="543"/>
         <source>Mac OS X specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notatki właściwe dla Mac OS X</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="639"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1293"/>
         <source>SVP - Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Rozszerzenia</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1293"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby zmiany zostały zatwierdzone należy zrestarować Menadżer.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1351"/>
         <source>SVP 4 Manager is already running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menadżer SVP 4 jest już włączony.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="487"/>
@@ -2428,7 +2428,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="241"/>
         <source>Profile for an active video</source>
-        <translation>Profil dla aktywnego filmu</translation>
+        <translation>Profil dla aktywnego wideo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="384"/>
@@ -2453,52 +2453,52 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="498"/>
         <source>Running multiple videos</source>
-        <translation>Uruchomienie wiele filmów na raz</translation>
+        <translation>Uruchomienie wiele wideo na raz</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="499"/>
         <source>Use SVP in all opened videos</source>
-        <translation>Użyj SVP we wszystkich otwartych filmach</translation>
+        <translation>Użyj SVP we wszystkich otwartych wideo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="500"/>
         <source>First opened video only</source>
-        <translation>Tylko pierwszy otwarty film</translation>
+        <translation>Tylko pierwsze otwarte wideo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="501"/>
         <source>Latest opened video only</source>
-        <translation>Tylko ostatni otwarty film</translation>
+        <translation>Tylko ostatnie otwarte wideo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="517"/>
         <source>Reset settings to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj ustawienia do domyślnych</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="519"/>
         <source>SVP - Configuration reset</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Reset konfiguracji</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="519"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy naprawdę chcesz zresetować wszystkie ustawienia SVP do domyślnych wartości?</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="520"/>
         <source>No</source>
-        <translation type="unfinished">Nie</translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="520"/>
         <source>Yes, but keep video profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak, ale zachowaj profile wideo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="520"/>
         <source>Yes, reset all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak, zresetuj wszystkie ustawienia</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="526"/>
@@ -2513,7 +2513,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="537"/>
         <source>User manual (online)</source>
-        <translation>Instrukcja użytkownika (online)</translation>
+        <translation>Instrukcja obsługi (online)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="547"/>
@@ -2548,7 +2548,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="589"/>
         <source>Last generated script</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio wygenerowany skrypt</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="595"/>
@@ -2578,7 +2578,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="trayicon.cpp" line="1049"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
-        <translation>Nie można połączyć z odtwarzaczem video. Sprawdź, czy nie jest uruchomiony z innego konta użytkownika.</translation>
+        <translation>Nie można połączyć z odtwarzaczem wideo. Sprawdź, czy nie jest uruchomiony z innego konta użytkownika.</translation>
     </message>
 </context>
 <context>
@@ -2591,7 +2591,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="unlockwnd.ui" line="81"/>
         <source>Advanced video preprocessing</source>
-        <translation>Zaawansowana obróbka wstępna video</translation>
+        <translation>Zaawansowana obróbka wstępna wideo</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="126"/>
@@ -2606,12 +2606,12 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="unlockwnd.ui" line="216"/>
         <source>Fully customizable video profiles</source>
-        <translation>W pełni konfigurowalne profile video</translation>
+        <translation>W pełni konfigurowalne profile wideo</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="261"/>
         <source>Intelligent video profiles selection based on multiple conditions</source>
-        <translation>Inteligentny wybór profili video na podstawie kilku warunków</translation>
+        <translation>Inteligentny wybór profili wideo na podstawie kilku warunków</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="306"/>
@@ -2621,7 +2621,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="unlockwnd.ui" line="351"/>
         <source>Process multiple videos at the same time</source>
-        <translation>Przetwarzanie wielu filmów na raz</translation>
+        <translation>Przetwarzanie wielu wideo na raz</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="396"/>
@@ -2631,17 +2631,17 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="unlockwnd.ui" line="441"/>
         <source>SVPtube helps watching online videos</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPtube pomaga oglądać wideo online</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="486"/>
         <source>SVPlight controls LED lighting hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPlight steruje sprzętem oświetlenia LED</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="531"/>
         <source>Customizable video processing script</source>
-        <translation>Konfigurowalny skrypt przetwarzania video</translation>
+        <translation>Konfigurowalny skrypt przetwarzania wideo</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="563"/>
@@ -2664,7 +2664,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="updatewnd.cpp" line="30"/>
         <source>Get updated package...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz aktualizację...</translation>
     </message>
     <message>
         <location filename="updatewnd.cpp" line="95"/>
@@ -2692,27 +2692,27 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     <message>
         <location filename="vlcvideoplayer.cpp" line="80"/>
         <source>Choose the VLC executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik wykonywalny VLC</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="148"/>
         <source>Operation failed. Check that SVP Manager have write access to &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja nieudana. Sprawdź czy Menadżer SVP ma uprawnienia do zapisu na  &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="150"/>
         <source>SVP support DISABLED, you can now use deinterlace filter in VLC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wsparce SVP WYŁĄCZONE, możesz użyć teraz filtru usuwania przeplotu w VLC.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="151"/>
         <source>SVP support ENABLED but the deinterlace filter in VLC is not available any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wsparce SVP WŁĄCZONE, ale filtr usuwania przeplotu w VLC nie jest już dostępny.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="153"/>
         <source>SVP in VLC</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP w VLC</translation>
     </message>
 </context>
 </TS>
