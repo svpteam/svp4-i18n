@@ -319,7 +319,7 @@
     <message>
         <location filename="controlpanel.ui" line="14"/>
         <source>SVP - Control Panel</source>
-        <translation>SVP - Панель управления</translation>
+        <translation>SVP - Контрольная панель</translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="200"/>
@@ -693,7 +693,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="86"/>
         <source>Fill black bars</source>
-        <translation>Только  поля</translation>
+        <translation>Только поля</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="120"/>
@@ -867,12 +867,12 @@
     <message>
         <location filename="performancewnd.cpp" line="62"/>
         <source>%1 GB</source>
-        <translation>%1 Гб</translation>
+        <translation>%1 ГБ</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="114"/>
         <source>GB</source>
-        <translation>Гб</translation>
+        <translation>ГБ</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="203"/>
@@ -882,7 +882,7 @@
     <message>
         <location filename="performancewnd.cpp" line="224"/>
         <source>%1 GB of %2 GB</source>
-        <translation>%1 Гб из %2 Гб</translation>
+        <translation>%1 ГБ из %2 ГБ</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="247"/>
@@ -927,13 +927,13 @@
     <message>
         <location filename="playbackobject.cpp" line="63"/>
         <source>SVP - 4GB aware patch</source>
-        <translation>SVP - поддержка 4 Гб</translation>
+        <translation>SVP - поддержка 4 ГБ</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="64"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
-        <translation>Этот проигрыватель не поддерживает использование более 2 Гб оперативной памяти, что может привести к сбоям в работе совместно с SVP. Мы рекомендуем применить к проигрывателю специальное исправление.
+        <translation>Этот проигрыватель не поддерживает использование более 2 ГБ оперативной памяти, что может привести к сбоям в работе совместно с SVP. Мы рекомендуем применить к проигрывателю специальное исправление.
 Пожалуйста, закройте проигрыватель прежде чем нажать на &apos;Исправить&apos;.</translation>
     </message>
     <message>
@@ -1748,7 +1748,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="779"/>
         <source>&quot;2m&quot; (min artifacts)</source>
-        <translation>2m (каждый исходный по два раза)</translation>
+        <translation>&quot;2m&quot; (каждый исходный по два раза)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="779"/>
@@ -1758,7 +1758,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="780"/>
         <source>&quot;1m&quot; (average mode)</source>
-        <translation>1m (каждый исходный по разу)</translation>
+        <translation>&quot;1m&quot; (каждый исходный по разу)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="780"/>
@@ -2174,7 +2174,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="308"/>
         <source>Fill black bars</source>
-        <translation>Подсвечивать  поля</translation>
+        <translation>Подсвечивать поля</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="195"/>
@@ -2284,12 +2284,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="382"/>
         <source>Apply 4GB aware patch...</source>
-        <translation>Включить поддержку 4 Гб памяти в проигрывателе...</translation>
+        <translation>Включить поддержку 4 ГБ памяти в проигрывателе...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="385"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
-        <translation>После нажатися на &apos;Продолжить&apos; выберите исполняемый файл проигрывателя видео, который требует исправления.</translation>
+        <translation>После нажатия на &apos;Продолжить&apos; выберите исполняемый файл проигрывателя видео, который требует исправления.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="386"/>
@@ -2429,7 +2429,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="384"/>
         <source>SVP - 4GB aware patch</source>
-        <translation>SVP - поддержка 4 Гб</translation>
+        <translation>SVP - поддержка 4 ГБ</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="484"/>
