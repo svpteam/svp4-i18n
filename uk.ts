@@ -319,7 +319,7 @@
     <message>
         <location filename="controlpanel.ui" line="14"/>
         <source>SVP - Control Panel</source>
-        <translation>SVP - Контрольна Панель</translation>
+        <translation>SVP - Панель керування</translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="200"/>
@@ -349,7 +349,7 @@
     <message>
         <location filename="controlpanel.cpp" line="173"/>
         <source>Performance monitor</source>
-        <translation>Навантаження системи</translation>
+        <translation>Монітор завантаження</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="179"/>
@@ -1039,7 +1039,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="278"/>
         <source>Completely disable SVP</source>
-        <translation>Вимкнути SVP для даного профілю</translation>
+        <translation>Вимкнути SVP повністю для даного профілю</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="333"/>
@@ -1259,7 +1259,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="499"/>
         <source>Video frame rate</source>
-        <translation>Кадр.частота відео</translation>
+        <translation>Кадрова частота відео</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="500"/>
@@ -1550,7 +1550,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="158"/>
         <source>Listening on port &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;click here to view help page&lt;/a&gt;</source>
-        <translation>Сервер активний через порт &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;см. справку по командам&lt;/a&gt;</translation>
+        <translation>Сервер активний через порт &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;див. довідку по командам&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="159"/>
@@ -1610,7 +1610,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="231"/>
         <source>Open Performance Monitor</source>
-        <translation>Відобразити Монітор швидкоспроможності</translation>
+        <translation>Відобразити Монітор завантаження</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="232"/>
@@ -1748,7 +1748,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="779"/>
         <source>&quot;2m&quot; (min artifacts)</source>
-        <translation>2m (первинні дублями, мін артефактів)</translation>
+        <translation>&quot;2m&quot; (первинні дублями, мін артефактів)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="779"/>
@@ -1758,7 +1758,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="780"/>
         <source>&quot;1m&quot; (average mode)</source>
-        <translation>1m (кожен первинний єдиноразово)</translation>
+        <translation>&quot;1m&quot; (кожен первинний єдиноразово)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="780"/>
@@ -2055,7 +2055,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="statuswnd.ui" line="187"/>
         <source>Open SVP Control Panel</source>
         <oldsource>&lt;a href=#&gt;Open SVP Control Panel&lt;/a&gt;</oldsource>
-        <translation>Контрольна панель SVP</translation>
+        <translation>Панель керування SVP</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="124"/>
@@ -2109,7 +2109,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="235"/>
         <source>SVP Control Panel</source>
-        <translation>Контрольна панель SVP</translation>
+        <translation>Панель керування SVP</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="271"/>
@@ -2264,7 +2264,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="357"/>
         <source>Performance Monitor</source>
-        <translation>Монітор швидкоспроможності</translation>
+        <translation>Монітор завантаження</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="362"/>
