@@ -223,12 +223,12 @@
     <message>
         <location filename="benchmarkwnd.cpp" line="90"/>
         <source>CPU-based frame rendering</source>
-        <translation>Renderização de frames baseado no CPU</translation>
+        <translation>Renderização baseado no CPU</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="94"/>
         <source>GPU-based frame rendering</source>
-        <translation>Renderização de frames baseado no GPU</translation>
+        <translation>Renderização baseado no GPU</translation>
     </message>
 </context>
 <context>
