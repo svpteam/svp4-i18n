@@ -696,7 +696,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="120"/>
         <source>Glow light</source>
-        <translation>Brilho de luzes</translation>
+        <translation>Efeito Glow</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="145"/>
@@ -2204,7 +2204,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
         <location filename="trayicon.cpp" line="309"/>
         <source>Glow lights</source>
         <translatorcomment>TLC</translatorcomment>
-        <translation>Efeito de iluminação</translation>
+        <translation>Efeito Glow</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="313"/>
@@ -2215,7 +2215,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
         <location filename="trayicon.cpp" line="316"/>
         <source>Glow border width</source>
         <translatorcomment>TLC</translatorcomment>
-        <translation>Largura da borda de iluminação</translation>
+        <translation>Largura da borda do efeito glow</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="321"/>
