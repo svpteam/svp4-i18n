@@ -173,7 +173,7 @@
     <message>
         <location filename="benchmarkwnd.ui" line="145"/>
         <source>System load:</source>
-        <translation>Carga do sistema:</translation>
+        <translation>Uso do Sistema:</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="250"/>
@@ -386,7 +386,7 @@
     <message>
         <location filename="controlpanel.cpp" line="217"/>
         <source>Unlock SVP features</source>
-        <translation>Desbloquear recursos do SVP</translation>
+        <translation>Destravar o SVP Completo</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="352"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="50"/>
         <source>No outer lighting</source>
-        <translation>Sem luz externa</translation>
+        <translation>Desligar</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="86"/>
@@ -706,7 +706,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="230"/>
         <source>Preview light pattern</source>
-        <translation>Pré-visualizar o padrão de luz</translation>
+        <translation>Pré-visualização do padrão de luz</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="242"/>
@@ -2561,7 +2561,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="600"/>
         <source>Version and credits...</source>
-        <translation>Versão e créditos...</translation>
+        <translation>Sobre...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="606"/>
@@ -2589,7 +2589,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="36"/>
         <source>SVP 4 advanced features</source>
-        <translation>SVP 4 Recursos Avançados</translation>
+        <translation>Recursos da versão completa do SVP 4</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="81"/>
@@ -2599,12 +2599,12 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="126"/>
         <source>custom crop and resize</source>
-        <translation>Corte e redimensionamento customizado</translation>
+        <translation>Corte e redimensione customizadamente</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="171"/>
         <source>tracking black fields detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalize a detecção de barras escuras</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="216"/>
@@ -2614,7 +2614,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="261"/>
         <source>Intelligent video profiles selection based on multiple conditions</source>
-        <translation>Seleção de perfil inteligente baseado em multiplas condições</translation>
+        <translation>Seleção de perfil referente as propriedades do vídeo</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="306"/>
@@ -2624,7 +2624,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="351"/>
         <source>Process multiple videos at the same time</source>
-        <translation>Processar multiplos vídeos simultaneamente</translation>
+        <translation>Processe multiplos vídeos simultaneamente</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="396"/>
@@ -2639,12 +2639,12 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="486"/>
         <source>SVPlight controls LED lighting hardware</source>
-        <translation>SVPlight controla iluminação das LED externa de sua maquina</translation>
+        <translation>Controle a as LEDs externa de sua maquina</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="531"/>
         <source>Customizable video processing script</source>
-        <translation>Script de processamento do vídeo customizavel</translation>
+        <translation>Script de processamento customizavel</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="563"/>
