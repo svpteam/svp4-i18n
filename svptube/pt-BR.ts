@@ -345,12 +345,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="148"/>
         <source>Player for 3D</source>
-        <translation>Reprodutor para 3D</translation>
+        <translation>Reprodutor para vídeos 3D</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="150"/>
         <source>Same as player for 2D</source>
-        <translation>Mesmo reprodutor para 2D</translation>
+        <translation>Mesmo reprodutor para vídeo 2D</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="154"/>

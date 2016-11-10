@@ -731,7 +731,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="441"/>
         <source>Light width</source>
-        <translation type="unfinished">Comprimento da luz</translation>
+        <translation>Comprimento da luz</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.cpp" line="284"/>
@@ -1631,7 +1631,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="reportwnd.ui" line="50"/>
         <source>I&apos;d like to get reply to:</source>
-        <translation type="unfinished">Eu desejo receber uma respota:</translation>
+        <translation>Eu desejo receber uma respota em:</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="63"/>
@@ -2639,7 +2639,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="486"/>
         <source>SVPlight controls LED lighting hardware</source>
-        <translation>Controle a as LEDs externa de sua maquina</translation>
+        <translation>Controle as LEDs externa de sua maquina</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="531"/>
