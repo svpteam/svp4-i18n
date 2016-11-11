@@ -345,7 +345,7 @@
     <message>
         <location filename="controlpanel.cpp" line="167"/>
         <source>Black bars lighting</source>
-        <translation>Iluminação de barras</translation>
+        <translation>Iluminação de tarjas pretas</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="173"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="34"/>
         <source>Following user-defined options will be exposed to the script at runtime.&lt;br&gt;&lt;b&gt;Please do not do anything here unless you really know why.&lt;/b&gt;</source>
-        <translation>Seguindo as opções definidas pelo usuário você será exposto ao script de execução.&lt;br&gt;&lt;b&gt;Por-favor não mecha aqui a menos que saiba o que está fazendo.&lt;/b&gt;</translation>
+        <translation>Definir quaisquer configuração aqui irá afetar o script do SVP ao reproduzir vídeos.&lt;br&gt;&lt;b&gt;Favor, Não configure a menos que saiba o que está fazendo.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="74"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="97"/>
         <source>Add another option</source>
-        <translation>Adicionar outra opção</translation>
+        <translation>Adicionar nova opção</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="110"/>
@@ -435,12 +435,12 @@
     <message>
         <location filename="customoptionwnd.ui" line="117"/>
         <source>My custom option</source>
-        <translation>Minha opção costumizada</translation>
+        <translation>Minha Opção</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="124"/>
         <source>Script name:</source>
-        <translation>Nome do Script:</translation>
+        <translation>Variável:</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="154"/>
@@ -475,7 +475,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="225"/>
         <source>either JSON array or simple object</source>
-        <translation>ambos JSON array ou simple object</translation>
+        <translation>Use Array em JSON ou objeto simples</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="238"/>
@@ -495,7 +495,7 @@
     <message>
         <location filename="customoptionwnd.cpp" line="49"/>
         <source>On</source>
-        <translation>Não</translation>
+        <translation>Ligar</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="53"/>
@@ -577,12 +577,12 @@
     <message>
         <location filename="framecontrolwnd.ui" line="49"/>
         <source>Black bars detection</source>
-        <translation>Detecção de barras</translation>
+        <translation>Detecção de tarjas pretas</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="78"/>
         <source>Force re-detect black bars</source>
-        <translation>Forçar Redetecção de barras</translation>
+        <translation>Forçar Redetecção de tarjas pretas</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="449"/>
@@ -647,7 +647,7 @@
     <message>
         <location filename="framecontrolwnd.cpp" line="91"/>
         <source>Long press to choose black bars detection mode</source>
-        <translation>Pressione para selecionar o modo de detecção de barras</translation>
+        <translation>Pressione por um tempo para selecionar o modo de detecção de tarjas pretas</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="512"/>
@@ -691,7 +691,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="86"/>
         <source>Fill black bars</source>
-        <translation>Preencher barras</translation>
+        <translation>Preencher tarjas pretas</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="120"/>
@@ -731,7 +731,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="441"/>
         <source>Light width</source>
-        <translation type="unfinished">Comprimento da luz</translation>
+        <translation>Comprimento da luz</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.cpp" line="284"/>
@@ -814,7 +814,7 @@
     <message>
         <location filename="performancewnd.ui" line="44"/>
         <source>SVP Index</source>
-        <translation>SVP Indíce</translation>
+        <translation>Índice do SVP</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="51"/>
@@ -839,7 +839,7 @@
     <message>
         <location filename="performancewnd.ui" line="250"/>
         <source>Video player memory usage</source>
-        <translation>Uso de memória pelo reprodutor de vídeo</translation>
+        <translation>Uso de memória do reprodutor de vídeo</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="340"/>
@@ -977,7 +977,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="playbackobject.cpp" line="798"/>
         <source>Black bars: </source>
-        <translation>Barras:</translation>
+        <translation>tarjas pretas:</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="804"/>
@@ -1007,7 +1007,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="profilewnd.ui" line="71"/>
         <source>List all video profiles</source>
-        <translation>Lista de todos os perfis de vídeos</translation>
+        <translation>Exibe todos os perfis de vídeos</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="131"/>
@@ -1053,7 +1053,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
         <location filename="profilewnd.ui" line="391"/>
         <source>Movie ×2.5</source>
         <oldsource>Movie ×3</oldsource>
-        <translation>Vídeo x2.½</translation>
+        <translation>Vídeo x2.5</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="423"/>
@@ -1588,12 +1588,12 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="remotewnd.cpp" line="221"/>
         <source>Toggle black bars detection</source>
-        <translation>Alternar detecção de barras</translation>
+        <translation>Alternar detecção de tarjas pretas</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="222"/>
         <source>Force re-detect black bars</source>
-        <translation>Forçar Redetecção de barras</translation>
+        <translation>Forcar a redetecção de tarjas pretas</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="224"/>
@@ -1631,7 +1631,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="reportwnd.ui" line="50"/>
         <source>I&apos;d like to get reply to:</source>
-        <translation type="unfinished">Eu desejo receber uma respota:</translation>
+        <translation>Eu desejo receber uma respota em:</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="63"/>
@@ -2118,12 +2118,12 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="274"/>
         <source>Detect and cut off black bars</source>
-        <translation>Detectar e cortar barras escuras</translation>
+        <translation>Detectar e cortar tarjas pretas</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="275"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
-        <translation>Procurar automaticamente por barras dentro do frame e removelas</translation>
+        <translation>Analizar e Recortar automaticamente tarjas pretas no frame do vídeo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="283"/>
@@ -2173,7 +2173,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="308"/>
         <source>Fill black bars</source>
-        <translation>Preencher barras escuras</translation>
+        <translation>Preencher tarjas pretas</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="195"/>
@@ -2198,7 +2198,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="278"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
-        <translation>se deve procurar por barras de forma contínua ou somente uma vez</translation>
+        <translation>se deve procurar por tarjas periódicamente ou somente uma vez</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="309"/>
@@ -2230,7 +2230,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="325"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation>Habilitar iluminação externa sómente para vídeos 2D</translation>
+        <translation>Habilitar iluminação externa somente para vídeos 2D</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="331"/>
@@ -2260,7 +2260,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="355"/>
         <source>Utilities</source>
-        <translation>Útilidades</translation>
+        <translation>Utilidades</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="357"/>
@@ -2426,7 +2426,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="487"/>
         <source>Reset on seek</source>
-        <translation>Reiniciar ao seguir</translation>
+        <translation>Reiniciar SVP ao pular à outra parte do vídeo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="241"/>
@@ -2531,7 +2531,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="573"/>
         <source>Send problem report...</source>
-        <translation>Reportar algum problema...</translation>
+        <translation>Reportar problema...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="578"/>
@@ -2604,7 +2604,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="171"/>
         <source>tracking black fields detection</source>
-        <translation>Personalize a detecção de barras escuras</translation>
+        <translation>Personalize a detecção de tarjas pretas</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="216"/>
@@ -2639,7 +2639,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="486"/>
         <source>SVPlight controls LED lighting hardware</source>
-        <translation>Controle a as LEDs externa de sua maquina</translation>
+        <translation>Controle as LEDs de seu hardware</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="531"/>

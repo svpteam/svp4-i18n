@@ -289,7 +289,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="99"/>
         <source>Show MP4 only (more stable)</source>
-        <translation>Exibir sómente MP4 (mais estável)</translation>
+        <translation>Exibir somente MP4 (mais estável)</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="100"/>
@@ -304,12 +304,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="107"/>
         <source>Show HTTP streams only</source>
-        <translation>Exibir sómente streamings em HTTP</translation>
+        <translation>Exibir somente streamings em HTTP</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="108"/>
         <source>Show HTTP and M3U8 streams</source>
-        <translation>Exibir sómente streamings em HTTP e M3U8</translation>
+        <translation>Exibir somente streamings em HTTP e M3U8</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="109"/>
@@ -345,12 +345,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="148"/>
         <source>Player for 3D</source>
-        <translation>Reprodutor para 3D</translation>
+        <translation>Reprodutor para vídeos 3D</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="150"/>
         <source>Same as player for 2D</source>
-        <translation>Mesmo reprodutor para 2D</translation>
+        <translation>Mesmo reprodutor para vídeo 2D</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="154"/>
