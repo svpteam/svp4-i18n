@@ -213,12 +213,12 @@
     <message>
         <location filename="ledcontrol.ui" line="14"/>
         <source>LED lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Iluminação de LEDs</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="76"/>
         <source>SVPlight - LED lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPlight - Iluminação de LEDs</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="108"/>
@@ -309,7 +309,7 @@
     <message>
         <location filename="ledcontrol.ui" line="671"/>
         <source>Setup LED lighting hardware...</source>
-        <translation>Configurar Hardware do LED de iluminação...</translation>
+        <translation>Configurar Hardware de iluminação de LEDs...</translation>
     </message>
 </context>
 <context>
