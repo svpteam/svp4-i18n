@@ -345,7 +345,7 @@
     <message>
         <location filename="controlpanel.cpp" line="167"/>
         <source>Black bars lighting</source>
-        <translation>Iluminação de tarjas pretas</translation>
+        <translation>Iluminação de tarjas</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="173"/>
@@ -691,7 +691,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="86"/>
         <source>Fill black bars</source>
-        <translation>Preencher tarjas pretas</translation>
+        <translation>Preencher as tarjas</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="120"/>
@@ -1573,17 +1573,17 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="remotewnd.cpp" line="213"/>
         <source>Cycle to the next video profile</source>
-        <translation>Ciclo para o perfil de vídeo seguinte</translation>
+        <translation>Próximo perfil de vídeo</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="216"/>
         <source>Toggle outer lighting</source>
-        <translation>Alternar a iluminação externa</translation>
+        <translation>Alternar a Iluminação externa</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="218"/>
         <source>Cycle to the next lighting pattern</source>
-        <translation>Ciclo para o próximo padrão de iluminação</translation>
+        <translation>Próximo padrão de iluminação</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="221"/>
@@ -1593,7 +1593,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="remotewnd.cpp" line="222"/>
         <source>Force re-detect black bars</source>
-        <translation>Forcar a redetecção de tarjas pretas</translation>
+        <translation>Forçar a redetecção de tarjas</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="224"/>
@@ -2173,7 +2173,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="308"/>
         <source>Fill black bars</source>
-        <translation>Preencher tarjas pretas</translation>
+        <translation>Preencher tarjas</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="195"/>
