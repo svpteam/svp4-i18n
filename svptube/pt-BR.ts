@@ -57,7 +57,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="181"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; your password can potentially be compromised, please read &lt;a href=#&gt;security notice&lt;/a&gt; before checking this.</source>
-        <translation>&lt;b&gt;Aviso:&lt;/b&gt; Sua senha pode ser potencialmente comprometida, por favor &lt;a href=&quot;#&quot;&gt;notas de segurança&lt;/a&gt; antes de marcar esta opção.</translation>
+        <translation>&lt;b&gt;Aviso:&lt;/b&gt; Sua senha pode ser potencialmente comprometida, por favor leia as &lt;a href=&quot;#&quot;&gt;notas de segurança&lt;/a&gt; antes de marcar esta opção.</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="227"/>
