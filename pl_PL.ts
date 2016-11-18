@@ -15,7 +15,7 @@
         <translation>Ikony z &lt;b&gt;Icons8&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="aboutdlg.ui" line="258"/>
+        <location filename="aboutdlg.ui" line="259"/>
         <source>This copy is registered!</source>
         <translation>Ta kopia jest zarejestrowana!</translation>
     </message>
@@ -25,7 +25,7 @@
         <translation>O programie</translation>
     </message>
     <message>
-        <location filename="aboutdlg.ui" line="275"/>
+        <location filename="aboutdlg.ui" line="276"/>
         <source>Manage your license...</source>
         <oldsource>Manage your license.</oldsource>
         <translation>Zarządzaj swoją licencją...</translation>
@@ -114,27 +114,27 @@
         <translation>Proszę czekać na odpowiedź serwera aktywacyjnego...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="94"/>
+        <location filename="activationwnd.cpp" line="105"/>
         <source>Connection error, please try again later</source>
         <translation>Wystąpił problem z połączeniem, prosimy spróbować ponownie później</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="98"/>
+        <location filename="activationwnd.cpp" line="109"/>
         <source>Invalid e-mail or registration key</source>
         <translation>Błędny e-mail albo klucz rejestracyjny</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="99"/>
+        <location filename="activationwnd.cpp" line="110"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation>Klucz rejestracyjny jest niekompatybilny z tą edycją SVP</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="100"/>
+        <location filename="activationwnd.cpp" line="111"/>
         <source>Too many activations for the registration key</source>
         <translation>Za dużo aktywacji dla jednego klucza</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="101"/>
+        <location filename="activationwnd.cpp" line="112"/>
         <source>Unknown error</source>
         <translation>Nieznany błąd</translation>
     </message>
@@ -195,37 +195,37 @@
         <translation>Aktualnie testowane:</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="25"/>
+        <location filename="benchmarkwnd.cpp" line="26"/>
         <source>This is the first time you started SVP 4.</source>
         <translation>To jest pierwszy raz, gdy uruchomiłeś SVP 4.</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="28"/>
+        <location filename="benchmarkwnd.cpp" line="29"/>
         <source>System performance changed significantly since last test.</source>
         <translation>Wydajność systemu uległa znacznej zmianie od ostatniego testu.</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="32"/>
+        <location filename="benchmarkwnd.cpp" line="33"/>
         <source>Re-check system performance.</source>
         <translation>Ponowne sprawdzenie wydajności systemu.</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="42"/>
+        <location filename="benchmarkwnd.cpp" line="43"/>
         <source>TOO HIGH</source>
         <translation>ZA WYSOKIE</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="86"/>
+        <location filename="benchmarkwnd.cpp" line="87"/>
         <source>motion vectors estimation</source>
         <translation>Wyznaczanie wektorów ruchu</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="90"/>
+        <location filename="benchmarkwnd.cpp" line="91"/>
         <source>CPU-based frame rendering</source>
         <translation>Renderowanie klatek przez CPU</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="94"/>
+        <location filename="benchmarkwnd.cpp" line="95"/>
         <source>GPU-based frame rendering</source>
         <translation>Renderowanie klatek przez GPU</translation>
     </message>
@@ -332,68 +332,68 @@
         <translation>Wydajność CPU. Kliknij, aby otworzyć monitor wydajności.</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="155"/>
+        <location filename="controlpanel.cpp" line="156"/>
         <source>Video profiles</source>
         <translation>Profile wideo</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="161"/>
+        <location filename="controlpanel.cpp" line="162"/>
         <source>Frame size</source>
         <translation>Rozmiar klatki</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="167"/>
+        <location filename="controlpanel.cpp" line="168"/>
         <source>Black bars lighting</source>
         <translation>Oświetlanie pasów</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="173"/>
+        <location filename="controlpanel.cpp" line="174"/>
         <source>Performance monitor</source>
         <translation>Monitor wydajności</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="179"/>
+        <location filename="controlpanel.cpp" line="180"/>
         <source>Updates</source>
         <translation>Aktualizacje</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="181"/>
-        <location filename="controlpanel.cpp" line="193"/>
+        <location filename="controlpanel.cpp" line="182"/>
+        <location filename="controlpanel.cpp" line="194"/>
         <source>Utilities</source>
         <translation>Narzędzia</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="187"/>
+        <location filename="controlpanel.cpp" line="188"/>
         <source>Report a problem</source>
         <translation>Zgłoś problem</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="199"/>
+        <location filename="controlpanel.cpp" line="200"/>
         <source>Events log</source>
         <translation>Dziennik wydarzeń</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="205"/>
+        <location filename="controlpanel.cpp" line="206"/>
         <source>Application settings</source>
         <translation>Ustawienia aplikacji</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="211"/>
+        <location filename="controlpanel.cpp" line="212"/>
         <source>Control options</source>
         <translation>Opcje kontroli</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="217"/>
+        <location filename="controlpanel.cpp" line="218"/>
         <source>Unlock SVP features</source>
         <translation>Odblokuj funkcje SVP</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="352"/>
+        <location filename="controlpanel.cpp" line="353"/>
         <source>No active playback</source>
         <translation>Brak aktywnego odtwarzania</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="367"/>
+        <location filename="controlpanel.cpp" line="368"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
         <translation>+%1 więcej</translation>
@@ -508,6 +508,34 @@
     </message>
 </context>
 <context>
+    <name>DaumVideoPlayer</name>
+    <message>
+        <location filename="daumvideoplayer.cpp" line="180"/>
+        <source>Access to the video player is denied. Is it running with administrator privileges?</source>
+        <translation>Dostęp do odtwarzacza odmówiony. Czy jest on uruchomiony z uprawnieniami administratora?</translation>
+    </message>
+    <message>
+        <location filename="daumvideoplayer.cpp" line="208"/>
+        <source>64-bit SVP engine is not installed</source>
+        <translation>64-bitowy silnik SVP nie jest zainstalowany</translation>
+    </message>
+    <message>
+        <location filename="daumvideoplayer.cpp" line="209"/>
+        <source>32-bit SVP engine is not installed</source>
+        <translation>32-bitowy silnik SVP nie jest zainstalowany</translation>
+    </message>
+    <message>
+        <location filename="daumvideoplayer.cpp" line="247"/>
+        <source>Unable to locate Avisynth, please re-install it</source>
+        <translation>Nie można zlokalizować Avisynth, proszę ponownie zainstalować</translation>
+    </message>
+    <message>
+        <location filename="daumvideoplayer.cpp" line="260"/>
+        <source>Legacy Avisynth 2.5 is not supported, please use either Avisynth 2.6 or Avisynth+</source>
+        <translation>Przestarzały Avisynth 2.5 nie jest wspierany, skorzystaj z Avisynth 2.6 lub Avisynth+</translation>
+    </message>
+</context>
+<context>
     <name>FFDShowVideoPlayer</name>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="55"/>
@@ -515,27 +543,27 @@
         <translation>Dostęp do odtwarzacza odmówiony. Czy jest on uruchomiony z uprawnieniami administratora?</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="87"/>
+        <location filename="ffdshowvideoplayer.cpp" line="84"/>
         <source>64-bit SVP engine is not installed</source>
         <translation>64-bitowy silnik SVP nie jest zainstalowany</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="88"/>
+        <location filename="ffdshowvideoplayer.cpp" line="85"/>
         <source>32-bit SVP engine is not installed</source>
         <translation>32-bitowy silnik SVP nie jest zainstalowany</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="106"/>
+        <location filename="ffdshowvideoplayer.cpp" line="109"/>
         <source>Unable to locate Avisynth, please re-install it</source>
         <translation>Nie można zlokalizować Avisynth, proszę ponownie zainstalować</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="119"/>
+        <location filename="ffdshowvideoplayer.cpp" line="122"/>
         <source>Legacy Avisynth 2.5 is not supported, please use either Avisynth 2.6 or Avisynth+</source>
         <translation>Przestarzały Avisynth 2.5 nie jest wspierany, skorzystaj z Avisynth 2.6 lub Avisynth+</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="135"/>
+        <location filename="ffdshowvideoplayer.cpp" line="138"/>
         <source>Error communicating with the video player. Maybe SVP is running with administrator privileges?</source>
         <translation>Wystąpił błąd podczas komunikacji z odtwarzaczem. Może SVP jest uruchomiony z uprawnieniami administratora?</translation>
     </message>
@@ -698,9 +726,13 @@
         <translation>Poświata</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.ui" line="145"/>
         <source>Do not use outer lighting while in 3D mode</source>
-        <translation>Nie używaj zewnętrznej poświaty w trybie 3D</translation>
+        <translation type="vanished">Nie używaj zewnętrznej poświaty w trybie 3D</translation>
+    </message>
+    <message>
+        <location filename="lightcontrolwnd.ui" line="145"/>
+        <source>Enable for full screen playback only</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="230"/>
@@ -733,7 +765,7 @@
         <translation>Szerokość światła</translation>
     </message>
     <message>
-        <location filename="lightcontrolwnd.cpp" line="284"/>
+        <location filename="lightcontrolwnd.cpp" line="287"/>
         <source>New pattern</source>
         <translation>Nowy wzór</translation>
     </message>
@@ -793,17 +825,17 @@
 <context>
     <name>MpvFinder</name>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="36"/>
+        <location filename="mpvvideoplayer.cpp" line="40"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
         <translation>Ścieżka do gniazda JSON IPC(nawiązuje do opcji mpv --input-ipc-server)</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="43"/>
+        <location filename="mpvvideoplayer.cpp" line="47"/>
         <source>Path to the external video player to execute</source>
         <translation>Ścieżka do pliku wykonywalnego zewnętrznego odtwarzacza</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="45"/>
+        <location filename="mpvvideoplayer.cpp" line="49"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
         <translation>Argumenty zewnętrznego odtwarzacza oddzielone za pomocą &apos;;&apos;</translation>
     </message>
@@ -872,32 +904,32 @@
         <translation>GB</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="203"/>
+        <location filename="performancewnd.cpp" line="204"/>
         <source>%1% of %2 GHz</source>
         <translation>%1% z %2 GHz</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="224"/>
+        <location filename="performancewnd.cpp" line="225"/>
         <source>%1 GB of %2 GB</source>
         <translation>%1 GB z %2 GB</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="247"/>
+        <location filename="performancewnd.cpp" line="248"/>
         <source>N/A</source>
         <translation>n.d.</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="257"/>
+        <location filename="performancewnd.cpp" line="258"/>
         <source>%1 at %2%</source>
         <translation>%1 na %2%</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="269"/>
+        <location filename="performancewnd.cpp" line="270"/>
         <source>Cores</source>
         <translation>Rdzenie</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="269"/>
+        <location filename="performancewnd.cpp" line="270"/>
         <source>Overall</source>
         <translation>Całość</translation>
     </message>
@@ -905,29 +937,29 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="43"/>
+        <location filename="playbackobject.cpp" line="44"/>
         <source>2D mode</source>
         <translation>Tryb 2D</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="45"/>
+        <location filename="playbackobject.cpp" line="46"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
         <translation>Tryb 3D: Side by side</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="44"/>
+        <location filename="playbackobject.cpp" line="45"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
         <translation>Tryb 3D: Over-under</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="63"/>
+        <location filename="playbackobject.cpp" line="64"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - patch dostępu do dużej przestrzeni adresowej (4GB)</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="64"/>
+        <location filename="playbackobject.cpp" line="65"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Twój odtwarzacz nie ma dostępu do dużej przestrzeni adresowej (4GB).
@@ -935,69 +967,69 @@ Jest wysoce zalecane, aby spatchować go przed używaniem SVP.
 Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="65"/>
+        <location filename="playbackobject.cpp" line="66"/>
         <source>Patch</source>
         <translation>Spatchuj</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="65"/>
+        <location filename="playbackobject.cpp" line="66"/>
         <source>Not now</source>
         <translation>Nie teraz</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="65"/>
+        <location filename="playbackobject.cpp" line="66"/>
         <source>Don&apos;t ask again</source>
         <translation>Nie pytaj ponownie</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="221"/>
+        <location filename="playbackobject.cpp" line="246"/>
         <source>Playing at %1 fps</source>
         <translation>Odtwarzanie w %1 kl./sek.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="223"/>
+        <location filename="playbackobject.cpp" line="248"/>
         <source>Paused</source>
         <translation>Wstrzymany</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="224"/>
+        <location filename="playbackobject.cpp" line="249"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="244"/>
+        <location filename="playbackobject.cpp" line="269"/>
         <source>SVP: enabled</source>
         <translation>SVP: włączony</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="245"/>
+        <location filename="playbackobject.cpp" line="270"/>
         <source>SVP: disabled</source>
         <translation>SVP: wyłączony</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="798"/>
+        <location filename="playbackobject.cpp" line="827"/>
         <source>Black bars: </source>
         <translation>Czarne pasy:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="804"/>
+        <location filename="playbackobject.cpp" line="833"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: odtwarzanie w %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="817"/>
+        <location filename="playbackobject.cpp" line="851"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: Dostosowanie wielkości wideo</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="884"/>
+        <location filename="playbackobject.cpp" line="928"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>Używasz niekompatybilnej wersji Avisynth, z którą SVP nie będzie działać. Proszę uzyć avisynth.dll zlokalizowanego w folderze &lt;SVP-installation-path&gt;\plugins.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1229"/>
+        <location filename="playbackobject.cpp" line="1273"/>
         <source>Other profiles</source>
         <translation>Inne profile</translation>
     </message>
@@ -1157,52 +1189,52 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     </message>
     <message>
         <location filename="profilewnd.cpp" line="251"/>
-        <location filename="profilewnd.cpp" line="596"/>
+        <location filename="profilewnd.cpp" line="598"/>
         <source>fps</source>
         <translation>kl./sek.</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="407"/>
+        <location filename="profilewnd.cpp" line="409"/>
         <source>SVP - Video profiles</source>
         <translation>SVP - Profile wideo</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="407"/>
+        <location filename="profilewnd.cpp" line="409"/>
         <source>Are you sure you want to delete this profile?</source>
         <translation>Na pewno chcesz usunąć ten profil?</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="529"/>
+        <location filename="profilewnd.cpp" line="531"/>
         <source>Rendering options</source>
         <translation>Opcje renderowania</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="533"/>
+        <location filename="profilewnd.cpp" line="535"/>
         <source>Motion vectors options</source>
         <translation>Opcje wektorów ruchu</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="537"/>
+        <location filename="profilewnd.cpp" line="539"/>
         <source>Miscellaneous options</source>
         <translation>Różne opcje</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="595"/>
+        <location filename="profilewnd.cpp" line="597"/>
         <source>Movie</source>
         <translation>Film</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="595"/>
+        <location filename="profilewnd.cpp" line="597"/>
         <source>Screen</source>
         <translation>Ekran</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="596"/>
+        <location filename="profilewnd.cpp" line="598"/>
         <source>Fixed</source>
         <translation>Stały</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="643"/>
+        <location filename="profilewnd.cpp" line="645"/>
         <source>User defined options</source>
         <translation>Opcje zdefiniowane przez użytkownika</translation>
     </message>
@@ -1210,12 +1242,12 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="283"/>
+        <location filename="main.cpp" line="293"/>
         <source>SVP - error</source>
         <translation>SVP - błąd</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="283"/>
+        <location filename="main.cpp" line="293"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>Proszę najpierw zamknąć SVP 3.1 Manager.</translation>
     </message>
@@ -1235,98 +1267,98 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
         <translation>Kopia </translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="495"/>
+        <location filename="profile.cpp" line="497"/>
         <source>Frame area</source>
         <translation>Obszar klatki</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="496"/>
+        <location filename="profile.cpp" line="498"/>
         <source>Source frame area</source>
         <translation>Źródłowa ilość kl./sek.</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="497"/>
+        <location filename="profile.cpp" line="499"/>
         <source>Frame width</source>
         <translation>Szerokość klatki</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="498"/>
+        <location filename="profile.cpp" line="500"/>
         <source>Frame height</source>
         <translation>Wysokość klatki</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="499"/>
+        <location filename="profile.cpp" line="501"/>
         <source>Video frame rate</source>
         <translation>Ilość kl./sek. wideo</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="500"/>
+        <location filename="profile.cpp" line="502"/>
         <source>Is network stream</source>
         <oldsource>Is stream</oldsource>
         <translation>Jest strumieniem z internetu</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="501"/>
+        <location filename="profile.cpp" line="503"/>
         <source>Is stereo</source>
         <translation>Jest 3D (podwójny obraz)</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="502"/>
+        <location filename="profile.cpp" line="504"/>
         <source>Is interlaced</source>
         <translation>Jest z przeplotem</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="503"/>
+        <location filename="profile.cpp" line="505"/>
         <source>File name</source>
         <translation>Nazwa pliku</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="504"/>
+        <location filename="profile.cpp" line="506"/>
         <source>File extension</source>
         <translation>Rozszerzenie pliku</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="505"/>
+        <location filename="profile.cpp" line="507"/>
         <source>Full file path</source>
         <translation>Pełna ścieżka do pliku</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="506"/>
+        <location filename="profile.cpp" line="508"/>
         <source>Video codec</source>
         <translation>Kodek wideo</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="507"/>
+        <location filename="profile.cpp" line="509"/>
         <source>Color depth</source>
         <translation>Głębia kolorów</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="508"/>
+        <location filename="profile.cpp" line="510"/>
         <source>Is on battery</source>
         <translation>Jest na baterii</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="509"/>
+        <location filename="profile.cpp" line="511"/>
         <source>Expert: add scores</source>
         <translation>Zaaw.: dodaj punkty</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="545"/>
+        <location filename="profile.cpp" line="547"/>
         <source>Mpix</source>
         <translation>Mpix</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="547"/>
+        <location filename="profile.cpp" line="549"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="548"/>
+        <location filename="profile.cpp" line="550"/>
         <source>fps</source>
         <translation>kl./sek.</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="549"/>
+        <location filename="profile.cpp" line="551"/>
         <source>bits</source>
         <translation>bitów</translation>
     </message>
@@ -1341,134 +1373,134 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
         <translation>Domyślny wzór</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="364"/>
+        <location filename="profilewnd.cpp" line="366"/>
         <source>Last edited FRC profile</source>
         <translation>Ostatnio edytowany profil FRC</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="729"/>
+        <location filename="profilewnd.cpp" line="731"/>
         <source>Custom</source>
         <translation>Niestandardowy</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="41"/>
+        <location filename="trayicon.cpp" line="44"/>
         <source>If we&apos;re running in portable mode</source>
         <translation>Czy program jest uruchomiony w trybie przenośnym</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="42"/>
+        <location filename="trayicon.cpp" line="45"/>
         <source>Directory to store all the settings and log files</source>
         <translation>Katalog, w którym będą przechowywane wszystkie ustawienia i pliki dziennika</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="43"/>
+        <location filename="trayicon.cpp" line="46"/>
         <source>Last generated AVS script</source>
         <translation>Ostatnio wygenerowany skrypt AVS</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="45"/>
+        <location filename="trayicon.cpp" line="48"/>
         <source>Whether to place SVP icon into system tray or not</source>
         <translation>Czy umieścić ikonę SVP na pasku zadań, czy nie</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="46"/>
+        <location filename="trayicon.cpp" line="49"/>
         <source>User interface language</source>
         <oldsource>User interface complexity</oldsource>
         <translation>Język interfejsu użytkownika</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="49"/>
+        <location filename="trayicon.cpp" line="52"/>
         <source>Time of last successful check</source>
         <translation>Data ostatniego udanego sprawdzenia</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="51"/>
+        <location filename="trayicon.cpp" line="54"/>
         <source>Turn off and then on when fast forward or rewind actions occured to minimize freezing</source>
         <translation>Wyłącz i włącz, kiedy nastąpiło przewijanie, aby zminimalizować zacinanie</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="52"/>
+        <location filename="trayicon.cpp" line="55"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
         <translation>Jak daleko powinna być wykryta następna klatka do szukania, w sekundach</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="54"/>
+        <location filename="trayicon.cpp" line="57"/>
         <source>Alter video player process priority</source>
         <translation>Zmień priorytet procesu odtwarzacza</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="56"/>
+        <location filename="trayicon.cpp" line="59"/>
         <source>How to handle multiple videos running at the same time</source>
         <translation>Jak obchodzić się z wieloma wideo uruchomionymi w tym samym czasie</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="58"/>
+        <location filename="trayicon.cpp" line="61"/>
         <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
         <translation>Przyjmij, że wideo z przeplotem mają podwojoną ilość kl./sek. po usunięciu przeplotu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="59"/>
+        <location filename="trayicon.cpp" line="62"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
         <translation>Automatycznie włącz tryb podwójny (3D) dla wideo, ktore mają za duże albo za małe proporcje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="61"/>
+        <location filename="trayicon.cpp" line="64"/>
         <source>Delay to help ReClock to detected the video frame rate, in milliseconds</source>
         <translation>Opóźnij, aby pomóc ReClockowi wykryć ilość klatek na sekundę wideo, w milisekundach</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="63"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>Clips shorter than this value in seconds will be ignored</source>
         <translation>Klipy krótsze niż ta wartość w sekundach będą ignorowane</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="65"/>
-        <location filename="trayicon.cpp" line="66"/>
+        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="69"/>
         <source>Measured CPU performance</source>
         <translation>Zmierzona wydajność CPU</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="71"/>
         <source>How many times SVP Manager was started</source>
         <translation>Ile razy został uruchomiony Menadżer SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="69"/>
+        <location filename="trayicon.cpp" line="72"/>
         <source>How many videos was viewed with SVP</source>
         <translation>Ile wideo było odtworzonych przy SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="71"/>
+        <location filename="trayicon.cpp" line="74"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>ID urządzenia używanego do obliczeń FRC</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="72"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Number of CPU computation threads</source>
         <translation>Ilość wątków obliczających</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="73"/>
+        <location filename="trayicon.cpp" line="76"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>Maks. relatywna różnica między ekranem a docelowym wartościom odświerzenia</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="77"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
         <translation>Najwyższa źródłowa ilość kl./sek., która zostanie przetworzona przez silnik FRC</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="75"/>
+        <location filename="trayicon.cpp" line="78"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation>Ustaw szerokość kadru na wielokrotność 4 lub 8</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="78"/>
+        <location filename="trayicon.cpp" line="81"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>Nie pytaj o zastosowanie patcha dostępu do dużej przestrzeni adresowej (4GB)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="80"/>
+        <location filename="trayicon.cpp" line="83"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>Nie pytaj o mierzenie wydajności systemu</translation>
     </message>
@@ -1739,262 +1771,262 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="777"/>
+        <location filename="settings.cpp" line="793"/>
         <source>Frames interpolation mode</source>
         <translation>Tryb interpolacji klatek</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="779"/>
+        <location filename="settings.cpp" line="795"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>&quot;2m&quot; (najmniejsze zniekształcenia)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="779"/>
+        <location filename="settings.cpp" line="795"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>&quot;1.5m&quot; (mniejsze zniekształcenia)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="780"/>
+        <location filename="settings.cpp" line="796"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>&quot;1m&quot; (tryb średni)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="780"/>
+        <location filename="settings.cpp" line="796"/>
         <source>Adaptive</source>
         <translation>Adaptacyjny</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="780"/>
+        <location filename="settings.cpp" line="796"/>
         <source>Uniform (max fluidity)</source>
         <translation>Jednolity (maks. płynność)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="790"/>
+        <location filename="settings.cpp" line="806"/>
         <source>SVP shader</source>
         <translation>Shader SVP</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="792"/>
+        <location filename="settings.cpp" line="808"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. Najszybszy (wolny PC)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="792"/>
+        <location filename="settings.cpp" line="808"/>
         <source>2. Sharp (anime)</source>
         <translation>2. Ostry (anime)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="793"/>
+        <location filename="settings.cpp" line="809"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. Blokowy (tylko CPU)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="793"/>
+        <location filename="settings.cpp" line="809"/>
         <source>11. Simple Lite</source>
         <translation>11. Prosty lekki</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="794"/>
+        <location filename="settings.cpp" line="810"/>
         <source>21. Simple</source>
         <translation>21. Prosty</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="794"/>
+        <location filename="settings.cpp" line="810"/>
         <source>13. Standard</source>
         <translation>13. Standardowy</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="794"/>
+        <location filename="settings.cpp" line="810"/>
         <source>23. Complicated</source>
         <translation>23. Skomplikowany</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="813"/>
+        <location filename="settings.cpp" line="829"/>
         <source>Motion vectors grid</source>
         <translation>Kratki wektorów ruchu</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="815"/>
+        <location filename="settings.cpp" line="831"/>
         <source>32 px. Large 0</source>
         <translation>32 px. Duże 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="815"/>
+        <location filename="settings.cpp" line="831"/>
         <source>28 px. Large 1</source>
         <translation>28 px. Duże 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="815"/>
+        <location filename="settings.cpp" line="831"/>
         <source>24 px. Large 2</source>
         <translation>24 px. Duże 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="816"/>
+        <location filename="settings.cpp" line="832"/>
         <source>16 px. Average 0</source>
         <translation>16 px. Średnie 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="816"/>
+        <location filename="settings.cpp" line="832"/>
         <source>14 px. Average 1</source>
         <translation>14 px. Średnie 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="816"/>
+        <location filename="settings.cpp" line="832"/>
         <source>12 px. Average 2</source>
         <translation>12 px. Średnie 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="817"/>
+        <location filename="settings.cpp" line="833"/>
         <source>8 px. Small 0</source>
         <translation>8 px. Małe 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="817"/>
+        <location filename="settings.cpp" line="833"/>
         <source>7 px. Small 1</source>
         <translation>7 px. Małe 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="817"/>
+        <location filename="settings.cpp" line="833"/>
         <source>6 px. Small 2</source>
         <translation>6 px. Małe 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="823"/>
+        <location filename="settings.cpp" line="839"/>
         <source>Decrease grid step</source>
         <translation>Zmniejsz krok kratki</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="825"/>
-        <location filename="settings.cpp" line="850"/>
+        <location filename="settings.cpp" line="841"/>
         <location filename="settings.cpp" line="866"/>
+        <location filename="settings.cpp" line="882"/>
         <source>Disabled</source>
         <translation>Wyłączony</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="826"/>
+        <location filename="settings.cpp" line="842"/>
         <source>By two with local refinement</source>
         <translation>Dwukrotnie z lokalnym wzornictwem</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="826"/>
+        <location filename="settings.cpp" line="842"/>
         <source>By two with global refinement</source>
         <translation>Dwukrotnie z globalnym wzornictwem</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="832"/>
+        <location filename="settings.cpp" line="848"/>
         <source>Search radius</source>
         <translation>Zasięg szukania</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="834"/>
+        <location filename="settings.cpp" line="850"/>
         <source>Small and fast</source>
         <translation>Mały i szybki</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="834"/>
-        <location filename="settings.cpp" line="858"/>
+        <location filename="settings.cpp" line="850"/>
+        <location filename="settings.cpp" line="874"/>
         <source>Small</source>
         <translation>Mały</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="834"/>
         <location filename="settings.cpp" line="850"/>
-        <location filename="settings.cpp" line="858"/>
-        <location filename="settings.cpp" line="867"/>
+        <location filename="settings.cpp" line="866"/>
+        <location filename="settings.cpp" line="874"/>
+        <location filename="settings.cpp" line="883"/>
         <source>Average</source>
         <translation>Średni</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="834"/>
-        <location filename="settings.cpp" line="858"/>
+        <location filename="settings.cpp" line="850"/>
+        <location filename="settings.cpp" line="874"/>
         <source>Large</source>
         <translation>Duży</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="841"/>
+        <location filename="settings.cpp" line="857"/>
         <source>Motion vectors precision</source>
         <translation>Precyzja wektorów ruchu</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="842"/>
+        <location filename="settings.cpp" line="858"/>
         <source>Two pixels</source>
         <translation>Dwa piksele</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="842"/>
+        <location filename="settings.cpp" line="858"/>
         <source>One pixel</source>
         <translation>Jeden piksel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="842"/>
+        <location filename="settings.cpp" line="858"/>
         <source>Half pixel</source>
         <translation>Pół piksela</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="848"/>
+        <location filename="settings.cpp" line="864"/>
         <source>Wide search</source>
         <translation>Poszerzone szukanie</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="850"/>
-        <location filename="settings.cpp" line="867"/>
+        <location filename="settings.cpp" line="866"/>
+        <location filename="settings.cpp" line="883"/>
         <source>Strong</source>
         <translation>Mocne</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="850"/>
-        <location filename="settings.cpp" line="867"/>
+        <location filename="settings.cpp" line="866"/>
+        <location filename="settings.cpp" line="883"/>
         <source>Strongest</source>
         <translation>Najmocniejsze</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="856"/>
+        <location filename="settings.cpp" line="872"/>
         <source>Width of top coarse level</source>
         <translatorcomment>not sure about that</translatorcomment>
         <translation>Szerokość najmocniejszego poziomu szorstkości</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="864"/>
+        <location filename="settings.cpp" line="880"/>
         <source>Artifacts masking</source>
         <translation>Ukrywanie zniekształceń</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="866"/>
+        <location filename="settings.cpp" line="882"/>
         <source>Weakest</source>
         <translation>Najsłabsze</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="866"/>
+        <location filename="settings.cpp" line="882"/>
         <source>Weak</source>
         <translation>Słabe</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="875"/>
+        <location filename="settings.cpp" line="891"/>
         <source>Processing of scene changes</source>
         <translation>Przetwarzanie przy zmianie sceny</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="876"/>
+        <location filename="settings.cpp" line="892"/>
         <source>Blend adjacent frames</source>
         <translation>Połącz sąsiadujące klatki</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="876"/>
+        <location filename="settings.cpp" line="892"/>
         <source>Repeat frame</source>
         <translation>Powtórz klatkę</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="884"/>
+        <location filename="settings.cpp" line="900"/>
         <source>Rendering device</source>
         <translation>Urządzenie renderujące</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="885"/>
+        <location filename="settings.cpp" line="901"/>
         <source>Do not change</source>
         <translation>Nie zmieniaj</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="885"/>
+        <location filename="settings.cpp" line="901"/>
         <source>CPU only</source>
         <translation>tylko CPU</translation>
     </message>
@@ -2080,503 +2112,531 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="trayicon.cpp" line="182"/>
+        <location filename="trayicon.cpp" line="204"/>
         <source>Start with SVP with right click on the icon</source>
         <translation>Uruchom SVP przy kliknięciu prawym przyciskiem na ikonę</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="183"/>
+        <location filename="trayicon.cpp" line="205"/>
         <source>Language was changed to %1</source>
         <translation>Język został zmieniony na %1</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="186"/>
+        <location filename="trayicon.cpp" line="208"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
         <translation>Ta kopia SVP została pomyślnie zarejestrowana! Dziękujemy!</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="189"/>
-        <location filename="trayicon.cpp" line="613"/>
+        <location filename="trayicon.cpp" line="211"/>
+        <location filename="trayicon.cpp" line="657"/>
         <source>Updates available</source>
         <translation>Dostępne aktualizacje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="226"/>
+        <location filename="trayicon.cpp" line="248"/>
         <source>No active playback</source>
         <translation>Brak aktywnego odtwarzania</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="235"/>
+        <location filename="trayicon.cpp" line="257"/>
         <source>SVP Control Panel</source>
         <translation>Panel sterowania SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="271"/>
+        <location filename="trayicon.cpp" line="293"/>
         <source>Video frame</source>
         <translation>Klatka wideo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="274"/>
+        <location filename="trayicon.cpp" line="296"/>
         <source>Detect and cut off black bars</source>
         <translation>Wykrywaj i wycinaj czarne pasy</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="275"/>
+        <location filename="trayicon.cpp" line="297"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
         <translation>Automatyczna analiza czarnych pasów w klatce i ich wycinanie</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="283"/>
+        <location filename="trayicon.cpp" line="305"/>
         <source>Keep aspect ratio</source>
         <translation>Zachowaj proporcje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="284"/>
+        <location filename="trayicon.cpp" line="306"/>
         <source>Crop to the screen aspect ratio</source>
         <translation>Przytnij do proporcji ekranu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="286"/>
+        <location filename="trayicon.cpp" line="308"/>
         <source>Frame cropping mode applied before any size changing</source>
         <translation>Przycinaj klatkę przed zmianą jej rozmiaru</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="291"/>
+        <location filename="trayicon.cpp" line="313"/>
         <source>Keep normal size</source>
         <translation>Zachowaj normalny rozmiar</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="292"/>
+        <location filename="trayicon.cpp" line="314"/>
         <source>Decrease to screen size</source>
         <translation>Zmniejsz do rozmiaru ekranu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="294"/>
+        <location filename="trayicon.cpp" line="316"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
         <translation>Zmniejsz rozmiar klatki, aby uprościć konwersję</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="299"/>
+        <location filename="trayicon.cpp" line="321"/>
         <source>Advanced controls...</source>
         <translation>Opcje zaawansowane...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="305"/>
+        <location filename="trayicon.cpp" line="327"/>
         <source>Outer lighting</source>
         <translation>Zewnętrzna poświata</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="311"/>
+        <location filename="trayicon.cpp" line="333"/>
         <source>Disabled</source>
         <translation>Wyłączone</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="308"/>
+        <location filename="trayicon.cpp" line="330"/>
         <source>Fill black bars</source>
         <translation>Wypełnij pasy</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="195"/>
+        <location filename="trayicon.cpp" line="217"/>
         <source>Default configuration restored</source>
         <translation>Domyślna konfiguracja przywrócona</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="250"/>
         <source>Open file...</source>
-        <translation>Otwórz plik...</translation>
+        <translation type="vanished">Otwórz plik...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="258"/>
+        <location filename="trayicon.cpp" line="280"/>
         <source>Open</source>
         <translation>Otwórz</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="258"/>
+        <location filename="trayicon.cpp" line="280"/>
         <source>Video files</source>
         <translation>Plik wideo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="278"/>
+        <location filename="trayicon.cpp" line="300"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
         <translation>Czy przeprowadzać analizę czarnych pasów stale, czy jednorazowo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="309"/>
+        <location filename="trayicon.cpp" line="331"/>
         <source>Glow lights</source>
         <translation>Poświata</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="313"/>
+        <location filename="trayicon.cpp" line="336"/>
         <source>Outer lighting mode</source>
         <translation>Tryb zewnętrznej poświaty</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="316"/>
+        <location filename="trayicon.cpp" line="339"/>
         <source>Glow border width</source>
         <translation>Grubość świecącej obwódki</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="321"/>
+        <location filename="trayicon.cpp" line="344"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
         <translation>Wartośc maksymalnego powiększenia klatki w związku z zewnętrznym oświetleniem</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="323"/>
+        <location filename="trayicon.cpp" line="347"/>
+        <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="350"/>
+        <source>Enabled in full screen only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="352"/>
+        <source>Enable outer lighting for full screen playback only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="358"/>
+        <source>Delay to re-init lighting after full screen state change, ms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="361"/>
         <source>Disabled in 3D mode</source>
         <translation>Wyłączony w trybie 3D</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="325"/>
+        <location filename="trayicon.cpp" line="363"/>
         <source>Enable outer lighting only for 2D videos</source>
         <translation>Uzyj zewnętrznej poświaty tylko dla wideo 2D</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="331"/>
+        <location filename="trayicon.cpp" line="369"/>
         <source>Light patterns</source>
         <translation>Wzory poświaty</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="335"/>
+        <location filename="trayicon.cpp" line="373"/>
         <source>Manage patterns...</source>
         <translation>Zarządzaj wzorami...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="344"/>
+        <location filename="trayicon.cpp" line="382"/>
         <source>My options</source>
         <translation>Moje opcje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="351"/>
+        <location filename="trayicon.cpp" line="389"/>
         <source>Temporarily disable SVP</source>
         <translation>Tymczasowo wyłącz SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="353"/>
+        <location filename="trayicon.cpp" line="391"/>
         <source>SVP is disabled until next start</source>
         <translation>SVP jest wyłączony do czasu następnego uruchomienia</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="355"/>
+        <location filename="trayicon.cpp" line="393"/>
         <source>Utilities</source>
         <translation>Narzędzia</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="357"/>
+        <location filename="trayicon.cpp" line="395"/>
         <source>Performance Monitor</source>
         <translation>Monitor Wydajności</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="362"/>
+        <location filename="trayicon.cpp" line="400"/>
         <source>Assess system performance</source>
         <translation>Zmierz wydajność systemu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="371"/>
+        <location filename="trayicon.cpp" line="409"/>
         <source>Demonstration mode</source>
         <translation>Tryb demonstracji</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="372"/>
+        <location filename="trayicon.cpp" line="410"/>
         <source>Fluency and tearing test</source>
         <translation>Test płynności i szarpania obrazu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="382"/>
+        <location filename="trayicon.cpp" line="422"/>
         <source>Apply 4GB aware patch...</source>
         <translation>Zastosuj patch dostępu do dużej przestrzeni adresowej (4GB)...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="385"/>
+        <location filename="trayicon.cpp" line="425"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
         <translation>Po kliknięciu &apos;Kontynuuj&apos; przeglądaj za głównym plikiem wykonywalnym odtwarzacza.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="386"/>
+        <location filename="trayicon.cpp" line="426"/>
         <source>Continue</source>
         <translation>Kontynuuj</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="386"/>
+        <location filename="trayicon.cpp" line="426"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="393"/>
+        <location filename="trayicon.cpp" line="433"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
         <translation>SVP w VLC (zamień filtr usuwania przeplotu)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="401"/>
+        <location filename="trayicon.cpp" line="441"/>
         <source>Additional programs and features...</source>
         <translation>Dodatkowe programy i funkcje...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="410"/>
+        <location filename="trayicon.cpp" line="450"/>
         <source>Application settings</source>
         <translation>Ustawienia aplikacji</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="415"/>
+        <location filename="trayicon.cpp" line="455"/>
         <source>No acceleration</source>
         <translation>Bez akceleracji</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="420"/>
+        <location filename="trayicon.cpp" line="460"/>
         <source>Using</source>
         <translation>Używany</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="434"/>
+        <location filename="trayicon.cpp" line="474"/>
         <source>GPU acceleration</source>
         <translation>Akceleracja GPU</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="438"/>
+        <location filename="trayicon.cpp" line="478"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
         <translation>Dlaczego akceleracja GPU nie jest dostępna?</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="445"/>
+        <location filename="trayicon.cpp" line="485"/>
         <source>Show OSD messages</source>
         <translation>Pokazuj komunikaty na ekranie</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="447"/>
+        <location filename="trayicon.cpp" line="487"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>Edytuj skróty klawiszowe...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="455"/>
+        <location filename="trayicon.cpp" line="495"/>
         <source>Load at Windows startup</source>
         <translation>Uruchom wraz ze startem Windowsa</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="457"/>
+        <location filename="trayicon.cpp" line="497"/>
         <source>Load at system startup</source>
         <translation>Uruchom wraz ze startem systemu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="478"/>
+        <location filename="trayicon.cpp" line="518"/>
         <source>Additional options</source>
         <translation>Opcje dodatkowe</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="482"/>
+        <location filename="trayicon.cpp" line="522"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>Zastosuj podwojenie ilości klatek dla wideo z przeplotem</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="484"/>
+        <location filename="trayicon.cpp" line="524"/>
         <source>Turn stereo mode on by aspect ratio</source>
         <translation>Włącz tryb podwójny przy proporcjach</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="507"/>
+        <location filename="trayicon.cpp" line="547"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="509"/>
+        <location filename="trayicon.cpp" line="549"/>
         <source>%1 thread(s)</source>
         <translation>%1 wątków</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="510"/>
+        <location filename="trayicon.cpp" line="550"/>
         <source>Processing threads</source>
         <translation>Ilość wątków</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="513"/>
+        <location filename="trayicon.cpp" line="553"/>
         <source>Extensions</source>
         <translation>Rozszerzenia</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="540"/>
+        <location filename="trayicon.cpp" line="580"/>
         <source>Linux specific notes</source>
         <translation>Notatki właściwe dla Linuxa</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="543"/>
+        <location filename="trayicon.cpp" line="583"/>
         <source>Mac OS X specific notes</source>
         <translation>Notatki właściwe dla Mac OS X</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="639"/>
+        <location filename="trayicon.cpp" line="683"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1293"/>
+        <location filename="trayicon.cpp" line="1346"/>
         <source>SVP - Extensions</source>
         <translation>SVP - Rozszerzenia</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1293"/>
+        <location filename="trayicon.cpp" line="1346"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>Aby zmiany zostały zatwierdzone należy zrestarować Menadżer.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1351"/>
-        <source>SVP 4 Manager is already running.</source>
-        <translation>Menadżer SVP 4 jest już włączony.</translation>
+        <location filename="trayicon.cpp" line="1429"/>
+        <source>%1% off the Pro version</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="487"/>
+        <source>SVP 4 Manager is already running.</source>
+        <translation type="vanished">Menadżer SVP 4 jest już włączony.</translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="527"/>
         <source>Reset on seek</source>
         <translation>Reset przy szukaniu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="241"/>
+        <location filename="trayicon.cpp" line="263"/>
         <source>Profile for an active video</source>
         <translation>Profil dla aktywnego wideo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="384"/>
+        <location filename="trayicon.cpp" line="272"/>
+        <source>Open file via mpv...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="424"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - patch dostępu do dużej przestrzeni adresowej (4GB)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="488"/>
+        <location filename="trayicon.cpp" line="528"/>
         <source>Don&apos;t reset</source>
         <translation>Nie resetuj</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="490"/>
+        <location filename="trayicon.cpp" line="530"/>
         <source>Soft reset</source>
         <translation>Lekki reset</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="491"/>
+        <location filename="trayicon.cpp" line="531"/>
         <source>Hard reset</source>
         <translation>Twardy reset</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="498"/>
+        <location filename="trayicon.cpp" line="538"/>
         <source>Running multiple videos</source>
         <translation>Uruchomienie wiele wideo na raz</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="499"/>
+        <location filename="trayicon.cpp" line="539"/>
         <source>Use SVP in all opened videos</source>
         <translation>Użyj SVP we wszystkich otwartych wideo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="500"/>
+        <location filename="trayicon.cpp" line="540"/>
         <source>First opened video only</source>
         <translation>Tylko pierwsze otwarte wideo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="501"/>
+        <location filename="trayicon.cpp" line="541"/>
         <source>Latest opened video only</source>
         <translation>Tylko ostatnie otwarte wideo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="517"/>
+        <location filename="trayicon.cpp" line="557"/>
         <source>Reset settings to defaults</source>
         <translation>Zresetuj ustawienia do domyślnych</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="519"/>
+        <location filename="trayicon.cpp" line="559"/>
         <source>SVP - Configuration reset</source>
         <translation>SVP - Reset konfiguracji</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="519"/>
+        <location filename="trayicon.cpp" line="559"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
         <translation>Czy naprawdę chcesz zresetować wszystkie ustawienia SVP do domyślnych wartości?</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="520"/>
+        <location filename="trayicon.cpp" line="560"/>
         <source>No</source>
         <translation>Nie</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="520"/>
+        <location filename="trayicon.cpp" line="560"/>
         <source>Yes, but keep video profiles</source>
         <translation>Tak, ale zachowaj profile wideo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="520"/>
+        <location filename="trayicon.cpp" line="560"/>
         <source>Yes, reset all settings</source>
         <translation>Tak, zresetuj wszystkie ustawienia</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="526"/>
+        <location filename="trayicon.cpp" line="566"/>
         <source>All settings...</source>
         <translation>Wszystkie ustawienia...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="535"/>
+        <location filename="trayicon.cpp" line="575"/>
         <source>Information</source>
         <translation>Informacje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="537"/>
+        <location filename="trayicon.cpp" line="577"/>
         <source>User manual (online)</source>
         <translation>Instrukcja obsługi (online)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="547"/>
+        <location filename="trayicon.cpp" line="587"/>
         <source>Video player configuration</source>
         <translation>Konfiguracja odtwarzacza</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="564"/>
+        <location filename="trayicon.cpp" line="604"/>
         <source>Full list</source>
         <translation>Pełna lista</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="573"/>
+        <location filename="trayicon.cpp" line="613"/>
         <source>Send problem report...</source>
         <translation>Wyślij raport o problemie...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="578"/>
+        <location filename="trayicon.cpp" line="618"/>
         <source>Events log</source>
         <translation>Dziennik wydarzeń</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="583"/>
+        <location filename="trayicon.cpp" line="623"/>
         <source>Additional information</source>
         <translation>Informacje dodatkowe</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="587"/>
+        <location filename="trayicon.cpp" line="627"/>
         <source>Last generated AVS script</source>
         <translation>Ostatnio wygenerowany skrypt AVS</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="589"/>
+        <location filename="trayicon.cpp" line="629"/>
         <source>Last generated script</source>
         <translation>Ostatnio wygenerowany skrypt</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="595"/>
+        <location filename="trayicon.cpp" line="635"/>
         <source>OpenCL devices and capabilities</source>
         <translation>Urządzenia i możliwości OpenCL</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="600"/>
+        <location filename="trayicon.cpp" line="640"/>
         <source>Version and credits...</source>
         <translation>Wersja i autorzy...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="606"/>
+        <location filename="trayicon.cpp" line="646"/>
         <source>Order full version</source>
         <translation>Zamów pełną wersję</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="623"/>
+        <location filename="trayicon.cpp" line="667"/>
         <source>Exit</source>
         <translation>Wyjście</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1049"/>
+        <location filename="trayicon.cpp" line="1102"/>
         <source>SVP - Video player</source>
         <translation>SVP - Odtwarzacz</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1049"/>
+        <location filename="trayicon.cpp" line="1102"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>Nie można połączyć z odtwarzaczem wideo. Sprawdź, czy nie jest uruchomiony z innego konta użytkownika.</translation>
     </message>
@@ -2590,38 +2650,42 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
     </message>
     <message>
         <location filename="unlockwnd.ui" line="81"/>
+        <source>More video players - VLC, mpv, Plex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="216"/>
         <source>Advanced video preprocessing</source>
         <translation>Zaawansowana obróbka wstępna wideo</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="126"/>
+        <location filename="unlockwnd.ui" line="261"/>
         <source>custom crop and resize</source>
         <translation>Niestandardowe przycięcie i zmiana rozmiaru</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="171"/>
+        <location filename="unlockwnd.ui" line="306"/>
         <source>tracking black fields detection</source>
         <translation>Sledzenie detekcji czarnych pasów</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="216"/>
+        <location filename="unlockwnd.ui" line="126"/>
         <source>Fully customizable video profiles</source>
         <translation>W pełni konfigurowalne profile wideo</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="261"/>
+        <location filename="unlockwnd.ui" line="171"/>
         <source>Intelligent video profiles selection based on multiple conditions</source>
         <translation>Inteligentny wybór profili wideo na podstawie kilku warunków</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="306"/>
+        <location filename="unlockwnd.ui" line="351"/>
         <source>Customizable outer lighting patterns</source>
         <translation>Konfigurowalne wzory zewnętrznej poświaty</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="351"/>
         <source>Process multiple videos at the same time</source>
-        <translation>Przetwarzanie wielu wideo na raz</translation>
+        <translation type="vanished">Przetwarzanie wielu wideo na raz</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="396"/>
@@ -2644,7 +2708,12 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
         <translation>Konfigurowalny skrypt przetwarzania wideo</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="563"/>
+        <location filename="unlockwnd.ui" line="561"/>
+        <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="587"/>
         <source>Order now!</source>
         <translation>Zamów teraz!</translation>
     </message>
@@ -2652,7 +2721,7 @@ Proszę zamknąć odtwarzać przed kliknięciem przycisku &apos;Patchuj&apos;.</
 <context>
     <name>UpdateWnd</name>
     <message>
-        <location filename="updatewnd.cpp" line="349"/>
+        <location filename="updatewnd.cpp" line="362"/>
         <source>More info...</source>
         <translation>Wicęcej informacji...</translation>
     </message>
