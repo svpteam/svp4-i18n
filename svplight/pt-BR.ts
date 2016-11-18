@@ -175,7 +175,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="248"/>
         <source>Turn runnign lights effect on or off</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar ou desativa o efeito de iluminação</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="318"/>
@@ -253,7 +253,7 @@
     <message>
         <location filename="ledcontrol.ui" line="229"/>
         <source>Gamma</source>
-        <translation type="unfinished"></translation>
+        <translation>Gama</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="248"/>
@@ -294,7 +294,7 @@
     <message>
         <location filename="ledcontrol.ui" line="518"/>
         <source>Delay</source>
-        <translation></translation>
+        <translation>Atraso</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="537"/>
