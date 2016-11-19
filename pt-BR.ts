@@ -127,7 +127,7 @@
     <message>
         <location filename="activationwnd.cpp" line="110"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation>Serial incompátivel com esta edição do SVP</translation>
+        <translation>Serial incompatível com esta edição do SVP</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="111"/>
@@ -733,7 +733,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="145"/>
         <source>Enable for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar apenas caso o reprodutor esteja em tela cheia</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="230"/>
@@ -1160,7 +1160,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="profilewnd.ui" line="1000"/>
         <source>All changes are auto-saved</source>
-        <translation>Todas as alterações são salvas automáticamente</translation>
+        <translation>Alterações são salvas automáticamente</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="1010"/>
@@ -2256,22 +2256,22 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="347"/>
         <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
-        <translation type="unfinished"></translation>
+        <translation>Diferença mínima entre o aspecto da tela e do vídeo para ativar a iluminação externa</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="350"/>
         <source>Enabled in full screen only</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar somente na tela cheia</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="352"/>
         <source>Enable outer lighting for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar apenas caso o reprodutor esteja em tela cheia</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="358"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
-        <translation type="unfinished"></translation>
+        <translation>Atraso para re-iluminar após alterar o estado da tela cheia, ms</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="361"/>
@@ -2472,7 +2472,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="1429"/>
         <source>%1% off the Pro version</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% de desconto na versão Pro</translation>
     </message>
     <message>
         <source>SVP 4 Manager is already running.</source>
@@ -2491,7 +2491,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="272"/>
         <source>Open file via mpv...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir arquivo com o MPV...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="424"/>
@@ -2654,7 +2654,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="81"/>
         <source>More video players - VLC, mpv, Plex</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais reprodutores de vídeo - VLC, MPV, Plex</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="216"/>
@@ -2713,7 +2713,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="unlockwnd.ui" line="561"/>
         <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
-        <translation type="unfinished"></translation>
+        <translation>Você pode obter o SVP 4 Pro com &lt;b&gt;%1% de desconto&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="587"/>

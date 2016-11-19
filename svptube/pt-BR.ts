@@ -47,7 +47,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="158"/>
         <source>e.g. 111.222.333.444:55, optional</source>
-        <translation type="unfinished">ex. 255.255.255.255:55, opicional</translation>
+        <translation>ex: 255.255.255.255:55, opicional</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="174"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="traywnd.ui" line="73"/>
         <source>Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de reprodução</translation>
     </message>
     <message>
         <location filename="traywnd.ui" line="135"/>
@@ -360,7 +360,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="155"/>
         <source>Add web site authentication data...</source>
-        <translation type="unfinished">Adicionar dados de autenticação de um site...</translation>
+        <translation>Adicionar novos dados de autenticação...</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="173"/>
