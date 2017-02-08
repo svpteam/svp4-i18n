@@ -828,7 +828,7 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="40"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho para Socket JSON IPC do mpv (refere-se a opção --input-ipc-server)</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="47"/>
@@ -1009,7 +1009,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="playbackobject.cpp" line="827"/>
         <source>Black bars: </source>
-        <translation>tarjas pretas:</translation>
+        <translation>Tarjas pretas:</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="833"/>
@@ -1650,7 +1650,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="remotewnd.cpp" line="240"/>
         <source>Extensions</source>
-        <translation>Extenções</translation>
+        <translation>Extensões</translation>
     </message>
 </context>
 <context>
@@ -1750,7 +1750,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="reportwnd.cpp" line="221"/>
         <source>Unable to load some of images</source>
-        <translation>Falha ao carregar alguma imagem</translation>
+        <translation>Falha ao carregar alguma das imagens</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="322"/>
@@ -2261,7 +2261,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="350"/>
         <source>Enabled in full screen only</source>
-        <translation>Ativar somente na tela cheia</translation>
+        <translation>Ativar somente em tela cheia</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="352"/>
@@ -2442,7 +2442,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="553"/>
         <source>Extensions</source>
-        <translation>Extenções</translation>
+        <translation>Extensões</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="580"/>
@@ -2462,7 +2462,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="1346"/>
         <source>SVP - Extensions</source>
-        <translation>SVP - Extenções</translation>
+        <translation>SVP - Extensões</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1346"/>
@@ -2531,7 +2531,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="541"/>
         <source>Latest opened video only</source>
-        <translation>Último vídeo aberto somente</translation>
+        <translation>Ultimo vídeo aberto somente</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="557"/>
@@ -2611,7 +2611,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="629"/>
         <source>Last generated script</source>
-        <translation>Último script gerado</translation>
+        <translation>Ultimo script gerado</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="635"/>
