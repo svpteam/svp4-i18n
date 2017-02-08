@@ -1750,6 +1750,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="reportwnd.cpp" line="221"/>
         <source>Unable to load some of images</source>
+        <translation>Falha ao carregar alguma das imagens</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="322"/>
