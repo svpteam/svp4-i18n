@@ -352,73 +352,82 @@
         <translation>Виберіть профіль для активного відео</translation>
     </message>
     <message>
-        <location filename="controlpanel.ui" line="247"/>
-        <source>CPU performance. Click to open Performance Monitor window.</source>
-        <translation>Навантаження на CPU. Натисніть для переходу до Монітору швидкоспроможності.</translation>
+        <location filename="controlpanel.ui" line="275"/>
+        <source>CPU utilisation. Click to switch to SVP Index.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="156"/>
+        <location filename="controlpanel.ui" line="355"/>
+        <source>SVP Index. Click to switch to CPU utilisation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="controlpanel.cpp" line="168"/>
         <source>Video profiles</source>
         <translation>Профілі відео</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="162"/>
+        <location filename="controlpanel.cpp" line="174"/>
         <source>Frame size</source>
         <translation>Величина кадру</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="168"/>
+        <location filename="controlpanel.cpp" line="180"/>
         <source>Black bars lighting</source>
         <translation>Підсвічування полів</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="174"/>
+        <location filename="controlpanel.cpp" line="186"/>
         <source>Performance monitor</source>
         <translation>Монітор завантаження</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="180"/>
+        <location filename="controlpanel.cpp" line="192"/>
         <source>Updates</source>
         <translation>Оновлення SVP</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="182"/>
-        <location filename="controlpanel.cpp" line="194"/>
-        <source>Utilities</source>
-        <translation>Допоміжні програми</translation>
+        <location filename="controlpanel.cpp" line="139"/>
+        <source>N/A</source>
+        <translation type="unfinished">--</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="188"/>
+        <location filename="controlpanel.cpp" line="198"/>
         <source>Report a problem</source>
         <translation>Доповісти про проблему</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="200"/>
+        <location filename="controlpanel.cpp" line="204"/>
         <source>Events log</source>
         <translation>Журнал</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="206"/>
+        <location filename="controlpanel.cpp" line="210"/>
         <source>Application settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="212"/>
+        <location filename="controlpanel.cpp" line="216"/>
         <source>Control options</source>
         <translation>Дистанційне керування</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="218"/>
+        <location filename="controlpanel.cpp" line="222"/>
         <source>Unlock SVP features</source>
         <translation>Повна версія</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="353"/>
+        <location filename="controlpanel.cpp" line="228"/>
+        <source>More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="controlpanel.cpp" line="389"/>
         <source>No active playback</source>
         <translation>Програвання відео відсутнє</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="368"/>
+        <location filename="controlpanel.cpp" line="404"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
         <translation>+ також %1</translation>
@@ -938,22 +947,17 @@
         <translation>%1 ГБ від %2 ГБ</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="248"/>
+        <location filename="performancewnd.cpp" line="245"/>
         <source>N/A</source>
         <translation>--</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="258"/>
-        <source>%1 at %2%</source>
-        <translation>%1 на %2</translation>
-    </message>
-    <message>
-        <location filename="performancewnd.cpp" line="270"/>
+        <location filename="performancewnd.cpp" line="260"/>
         <source>Cores</source>
         <translation>по ядрах</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="270"/>
+        <location filename="performancewnd.cpp" line="260"/>
         <source>Overall</source>
         <translation>загальне</translation>
     </message>
@@ -1021,7 +1025,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="247"/>
-        <location filename="playbackobject.cpp" line="846"/>
+        <location filename="playbackobject.cpp" line="847"/>
         <source>10 bit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1036,29 +1040,29 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>SVP: вимкнено</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="838"/>
+        <location filename="playbackobject.cpp" line="839"/>
         <source>Black bars: </source>
         <translation>Поля:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="844"/>
+        <location filename="playbackobject.cpp" line="845"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: програвання %1 к/с
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="862"/>
+        <location filename="playbackobject.cpp" line="863"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: встановлення величини кадру</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="939"/>
+        <location filename="playbackobject.cpp" line="940"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>Використовується несумісна версія Avisynth! Для роботи SVP потрібно замінити файл &apos;avisynth.dll&apos; на той, що в директорії &lt;Папка-інсталляції-SVP&gt;\plugins.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1285"/>
+        <location filename="playbackobject.cpp" line="1286"/>
         <source>Other profiles</source>
         <translation>Інші профілі</translation>
     </message>
@@ -1218,52 +1222,52 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="251"/>
-        <location filename="profilewnd.cpp" line="598"/>
+        <location filename="profilewnd.cpp" line="599"/>
         <source>fps</source>
         <translation>к/с</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="409"/>
+        <location filename="profilewnd.cpp" line="410"/>
         <source>SVP - Video profiles</source>
         <translation>SVP - Профіли відео</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="409"/>
+        <location filename="profilewnd.cpp" line="410"/>
         <source>Are you sure you want to delete this profile?</source>
         <translation>Ви впевнені, що хочете видалити цей профіль?</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="531"/>
+        <location filename="profilewnd.cpp" line="532"/>
         <source>Rendering options</source>
         <translation>Побудова кадрів</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="535"/>
+        <location filename="profilewnd.cpp" line="536"/>
         <source>Motion vectors options</source>
         <translation>Пошук векторів руху</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="539"/>
+        <location filename="profilewnd.cpp" line="540"/>
         <source>Miscellaneous options</source>
         <translation>Загальні налаштування</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="597"/>
+        <location filename="profilewnd.cpp" line="598"/>
         <source>Movie</source>
         <translation>Відео</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="597"/>
+        <location filename="profilewnd.cpp" line="598"/>
         <source>Screen</source>
         <translation>Екран</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="598"/>
+        <location filename="profilewnd.cpp" line="599"/>
         <source>Fixed</source>
         <translation>Фіксована</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="645"/>
+        <location filename="profilewnd.cpp" line="646"/>
         <source>User defined options</source>
         <translation>Налаштування користувача</translation>
     </message>
@@ -1291,103 +1295,108 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Временной мастшаб графиков производительности</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="34"/>
+        <location filename="profile.cpp" line="35"/>
         <source>Copy of </source>
         <translation>Копія </translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="497"/>
+        <location filename="profile.cpp" line="514"/>
         <source>Frame area</source>
         <translation>Площа кадру</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="498"/>
+        <location filename="profile.cpp" line="515"/>
         <source>Source frame area</source>
         <translation>Поч. площа кадру</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="499"/>
+        <location filename="profile.cpp" line="516"/>
         <source>Frame width</source>
         <translation>Ширина кадру</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="500"/>
+        <location filename="profile.cpp" line="517"/>
         <source>Frame height</source>
         <translation>Висота кадру</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="501"/>
+        <location filename="profile.cpp" line="518"/>
         <source>Video frame rate</source>
         <translation>Кадрова частота відео</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="502"/>
+        <location filename="profile.cpp" line="519"/>
         <source>Is network stream</source>
         <oldsource>Is stream</oldsource>
         <translation>Потокове відео?</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="503"/>
+        <location filename="profile.cpp" line="520"/>
+        <source>Video player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="profile.cpp" line="521"/>
         <source>Is stereo</source>
         <translation>Стереопара?</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="504"/>
+        <location filename="profile.cpp" line="522"/>
         <source>Is interlaced</source>
         <translation>Черезстрокове?</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="505"/>
+        <location filename="profile.cpp" line="523"/>
         <source>File name</source>
         <translation>Ім&apos;я файлу</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="506"/>
+        <location filename="profile.cpp" line="524"/>
         <source>File extension</source>
         <translation>Розширення файлу</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="507"/>
+        <location filename="profile.cpp" line="525"/>
         <source>Full file path</source>
         <translation>Повний шлях до файлу</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="508"/>
+        <location filename="profile.cpp" line="526"/>
         <source>Video codec</source>
         <translation>Відеокодек</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="509"/>
+        <location filename="profile.cpp" line="527"/>
         <source>Color depth</source>
         <translation>Глибина кольору</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="510"/>
+        <location filename="profile.cpp" line="528"/>
         <source>Is on battery</source>
         <translation>Живлення від батареї?</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="511"/>
+        <location filename="profile.cpp" line="529"/>
         <source>Expert: add scores</source>
         <translation>Експерт: додати бали</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="547"/>
+        <location filename="profile.cpp" line="566"/>
         <source>Mpix</source>
         <translation>Мпкс</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="549"/>
+        <location filename="profile.cpp" line="568"/>
         <source>px</source>
         <translation>тчк</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="550"/>
+        <location filename="profile.cpp" line="569"/>
         <source>fps</source>
         <translation>к/с</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="551"/>
+        <location filename="profile.cpp" line="570"/>
         <source>bits</source>
         <translation>біт</translation>
     </message>
@@ -1402,12 +1411,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Звичайна</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="366"/>
+        <location filename="profilewnd.cpp" line="367"/>
         <source>Last edited FRC profile</source>
         <translation>Останній змінений профіль</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="731"/>
+        <location filename="profilewnd.cpp" line="732"/>
         <source>Custom</source>
         <translation>Інший</translation>
     </message>
@@ -1673,26 +1682,31 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="224"/>
+        <source>Toggle video frame crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="remotewnd.cpp" line="226"/>
         <source>Toggle 3D stereo mode</source>
         <translation>Перемикач режиму 3D</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="227"/>
+        <location filename="remotewnd.cpp" line="229"/>
         <source>Utilities</source>
         <translation>Допоміжні програми</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="231"/>
+        <location filename="remotewnd.cpp" line="233"/>
         <source>Open Performance Monitor</source>
         <translation>Відобразити Монітор завантаження</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="232"/>
+        <location filename="remotewnd.cpp" line="234"/>
         <source>Toggle fluency and tearing test</source>
         <translation>Перемикач тесту плавності відтворення</translation>
     </message>
     <message>
-        <location filename="remotewnd.cpp" line="240"/>
+        <location filename="remotewnd.cpp" line="242"/>
         <source>Extensions</source>
         <translation>Додатки</translation>
     </message>
@@ -1815,261 +1829,261 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="813"/>
+        <location filename="settings.cpp" line="814"/>
         <source>Frames interpolation mode</source>
         <translation>Додавання проміжних кадрів</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="815"/>
+        <location filename="settings.cpp" line="816"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>&quot;2m&quot; (первинні дублями, мін артефактів)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="815"/>
+        <location filename="settings.cpp" line="816"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>&quot;1.5m&quot; (первинні кадри зближені)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="816"/>
+        <location filename="settings.cpp" line="817"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>&quot;1m&quot; (кожен первинний єдиноразово)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="816"/>
+        <location filename="settings.cpp" line="817"/>
         <source>Adaptive</source>
         <translation>Адаптивне</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="816"/>
+        <location filename="settings.cpp" line="817"/>
         <source>Uniform (max fluidity)</source>
         <translation>Рівномірне (макс плавність)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="826"/>
+        <location filename="settings.cpp" line="827"/>
         <source>SVP shader</source>
         <translation>SVP-шейдер</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="828"/>
+        <location filename="settings.cpp" line="829"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. Найшвидший (для повільних систем)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="828"/>
+        <location filename="settings.cpp" line="829"/>
         <source>2. Sharp (anime)</source>
         <translation>2. Різкий (для аніме)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="829"/>
+        <location filename="settings.cpp" line="830"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. Блоковий</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="829"/>
+        <location filename="settings.cpp" line="830"/>
         <source>11. Simple Lite</source>
         <translation>11. Простий (без маскування артефактів)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="830"/>
+        <location filename="settings.cpp" line="831"/>
         <source>21. Simple</source>
         <translation>21. Простий</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="830"/>
+        <location filename="settings.cpp" line="831"/>
         <source>13. Standard</source>
         <translation>13. Стандартний</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="830"/>
+        <location filename="settings.cpp" line="831"/>
         <source>23. Complicated</source>
         <translation>23. Ускладнений</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="849"/>
+        <location filename="settings.cpp" line="850"/>
         <source>Motion vectors grid</source>
         <translation>Крок векторної сітки</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="851"/>
+        <location filename="settings.cpp" line="852"/>
         <source>32 px. Large 0</source>
         <translation>32 тчк. Великий 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="851"/>
+        <location filename="settings.cpp" line="852"/>
         <source>28 px. Large 1</source>
         <translation>28 тчк. Великий 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="851"/>
+        <location filename="settings.cpp" line="852"/>
         <source>24 px. Large 2</source>
         <translation>24 тчк. Великий 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="852"/>
+        <location filename="settings.cpp" line="853"/>
         <source>16 px. Average 0</source>
         <translation>16 тчк. Середній 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="852"/>
+        <location filename="settings.cpp" line="853"/>
         <source>14 px. Average 1</source>
         <translation>14 тчк. Середній 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="852"/>
+        <location filename="settings.cpp" line="853"/>
         <source>12 px. Average 2</source>
         <translation>12 тчк. Середній 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="853"/>
+        <location filename="settings.cpp" line="854"/>
         <source>8 px. Small 0</source>
         <translation>8 тчк. Малий 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="853"/>
+        <location filename="settings.cpp" line="854"/>
         <source>7 px. Small 1</source>
         <translation>7 тчк. Малий 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="853"/>
+        <location filename="settings.cpp" line="854"/>
         <source>6 px. Small 2</source>
         <translation>6 тчк. Малий 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="859"/>
+        <location filename="settings.cpp" line="860"/>
         <source>Decrease grid step</source>
         <translation>Зменшення кроку сітки</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="861"/>
-        <location filename="settings.cpp" line="886"/>
-        <location filename="settings.cpp" line="902"/>
+        <location filename="settings.cpp" line="862"/>
+        <location filename="settings.cpp" line="887"/>
+        <location filename="settings.cpp" line="903"/>
         <source>Disabled</source>
         <translation>Вимкнено</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="862"/>
+        <location filename="settings.cpp" line="863"/>
         <source>By two with local refinement</source>
         <translation>В два рази, з локальною корекцією</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="862"/>
+        <location filename="settings.cpp" line="863"/>
         <source>By two with global refinement</source>
         <translation>В два рази, з глобальною корекцією</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="868"/>
+        <location filename="settings.cpp" line="869"/>
         <source>Search radius</source>
         <translation>Радіус пошуку</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="870"/>
+        <location filename="settings.cpp" line="871"/>
         <source>Small and fast</source>
         <translation>Вузький швидкісний</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="870"/>
-        <location filename="settings.cpp" line="894"/>
+        <location filename="settings.cpp" line="871"/>
+        <location filename="settings.cpp" line="895"/>
         <source>Small</source>
         <translation>Вузький</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="870"/>
-        <location filename="settings.cpp" line="886"/>
-        <location filename="settings.cpp" line="894"/>
-        <location filename="settings.cpp" line="903"/>
+        <location filename="settings.cpp" line="871"/>
+        <location filename="settings.cpp" line="887"/>
+        <location filename="settings.cpp" line="895"/>
+        <location filename="settings.cpp" line="904"/>
         <source>Average</source>
         <translation>Середньо</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="870"/>
-        <location filename="settings.cpp" line="894"/>
+        <location filename="settings.cpp" line="871"/>
+        <location filename="settings.cpp" line="895"/>
         <source>Large</source>
         <translation>Широкий</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="877"/>
+        <location filename="settings.cpp" line="878"/>
         <source>Motion vectors precision</source>
         <translation>Точність векторів руху</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="878"/>
+        <location filename="settings.cpp" line="879"/>
         <source>Two pixels</source>
         <translation>До 2 точок</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="878"/>
+        <location filename="settings.cpp" line="879"/>
         <source>One pixel</source>
         <translation>До точки</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="878"/>
+        <location filename="settings.cpp" line="879"/>
         <source>Half pixel</source>
         <translation>До ½ точки</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="884"/>
+        <location filename="settings.cpp" line="885"/>
         <source>Wide search</source>
         <translation>Повторний широкий пошук</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="886"/>
-        <location filename="settings.cpp" line="903"/>
+        <location filename="settings.cpp" line="887"/>
+        <location filename="settings.cpp" line="904"/>
         <source>Strong</source>
         <translation>Сильно</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="886"/>
-        <location filename="settings.cpp" line="903"/>
+        <location filename="settings.cpp" line="887"/>
+        <location filename="settings.cpp" line="904"/>
         <source>Strongest</source>
         <translation>Агресивно</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="892"/>
+        <location filename="settings.cpp" line="893"/>
         <source>Width of top coarse level</source>
         <translation>Ширина останнього грубого рівня</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="900"/>
+        <location filename="settings.cpp" line="901"/>
         <source>Artifacts masking</source>
         <translation>Маскування артефактів зображення</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="902"/>
+        <location filename="settings.cpp" line="903"/>
         <source>Weakest</source>
         <translation>Слабке</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="902"/>
+        <location filename="settings.cpp" line="903"/>
         <source>Weak</source>
         <translation>Нижче середнього</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="911"/>
+        <location filename="settings.cpp" line="912"/>
         <source>Processing of scene changes</source>
         <translation>Побудова на зміні сцен</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="912"/>
+        <location filename="settings.cpp" line="913"/>
         <source>Blend adjacent frames</source>
         <translation>Змішування сусідніх кадрів</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="912"/>
+        <location filename="settings.cpp" line="913"/>
         <source>Repeat frame</source>
         <translation>Повтор останнього кадру</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="920"/>
+        <location filename="settings.cpp" line="921"/>
         <source>Rendering device</source>
         <translation>Апаратна побудова кадрів</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="921"/>
+        <location filename="settings.cpp" line="922"/>
         <source>Do not change</source>
         <translation>Без зміни</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="921"/>
+        <location filename="settings.cpp" line="922"/>
         <source>CPU only</source>
         <translation>CPU єдиним</translation>
     </message>
@@ -2501,17 +2515,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Довідка</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1360"/>
+        <location filename="trayicon.cpp" line="1371"/>
         <source>SVP - Extensions</source>
         <translation>SVP - Додатки</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1360"/>
+        <location filename="trayicon.cpp" line="1371"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>Необхідно перезапустити Менеджер.для введення змін в дію.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1441"/>
+        <location filename="trayicon.cpp" line="1452"/>
         <source>%1% off the Pro version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2671,12 +2685,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Вихід</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1116"/>
+        <location filename="trayicon.cpp" line="1127"/>
         <source>SVP - Video player</source>
         <translation>SVP - Програвач відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1116"/>
+        <location filename="trayicon.cpp" line="1127"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>Помилка звернення до відеопрогравача. Перевірте чи не був запущений SVP з-під іншого акаунту користувача.</translation>
     </message>
@@ -2795,39 +2809,39 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>VLCManager</name>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="104"/>
+        <location filename="vlcvideoplayer.cpp" line="106"/>
         <source>Please install Vapoursynth via Homebrew.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="107"/>
+        <location filename="vlcvideoplayer.cpp" line="109"/>
         <source>Install &apos;VLC support&apos; package and check Vapoursynth installation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="126"/>
+        <location filename="vlcvideoplayer.cpp" line="128"/>
         <source>Choose the VLC executable</source>
         <translation>Виконуючий файл VLC</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="198"/>
+        <location filename="vlcvideoplayer.cpp" line="200"/>
         <source>Operation failed. Check that SVP Manager have write access to &apos;%1&apos;.</source>
         <translation>Невдала заміна фільтру. Перевірте, що Менеджер має права на запис в &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="200"/>
+        <location filename="vlcvideoplayer.cpp" line="202"/>
         <source>SVP support DISABLED, you can now use deinterlace filter in VLC.</source>
         <translation>Підтримка SVP у VLC ВИМКНЕНА, що дозволяє використання деінтерлейсу.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="201"/>
+        <location filename="vlcvideoplayer.cpp" line="203"/>
         <source>SVP support ENABLED but the deinterlace filter in VLC is not available any more.</source>
         <translation>Підтримка SVP у VLC УВІМКНЕНА, що унеможливлює використання деінтерлейсу.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="104"/>
-        <location filename="vlcvideoplayer.cpp" line="107"/>
-        <location filename="vlcvideoplayer.cpp" line="203"/>
+        <location filename="vlcvideoplayer.cpp" line="106"/>
+        <location filename="vlcvideoplayer.cpp" line="109"/>
+        <location filename="vlcvideoplayer.cpp" line="205"/>
         <source>SVP in VLC</source>
         <translation>SVP для VLC</translation>
     </message>
