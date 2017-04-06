@@ -354,12 +354,12 @@
     <message>
         <location filename="controlpanel.ui" line="275"/>
         <source>CPU utilisation. Click to switch to SVP Index.</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження CPU. Клацніть для перегляду індексу SVP.</translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="355"/>
         <source>SVP Index. Click to switch to CPU utilisation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Індекс SVP. Клацніть для перегляду завантаження CPU.</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="168"/>
@@ -419,7 +419,7 @@
     <message>
         <location filename="controlpanel.cpp" line="228"/>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ще...</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="389"/>
@@ -1292,7 +1292,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="performancewnd.cpp" line="116"/>
         <source>Performance graphs time scale</source>
-        <translation>Временной мастшаб графиков производительности</translation>
+        <translation>Часовий маштаб графіків швидкоспроможності</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="35"/>
@@ -1333,7 +1333,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="520"/>
         <source>Video player</source>
-        <translation type="unfinished"></translation>
+        <translation>Відеопрогравач</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="521"/>
@@ -1683,7 +1683,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="224"/>
         <source>Toggle video frame crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемикач обрізки величини кадру</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="226"/>
@@ -2522,7 +2522,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1371"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
-        <translation>Необхідно перезапустити Менеджер.для введення змін в дію.</translation>
+        <translation>Необхідно перезапустити Менеджер для введення змін у дію.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1452"/>
