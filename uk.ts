@@ -71,7 +71,7 @@
     <message>
         <location filename="activationwnd.ui" line="57"/>
         <source>Please register your copy of SVP 4.</source>
-        <translation>Будь ласка зареєструйте вашу копію SVP 4.</translation>
+        <translation>Будь ласка, зареєструйте вашу копію SVP 4.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="69"/>
@@ -136,12 +136,12 @@
     <message>
         <location filename="activationwnd.cpp" line="66"/>
         <source>Please wait for the activation server to respond...</source>
-        <translation>Будь ласка дочекайтесь відповіді від серверу реєстрації...</translation>
+        <translation>Будь ласка, дочекайтесь відповіді від серверу реєстрації...</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="120"/>
         <source>Connection error, please try again later</source>
-        <translation>Помилка з&apos;єднання, будь ласка спробуйте пізніше</translation>
+        <translation>Помилка з&apos;єднання, будь ласка, спробуйте пізніше</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="124"/>
@@ -192,7 +192,7 @@
     <message>
         <location filename="benchmarkwnd.ui" line="118"/>
         <source>This will only take one minute, please close any performance consuming applications including web browser before proceeding.</source>
-        <translation>Це займе всього близько хвилини. Будь ласка завершіть усі навантажуючі програми, враховуючи веб-браузер, перед початком аналізу.</translation>
+        <translation>Це займе всього близько хвилини. Будь ласка, завершіть усі навантажуючі програми, враховуючи веб-браузер, перед початком аналізу.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="145"/>
@@ -438,7 +438,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="34"/>
         <source>Following user-defined options will be exposed to the script at runtime.&lt;br&gt;&lt;b&gt;Please do not do anything here unless you really know why.&lt;/b&gt;</source>
-        <translation>Визначені користувацькі параметри будуть доступні в генераторі скрипту.&lt;br&gt;&lt;b&gt;Будь ласка не робіть тут нічого, якщо не розумієтесь на цьому!&lt;/b&gt;</translation>
+        <translation>Визначені користувацькі параметри будуть доступні в генераторі скрипту.&lt;br&gt;&lt;b&gt;Будь ласка, не робіть тут нічого, якщо не розумієтесь на цьому!&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="74"/>
@@ -991,7 +991,7 @@
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Ваш відеопрогравач не має підтримки поверх 2ГБ пам&apos;яті, що може привести до збоїв у тандемі з SVP. Рекомендовано закрити програвач і виправити це.
-Будь ласка закрийте відеопрогравач перед тим, як натиснути кнопку &apos;Виправити&apos;.</translation>
+Будь ласка, закрийте відеопрогравач перед тим, як натиснути кнопку &apos;Виправити&apos;.</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="67"/>
@@ -1027,7 +1027,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="playbackobject.cpp" line="247"/>
         <location filename="playbackobject.cpp" line="847"/>
         <source>10 bit</source>
-        <translation type="unfinished"></translation>
+        <translation>10 біт</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="268"/>
@@ -1282,7 +1282,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="main.cpp" line="295"/>
         <source>Please close SVP 3.1 Manager first.</source>
-        <translation>Будь ласка закрийте Менеджер SVP 3.1.</translation>
+        <translation>Будь ласка, закрийте Менеджер SVP 3.1.</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="109"/>
@@ -1292,7 +1292,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="performancewnd.cpp" line="116"/>
         <source>Performance graphs time scale</source>
-        <translation>Часовий маштаб графіків швидкоспроможності</translation>
+        <translation>Часова шкала графіків швидкоспроможності</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="35"/>
@@ -1823,7 +1823,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="367"/>
         <source>Error, try again later</source>
-        <translation>Помилка відправки, будь ласка спробуйте пізніше</translation>
+        <translation>Помилка відправки, будь ласка, спробуйте пізніше</translation>
     </message>
 </context>
 <context>
@@ -2527,7 +2527,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1452"/>
         <source>%1% off the Pro version</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% знижка на Pro версію</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="531"/>
@@ -2811,12 +2811,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="106"/>
         <source>Please install Vapoursynth via Homebrew.</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь-ласка, встановіть Vapoursynth через Homebrew.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="109"/>
         <source>Install &apos;VLC support&apos; package and check Vapoursynth installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановіть пакет &apos;VLC support&apos; та перевірте наявність встановленого Vapoursynth.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="128"/>
