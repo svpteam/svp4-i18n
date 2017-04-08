@@ -41,13 +41,13 @@
     <message>
         <location filename="siteauthdlg.ui" line="122"/>
         <source>Cookies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookies:</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="129"/>
         <source>User-Agent:</source>
         <oldsource>User-agent:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>User-Agent:</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="165"/>
@@ -59,62 +59,62 @@
     <message>
         <location filename="siteauthdlg.ui" line="208"/>
         <source>Two-factor authentication code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de autenticação em 2 passos</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="217"/>
         <source>two-factor code</source>
-        <translation type="unfinished"></translation>
+        <translation>Cód. de 2 Passos</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="236"/>
         <source>May be useful for geo restricted access</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode ser útil para restrição de região</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="239"/>
         <source>e.g. 111.222.333.444:55, optional</source>
-        <translation type="unfinished">ex. 255.255.255.255:55, opicional</translation>
+        <translation>ex. 255.255.255.255:55, opicional</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="258"/>
         <source>Clear cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Cookies</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="282"/>
         <source>Cookies file in Mozilla/Netscape format</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de Cookies no formato do Mozilla/Netscape</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="285"/>
         <source>Load from text file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar de um arquivo de texto...</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="294"/>
         <source>The complete User-Agent string from your web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>O User-Agent completo do seu navegador</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="311"/>
         <source>Specify a proper scheme, for example: socks5://127.0.0.1:1080</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique um esquema adequado, por exemplo: socks5://127.0.0.1:1080</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="321"/>
         <source>How?</source>
-        <translation type="unfinished"></translation>
+        <translation>Como?</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="328"/>
         <source>Copy the complete User-Agent string from this web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie o User-Agent completo deste site</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="331"/>
         <source>Find out!</source>
-        <translation type="unfinished"></translation>
+        <translation>Descobrir!</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="351"/>
@@ -139,27 +139,27 @@
     <message>
         <location filename="siteauth.cpp" line="213"/>
         <source>Open cookie file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir arquivo de cookie...</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="213"/>
         <source>Text files</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de Texto</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="270"/>
         <source>Two-factor code expired, please update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de segundo passo para autenticação expirou, favor atualizar.</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="280"/>
         <source>SET</source>
-        <translation type="unfinished"></translation>
+        <translation>SET</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="280"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
 </context>
 <context>
@@ -167,7 +167,7 @@
     <message>
         <location filename="traywnd.ui" line="88"/>
         <source>Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Playlist</translation>
     </message>
     <message>
         <location filename="traywnd.ui" line="159"/>
@@ -243,7 +243,7 @@
     <message>
         <location filename="traywnd.cpp" line="569"/>
         <source>Multiple streams</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplo streams</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="571"/>
@@ -258,12 +258,12 @@
     <message>
         <location filename="traywnd.cpp" line="572"/>
         <source>%1 Kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Kbps</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="575"/>
         <source>%1 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Mbps</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="612"/>
@@ -341,52 +341,52 @@
     <message>
         <location filename="tubeplugin.cpp" line="83"/>
         <source>240p</source>
-        <translation type="unfinished"></translation>
+        <translation>240p</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="84"/>
         <source>360p</source>
-        <translation type="unfinished"></translation>
+        <translation>360p</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="85"/>
         <source>480p</source>
-        <translation type="unfinished"></translation>
+        <translation>480p</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="86"/>
         <source>720p</source>
-        <translation type="unfinished"></translation>
+        <translation>720p</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="87"/>
         <source>1080p</source>
-        <translation type="unfinished"></translation>
+        <translation>1080p</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="88"/>
         <source>2K</source>
-        <translation type="unfinished"></translation>
+        <translation>2K</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="89"/>
         <source>4K</source>
-        <translation type="unfinished"></translation>
+        <translation>4K</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="157"/>
         <source>Player for web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodutor por sites</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="161"/>
         <source>Same as for all web sites</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesmo para todos os sites</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="403"/>
         <source>Player for</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodutor para</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="96"/>
@@ -396,12 +396,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="65"/>
         <source>Previous video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Vídeo anterior na SVPtube playlist</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="66"/>
         <source>Next video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo vídeo na SVPtube playlist</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="99"/>
@@ -452,7 +452,7 @@
         <location filename="tubeplugin.cpp" line="139"/>
         <location filename="tubeplugin.cpp" line="163"/>
         <source>mpv player</source>
-        <translation type="unfinished"></translation>
+        <translation>mpv player</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="142"/>
@@ -468,7 +468,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="173"/>
         <source>Add web site authentication data...</source>
-        <translation type="unfinished">Adicionar dados de autenticação de um site...</translation>
+        <translation>Adicionar dados de autenticação de um site...</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="183"/>
@@ -478,12 +478,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="187"/>
         <source>Powered by youtube-dl</source>
-        <translation type="unfinished"></translation>
+        <translation>Powered by youtube-dl</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="204"/>
         <source>SVPtube 2 - Online video link extractor</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPtube 2 - Online video link extractor</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="280"/>
@@ -494,7 +494,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="283"/>
         <source>SVPtube</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPtube</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="283"/>
