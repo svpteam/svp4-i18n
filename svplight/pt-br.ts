@@ -6,7 +6,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="14"/>
         <source>LED hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>LED hardware</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="55"/>
@@ -21,17 +21,17 @@
     <message>
         <location filename="ledconfiguration.ui" line="189"/>
         <source>Lightpack USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Lightpack USB</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="220"/>
         <source>Prismatik API</source>
-        <translation type="unfinished"></translation>
+        <translation>Prismatik API</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="251"/>
         <source>Paintpack DMX</source>
-        <translation type="unfinished"></translation>
+        <translation>Paintpack DMX</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="307"/>
@@ -97,27 +97,27 @@
     <message>
         <location filename="ledconfiguration.ui" line="719"/>
         <source>G - R - B</source>
-        <translation type="unfinished"></translation>
+        <translation>G - R - B</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="724"/>
         <source>R - B - G</source>
-        <translation type="unfinished"></translation>
+        <translation>R - B - G</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="729"/>
         <source>G - B - R</source>
-        <translation type="unfinished"></translation>
+        <translation>G - B - R</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="734"/>
         <source>B - G - R</source>
-        <translation type="unfinished"></translation>
+        <translation>B - G - R</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="739"/>
         <source>B - R - G</source>
-        <translation type="unfinished"></translation>
+        <translation>B - R - G</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="929"/>
@@ -200,7 +200,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="726"/>
         <source>Prismatik</source>
-        <translation type="unfinished"></translation>
+        <translation>Prismatik</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="726"/>
@@ -240,7 +240,7 @@
         <location filename="ledcontrol.ui" line="275"/>
         <location filename="ledcontrol.ui" line="335"/>
         <source>MIN</source>
-        <translation type="unfinished"></translation>
+        <translation>MIN</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="210"/>
@@ -248,7 +248,7 @@
         <location filename="ledcontrol.ui" line="345"/>
         <location filename="ledcontrol.ui" line="450"/>
         <source>MAX</source>
-        <translation type="unfinished"></translation>
+        <translation>MAX</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="229"/>
@@ -279,7 +279,7 @@
         <location filename="ledcontrol.ui" line="440"/>
         <location filename="ledcontrol.ui" line="570"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="469"/>
@@ -304,7 +304,7 @@
     <message>
         <location filename="ledcontrol.ui" line="608"/>
         <source>+1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>+1 s</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="671"/>
@@ -322,7 +322,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
@@ -347,7 +347,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="125"/>
         <source>%1%2 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%2 ms</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="141"/>

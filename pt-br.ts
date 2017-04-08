@@ -102,7 +102,7 @@
     <message>
         <location filename="activationwnd.ui" line="209"/>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor:</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="276"/>
@@ -117,22 +117,22 @@
     <message>
         <location filename="activationwnd.cpp" line="22"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Principal</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="24"/>
         <source>Use the main server (svp-team.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar o servidor principal (svp-team.com)</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="27"/>
         <source>China</source>
-        <translation type="unfinished"></translation>
+        <translation>China</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="28"/>
         <source>Choose this if you&apos;re actually in China!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione este caso atualmente você esteja na China!</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="66"/>
@@ -355,12 +355,12 @@
     <message>
         <location filename="controlpanel.ui" line="275"/>
         <source>CPU utilisation. Click to switch to SVP Index.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uso da CPU. Clique para alternar para o Índice do SVP.</translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="355"/>
         <source>SVP Index. Click to switch to CPU utilisation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice do SVP. Clique para alternar para o Uso da CPU.</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="168"/>
@@ -390,7 +390,7 @@
     <message>
         <location filename="controlpanel.cpp" line="139"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="198"/>
@@ -420,7 +420,7 @@
     <message>
         <location filename="controlpanel.cpp" line="228"/>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mais...</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="389"/>
@@ -886,7 +886,7 @@
     <message>
         <location filename="performancewnd.ui" line="111"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="155"/>
@@ -922,17 +922,17 @@
     <message>
         <location filename="performancewnd.cpp" line="56"/>
         <source>%1 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="62"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="114"/>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="204"/>
@@ -947,12 +947,12 @@
     <message>
         <location filename="performancewnd.cpp" line="245"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="260"/>
         <source>Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>Cores</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="260"/>
@@ -1025,7 +1025,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
         <location filename="playbackobject.cpp" line="247"/>
         <location filename="playbackobject.cpp" line="847"/>
         <source>10 bit</source>
-        <translation type="unfinished"></translation>
+        <translation>10 bit</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="268"/>
@@ -1331,7 +1331,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="profile.cpp" line="520"/>
         <source>Video player</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodutor de Vídeo</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="521"/>
@@ -1452,7 +1452,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="54"/>
         <source>Don&apos;t show updates popups</source>
-        <translation type="unfinished"></translation>
+        <translation>Não exibir notificações de atualizações</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="57"/>
@@ -1538,12 +1538,12 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="82"/>
         <source>Align video frame height to the multiple of this value</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhar a altura do frame do vídeo ao dobro deste valor</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="84"/>
         <source>Allow 10-bit output, otherwise force YUV 4:2:0 8-bit output format</source>
-        <translation type="unfinished"></translation>
+        <translation>Permetir saida em 10-bit, caso contrário força saida no formato YUV 4:2:0 8-bit</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="87"/>
@@ -1681,7 +1681,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="remotewnd.cpp" line="224"/>
         <source>Toggle video frame crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar recorte do frame de vídeo</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="226"/>
@@ -2414,7 +2414,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="452"/>
         <source>Additional programs and features...</source>
-        <translation>Programas e recursos adicionais...</translation>
+        <translation>Programas e recursos adicionais... (Homebrew)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="461"/>
@@ -2474,7 +2474,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="526"/>
         <source>Allow output in 10 bit color depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir saida de cores em 10 bit de profundidade</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="528"/>
@@ -2514,7 +2514,7 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="trayicon.cpp" line="640"/>
         <source>mpv configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo de configuração do MPV</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="698"/>
@@ -2813,12 +2813,12 @@ Por-Favor feche o reprodutor antes de pressionar o botão &quot;patchear&quot;.<
     <message>
         <location filename="vlcvideoplayer.cpp" line="106"/>
         <source>Please install Vapoursynth via Homebrew.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por Favor instale o Vapoursynth pelo Homebrew.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="109"/>
         <source>Install &apos;VLC support&apos; package and check Vapoursynth installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instale os pacotes &quot;VLC Support&quot; e &quot;Vapoursynth&quot;.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="128"/>
