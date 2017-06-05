@@ -36,7 +36,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="307"/>
         <source>Screen with LEDs attached</source>
-        <translation></translation>
+        <translation>LEDを接続しているスクリーン</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="389"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="584"/>
         <source> zones</source>
-        <translation> ゾーン</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="609"/>
@@ -165,7 +165,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="238"/>
         <source>Toggle fullscreen mode</source>
-        <translation>フルスクリーンモードの切替</translation>
+        <translation>フルスクリーンモードのON/OFF</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="243"/>
@@ -273,7 +273,7 @@
     <message>
         <location filename="ledcontrol.ui" line="413"/>
         <source>Smooth transitions between colors</source>
-        <translation></translation>
+        <translation>色の変化のスムーズさの度合い</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="440"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="ledcontrol.ui" line="491"/>
         <source>Click to choose wall color</source>
-        <translation>クリックでウォールカラーの選択</translation>
+        <translation>クリックでウォールカラーの設定</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="518"/>
@@ -352,7 +352,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="141"/>
         <source>Choose a wall color</source>
-        <translation>ウォールカラーの選択</translation>
+        <translation>ウォールカラーの設定</translation>
     </message>
 </context>
 <context>
@@ -360,7 +360,7 @@
     <message>
         <location filename="lightplugin.cpp" line="69"/>
         <source>Toggle LED lighting</source>
-        <translation>LEDライティングの切替</translation>
+        <translation>LEDライティングのON/OFF</translation>
     </message>
     <message>
         <location filename="lightplugin.cpp" line="74"/>

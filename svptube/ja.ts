@@ -74,7 +74,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="239"/>
         <source>e.g. 111.222.333.444:55, optional</source>
-        <translation></translation>
+        <translation>例. 111.222.333.444:55, オプション</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="258"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="282"/>
         <source>Cookies file in Mozilla/Netscape format</source>
-        <translation></translation>
+        <translation>Mozilla/NetscapeフォーマットのCookieファイル</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="285"/>
@@ -99,22 +99,22 @@
     <message>
         <location filename="siteauthdlg.ui" line="311"/>
         <source>Specify a proper scheme, for example: socks5://127.0.0.1:1080</source>
-        <translation></translation>
+        <translation>適切な記法で記述して下さい。例： socks5://127.0.0.1:1080</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="321"/>
         <source>How?</source>
-        <translation></translation>
+        <translation>詳細</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="328"/>
         <source>Copy the complete User-Agent string from this web site</source>
-        <translation>このWebサイトから完全なUser-Agent文字列をコピーする</translation>
+        <translation>WebサイトでUser-Agent文字列を調べてコピーする</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="331"/>
         <source>Find out!</source>
-        <translation>見つけました！</translation>
+        <translation>調べる</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="351"/>
@@ -124,7 +124,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="358"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; your password can potentially be compromised, please read &lt;a href=#&gt;security notice&lt;/a&gt; before checking this.</source>
-        <translation>&lt;b&gt;警告:&lt;/b&gt; パスワードが潜在的な危険に晒されることになります。これにチェックを入れる前に&lt;a href=#&gt;セキュリティ警告&lt;/a&gt; をお読み下さい。</translation>
+        <translation>&lt;b&gt;警告:&lt;/b&gt; パスワードが潜在的な危険に晒されます。チェックを入れる前に&lt;a href=#&gt;セキュリティ警告&lt;/a&gt; をお読み下さい。</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="404"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="traywnd.ui" line="159"/>
         <source>Waiting for an URL of some online video...</source>
-        <translation>オンラインビデオのURL入力を待っています...</translation>
+        <translation>オンラインビデオのURLを待っています...</translation>
     </message>
     <message>
         <location filename="traywnd.ui" line="74"/>
@@ -268,7 +268,7 @@
     <message>
         <location filename="traywnd.cpp" line="612"/>
         <source>Show another %1 hidden formats</source>
-        <translation></translation>
+        <translation>隠れている %1 種のフォーマットを表示する</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="629"/>
@@ -321,12 +321,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="71"/>
         <source>Show video formats window...</source>
-        <translation>ビデオフォーマットウィンドウを表示</translation>
+        <translation>ビデオフォーマットウィンドウを表示...</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="74"/>
         <source>Monitor clipboard</source>
-        <translation>モニタークリップボード</translation>
+        <translation>クリップボードの監視</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="77"/>
@@ -441,12 +441,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="130"/>
         <source>Video player</source>
-        <translation></translation>
+        <translation>ビデオプレーヤー</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="134"/>
         <source>System default</source>
-        <translation></translation>
+        <translation>システムの既定</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="139"/>
