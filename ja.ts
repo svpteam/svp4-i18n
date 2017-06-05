@@ -192,7 +192,7 @@
     <message>
         <location filename="benchmarkwnd.ui" line="118"/>
         <source>This will only take one minute, please close any performance consuming applications including web browser before proceeding.</source>
-        <translation>計測は１分ほどかかります。計測の前に、Webブラウザーなどパフォーマンスに影響を与えるアプリケーションを終了しておいて下さい。</translation>
+        <translation>計測は１分ほどかかります。計測前にWebブラウザーなどパフォーマンスに影響するアプリケーションを終了しておいて下さい。</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="145"/>
@@ -638,12 +638,12 @@
     <message>
         <location filename="framecontrolwnd.ui" line="49"/>
         <source>Black bars detection</source>
-        <translation>黒ベタの検出</translation>
+        <translation>黒ベタの自動検出(ON/OFF)</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="78"/>
         <source>Force re-detect black bars</source>
-        <translation>黒ベタの検出をやり直す</translation>
+        <translation>黒ベタの自動検出をやり直す</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="449"/>
@@ -708,7 +708,7 @@
     <message>
         <location filename="framecontrolwnd.cpp" line="91"/>
         <source>Long press to choose black bars detection mode</source>
-        <translation>長押しで黒枠検出モード</translation>
+        <translation>長押しで黒ベタ検出モードの設定</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="512"/>
@@ -1093,7 +1093,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="262"/>
         <source>Do frame rate conversion</source>
-        <translation>フレームレート変換を実行する</translation>
+        <translation>フレームレート変換の実行（ON/OFF）</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="278"/>
@@ -1108,13 +1108,13 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="362"/>
         <source>Movie ×2</source>
-        <translation></translation>
+        <translation>動画 ×2</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="391"/>
         <source>Movie ×2.5</source>
         <oldsource>Movie ×3</oldsource>
-        <translation></translation>
+        <translation>動画 ×2.5</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="423"/>
@@ -1124,7 +1124,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="482"/>
         <source>Automatic options selection</source>
-        <translation>自動オプション選択</translation>
+        <translation>オプションの自動設定（OFFで手動設定）</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="543"/>
@@ -1159,7 +1159,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="765"/>
         <source>Artifacts masking</source>
-        <translation>マスキング強度</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="789"/>
@@ -1184,12 +1184,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="958"/>
         <source>Apply this profile IF...</source>
-        <translation>プロファイルの適用条件の設定...</translation>
+        <translation>プロファイル適用条件の設定...</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="1000"/>
         <source>All changes are auto-saved</source>
-        <translation>設定変更の内容は自動で保存されます</translation>
+        <translation>変更内容は自動セーブされます</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="1010"/>
@@ -1250,7 +1250,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="598"/>
         <source>Movie</source>
-        <translation></translation>
+        <translation>動画</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="598"/>
@@ -1260,7 +1260,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="599"/>
         <source>Fixed</source>
-        <translation></translation>
+        <translation>固定</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="646"/>
@@ -1324,7 +1324,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="profile.cpp" line="519"/>
         <source>Is network stream</source>
         <oldsource>Is stream</oldsource>
-        <translation></translation>
+        <translation>ネットワークストリーム</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="520"/>
@@ -1334,12 +1334,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="521"/>
         <source>Is stereo</source>
-        <translation></translation>
+        <translation>ステレオ</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="522"/>
         <source>Is interlaced</source>
-        <translation></translation>
+        <translation>インタレース</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="523"/>
@@ -1369,7 +1369,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="528"/>
         <source>Is on battery</source>
-        <translation></translation>
+        <translation>バッテリー駆動</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="529"/>
@@ -1526,7 +1526,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="80"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
-        <translation>FRCエンジンが処理するソースFPSの最大値</translation>
+        <translation>FRCエンジンで処理するソースFPSの最大値</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="81"/>
@@ -1614,12 +1614,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="95"/>
         <source>Whether keyboard shorcuts are in use or not</source>
-        <translation>キーボードショートカットが使用中かどうか</translation>
+        <translation>キーボードショートカットの有効/無効</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="119"/>
         <source>Whether remote API is in use or not</source>
-        <translation>リモートAPIが使用中かどうか</translation>
+        <translation>リモートAPIの有効/無効</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="120"/>
@@ -1669,7 +1669,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="221"/>
         <source>Toggle black bars detection</source>
-        <translation>黒ベタ検出の切替</translation>
+        <translation>黒ベタ自動検出のON/OFF</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="222"/>
@@ -1679,7 +1679,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="224"/>
         <source>Toggle video frame crop</source>
-        <translation>クロップの切替</translation>
+        <translation>フレームクロップのON/OFF</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="226"/>
@@ -1704,7 +1704,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="242"/>
         <source>Extensions</source>
-        <translation>拡張</translation>
+        <translation>拡張機能</translation>
     </message>
 </context>
 <context>
@@ -2115,7 +2115,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settingswnd.cpp" line="60"/>
         <source>1. SVP Manager and general FRC engine options</source>
-        <translation>1. SVPマネージャーおよび全般的なFRCエンジン関連のオプション</translation>
+        <translation>1. SVPマネージャーおよびFRCエンジン関連のオプション</translation>
     </message>
     <message>
         <location filename="settingswnd.cpp" line="61"/>
@@ -2177,7 +2177,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="210"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
-        <translation>SVPの登録に成功しました。ありがとうございます！</translation>
+        <translation>SVPのライセンス登録に成功しました。ありがとうございます！</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="213"/>
@@ -2208,7 +2208,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="299"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
-        <translation>映像フレーム内の黒ベタ部分を自動解析し、カットします</translation>
+        <translation>映像フレーム内の黒ベタ部分の自動検出とカット処理</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="307"/>
@@ -2493,7 +2493,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="557"/>
         <source>Extensions</source>
-        <translation>拡張</translation>
+        <translation>拡張機能</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="584"/>
@@ -2518,7 +2518,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1371"/>
         <source>SVP - Extensions</source>
-        <translation>SVP - 拡張</translation>
+        <translation>SVP - 拡張機能</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1371"/>
@@ -2568,7 +2568,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="542"/>
         <source>Running multiple videos</source>
-        <translation>複数の動画での実行について</translation>
+        <translation>複数の動画での利用</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="543"/>
@@ -2653,7 +2653,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="627"/>
         <source>Additional information</source>
-        <translation>その他のインフォメーション</translation>
+        <translation>その他の情報</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="630"/>
@@ -2678,7 +2678,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="682"/>
         <source>Exit</source>
-        <translation>SVP4を終了する</translation>
+        <translation>SVPを終了する</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1127"/>
