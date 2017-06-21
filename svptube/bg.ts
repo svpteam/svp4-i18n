@@ -137,27 +137,27 @@
         <translation>Отказ</translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="213"/>
+        <location filename="siteauth.cpp" line="235"/>
         <source>Open cookie file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="213"/>
+        <location filename="siteauth.cpp" line="236"/>
         <source>Text files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="270"/>
+        <location filename="siteauth.cpp" line="300"/>
         <source>Two-factor code expired, please update.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="280"/>
+        <location filename="siteauth.cpp" line="310"/>
         <source>SET</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="280"/>
+        <location filename="siteauth.cpp" line="310"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="692"/>
+        <location filename="traywnd.cpp" line="716"/>
         <source>Cancel download</source>
         <translation>Спри свалянето</translation>
     </message>
@@ -211,99 +211,104 @@
         <translation>Няма подходящи видео формати, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;покажи всички формати&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="80"/>
+        <location filename="traywnd.cpp" line="88"/>
         <source>Launch player</source>
         <translation>Пусни плеър</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="81"/>
+        <location filename="traywnd.cpp" line="89"/>
         <source>Copy URL</source>
         <translation>Копирай адрес (URL)</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="83"/>
+        <location filename="traywnd.cpp" line="91"/>
         <source>Download...</source>
         <translation>Свали...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="296"/>
+        <location filename="traywnd.cpp" line="303"/>
         <source>Unknown: select to load</source>
         <translation>Неизвестно: изберете за зареждане</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="420"/>
+        <location filename="traywnd.cpp" line="427"/>
         <source>No subtitles</source>
         <translation>Няма субтитри</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="447"/>
+        <location filename="traywnd.cpp" line="454"/>
         <source>Auto-generated</source>
         <translation>Автоматично генерирано</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="569"/>
+        <location filename="traywnd.cpp" line="576"/>
         <source>Multiple streams</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="571"/>
+        <location filename="traywnd.cpp" line="578"/>
         <source>Video</source>
         <translation>Видео</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="572"/>
+        <location filename="traywnd.cpp" line="579"/>
         <source>Audio</source>
         <translation>Аудио</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="572"/>
+        <location filename="traywnd.cpp" line="579"/>
         <source>%1 Kbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="575"/>
+        <location filename="traywnd.cpp" line="582"/>
         <source>%1 Mbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="612"/>
+        <location filename="traywnd.cpp" line="619"/>
         <source>Show another %1 hidden formats</source>
         <translation>Покажи още %1 скрити формата</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="629"/>
+        <location filename="traywnd.cpp" line="636"/>
         <source>Choose ffmpeg executable</source>
         <translation>Изберете изпълним ffmpeg файл</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="654"/>
+        <location filename="traywnd.cpp" line="661"/>
         <source>Download clip as...</source>
         <translation>Сваляне на клип като...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="693"/>
+        <location filename="traywnd.cpp" line="717"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Наистина ли искате да спрете свалянето?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="693"/>
+        <location filename="traywnd.cpp" line="717"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="693"/>
+        <location filename="traywnd.cpp" line="717"/>
         <source>No</source>
         <translation>Не</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="793"/>
+        <location filename="traywnd.cpp" line="820"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% от %2 свалени</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="821"/>
         <source>%1 downloaded</source>
         <translation>%1% свалени</translation>
+    </message>
+    <message>
+        <location filename="traywnd.cpp" line="826"/>
+        <source>queued</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

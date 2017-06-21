@@ -137,27 +137,27 @@
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="213"/>
+        <location filename="siteauth.cpp" line="235"/>
         <source>Open cookie file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="213"/>
+        <location filename="siteauth.cpp" line="236"/>
         <source>Text files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="270"/>
+        <location filename="siteauth.cpp" line="300"/>
         <source>Two-factor code expired, please update.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="280"/>
+        <location filename="siteauth.cpp" line="310"/>
         <source>SET</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="280"/>
+        <location filename="siteauth.cpp" line="310"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="692"/>
+        <location filename="traywnd.cpp" line="716"/>
         <source>Cancel download</source>
         <translation>Anuluj pobieranie</translation>
     </message>
@@ -211,99 +211,104 @@
         <translation>Żaden z formatów nie pasuje do filtrów, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;pokaż wszystkie formaty&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="80"/>
+        <location filename="traywnd.cpp" line="88"/>
         <source>Launch player</source>
         <translation>Wlącz odtwarzacz</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="81"/>
+        <location filename="traywnd.cpp" line="89"/>
         <source>Copy URL</source>
         <translation>Skopiuj URL</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="83"/>
+        <location filename="traywnd.cpp" line="91"/>
         <source>Download...</source>
         <translation>Pobierz...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="296"/>
+        <location filename="traywnd.cpp" line="303"/>
         <source>Unknown: select to load</source>
         <translation>Nieznane: zaznacz, aby załadować</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="420"/>
+        <location filename="traywnd.cpp" line="427"/>
         <source>No subtitles</source>
         <translation>Brak napisów</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="447"/>
+        <location filename="traywnd.cpp" line="454"/>
         <source>Auto-generated</source>
         <translation>Automatycznie wygenerowany</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="569"/>
+        <location filename="traywnd.cpp" line="576"/>
         <source>Multiple streams</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="571"/>
+        <location filename="traywnd.cpp" line="578"/>
         <source>Video</source>
         <translation>Wideo</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="572"/>
+        <location filename="traywnd.cpp" line="579"/>
         <source>Audio</source>
         <translation>Dźwięk</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="572"/>
+        <location filename="traywnd.cpp" line="579"/>
         <source>%1 Kbps</source>
         <translation>%1 Kbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="575"/>
+        <location filename="traywnd.cpp" line="582"/>
         <source>%1 Mbps</source>
         <translation>%1 Mbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="612"/>
+        <location filename="traywnd.cpp" line="619"/>
         <source>Show another %1 hidden formats</source>
         <translation>Pokaż kolejne %1 ukrytych formatów</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="629"/>
+        <location filename="traywnd.cpp" line="636"/>
         <source>Choose ffmpeg executable</source>
         <translation>Wybierz plik wykonywalny ffmpeg</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="654"/>
+        <location filename="traywnd.cpp" line="661"/>
         <source>Download clip as...</source>
         <translation>Pobierz klip jako...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="693"/>
+        <location filename="traywnd.cpp" line="717"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Jesteś pewien, że chcesz anulować to pobieranie?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="693"/>
+        <location filename="traywnd.cpp" line="717"/>
         <source>Yes</source>
         <translation>Tak</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="693"/>
+        <location filename="traywnd.cpp" line="717"/>
         <source>No</source>
         <translation>Nie</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="793"/>
+        <location filename="traywnd.cpp" line="820"/>
         <source>%1% of %2 downloaded</source>
         <translation>pobrano %1% z %2</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="821"/>
         <source>%1 downloaded</source>
         <translation>pobrano %1</translation>
+    </message>
+    <message>
+        <location filename="traywnd.cpp" line="826"/>
+        <source>queued</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

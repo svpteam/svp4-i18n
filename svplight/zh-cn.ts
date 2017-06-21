@@ -21,17 +21,17 @@
     <message>
         <location filename="ledconfiguration.ui" line="189"/>
         <source>Lightpack USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Lightpack USB</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="220"/>
         <source>Prismatik API</source>
-        <translation type="unfinished"></translation>
+        <translation>Prismatik API</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="251"/>
         <source>Paintpack DMX</source>
-        <translation type="unfinished"></translation>
+        <translation>Paintpack DMX</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="307"/>
@@ -92,32 +92,32 @@
     <message>
         <location filename="ledconfiguration.ui" line="714"/>
         <source>R - G - B (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>红 - 绿 - 蓝 (默认)</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="719"/>
         <source>G - R - B</source>
-        <translation type="unfinished"></translation>
+        <translation>绿 - 红 - 蓝</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="724"/>
         <source>R - B - G</source>
-        <translation type="unfinished"></translation>
+        <translation>红 - 蓝 - 绿</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="729"/>
         <source>G - B - R</source>
-        <translation type="unfinished"></translation>
+        <translation>绿 - 蓝 - 红</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="734"/>
         <source>B - G - R</source>
-        <translation type="unfinished"></translation>
+        <translation>蓝 - 绿 - 红</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="739"/>
         <source>B - R - G</source>
-        <translation type="unfinished"></translation>
+        <translation>蓝 - 红 - 绿</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="929"/>
@@ -130,32 +130,32 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="128"/>
         <source>2 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>2 区域</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="129"/>
         <source>4 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>4 区域</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="130"/>
         <source>10 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>10 区域</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="131"/>
         <source>20 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>20 区域</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="132"/>
         <source>30 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>30 区域</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="133"/>
         <source>60 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>60 区域</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="134"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="248"/>
         <source>Turn runnign lights effect on or off</source>
-        <translation type="unfinished"></translation>
+        <translation>开关跑马灯效果</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="318"/>
@@ -200,7 +200,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="726"/>
         <source>Prismatik</source>
-        <translation type="unfinished"></translation>
+        <translation>Prismatik</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="726"/>
@@ -304,7 +304,7 @@
     <message>
         <location filename="ledcontrol.ui" line="608"/>
         <source>+1 s</source>
-        <translation type="unfinished"></translation>
+        <translation>+1 秒</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="671"/>
@@ -317,12 +317,12 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="75"/>
         <source>No engine</source>
-        <translation type="unfinished"></translation>
+        <translation>没有引擎</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
@@ -347,7 +347,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="125"/>
         <source>%1%2 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1%2 毫秒</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="141"/>
