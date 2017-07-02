@@ -101,7 +101,7 @@
     <message>
         <location filename="activationwnd.ui" line="221"/>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="288"/>
@@ -116,22 +116,22 @@
     <message>
         <location filename="activationwnd.cpp" line="22"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Головний</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="24"/>
         <source>Use the main server (svp-team.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>Використоввувати головний сервер (svp-team.com)</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="27"/>
         <source>China</source>
-        <translation type="unfinished"></translation>
+        <translation>Китай</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="28"/>
         <source>Choose this if you&apos;re actually in China!</source>
-        <translation type="unfinished"></translation>
+        <translation>Обирайте китайський сервер тільки якщо ви дійсно знаходитесь у Китаї!</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="66"/>
@@ -389,7 +389,7 @@
     <message>
         <location filename="controlpanel.cpp" line="145"/>
         <source>N/A</source>
-        <translation type="unfinished">--</translation>
+        <translation>--</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="204"/>
@@ -765,7 +765,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="145"/>
         <source>Enable for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки в повноекранному режимі</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="230"/>
@@ -1229,7 +1229,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="268"/>
         <source>Force the exact value</source>
-        <translation type="unfinished"></translation>
+        <translation>Без відхилень від заданих значень</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="430"/>
@@ -1459,7 +1459,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="60"/>
         <source>Don&apos;t show updates popups</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати спливаючі повідомлення</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="63"/>
@@ -1515,7 +1515,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="81"/>
         <source>How many videos was viewed with SVP</source>
-        <translation>Скільки відеофайлів було переглянуто з SVP</translation>
+        <translation>Кількість переглянутих відеофайлів з SVP</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="83"/>
@@ -1545,12 +1545,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="88"/>
         <source>Align video frame height to the multiple of this value</source>
-        <translation type="unfinished"></translation>
+        <translation>Кратність корекції висоти кадру (власне значення)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="90"/>
         <source>Allow 10-bit output, otherwise force YUV 4:2:0 8-bit output format</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозвіл нативного виводу 10-біт відео, інакше буде примусова зміна у формат YUV 4:2:0, 8 біт</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="93"/>
@@ -2284,7 +2284,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="trayicon.cpp" line="601"/>
         <source>Can&apos;t find mpv executable. Do you want to find it manually?</source>
         <oldsource>Can&apos;t find mpv executable, check &apos;main.player&apos; path in All settings</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Виконуючий файл mpv не знайдений. Бажаєте вказати місцезнаходження вручну?</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="605"/>
@@ -2295,7 +2295,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="606"/>
         <source>mpv executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконуючий файл mpv</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="617"/>
@@ -2330,22 +2330,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="684"/>
         <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
-        <translation type="unfinished"></translation>
+        <translation>Поріг різниці між співвідношенням сторін величини кадру та монітором для вмикання підсвічування</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="687"/>
         <source>Enabled in full screen only</source>
-        <translation type="unfinished"></translation>
+        <translation>Вмикати тільки в повноекранному режимі</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="689"/>
         <source>Enable outer lighting for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Вмикати пдсвчування тільки в повноекранному режимі</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="701"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
-        <translation type="unfinished"></translation>
+        <translation>Затримка ініціалізації підсвічування при зміні повноекранного режиму, мс</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="704"/>
@@ -2495,7 +2495,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="861"/>
         <source>Allow output in 10 bit color depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволяти вивід глибини кольору 10-біт</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="886"/>
@@ -2530,7 +2530,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="976"/>
         <source>mpv configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл налаштувань mpv</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1034"/>
@@ -2565,7 +2565,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="597"/>
         <source>Open file via mpv...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити через mpv...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="767"/>
@@ -2728,7 +2728,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="81"/>
         <source>More video players - VLC, mpv, Plex</source>
-        <translation type="unfinished"></translation>
+        <translation>Більше відеопрогравачів: VLC, mpv, Plex</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="216"/>
@@ -2783,7 +2783,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="561"/>
         <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам доступна &lt;b&gt;знижка %1%&lt;/b&gt; на SVP 4 Pro!</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="587"/>
