@@ -122,17 +122,22 @@
         <translation>Sim, Eu quero que o SVP salve esta senha localmente.</translation>
     </message>
     <message>
-        <location filename="siteauthdlg.ui" line="358"/>
-        <source>&lt;b&gt;Warning:&lt;/b&gt; your password can potentially be compromised, please read &lt;a href=#&gt;security notice&lt;/a&gt; before checking this.</source>
-        <translation>&lt;b&gt;Aviso:&lt;/b&gt; Sua senha pode ser potencialmente comprometida, por favor leia as &lt;a href=&quot;#&quot;&gt;notas de segurança&lt;/a&gt; antes de marcar esta opção.</translation>
+        <location filename="siteauthdlg.ui" line="375"/>
+        <source>Help</source>
+        <translation>Ajuda</translation>
     </message>
     <message>
-        <location filename="siteauthdlg.ui" line="404"/>
+        <location filename="siteauthdlg.ui" line="382"/>
+        <source>F1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="siteauthdlg.ui" line="411"/>
         <source>Save</source>
         <translation>Salvar</translation>
     </message>
     <message>
-        <location filename="siteauthdlg.ui" line="411"/>
+        <location filename="siteauthdlg.ui" line="418"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -147,17 +152,17 @@
         <translation>Arquivos de Texto</translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="300"/>
+        <location filename="siteauth.cpp" line="299"/>
         <source>Two-factor code expired, please update.</source>
         <translation>Código de segundo passo para autenticação expirou, favor atualizar.</translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="310"/>
+        <location filename="siteauth.cpp" line="309"/>
         <source>SET</source>
         <translation>SET</translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="310"/>
+        <location filename="siteauth.cpp" line="309"/>
         <source>None</source>
         <translation>Nenhum</translation>
     </message>
@@ -191,7 +196,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="716"/>
+        <location filename="traywnd.cpp" line="740"/>
         <source>Cancel download</source>
         <translation>Cancelar download</translation>
     </message>
@@ -226,87 +231,87 @@
         <translation>Baixar...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="303"/>
+        <location filename="traywnd.cpp" line="327"/>
         <source>Unknown: select to load</source>
         <translation>Desconhecido: selecione para processar</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="427"/>
+        <location filename="traywnd.cpp" line="451"/>
         <source>No subtitles</source>
         <translation>Sem legendas</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="454"/>
+        <location filename="traywnd.cpp" line="478"/>
         <source>Auto-generated</source>
         <translation>Gerado automáticamente</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="576"/>
+        <location filename="traywnd.cpp" line="600"/>
         <source>Multiple streams</source>
         <translation>Multiplo streams</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="578"/>
+        <location filename="traywnd.cpp" line="602"/>
         <source>Video</source>
         <translation>Vídeo</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="579"/>
+        <location filename="traywnd.cpp" line="603"/>
         <source>Audio</source>
         <translation>Áudio</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="579"/>
+        <location filename="traywnd.cpp" line="603"/>
         <source>%1 Kbps</source>
         <translation>%1 Kbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="582"/>
+        <location filename="traywnd.cpp" line="606"/>
         <source>%1 Mbps</source>
         <translation>%1 Mbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="619"/>
+        <location filename="traywnd.cpp" line="643"/>
         <source>Show another %1 hidden formats</source>
         <translation>Exibir outros %1 formatos ocultos</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="636"/>
+        <location filename="traywnd.cpp" line="660"/>
         <source>Choose ffmpeg executable</source>
         <translation>Selecionar executável do ffmpeg</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="661"/>
+        <location filename="traywnd.cpp" line="685"/>
         <source>Download clip as...</source>
         <translation>Baixar vídeo como...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="717"/>
+        <location filename="traywnd.cpp" line="741"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Você tem certeza que deseja cancelar este download?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="717"/>
+        <location filename="traywnd.cpp" line="741"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="717"/>
+        <location filename="traywnd.cpp" line="741"/>
         <source>No</source>
         <translation>Não</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="820"/>
+        <location filename="traywnd.cpp" line="844"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% de %2 baixado</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="821"/>
+        <location filename="traywnd.cpp" line="845"/>
         <source>%1 downloaded</source>
         <translation>%1 baixado</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="826"/>
+        <location filename="traywnd.cpp" line="850"/>
         <source>queued</source>
         <translation type="unfinished"></translation>
     </message>
@@ -314,206 +319,211 @@
 <context>
     <name>TubePlugin</name>
     <message>
-        <location filename="tubeplugin.cpp" line="64"/>
+        <location filename="tubeplugin.cpp" line="62"/>
         <source>Show SVPtube window</source>
         <translation>Exibir janela do SVPtube</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="68"/>
+        <location filename="tubeplugin.cpp" line="66"/>
         <source>Online videos</source>
         <translation>Vídeos Online</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="71"/>
+        <location filename="tubeplugin.cpp" line="69"/>
         <source>Show video formats window...</source>
         <translation>Exibir janela de formatos de vídeos...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="74"/>
+        <location filename="tubeplugin.cpp" line="73"/>
         <source>Monitor clipboard</source>
         <translation>Monitor de área de transferência</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="77"/>
+        <location filename="tubeplugin.cpp" line="75"/>
         <source>Autoplay</source>
         <translation>Reproduzir automáticamente</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="81"/>
+        <location filename="tubeplugin.cpp" line="79"/>
         <source>Preferred resolution</source>
         <translation>Resolução preferencial</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="83"/>
+        <location filename="tubeplugin.cpp" line="81"/>
         <source>240p</source>
         <translation>240p</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="84"/>
+        <location filename="tubeplugin.cpp" line="82"/>
         <source>360p</source>
         <translation>360p</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="85"/>
+        <location filename="tubeplugin.cpp" line="83"/>
         <source>480p</source>
         <translation>480p</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="86"/>
+        <location filename="tubeplugin.cpp" line="84"/>
         <source>720p</source>
         <translation>720p</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="87"/>
+        <location filename="tubeplugin.cpp" line="85"/>
         <source>1080p</source>
         <translation>1080p</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="88"/>
+        <location filename="tubeplugin.cpp" line="86"/>
         <source>2K</source>
         <translation>2K</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="89"/>
+        <location filename="tubeplugin.cpp" line="87"/>
         <source>4K</source>
         <translation>4K</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="157"/>
+        <location filename="tubeplugin.cpp" line="155"/>
         <source>Player for web site</source>
         <translation>Reprodutor por sites</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="161"/>
+        <location filename="tubeplugin.cpp" line="159"/>
         <source>Same as for all web sites</source>
         <translation>Mesmo para todos os sites</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="403"/>
+        <location filename="tubeplugin.cpp" line="415"/>
         <source>Player for</source>
         <translation>Reprodutor para</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="96"/>
+        <location filename="tubeplugin.cpp" line="94"/>
         <source>Video formats filter</source>
         <translation>Filtro de formatos do vídeo</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="65"/>
+        <location filename="tubeplugin.cpp" line="63"/>
         <source>Previous video in SVPtube playlist</source>
         <translation>Vídeo anterior na SVPtube playlist</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="66"/>
+        <location filename="tubeplugin.cpp" line="64"/>
         <source>Next video in SVPtube playlist</source>
         <translation>Próximo vídeo na SVPtube playlist</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="99"/>
+        <location filename="tubeplugin.cpp" line="97"/>
         <source>Show MP4 only (more stable)</source>
         <translation>Exibir somente MP4 (mais estável)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="100"/>
+        <location filename="tubeplugin.cpp" line="98"/>
         <source>Show VP9 and MP4 (VP9 preferred)</source>
         <translation>Exibir VP9 e MP4 (VP9 de preferencia)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="101"/>
+        <location filename="tubeplugin.cpp" line="99"/>
         <source>Show all formats</source>
         <translation>Exibir todos os formatos</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="107"/>
+        <location filename="tubeplugin.cpp" line="105"/>
         <source>Show HTTP streams only</source>
         <translation>Exibir somente streamings em HTTP</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="108"/>
+        <location filename="tubeplugin.cpp" line="106"/>
         <source>Show HTTP and M3U8 streams</source>
         <translation>Exibir somente streamings em HTTP e M3U8</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="109"/>
+        <location filename="tubeplugin.cpp" line="107"/>
         <source>Show all streams</source>
         <translation>Exibir todos os streamings</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="121"/>
+        <location filename="tubeplugin.cpp" line="119"/>
         <source>Hide V+A (DASH) formats</source>
         <translation>Ocultar os formatos V+A (DASH)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="130"/>
+        <location filename="tubeplugin.cpp" line="128"/>
         <source>Video player</source>
         <translation>Reprodutor de vídeo</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="134"/>
+        <location filename="tubeplugin.cpp" line="132"/>
         <source>System default</source>
         <translation>Padrão do sistema</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="139"/>
-        <location filename="tubeplugin.cpp" line="163"/>
+        <location filename="tubeplugin.cpp" line="137"/>
+        <location filename="tubeplugin.cpp" line="161"/>
         <source>mpv player</source>
         <translation>mpv player</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="142"/>
-        <location filename="tubeplugin.cpp" line="164"/>
+        <location filename="tubeplugin.cpp" line="140"/>
+        <location filename="tubeplugin.cpp" line="162"/>
         <source>Choose application...</source>
         <translation>Selecionar aplicativo...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="172"/>
+        <location filename="tubeplugin.cpp" line="170"/>
         <source>Authentication</source>
         <translation>Autenticação</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="173"/>
+        <location filename="tubeplugin.cpp" line="171"/>
         <source>Add web site authentication data...</source>
         <translation>Adicionar dados de autenticação de um site...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="183"/>
+        <location filename="tubeplugin.cpp" line="181"/>
         <source>User manual (online)</source>
         <translation>Manual do usuário (Online)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="187"/>
+        <location filename="tubeplugin.cpp" line="185"/>
         <source>Powered by youtube-dl</source>
         <translation>Powered by youtube-dl</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="204"/>
+        <location filename="tubeplugin.cpp" line="202"/>
         <source>SVPtube 2 - Online video link extractor</source>
         <translation>SVPtube 2 - Online video link extractor</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="280"/>
-        <location filename="tubeplugin.cpp" line="284"/>
+        <location filename="tubeplugin.cpp" line="252"/>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="tubeplugin.cpp" line="291"/>
+        <location filename="tubeplugin.cpp" line="295"/>
         <source>Forget</source>
         <translation>Esquecer</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="283"/>
+        <location filename="tubeplugin.cpp" line="294"/>
         <source>SVPtube</source>
         <translation>SVPtube</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="283"/>
+        <location filename="tubeplugin.cpp" line="294"/>
         <source>Do you really want to forget authentication data for &apos;%1&apos;?</source>
         <translation>Você tem certeza que deseja apagar esses dados de autenticação para &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="284"/>
+        <location filename="tubeplugin.cpp" line="295"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="323"/>
-        <location filename="tubeplugin.cpp" line="354"/>
+        <location filename="tubeplugin.cpp" line="335"/>
+        <location filename="tubeplugin.cpp" line="366"/>
         <source>Choose video player</source>
         <translation>Selecionar Reprodutor de vídeo</translation>
     </message>

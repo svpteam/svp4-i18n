@@ -122,17 +122,22 @@
         <translation>Искам SVP да запази паролата ми.</translation>
     </message>
     <message>
-        <location filename="siteauthdlg.ui" line="358"/>
-        <source>&lt;b&gt;Warning:&lt;/b&gt; your password can potentially be compromised, please read &lt;a href=#&gt;security notice&lt;/a&gt; before checking this.</source>
-        <translation>&lt;b&gt;Внимание:&lt;/b&gt; съхранението на паролата Ви, може да не е безопасно, моля прочетете &lt;a href=#&gt;справката по сигурността&lt;/a&gt; .</translation>
+        <location filename="siteauthdlg.ui" line="375"/>
+        <source>Help</source>
+        <translation>Помощ</translation>
     </message>
     <message>
-        <location filename="siteauthdlg.ui" line="404"/>
+        <location filename="siteauthdlg.ui" line="382"/>
+        <source>F1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="siteauthdlg.ui" line="411"/>
         <source>Save</source>
         <translation>Запази</translation>
     </message>
     <message>
-        <location filename="siteauthdlg.ui" line="411"/>
+        <location filename="siteauthdlg.ui" line="418"/>
         <source>Cancel</source>
         <translation>Отказ</translation>
     </message>
@@ -147,17 +152,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="300"/>
+        <location filename="siteauth.cpp" line="299"/>
         <source>Two-factor code expired, please update.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="310"/>
+        <location filename="siteauth.cpp" line="309"/>
         <source>SET</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="310"/>
+        <location filename="siteauth.cpp" line="309"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
@@ -191,7 +196,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="716"/>
+        <location filename="traywnd.cpp" line="740"/>
         <source>Cancel download</source>
         <translation>Спри свалянето</translation>
     </message>
@@ -226,87 +231,87 @@
         <translation>Свали...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="303"/>
+        <location filename="traywnd.cpp" line="327"/>
         <source>Unknown: select to load</source>
         <translation>Неизвестно: изберете за зареждане</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="427"/>
+        <location filename="traywnd.cpp" line="451"/>
         <source>No subtitles</source>
         <translation>Няма субтитри</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="454"/>
+        <location filename="traywnd.cpp" line="478"/>
         <source>Auto-generated</source>
         <translation>Автоматично генерирано</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="576"/>
+        <location filename="traywnd.cpp" line="600"/>
         <source>Multiple streams</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="578"/>
+        <location filename="traywnd.cpp" line="602"/>
         <source>Video</source>
         <translation>Видео</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="579"/>
+        <location filename="traywnd.cpp" line="603"/>
         <source>Audio</source>
         <translation>Аудио</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="579"/>
+        <location filename="traywnd.cpp" line="603"/>
         <source>%1 Kbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="582"/>
+        <location filename="traywnd.cpp" line="606"/>
         <source>%1 Mbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="619"/>
+        <location filename="traywnd.cpp" line="643"/>
         <source>Show another %1 hidden formats</source>
         <translation>Покажи още %1 скрити формата</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="636"/>
+        <location filename="traywnd.cpp" line="660"/>
         <source>Choose ffmpeg executable</source>
         <translation>Изберете изпълним ffmpeg файл</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="661"/>
+        <location filename="traywnd.cpp" line="685"/>
         <source>Download clip as...</source>
         <translation>Сваляне на клип като...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="717"/>
+        <location filename="traywnd.cpp" line="741"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Наистина ли искате да спрете свалянето?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="717"/>
+        <location filename="traywnd.cpp" line="741"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="717"/>
+        <location filename="traywnd.cpp" line="741"/>
         <source>No</source>
         <translation>Не</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="820"/>
+        <location filename="traywnd.cpp" line="844"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% от %2 свалени</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="821"/>
+        <location filename="traywnd.cpp" line="845"/>
         <source>%1 downloaded</source>
         <translation>%1% свалени</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="826"/>
+        <location filename="traywnd.cpp" line="850"/>
         <source>queued</source>
         <translation type="unfinished"></translation>
     </message>
@@ -314,206 +319,211 @@
 <context>
     <name>TubePlugin</name>
     <message>
-        <location filename="tubeplugin.cpp" line="64"/>
+        <location filename="tubeplugin.cpp" line="62"/>
         <source>Show SVPtube window</source>
         <translation>Покажи прозореца на SVPtube</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="68"/>
+        <location filename="tubeplugin.cpp" line="66"/>
         <source>Online videos</source>
         <translation>Онлайн видеа</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="71"/>
+        <location filename="tubeplugin.cpp" line="69"/>
         <source>Show video formats window...</source>
         <translation>Покажи прозорец с видео форматите...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="74"/>
+        <location filename="tubeplugin.cpp" line="73"/>
         <source>Monitor clipboard</source>
         <translation>Следи клипборда</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="77"/>
+        <location filename="tubeplugin.cpp" line="75"/>
         <source>Autoplay</source>
         <translation>Автоматично пускане</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="81"/>
+        <location filename="tubeplugin.cpp" line="79"/>
         <source>Preferred resolution</source>
         <translation>Предпочитана резолюция</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="83"/>
+        <location filename="tubeplugin.cpp" line="81"/>
         <source>240p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="84"/>
+        <location filename="tubeplugin.cpp" line="82"/>
         <source>360p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="85"/>
+        <location filename="tubeplugin.cpp" line="83"/>
         <source>480p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="86"/>
+        <location filename="tubeplugin.cpp" line="84"/>
         <source>720p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="87"/>
+        <location filename="tubeplugin.cpp" line="85"/>
         <source>1080p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="88"/>
+        <location filename="tubeplugin.cpp" line="86"/>
         <source>2K</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="89"/>
+        <location filename="tubeplugin.cpp" line="87"/>
         <source>4K</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="157"/>
+        <location filename="tubeplugin.cpp" line="155"/>
         <source>Player for web site</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="161"/>
+        <location filename="tubeplugin.cpp" line="159"/>
         <source>Same as for all web sites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="403"/>
+        <location filename="tubeplugin.cpp" line="415"/>
         <source>Player for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="96"/>
+        <location filename="tubeplugin.cpp" line="94"/>
         <source>Video formats filter</source>
         <translation>Филтър формати</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="65"/>
+        <location filename="tubeplugin.cpp" line="63"/>
         <source>Previous video in SVPtube playlist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="66"/>
+        <location filename="tubeplugin.cpp" line="64"/>
         <source>Next video in SVPtube playlist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="99"/>
+        <location filename="tubeplugin.cpp" line="97"/>
         <source>Show MP4 only (more stable)</source>
         <translation>Само MP4</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="100"/>
+        <location filename="tubeplugin.cpp" line="98"/>
         <source>Show VP9 and MP4 (VP9 preferred)</source>
         <translation>Само VP9 и MP4</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="101"/>
+        <location filename="tubeplugin.cpp" line="99"/>
         <source>Show all formats</source>
         <translation>Покажи всички формати</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="107"/>
+        <location filename="tubeplugin.cpp" line="105"/>
         <source>Show HTTP streams only</source>
         <translation>Само HTTP потоци</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="108"/>
+        <location filename="tubeplugin.cpp" line="106"/>
         <source>Show HTTP and M3U8 streams</source>
         <translation>Само HTTP и M3U8 потоци</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="109"/>
+        <location filename="tubeplugin.cpp" line="107"/>
         <source>Show all streams</source>
         <translation>Покажи всички потоци</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="121"/>
+        <location filename="tubeplugin.cpp" line="119"/>
         <source>Hide V+A (DASH) formats</source>
         <translation>Скрий V+A (DASH) формати</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="130"/>
+        <location filename="tubeplugin.cpp" line="128"/>
         <source>Video player</source>
         <translation>Видео плеър</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="134"/>
+        <location filename="tubeplugin.cpp" line="132"/>
         <source>System default</source>
         <translation>По подразбиране в системата</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="139"/>
-        <location filename="tubeplugin.cpp" line="163"/>
+        <location filename="tubeplugin.cpp" line="137"/>
+        <location filename="tubeplugin.cpp" line="161"/>
         <source>mpv player</source>
         <translation>mpv плеър</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="142"/>
-        <location filename="tubeplugin.cpp" line="164"/>
+        <location filename="tubeplugin.cpp" line="140"/>
+        <location filename="tubeplugin.cpp" line="162"/>
         <source>Choose application...</source>
         <translation>Изберете...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="172"/>
+        <location filename="tubeplugin.cpp" line="170"/>
         <source>Authentication</source>
         <translation>Оторизация</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="173"/>
+        <location filename="tubeplugin.cpp" line="171"/>
         <source>Add web site authentication data...</source>
         <translation>Добавете данни за оторизация...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="183"/>
+        <location filename="tubeplugin.cpp" line="181"/>
         <source>User manual (online)</source>
         <translation>Ръководство (онлайн)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="187"/>
+        <location filename="tubeplugin.cpp" line="185"/>
         <source>Powered by youtube-dl</source>
         <translation>Благодарение на youtube-dl</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="204"/>
+        <location filename="tubeplugin.cpp" line="202"/>
         <source>SVPtube 2 - Online video link extractor</source>
         <translation>SVPtube 2</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="280"/>
-        <location filename="tubeplugin.cpp" line="284"/>
+        <location filename="tubeplugin.cpp" line="252"/>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="tubeplugin.cpp" line="291"/>
+        <location filename="tubeplugin.cpp" line="295"/>
         <source>Forget</source>
         <translation>Забрави</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="283"/>
+        <location filename="tubeplugin.cpp" line="294"/>
         <source>SVPtube</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="283"/>
+        <location filename="tubeplugin.cpp" line="294"/>
         <source>Do you really want to forget authentication data for &apos;%1&apos;?</source>
         <translation>Да забравя ли данните за&apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="284"/>
+        <location filename="tubeplugin.cpp" line="295"/>
         <source>Cancel</source>
         <translation>Отказ</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="323"/>
-        <location filename="tubeplugin.cpp" line="354"/>
+        <location filename="tubeplugin.cpp" line="335"/>
+        <location filename="tubeplugin.cpp" line="366"/>
         <source>Choose video player</source>
         <translation>Изберете видео плеър</translation>
     </message>

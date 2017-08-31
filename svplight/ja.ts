@@ -51,7 +51,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="427"/>
         <source>From &lt;a href=#&gt;AmbiBox&lt;/a&gt; profile</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="459"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="484"/>
         <source>From &lt;a href=#&gt;Prismatik&lt;/a&gt; profile</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="557"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="584"/>
         <source> zones</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="609"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="714"/>
         <source>R - G - B (default)</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="719"/>
@@ -120,7 +120,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="929"/>
+        <location filename="ledconfiguration.ui" line="938"/>
         <source>Adjust brightness and colors...</source>
         <translation>明るさと色の調整...</translation>
     </message>
@@ -130,32 +130,32 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="128"/>
         <source>2 zones</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="129"/>
         <source>4 zones</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="130"/>
         <source>10 zones</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="131"/>
         <source>20 zones</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="132"/>
         <source>30 zones</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="133"/>
         <source>60 zones</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="134"/>
@@ -190,7 +190,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="693"/>
         <source>Prismatik profile</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="693"/>
@@ -240,7 +240,7 @@
         <location filename="ledcontrol.ui" line="275"/>
         <location filename="ledcontrol.ui" line="335"/>
         <source>MIN</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="210"/>
@@ -248,7 +248,7 @@
         <location filename="ledcontrol.ui" line="345"/>
         <location filename="ledcontrol.ui" line="450"/>
         <source>MAX</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="229"/>
@@ -268,7 +268,7 @@
     <message>
         <location filename="ledcontrol.ui" line="394"/>
         <source>Smooth motion</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="413"/>
@@ -279,7 +279,7 @@
         <location filename="ledcontrol.ui" line="440"/>
         <location filename="ledcontrol.ui" line="570"/>
         <source>OFF</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="469"/>
@@ -307,7 +307,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="671"/>
+        <location filename="ledcontrol.ui" line="677"/>
         <source>Setup LED lighting hardware...</source>
         <translation>LEDライティングハードウェアのセットアップ...</translation>
     </message>
@@ -317,17 +317,17 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="75"/>
         <source>No engine</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
         <source>OK</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
         <source>FAIL</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="90"/>
@@ -358,27 +358,27 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="69"/>
+        <location filename="lightplugin.cpp" line="67"/>
         <source>Toggle LED lighting</source>
         <translation>LEDライティングのON/OFF</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="74"/>
+        <location filename="lightplugin.cpp" line="72"/>
         <source>LED lighting</source>
         <translation>LEDライティング</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="75"/>
+        <location filename="lightplugin.cpp" line="73"/>
         <source>Turn on</source>
         <translation>ONにする</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="82"/>
         <source>Adjust brightness and colors</source>
         <translation>明るさと色の調整</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="86"/>
+        <location filename="lightplugin.cpp" line="84"/>
         <source>Setup hardware...</source>
         <translation>ハードウェアのセットアップ...</translation>
     </message>
