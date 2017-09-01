@@ -382,5 +382,10 @@
         <source>Setup hardware...</source>
         <translation>ハードウェアのセットアップ...</translation>
     </message>
+    <message>
+        <location filename="lightplugin.cpp" line="89"/>
+        <source>User manual (online)</source>
+        <translation>ユーザーマニュアル(オンライン)</translation>
+    </message>
 </context>
 </TS>

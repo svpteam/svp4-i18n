@@ -382,5 +382,10 @@
         <source>Setup hardware...</source>
         <translation>设置硬件...</translation>
     </message>
+    <message>
+        <location filename="lightplugin.cpp" line="89"/>
+        <source>User manual (online)</source>
+        <translation>用户手册 (在线)</translation>
+    </message>
 </context>
 </TS>

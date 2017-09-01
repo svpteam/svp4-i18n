@@ -120,7 +120,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="929"/>
+        <location filename="ledconfiguration.ui" line="938"/>
         <source>Adjust brightness and colors...</source>
         <translation>Настройка на яркост и цвят...</translation>
     </message>
@@ -307,7 +307,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="671"/>
+        <location filename="ledcontrol.ui" line="677"/>
         <source>Setup LED lighting hardware...</source>
         <translation>Настройка на LED оборудване...</translation>
     </message>
@@ -358,29 +358,34 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="69"/>
+        <location filename="lightplugin.cpp" line="67"/>
         <source>Toggle LED lighting</source>
         <translation>Включи LED подсветката</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="74"/>
+        <location filename="lightplugin.cpp" line="72"/>
         <source>LED lighting</source>
         <translation>LED подсветка</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="75"/>
+        <location filename="lightplugin.cpp" line="73"/>
         <source>Turn on</source>
         <translation>Включи</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="82"/>
         <source>Adjust brightness and colors</source>
         <translation>Настройка на яркост и цвят</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="86"/>
+        <location filename="lightplugin.cpp" line="84"/>
         <source>Setup hardware...</source>
         <translation>Настройка на оборудване...</translation>
+    </message>
+    <message>
+        <location filename="lightplugin.cpp" line="89"/>
+        <source>User manual (online)</source>
+        <translation>Ръководство (онлайн)</translation>
     </message>
 </context>
 </TS>

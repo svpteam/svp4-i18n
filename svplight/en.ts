@@ -120,7 +120,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="929"/>
+        <location filename="ledconfiguration.ui" line="938"/>
         <source>Adjust brightness and colors...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -307,7 +307,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="671"/>
+        <location filename="ledcontrol.ui" line="677"/>
         <source>Setup LED lighting hardware...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -358,28 +358,33 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="69"/>
+        <location filename="lightplugin.cpp" line="67"/>
         <source>Toggle LED lighting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="74"/>
+        <location filename="lightplugin.cpp" line="72"/>
         <source>LED lighting</source>
         <translation>LED lighting</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="75"/>
+        <location filename="lightplugin.cpp" line="73"/>
         <source>Turn on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="82"/>
         <source>Adjust brightness and colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="86"/>
+        <location filename="lightplugin.cpp" line="84"/>
         <source>Setup hardware...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="lightplugin.cpp" line="89"/>
+        <source>User manual (online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

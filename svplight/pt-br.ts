@@ -120,7 +120,7 @@
         <translation>B - R - G</translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="929"/>
+        <location filename="ledconfiguration.ui" line="938"/>
         <source>Adjust brightness and colors...</source>
         <translation>Ajustar brilho e cores...</translation>
     </message>
@@ -307,7 +307,7 @@
         <translation>+1 s</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="671"/>
+        <location filename="ledcontrol.ui" line="677"/>
         <source>Setup LED lighting hardware...</source>
         <translation>Configurar Hardware de iluminação de LEDs...</translation>
     </message>
@@ -358,29 +358,34 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="69"/>
+        <location filename="lightplugin.cpp" line="67"/>
         <source>Toggle LED lighting</source>
         <translation>Alternar iluminação de LEDs</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="74"/>
+        <location filename="lightplugin.cpp" line="72"/>
         <source>LED lighting</source>
         <translation>Iluminação de LEDs</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="75"/>
+        <location filename="lightplugin.cpp" line="73"/>
         <source>Turn on</source>
         <translation>Ativar</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="82"/>
         <source>Adjust brightness and colors</source>
         <translation>Ajustar brilho e cores</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="86"/>
+        <location filename="lightplugin.cpp" line="84"/>
         <source>Setup hardware...</source>
         <translation>Configurar Hardware...</translation>
+    </message>
+    <message>
+        <location filename="lightplugin.cpp" line="89"/>
+        <source>User manual (online)</source>
+        <translation>Manual do usuário (Online)</translation>
     </message>
 </context>
 </TS>

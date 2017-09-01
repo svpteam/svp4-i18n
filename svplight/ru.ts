@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru_RU">
+<TS version="2.1" language="ru_RU">
 <context>
     <name>LEDConfiguration</name>
     <message>
@@ -120,7 +120,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="929"/>
+        <location filename="ledconfiguration.ui" line="938"/>
         <source>Adjust brightness and colors...</source>
         <translation>Регулировка яркости и цвета...</translation>
     </message>
@@ -170,7 +170,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="243"/>
         <source>Turn lights on or off</source>
-        <translation>Выключить / выключить подсветку</translation>
+        <translation>Включить/выключить подсветку</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="248"/>
@@ -307,7 +307,7 @@
         <translation>+1 сек</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="671"/>
+        <location filename="ledcontrol.ui" line="677"/>
         <source>Setup LED lighting hardware...</source>
         <translation>Установка оборудования...</translation>
     </message>
@@ -358,29 +358,34 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="69"/>
+        <location filename="lightplugin.cpp" line="67"/>
         <source>Toggle LED lighting</source>
         <translation>Включить LED подсветку</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="74"/>
+        <location filename="lightplugin.cpp" line="72"/>
         <source>LED lighting</source>
         <translation>LED подсветка</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="75"/>
+        <location filename="lightplugin.cpp" line="73"/>
         <source>Turn on</source>
         <translation>Включить</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="82"/>
         <source>Adjust brightness and colors</source>
         <translation>Регулировка яркости и цветов...</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="86"/>
+        <location filename="lightplugin.cpp" line="84"/>
         <source>Setup hardware...</source>
         <translation>Установка оборудования</translation>
+    </message>
+    <message>
+        <location filename="lightplugin.cpp" line="89"/>
+        <source>User manual (online)</source>
+        <translation>Руководство пользователя (онлайн)</translation>
     </message>
 </context>
 </TS>

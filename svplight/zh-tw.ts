@@ -120,7 +120,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="929"/>
+        <location filename="ledconfiguration.ui" line="938"/>
         <source>Adjust brightness and colors...</source>
         <translation>調整亮度和顏色...</translation>
     </message>
@@ -307,7 +307,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="671"/>
+        <location filename="ledcontrol.ui" line="677"/>
         <source>Setup LED lighting hardware...</source>
         <translation>設定 LED 燈光硬體...</translation>
     </message>
@@ -358,29 +358,34 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="69"/>
+        <location filename="lightplugin.cpp" line="67"/>
         <source>Toggle LED lighting</source>
         <translation>LED 燈光開關</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="74"/>
+        <location filename="lightplugin.cpp" line="72"/>
         <source>LED lighting</source>
         <translation>LED 燈光</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="75"/>
+        <location filename="lightplugin.cpp" line="73"/>
         <source>Turn on</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="82"/>
         <source>Adjust brightness and colors</source>
         <translation>調整亮度和顏色</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="86"/>
+        <location filename="lightplugin.cpp" line="84"/>
         <source>Setup hardware...</source>
         <translation>設定硬體...</translation>
+    </message>
+    <message>
+        <location filename="lightplugin.cpp" line="89"/>
+        <source>User manual (online)</source>
+        <translation>使用者手冊 (線上)</translation>
     </message>
 </context>
 </TS>
