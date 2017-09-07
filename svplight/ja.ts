@@ -51,7 +51,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="427"/>
         <source>From &lt;a href=#&gt;AmbiBox&lt;/a&gt; profile</source>
-        <translation type="unfinished"></translation>
+        <translation>From &lt;a href=#&gt;AmbiBox&lt;/a&gt; profile</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="459"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="484"/>
         <source>From &lt;a href=#&gt;Prismatik&lt;/a&gt; profile</source>
-        <translation type="unfinished"></translation>
+        <translation>From &lt;a href=#&gt;Prismatik&lt;/a&gt; profile</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="557"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="584"/>
         <source> zones</source>
-        <translation type="unfinished"></translation>
+        <translation> zones</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="609"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="714"/>
         <source>R - G - B (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>R - G - B (default)</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="719"/>
@@ -130,32 +130,32 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="128"/>
         <source>2 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>2 zones</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="129"/>
         <source>4 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>4 zones</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="130"/>
         <source>10 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>10 zones</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="131"/>
         <source>20 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>20 zones</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="132"/>
         <source>30 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>30 zones</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="133"/>
         <source>60 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>60 zones</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="134"/>
@@ -190,7 +190,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="693"/>
         <source>Prismatik profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Prismatik profile</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="693"/>
@@ -240,7 +240,7 @@
         <location filename="ledcontrol.ui" line="275"/>
         <location filename="ledcontrol.ui" line="335"/>
         <source>MIN</source>
-        <translation type="unfinished"></translation>
+        <translation>MIN</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="210"/>
@@ -248,7 +248,7 @@
         <location filename="ledcontrol.ui" line="345"/>
         <location filename="ledcontrol.ui" line="450"/>
         <source>MAX</source>
-        <translation type="unfinished"></translation>
+        <translation>MAX</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="229"/>
@@ -268,7 +268,7 @@
     <message>
         <location filename="ledcontrol.ui" line="394"/>
         <source>Smooth motion</source>
-        <translation type="unfinished"></translation>
+        <translation>Smooth motion</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="413"/>
@@ -279,7 +279,7 @@
         <location filename="ledcontrol.ui" line="440"/>
         <location filename="ledcontrol.ui" line="570"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>OFF</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="469"/>
@@ -317,17 +317,17 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="75"/>
         <source>No engine</source>
-        <translation type="unfinished"></translation>
+        <translation>No engine</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="84"/>
         <source>FAIL</source>
-        <translation type="unfinished"></translation>
+        <translation>FAIL</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="90"/>
