@@ -6,13 +6,13 @@
     <message>
         <location filename="aboutdlg.ui" line="98"/>
         <source>Funded with &lt;b&gt;Indiegogo&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Funded with &lt;b&gt;Indiegogo&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="aboutdlg.ui" line="140"/>
         <source>Icons by &lt;b&gt;Icons8&lt;/b&gt;</source>
         <oldsource>Using icons from &lt;b&gt;Icons8&lt;/b&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Icons by &lt;b&gt;Icons8&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="aboutdlg.ui" line="259"/>
@@ -22,7 +22,7 @@
     <message>
         <location filename="aboutdlg.cpp" line="19"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>About</translation>
     </message>
     <message>
         <location filename="aboutdlg.ui" line="276"/>
@@ -33,32 +33,32 @@
     <message>
         <location filename="aboutdlg.cpp" line="209"/>
         <source>Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Developers</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="209"/>
         <source>Special thanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Special thanks</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="84"/>
         <source>Indiegogo Co-Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiegogo Co-Authors</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="85"/>
         <source>Pre-Indiegogo donators</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-Indiegogo donators</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="86"/>
         <source>Indiegogo Part of the Team members</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiegogo Part of the Team members</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="87"/>
         <source>Indiegogo funders</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiegogo funders</translation>
     </message>
 </context>
 <context>
@@ -126,7 +126,7 @@
     <message>
         <location filename="activationwnd.cpp" line="25"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Main</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="27"/>
@@ -136,7 +136,7 @@
     <message>
         <location filename="activationwnd.cpp" line="30"/>
         <source>China</source>
-        <translation type="unfinished"></translation>
+        <translation>China</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="31"/>
@@ -316,37 +316,37 @@
     <message>
         <location filename="profilewnd.cpp" line="31"/>
         <source>Numeric value (integer)</source>
-        <translation type="unfinished"></translation>
+        <translation>数値 (整数)</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="32"/>
         <source>Numeric value (floating point)</source>
-        <translation type="unfinished"></translation>
+        <translation>数値 (浮動小数)</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="33"/>
         <source>Text string or a regular expression enclosed with &apos;\&apos; characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Text string or a regular expression enclosed with &apos;\&apos; characters</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="55"/>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Less than</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="56"/>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Greater than</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="57"/>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Equal to</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="58"/>
         <source>Contains</source>
-        <translation type="unfinished"></translation>
+        <translation>Contains</translation>
     </message>
 </context>
 <context>
@@ -429,7 +429,7 @@
     <message>
         <location filename="controlpanel.cpp" line="248"/>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>その他...</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="254"/>
@@ -513,7 +513,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="205"/>
         <source>ON or OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>ON or OFF</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="215"/>
@@ -538,12 +538,12 @@
     <message>
         <location filename="customoptionwnd.cpp" line="49"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="49"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>On</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="53"/>
@@ -890,17 +890,17 @@
     <message>
         <location filename="performancewnd.ui" line="44"/>
         <source>SVP Index</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP Index</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="51"/>
         <source>High frame rate index</source>
-        <translation type="unfinished"></translation>
+        <translation>High frame rate index</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="111"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="155"/>
@@ -910,68 +910,68 @@
     <message>
         <location filename="performancewnd.ui" line="224"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memory</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="250"/>
         <source>Video player memory usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Video player memory usage</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="340"/>
         <source>Scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Scroll</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="375"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scale</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="403"/>
         <location filename="performancewnd.cpp" line="136"/>
         <source>NOW</source>
-        <translation type="unfinished"></translation>
+        <translation>NOW</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="56"/>
         <source>%1 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="62"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="114"/>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="204"/>
         <source>%1% of %2 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% of %2 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="225"/>
         <source>%1 GB of %2 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB of %2 GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="245"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="260"/>
         <source>Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>Cores</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="260"/>
         <source>Overall</source>
-        <translation type="unfinished"></translation>
+        <translation>Overall</translation>
     </message>
 </context>
 <context>
@@ -985,13 +985,13 @@
         <location filename="playbackobject.cpp" line="49"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>3D: Side-by-side stereo pair</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="48"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>3D: Over-under stereo pair</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="67"/>
@@ -1023,23 +1023,23 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="250"/>
         <source>Playing at %1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>Playing at %1 fps</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="252"/>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Paused</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="253"/>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="255"/>
         <location filename="playbackobject.cpp" line="883"/>
         <source>10 bit</source>
-        <translation type="unfinished"></translation>
+        <translation>10 bit</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="276"/>
@@ -1060,7 +1060,8 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="playbackobject.cpp" line="881"/>
         <source>SVP: playing at %1
 %2%3</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP: playing at %1
+%2%3</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="901"/>
@@ -1070,7 +1071,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="972"/>
         <source>You&apos;re using mpv built without Vapoursynth support! SVP won&apos;t work with it, consider installing correct mpv version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vapoursynthをサポートしていないmpvが使われているのでSVPが動作しません。適切なmpvをインストールしてみて下さい。</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="989"/>
@@ -1080,7 +1081,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="996"/>
         <source>Error initializing OpenCL subsystem. Please re-install graphics drivers.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenCLの初期化でエラーが起きました。グラフィックドライバを再インストールしてみて下さい。</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="1344"/>
@@ -1174,32 +1175,32 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="683"/>
         <source>Film</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="712"/>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animation</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="765"/>
         <source>Artifacts masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Artifacts masking</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="789"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>Low</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="818"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Medium</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="847"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>High</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="955"/>
@@ -1250,7 +1251,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="268"/>
         <source>Force the exact value</source>
-        <translation type="unfinished"></translation>
+        <translation>正確な値を使う</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="428"/>
@@ -1323,7 +1324,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="41"/>
         <source>Copy of </source>
-        <translation type="unfinished"></translation>
+        <translation>Copy of </translation>
     </message>
     <message>
         <location filename="profile.cpp" line="573"/>
@@ -1404,37 +1405,37 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="588"/>
         <source>Expert: add scores</source>
-        <translation type="unfinished"></translation>
+        <translation>Expert: add scores</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="589"/>
         <source>Expert: OR</source>
-        <translation type="unfinished"></translation>
+        <translation>Expert: OR</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="589"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>OR</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="627"/>
         <source>Mpix</source>
-        <translation type="unfinished"></translation>
+        <translation>Mpix</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="629"/>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="630"/>
         <source>fps</source>
-        <translation type="unfinished"></translation>
+        <translation>fps</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="631"/>
         <source>bits</source>
-        <translation type="unfinished"></translation>
+        <translation>bits</translation>
     </message>
     <message>
         <location filename="profilescollection.cpp" line="23"/>
@@ -1609,12 +1610,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="69"/>
         <source>Add active</source>
-        <translation type="unfinished"></translation>
+        <translation>Add active</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="94"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Browse...</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="179"/>
@@ -1624,12 +1625,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="197"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>On</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="237"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="293"/>
@@ -1669,12 +1670,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="158"/>
         <source>Listening on port &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;click here to view help page&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Listening on port &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;クリックでヘルプページへ&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="159"/>
         <source>Error listening on port &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Error listening on port &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="204"/>
@@ -1772,7 +1773,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.ui" line="98"/>
         <source>%1 images max&lt;br&gt;%2 MB each</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 images max&lt;br&gt;%2 MB each</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="148"/>
@@ -1867,47 +1868,47 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="840"/>
         <source>Frames interpolation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Frames interpolation mode</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="842"/>
         <source>&quot;2m&quot; (min artifacts)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;2m&quot; (min artifacts)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="842"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;1.5m&quot; (less artifacts)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="843"/>
         <source>&quot;1m&quot; (average mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;1m&quot; (average mode)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="843"/>
         <source>Adaptive</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaptive</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="843"/>
         <source>Uniform (max fluidity)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uniform (max fluidity)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="845"/>
         <source>Defines the ratio of the number of source frames to the number of interpolated frames. The lower the number of interpolated frames are inserted, the lower the smoothness is, but also the lower number of artifacts are introduced.</source>
-        <translation>ソースフレームと補間されたフレームの数の比率を算定します。補間されたフレームが少なければ少ないほど動きがそんなに滑らかではありませんが、映像の乱れも減ります。</translation>
+        <translation>ソースフレームと補間フレームの比率を定義します。補間フレーム数が少ないほど動きの滑らかさは減りますが、映像の乱れも減ります。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="846"/>
         <source>the minimum number of interpolated frames. For example, if the frame rate is increased up to 2.5 of the original rate, each original frame is repeated twice.</source>
-        <translation>補間されたフレームの最小数です。例えば、フレームレートを2.5倍増加させると、各ソースフレームが2回繰り返されます。</translation>
+        <translation>補間フレーム数は最小となります。例えばフレームレートを2.5倍にすると、各ソースフレームが2回繰り返されます。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="847"/>
         <source>similar to the 1m mode, but the interpolated frames are closer in time to the original frames, which reduces the visibility of artifacts.</source>
-        <translation>1mとほぼ同じですが、タイムマーカを考えると、補間されたフレームがソースフレームにより近いので、映像の乱れの目立つ程度が減ります。</translation>
+        <translation>1mとほぼ同じですが、補間されたフレームが時間的によりソースフレームに近いので、映像の乱れが減ります。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="848"/>
@@ -1917,190 +1918,190 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="849"/>
         <source>automatic mode selection for every frame, depending on the quality of the deduced motion vectors. In the scenes, which are difficult to analyze, the smoothness will decrease.</source>
-        <translation>検索された動きベクトルの品質に応じて各シーンでモードが自動的に選択されます。解析しにくいシーンの場合、滑らかさは悪化します。</translation>
+        <translation>推定動きベクトルの品質に応じてモードが自動的に選択されます。解析しにくいシーンの場合、滑らかさが減ります。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="850"/>
         <source>gives the greatest possible smoothness, but in some cases (a non-integer coefficient for increasing the frame rate) results in most frames being interpolated thus increases artifacts visibility.</source>
-        <translation>均一の補間が最高の滑らかさを確保しますが、結果としてある場合（特にフレームレートの増加率が非整数の際）ほとんどのフレームは補間されるようになります。</translation>
+        <translation>滑らかさは最大になりますが、場合によっては補間フレームが増えすぎて映像の乱れも増えます。（特にフレームレートの増加率が非整数の場合）</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="854"/>
         <source>SVP shader</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP shader</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="856"/>
         <source>1. Fastest (slow PCs)</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Fastest (slow PCs)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="856"/>
         <source>2. Sharp (anime)</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Sharp (anime)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="857"/>
         <source>10. By blocks (CPU only)</source>
-        <translation type="unfinished"></translation>
+        <translation>10. By blocks (CPU only)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="857"/>
         <source>11. Simple Lite</source>
-        <translation type="unfinished"></translation>
+        <translation>11. Simple Lite</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="858"/>
         <source>21. Simple</source>
-        <translation type="unfinished"></translation>
+        <translation>21. Simple</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="858"/>
         <source>13. Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>13. Standard</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="858"/>
         <source>23. Complicated</source>
-        <translation type="unfinished"></translation>
+        <translation>23. Complicated</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="860"/>
         <source>An algorithm for interpolated frame calculation that uses two or more source frames and the deduced motion vectors.</source>
-        <translation>ソースフレームを2枚以上、または検索された動きベクトルを使用することによって補間されたフレームを算出するアルゴリズムです。</translation>
+        <translation>2枚以上のソースフレームと推定動きベクトルを使って補間フレームを計算するアルゴリズム。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="861"/>
         <source> the fastest algorithm that is useful for systems with slow CPU and without GPU.</source>
-        <translation>いちばん速いアルゴリズムで、GPU がなくて遅いCPUがあるシステムの場合役に立ちます。</translation>
+        <translation>最速のアルゴリズムです。GPUがなくてCPUも遅いといったシステム向けです。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="862"/>
         <source>gives sharp images, because it does not blend neighboring frames; recommended for hand-drawn animation.</source>
-        <translation>近接しているフレームが混ざらないので、鮮明な映像は確保されます。アニメーションのために利用することを推奨します。</translation>
+        <translation>近接フレームが混ざらないので鮮明な映像になります。アニメーション向けとして推奨。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="863"/>
         <source>uses simple blending, but performs motion compensation by image blocks rather than by pixels. It runs noticeably faster than the others if GPU is not used.</source>
-        <translation>フレームが簡単に混ざるアルゴリズムですが、動き補間には映像ブロックが使用されます。GPUが使われていないと、ほかのと比べてより速く動作します。</translation>
+        <translation>シンプルなブレンド方式ですが、動き補償はピクセル単位ではなくブロック単位となります。GPUを使わない場合は他より高速です。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="864"/>
         <source>simple blending of frames based on the motion.</source>
-        <translation>動きに対応してレームが簡単に混ざるアルゴリズムです。</translation>
+        <translation>動き補償を用いたシンプルなフレームベースのブレンド方式です。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="865"/>
         <source>uses simple blending and applies masking, which helps reduce halos around moving objects and at frame edges.</source>
-        <translation>フレームが簡単に混ざるとともにマスキングが追加されるアルゴリズムです。このアルゴリズムは動いている物体の回り、またはフレームの境界にある暈を減少します。</translation>
+        <translation>シンプルなブレンド方式に加え、動いている物体の周囲やフレーム境界のノイズを減らすためのマスキングを行います。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="866"/>
         <source>a variant of 11th algorithm, without masking, but giving more smoothness with some increase in the visibility of artifacts.</source>
-        <translation>マスキングのない第11番のアルゴリズムの変種です。このアルゴリズムは、映像の乱れがある程度まで目立つようになりますが、動きがより滑らかになります。</translation>
+        <translation>11と似ていますがマスキングを行いません。動きがより滑らかになりますが、映像の乱れもやや増えます。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="867"/>
         <source>an algorithm with the most complex masking.</source>
-        <translation>いちばん複雑なマスキングがあるアルゴリズムです。</translation>
+        <translation>最も複雑なマスキングを行うアルゴリズムです。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="883"/>
         <source>Motion vectors grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Motion vectors grid</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="885"/>
         <source>32 px. Large 0</source>
-        <translation type="unfinished"></translation>
+        <translation>32 px. Large 0</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="885"/>
         <source>28 px. Large 1</source>
-        <translation type="unfinished"></translation>
+        <translation>28 px. Large 1</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="885"/>
         <source>24 px. Large 2</source>
-        <translation type="unfinished"></translation>
+        <translation>24 px. Large 2</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="886"/>
         <source>16 px. Average 0</source>
-        <translation type="unfinished"></translation>
+        <translation>16 px. Average 0</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="886"/>
         <source>14 px. Average 1</source>
-        <translation type="unfinished"></translation>
+        <translation>14 px. Average 1</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="886"/>
         <source>12 px. Average 2</source>
-        <translation type="unfinished"></translation>
+        <translation>12 px. Average 2</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="887"/>
         <source>8 px. Small 0</source>
-        <translation type="unfinished"></translation>
+        <translation>8 px. Small 0</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="887"/>
         <source>7 px. Small 1</source>
-        <translation type="unfinished"></translation>
+        <translation>7 px. Small 1</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="887"/>
         <source>6 px. Small 2</source>
-        <translation type="unfinished"></translation>
+        <translation>6 px. Small 2</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="889"/>
         <source>The motion vector search algorithm works with small blocks of the video frame. The smaller these blocks are, the more likely you’ll find motion of small objects, with more wave artifacts noticeable at the edges of objects.</source>
-        <translation>動きベクトルの検索アルゴリズムは映像フレームの小さなブロックが利用されます。ブロックが小さければ小さいほど、フレームで小さな物体の動きを気づける可能性が高いですが、それに対して物体の境界にあるウェーブ映像の乱れがより目立つようになります。</translation>
+        <translation>動きベクトルの検索アルゴリズムは映像フレームの小さなブロック単位で行われます。ブロックが小さいほど小さな物体の動きまで追えるようになりますが、物体の境界に波状の乱れが目立つようにもなります。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="893"/>
         <source>Decrease grid step</source>
-        <translation type="unfinished"></translation>
+        <translation>Decrease grid step</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="895"/>
         <location filename="settings.cpp" line="920"/>
         <location filename="settings.cpp" line="936"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabled</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="896"/>
         <source>By two with local refinement</source>
-        <translation type="unfinished"></translation>
+        <translation>By two with local refinement</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="896"/>
         <source>By two with global refinement</source>
-        <translation type="unfinished"></translation>
+        <translation>By two with global refinement</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="898"/>
         <source>Additional refinement of motion vectors while reducing block sizes twice.</source>
-        <translation>ブロックを2倍減少しながら動きベクトルをさらに明確にします。</translation>
+        <translation>ブロックサイズを小さくして動きベクトルを改良します。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="902"/>
         <source>Search radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Search radius</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="904"/>
         <source>Small and fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Small and fast</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="904"/>
         <location filename="settings.cpp" line="928"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Small</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="904"/>
@@ -2108,161 +2109,161 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="settings.cpp" line="928"/>
         <location filename="settings.cpp" line="937"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Average</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="904"/>
         <location filename="settings.cpp" line="928"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>Large</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="906"/>
         <source>The range of motion vector search, limits the maximum length of the vector and the degree of &quot;fluidity&quot; of the image. The larger the radius is, the more likely you’ll get a wrong vector, resulting in more interpolation artifacts.</source>
-        <translation>ベクトルの最大長また映像の移動度を制限する動きベクトルの検索範囲です。検索範囲は大きければ大きいほど誤ったベクトルが出来上がる可能性が高かくて、結果としては補間の乱れになります。</translation>
+        <translation>動きベクトルの探索範囲です。ベクトルの最大長や滑らかさの程度を制限します。探索範囲が広いほど誤ったベクトルになりやすく、補間の乱れにもつながります。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="907"/>
         <source>does not allow using the more resource-intensive SADT function to compare image blocks.</source>
-        <translation>ブロックを比較するためよりリソースを使用するSADT 機能は利用されません。</translation>
+        <translation>ブロック比較において、より多くのリソースが必要なSADT機能を使わないようにします。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="911"/>
         <source>Motion vectors precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Motion vectors precision</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="912"/>
         <source>Two pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Two pixels</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="912"/>
         <source>One pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>One pixel</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="912"/>
         <source>Half pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Half pixel</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="914"/>
         <source>A higher accuracy in the search for motion vectors increases the smoothness of slow motion such as slow moving closing credits on a black background. High accuracy dramatically increases the use of RAM, especially if no GPU is used.</source>
-        <translation>動きベクトルのより高い検索精度のおかげで黒色背景の字幕など遅い動きをより滑らかになります。高い検索精度のため、RAMの使用量、特にGPUがない場合、非常に増加します。</translation>
+        <translation>動きベクトル探索の精度を上げると、ゆっくり流れる字幕のような遅い動きも滑らかにできます。ただしメモリ使用量が大きく増加します。(特にGPUを使わない場合)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="918"/>
         <source>Wide search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wide search</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="920"/>
         <location filename="settings.cpp" line="937"/>
         <source>Strong</source>
-        <translation type="unfinished"></translation>
+        <translation>Strong</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="920"/>
         <location filename="settings.cpp" line="937"/>
         <source>Strongest</source>
-        <translation type="unfinished"></translation>
+        <translation>Strongest</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="922"/>
         <source>A last attempt to find the motion vector with a larger radius in case if regular search did not provide a good enough result.</source>
-        <translation>普段の検索がいい結果にならなかった場合、より大きい範囲で動きベクトルを探す再試行です。</translation>
+        <translation>通常の動きベクトル探索の結果があまり良くなかった場合、より広い範囲で動きベクトルを探索します。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="926"/>
         <source>Width of top coarse level</source>
-        <translation type="unfinished"></translation>
+        <translation>Width of top coarse level</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="930"/>
         <source>For hierarchical search of motion vectors, at different levels different search options are used – particularly, at the last levels (the largest ones), more simple options are used to reduce the CPU load. The smaller this value is, the larger number of high levels will have the lower options.</source>
-        <translation>動きベクトルの階層的検索の時、検索に使用されるオプションがレベルによって違います。最終のレベル（検索範囲の大きいもの）の場合、CPUの負荷を減少するようにより簡単なオプションは利用されます。値は少なければ少ないほど、より簡単なオプションが利用される最終のレベルが多いです。</translation>
+        <translation>階層的な動きベクトル探索では、使用オプションはレベルによって異なります。最終レベル（最大範囲）の場合、CPU負荷を減らすため、負荷の低いオプションが使われます。この値が小さいほど、高いレベルにおいて、より負荷の低いオプションが使われます。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="934"/>
         <source>Artifacts masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Artifacts masking</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="936"/>
         <source>Weakest</source>
-        <translation type="unfinished"></translation>
+        <translation>Weakest</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="936"/>
         <source>Weak</source>
-        <translation type="unfinished"></translation>
+        <translation>Weak</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="939"/>
         <source>Additional masking of possible distortions of the frame areas with unreliable motion vectors. These areas can be overlaid with the areas of the original frames with some degree of transparency. The stronger the masking is, the blurrier image and the worse smoothness will be.</source>
-        <translation>不確かな動きベクトルがあるフレームのエリアに発生可能なゆがみに対して追加のマスキングです。このようなエリアには、ある程度まで透明にしたソースフレームの一部を載せることができます。マスキングが強ければ強いほど 、映像が曖昧で、滑らかさも悪化します。</translation>
+        <translation>動きベクトルが不確かで歪んでいる可能性のあるフレーム領域に追加のマスキングを行います。このような領域には、ある程度透明化したソースフレームの領域を重ねることができます。マスキングが強いほど、映像がボヤけやすくなり、滑らかさも低下します。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="940"/>
         <source>the optimal values will be used.</source>
-        <translation>最適な値。</translation>
+        <translation>最適な値が使われます。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="941"/>
         <source>can result in appearance of specific artifacts, for example, triple edges.</source>
-        <translation>3重エッジなど特別な映像の乱れが現れる結果になる可能性があります。</translation>
+        <translation>3重エッジなど特殊な映像の乱れが起きることがあります。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="945"/>
         <source>Processing of scene changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Processing of scene changes</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="946"/>
         <source>Blend adjacent frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Blend adjacent frames</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="946"/>
         <source>Repeat frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Repeat frame</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="948"/>
         <source>The method of creating intermediate frames at the moments of scene change, that is, when there are no motion vectors available.</source>
-        <translation>シーンチェンジ、つまり、動きベクトルのない時、中間フレームを作成するための方法です。</translation>
+        <translation>シーンチェンジ(つまり動きベクトルがない)時の中間フレーム生成方法です。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="949"/>
         <source>intermediate frames are created using simple blending of two frames; this results in smooth transition between scenes.</source>
-        <translation>フレームを２枚簡単に混ぜてシーンの移行を滑らかにします。</translation>
+        <translation>２枚のフレームをシンプルにブレンドした中間フレームを生成し、シーン移行を滑らかにします。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="950"/>
         <source> intermediate frames are copies of original frames; this results in instant scene change.</source>
-        <translation>瞬間的なシーンチェンジのためソースフレームが繰り返されます。</translation>
+        <translation>ソースフレームをコピーして中間フレームとします。瞬間的なシーンチェンジとなります。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="954"/>
         <source>Rendering device</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendering device</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="955"/>
         <location filename="settings.cpp" line="967"/>
         <source>Do not change</source>
-        <translation type="unfinished"></translation>
+        <translation>Do not change</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="955"/>
         <source>CPU only</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU only</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="960"/>
         <source>Allows using a GPU device different from the one specified in the Main menu.</source>
-        <translation>メインメニューで設定したのと違うGPU がこのプロファイルで利用できます。</translation>
+        <translation>メインメニューで設定したものとは異なるGPUを使うことができます。</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="964"/>
@@ -2272,7 +2273,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="970"/>
         <source>An addition to the &quot;Processing threads&quot; value set in the Main menu. The number of calculation threads directly affects how much RAM will be used.</source>
-        <translation>メインメニューで設定した「処理スレッド数」値の追加です。算出のスレッドの数はRAMの使用量に直接な影響を与えます。</translation>
+        <translation>メインメニューで設定した「処理スレッド数」の値を追加調整できます。スレッド数はメモリ使用量に直接的な影響を与えます。</translation>
     </message>
 </context>
 <context>
@@ -2461,18 +2462,18 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="trayicon.cpp" line="648"/>
         <source>Can&apos;t find mpv executable. Do you want to find it manually?</source>
         <oldsource>Can&apos;t find mpv executable, check &apos;main.player&apos; path in All settings</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>実行可能なmpvが見つかりません。手動で探しますか？</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="652"/>
         <location filename="trayicon.cpp" line="664"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Open</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="653"/>
         <source>mpv executable</source>
-        <translation type="unfinished"></translation>
+        <translation>mpvの実行ファイル</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="664"/>
@@ -2607,7 +2608,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="825"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP in VLC (replace &apos;deinterlace&apos; filter)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="836"/>
@@ -2627,7 +2628,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="855"/>
         <source>Using</source>
-        <translation type="unfinished"></translation>
+        <translation>Using</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="869"/>
@@ -2662,7 +2663,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="901"/>
         <source>Minimize to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイに最小化</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="905"/>
@@ -2712,12 +2713,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="977"/>
         <source>Linux specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux特記事項</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="980"/>
         <source>Mac OS X specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac OS X 特記事項</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1039"/>
@@ -2742,7 +2743,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1629"/>
         <source>%1% off the Pro version</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% off the Pro version</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="916"/>
@@ -2817,7 +2818,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="949"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="949"/>
@@ -2988,12 +2989,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.cpp" line="95"/>
         <source>ver.</source>
-        <translation type="unfinished"></translation>
+        <translation>ver.</translation>
     </message>
     <message>
         <location filename="updatewnd.cpp" line="32"/>
         <source>Get updated package...</source>
-        <translation>更新されたパッケージの取得...</translation>
+        <translation>更新パッケージの取得...</translation>
     </message>
     <message>
         <location filename="updatewnd.cpp" line="97"/>
@@ -3036,7 +3037,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="150"/>
         <source>32-bit VLC is not supported. Please install 64-bit version.</source>
-        <translation type="unfinished"></translation>
+        <translation>32bit版VLCはサポートしていません。64bit版をインストールして下さい。</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="219"/>
@@ -3056,7 +3057,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="225"/>
         <source>Got it</source>
-        <translation type="unfinished"></translation>
+        <translation>Got it</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="116"/>
@@ -3065,7 +3066,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="vlcvideoplayer.cpp" line="224"/>
         <location filename="vlcvideoplayer.cpp" line="225"/>
         <source>SVP in VLC</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP in VLC</translation>
     </message>
 </context>
 </TS>

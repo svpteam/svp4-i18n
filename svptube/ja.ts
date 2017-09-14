@@ -6,7 +6,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="14"/>
         <source>SVPtube - authentication data</source>
-        <translation type="unfinished">SVPtube - 認証データ</translation>
+        <translation>SVPtube - 認証データ</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="61"/>
@@ -134,12 +134,12 @@
     <message>
         <location filename="siteauthdlg.ui" line="411"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="418"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="235"/>
@@ -159,12 +159,12 @@
     <message>
         <location filename="siteauth.cpp" line="309"/>
         <source>SET</source>
-        <translation type="unfinished"></translation>
+        <translation>SET</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="309"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>None</translation>
     </message>
 </context>
 <context>
@@ -182,7 +182,7 @@
     <message>
         <location filename="traywnd.ui" line="74"/>
         <source>Previous clip in the playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>前のクリップ(プレイリスト)</translation>
     </message>
     <message>
         <location filename="traywnd.ui" line="131"/>
@@ -192,7 +192,7 @@
     <message>
         <location filename="traywnd.ui" line="111"/>
         <source>Next clip in the playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>次のクリップ(プレイリスト)</translation>
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
@@ -233,7 +233,7 @@
     <message>
         <location filename="traywnd.cpp" line="327"/>
         <source>Unknown: select to load</source>
-        <translation type="unfinished"></translation>
+        <translation>不明： 読み込み対象を選んでください</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="451"/>
@@ -253,12 +253,12 @@
     <message>
         <location filename="traywnd.cpp" line="602"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>映像</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="603"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>音声</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="603"/>
@@ -283,7 +283,7 @@
     <message>
         <location filename="traywnd.cpp" line="685"/>
         <source>Download clip as...</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップをダウンロード...</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="741"/>
@@ -293,27 +293,27 @@
     <message>
         <location filename="traywnd.cpp" line="741"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="741"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="844"/>
         <source>%1% of %2 downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% of %2 downloaded</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="845"/>
         <source>%1 downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 downloaded</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="850"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>queued</translation>
     </message>
 </context>
 <context>
@@ -396,7 +396,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="415"/>
         <source>Player for</source>
-        <translation type="unfinished"></translation>
+        <translation>Player for</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="94"/>
@@ -406,47 +406,47 @@
     <message>
         <location filename="tubeplugin.cpp" line="63"/>
         <source>Previous video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>前のビデオ（SVPtubeプレイリスト）</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="64"/>
         <source>Next video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>次のビデオ（SVPtubeプレイリスト）</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="97"/>
         <source>Show MP4 only (more stable)</source>
-        <translation type="unfinished"></translation>
+        <translation>Show MP4 only (more stable)</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="98"/>
         <source>Show VP9 and MP4 (VP9 preferred)</source>
-        <translation type="unfinished"></translation>
+        <translation>Show VP9 and MP4 (VP9 preferred)</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="99"/>
         <source>Show all formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Show all formats</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="105"/>
         <source>Show HTTP streams only</source>
-        <translation type="unfinished"></translation>
+        <translation>Show HTTP streams only</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="106"/>
         <source>Show HTTP and M3U8 streams</source>
-        <translation type="unfinished"></translation>
+        <translation>Show HTTP and M3U8 streams</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="107"/>
         <source>Show all streams</source>
-        <translation type="unfinished"></translation>
+        <translation>Show all streams</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="119"/>
         <source>Hide V+A (DASH) formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Hide V+A (DASH) formats</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="128"/>
@@ -462,7 +462,7 @@
         <location filename="tubeplugin.cpp" line="137"/>
         <location filename="tubeplugin.cpp" line="161"/>
         <source>mpv player</source>
-        <translation type="unfinished"></translation>
+        <translation>mpvプレーヤー</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="140"/>
@@ -488,17 +488,17 @@
     <message>
         <location filename="tubeplugin.cpp" line="185"/>
         <source>Powered by youtube-dl</source>
-        <translation type="unfinished"></translation>
+        <translation>Powered by youtube-dl</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="202"/>
         <source>SVPtube 2 - Online video link extractor</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPtube 2 - Online video link extractor</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="252"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>無効</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="291"/>
@@ -509,7 +509,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="294"/>
         <source>SVPtube</source>
-        <translation></translation>
+        <translation>SVPtube</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="294"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="295"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="335"/>
