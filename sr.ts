@@ -884,6 +884,22 @@
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
         <translation>Argumenti spoljnjeg plejera razdvojeni sa &apos;;&apos;</translation>
     </message>
+    <message>
+        <location filename="mpvvideoplayer.cpp" line="162"/>
+        <source>Can&apos;t find mpv executable. Do you want to find it manually?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mpvvideoplayer.cpp" line="166"/>
+        <source>Open</source>
+        <translation type="unfinished">Otvori</translation>
+    </message>
+    <message>
+        <location filename="mpvvideoplayer.cpp" line="168"/>
+        <location filename="mpvvideoplayer.cpp" line="170"/>
+        <source>mpv executable</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PerformanceWnd</name>
@@ -977,113 +993,113 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="47"/>
+        <location filename="playbackobject.cpp" line="43"/>
         <source>2D mode</source>
         <translation>2D režim</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="49"/>
+        <location filename="playbackobject.cpp" line="45"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
         <translation>3D: Horizontalni par</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="48"/>
+        <location filename="playbackobject.cpp" line="44"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
         <translation>3D: Vertikalni par</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="67"/>
+        <location filename="playbackobject.cpp" line="63"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GB-svesnost zakrpa</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="68"/>
+        <location filename="playbackobject.cpp" line="64"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Vaš video plejer nije svestan 4GB RAM-a, izuzetno je preporučljivo da ga zakrpite pre korišćenja SVP-a.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="69"/>
+        <location filename="playbackobject.cpp" line="65"/>
         <source>Patch</source>
         <translation>Zakrpi</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="69"/>
+        <location filename="playbackobject.cpp" line="65"/>
         <source>Not now</source>
         <translation>Ne sad</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="69"/>
+        <location filename="playbackobject.cpp" line="65"/>
         <source>Don&apos;t ask again</source>
         <translation>Ne pitaj ponovo</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="250"/>
+        <location filename="playbackobject.cpp" line="251"/>
         <source>Playing at %1 fps</source>
         <translation>Reprodukucija pri %1 fps</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="252"/>
+        <location filename="playbackobject.cpp" line="253"/>
         <source>Paused</source>
         <translation>Pauzirano</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="253"/>
+        <location filename="playbackobject.cpp" line="254"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="255"/>
-        <location filename="playbackobject.cpp" line="883"/>
+        <location filename="playbackobject.cpp" line="256"/>
+        <location filename="playbackobject.cpp" line="887"/>
         <source>10 bit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="276"/>
+        <location filename="playbackobject.cpp" line="277"/>
         <source>SVP: enabled</source>
         <translation>SVP: uključen</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="277"/>
+        <location filename="playbackobject.cpp" line="278"/>
         <source>SVP: disabled</source>
         <translation>SVP: isključen</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="875"/>
+        <location filename="playbackobject.cpp" line="879"/>
         <source>Black bars: </source>
         <translation>Crne trake: </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="881"/>
+        <location filename="playbackobject.cpp" line="885"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: Reprodukucija pri %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="901"/>
+        <location filename="playbackobject.cpp" line="905"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: prilagodjavanje veličine kadra</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="972"/>
+        <location filename="playbackobject.cpp" line="976"/>
         <source>You&apos;re using mpv built without Vapoursynth support! SVP won&apos;t work with it, consider installing correct mpv version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="989"/>
+        <location filename="playbackobject.cpp" line="993"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>Ne koristite kompatibilnu verziju Avisynth-a! SVP neće raditi, molimo koristite &apos;avisynth.dll&apos; lociran u &lt;SVP-installation-path&gt;\plugins folderu.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="996"/>
+        <location filename="playbackobject.cpp" line="1000"/>
         <source>Error initializing OpenCL subsystem. Please re-install graphics drivers.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1344"/>
+        <location filename="playbackobject.cpp" line="1372"/>
         <source>Other profiles</source>
         <translation>Ostali profili</translation>
     </message>
@@ -1830,34 +1846,34 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Podaci o performansi</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="191"/>
-        <location filename="reportwnd.cpp" line="219"/>
-        <location filename="reportwnd.cpp" line="221"/>
+        <location filename="reportwnd.cpp" line="210"/>
+        <location filename="reportwnd.cpp" line="238"/>
+        <location filename="reportwnd.cpp" line="240"/>
         <source>Attach image(s)</source>
         <translation>Priloži sliku/e</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="219"/>
+        <location filename="reportwnd.cpp" line="238"/>
         <source>Some images ignored due to file size limitation (%1 MB max)</source>
         <translation>Neke slike su ignorisane zbog ograničenja veličine fajla (%1 MB max)</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="221"/>
+        <location filename="reportwnd.cpp" line="240"/>
         <source>Unable to load some of images</source>
         <translation>Nije moguće učitati neke od slika</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="322"/>
+        <location filename="reportwnd.cpp" line="341"/>
         <source>Connecting...</source>
         <translation>Povezivanje...</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="354"/>
+        <location filename="reportwnd.cpp" line="373"/>
         <source>Sending... %1% (%2 KB/sec)</source>
         <translation>Slanje... %1% (%2 KB/sec)</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="367"/>
+        <location filename="reportwnd.cpp" line="386"/>
         <source>Error, try again later</source>
         <translation>Greška, pokušajte ponovo kasnije</translation>
     </message>
@@ -2354,6 +2370,14 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
 </context>
 <context>
+    <name>SystemInfo</name>
+    <message>
+        <location filename="systeminfo.cpp" line="546"/>
+        <source>Choose ffmpeg executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>TrayIcon</name>
     <message>
         <location filename="trayicon.cpp" line="497"/>
@@ -2372,7 +2396,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="trayicon.cpp" line="508"/>
-        <location filename="trayicon.cpp" line="1080"/>
+        <location filename="trayicon.cpp" line="1085"/>
         <source>Updates available</source>
         <translation>Dostupna nova verzija</translation>
     </message>
@@ -2382,73 +2406,73 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Nema aktivne reprodukcije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="561"/>
+        <location filename="trayicon.cpp" line="573"/>
         <source>SVP Control Panel</source>
         <translation>SVP Kontrolna Tabla</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="677"/>
+        <location filename="trayicon.cpp" line="682"/>
         <source>Video frame</source>
         <translation>Video kadar</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="680"/>
+        <location filename="trayicon.cpp" line="685"/>
         <source>Detect and cut off black bars</source>
         <translation>Detektuj i iseci crne trake</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="681"/>
+        <location filename="trayicon.cpp" line="686"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
         <translation>Automatizovana analiza kadra za crne trake unutar video kadra i njihovo odsecanje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="689"/>
+        <location filename="trayicon.cpp" line="694"/>
         <source>Keep aspect ratio</source>
         <translation>Zadrzi odnos mera</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="690"/>
+        <location filename="trayicon.cpp" line="695"/>
         <source>Crop to the screen aspect ratio</source>
         <translation>Iseci na odnos mera ekrana</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="692"/>
+        <location filename="trayicon.cpp" line="697"/>
         <source>Frame cropping mode applied before any size changing</source>
         <translation>Režim odsecanja kadra primenjen pre bilo kakvog menjanja veličine</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="697"/>
+        <location filename="trayicon.cpp" line="702"/>
         <source>Keep normal size</source>
         <translation>Zadrzi normalnu veličinu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="698"/>
+        <location filename="trayicon.cpp" line="703"/>
         <source>Decrease to screen size</source>
         <translation>Smanji na veličinu ekrana</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="700"/>
+        <location filename="trayicon.cpp" line="705"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
         <translation>Smanji veličinu kadra radi pojednostavljenja konverzije frame rate-a</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="705"/>
+        <location filename="trayicon.cpp" line="710"/>
         <source>Advanced controls...</source>
         <translation>Napredne kontrole...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="711"/>
+        <location filename="trayicon.cpp" line="716"/>
         <source>Outer lighting</source>
         <translation>Spoljnje svetlo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="544"/>
-        <location filename="trayicon.cpp" line="717"/>
+        <location filename="trayicon.cpp" line="545"/>
+        <location filename="trayicon.cpp" line="722"/>
         <source>Disabled</source>
         <translation>Onemogućeno</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="714"/>
+        <location filename="trayicon.cpp" line="719"/>
         <source>Fill black bars</source>
         <translation>Popuni crne trake</translation>
     </message>
@@ -2458,449 +2482,442 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Podrazumevana podešavanja povraćena</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="648"/>
-        <source>Can&apos;t find mpv executable. Do you want to find it manually?</source>
-        <oldsource>Can&apos;t find mpv executable, check &apos;main.player&apos; path in All settings</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="652"/>
-        <location filename="trayicon.cpp" line="664"/>
+        <location filename="trayicon.cpp" line="667"/>
         <source>Open</source>
         <translation>Otvori</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="653"/>
-        <source>mpv executable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="664"/>
+        <location filename="trayicon.cpp" line="668"/>
         <source>Video files</source>
         <translation>Video fajlove</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="684"/>
+        <location filename="trayicon.cpp" line="669"/>
+        <source>All files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="689"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
         <translation>Da li da se vrši analiza crnih traka neprekidno ili samo jedanput</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="715"/>
+        <location filename="trayicon.cpp" line="720"/>
         <source>Glow lights</source>
         <translation>Svetla sjaja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="720"/>
+        <location filename="trayicon.cpp" line="725"/>
         <source>Outer lighting mode</source>
         <translation>Režim spoljnjeg osvetljenja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="723"/>
+        <location filename="trayicon.cpp" line="728"/>
         <source>Glow border width</source>
         <translation>Debljina granice sjaja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="728"/>
+        <location filename="trayicon.cpp" line="733"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
         <translation>Vrednost odnosa maksimalnog povećanja okvira zbog spoljašnjeg osvetljenja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="731"/>
+        <location filename="trayicon.cpp" line="736"/>
         <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
         <translation>Minimalna razlika između kadra i odnosa mera ekrana za koje se uključuje osvetljenje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="734"/>
+        <location filename="trayicon.cpp" line="739"/>
         <source>Enabled in full screen only</source>
         <translation>Omogućeno samo kada je preko celog ekrana</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="736"/>
+        <location filename="trayicon.cpp" line="741"/>
         <source>Enable outer lighting for full screen playback only</source>
         <translation>Omogući spoljašnje osvetljenje samo za reprodukciju preko celog ekrana</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="748"/>
+        <location filename="trayicon.cpp" line="753"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
         <translation>Kašnjenje da se ponovo inicijalizuje osvetljenje posle promenu stanja celog ekrana, ms</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="751"/>
+        <location filename="trayicon.cpp" line="756"/>
         <source>Disabled in 3D mode</source>
         <translation>Onemogućeno u 3D režimu</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="753"/>
+        <location filename="trayicon.cpp" line="758"/>
         <source>Enable outer lighting only for 2D videos</source>
         <translation>Omogući spoljašnje osvetljenje samo za 2D videoe</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="759"/>
+        <location filename="trayicon.cpp" line="764"/>
         <source>Light patterns</source>
         <translation>Šabloni svetla</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="763"/>
+        <location filename="trayicon.cpp" line="768"/>
         <source>Manage patterns...</source>
         <translation>Upravljanje šablonima...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="774"/>
+        <location filename="trayicon.cpp" line="779"/>
         <source>My options</source>
         <translation>Moje opcije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="781"/>
+        <location filename="trayicon.cpp" line="786"/>
         <source>Temporarily disable SVP</source>
         <translation>Privremeno onemogući SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="783"/>
+        <location filename="trayicon.cpp" line="788"/>
         <source>SVP is disabled until next start</source>
         <translation>SVP je onemogućen do sledećeg pokretanja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="785"/>
+        <location filename="trayicon.cpp" line="790"/>
         <source>Utilities</source>
         <translation>Instrumenti</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="787"/>
+        <location filename="trayicon.cpp" line="792"/>
         <source>Performance Monitor</source>
         <translation>Posmatrač Performansi</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="792"/>
+        <location filename="trayicon.cpp" line="797"/>
         <source>Assess system performance</source>
         <translation>Procenjivanje performansi sistema</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="801"/>
+        <location filename="trayicon.cpp" line="806"/>
         <source>Demonstration mode</source>
         <translation>Režim demonstracije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="802"/>
+        <location filename="trayicon.cpp" line="807"/>
         <source>Fluency and tearing test</source>
         <translation>Test tečnosti i cepanja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="814"/>
+        <location filename="trayicon.cpp" line="819"/>
         <source>Apply 4GB aware patch...</source>
         <translation>Primeni 4GB-svetnost zakrpu...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="817"/>
+        <location filename="trayicon.cpp" line="822"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
         <translation>Nakon pritiskanja &apos;Nastavi&apos; nadji glavni exe video plejera.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="818"/>
+        <location filename="trayicon.cpp" line="823"/>
         <source>Continue</source>
         <translation>Nastavi</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="818"/>
+        <location filename="trayicon.cpp" line="823"/>
         <source>Cancel</source>
         <translation>Odustani</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="825"/>
+        <location filename="trayicon.cpp" line="830"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
         <translation>SVP u VLC (zameni &apos;deinterlace&apos; filter)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="836"/>
+        <location filename="trayicon.cpp" line="841"/>
         <source>Additional programs and features...</source>
         <translation>Dodatni programi i mogućnosti...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="845"/>
+        <location filename="trayicon.cpp" line="850"/>
         <source>Application settings</source>
         <translation>Podešavanja aplikacije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="850"/>
+        <location filename="trayicon.cpp" line="855"/>
         <source>No acceleration</source>
         <translation>Bez ubrzanja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="855"/>
+        <location filename="trayicon.cpp" line="860"/>
         <source>Using</source>
         <translation>Koristeći</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="869"/>
+        <location filename="trayicon.cpp" line="874"/>
         <source>GPU acceleration</source>
         <translation>GPU ubrzanje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="873"/>
+        <location filename="trayicon.cpp" line="878"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
         <translation>Zašto GPU ubrzanje nije dostupno?</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="880"/>
+        <location filename="trayicon.cpp" line="885"/>
         <source>Show OSD messages</source>
         <translation>Prikaži OSD poruke (poruke preko ekrana)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="882"/>
+        <location filename="trayicon.cpp" line="887"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>Izmeni prečice na tastaturi...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="890"/>
+        <location filename="trayicon.cpp" line="895"/>
         <source>Load at Windows startup</source>
         <translation>Učitaj pri pokretanju Windows-a</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="892"/>
+        <location filename="trayicon.cpp" line="897"/>
         <source>Load at system startup</source>
         <translation>Učitaj pri pokretanju Sistema-a</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="901"/>
+        <location filename="trayicon.cpp" line="906"/>
         <source>Minimize to tray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="905"/>
+        <location filename="trayicon.cpp" line="910"/>
         <source>Additional options</source>
         <translation>Dodatne opcije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="909"/>
+        <location filename="trayicon.cpp" line="914"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>Pretpostavi dupli frame rate za interlaced videoe</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="911"/>
+        <location filename="trayicon.cpp" line="916"/>
         <source>Allow output in 10 bit color depth</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="913"/>
+        <location filename="trayicon.cpp" line="918"/>
         <source>Turn stereo mode on by aspect ratio</source>
         <translation>Uključi stereo režim pomoću odnosa mera</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="936"/>
+        <location filename="trayicon.cpp" line="941"/>
         <source>Auto</source>
         <translation>Automatski</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="938"/>
+        <location filename="trayicon.cpp" line="943"/>
         <source>%1 thread(s)</source>
         <translation>%1 nit/i</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="939"/>
+        <location filename="trayicon.cpp" line="944"/>
         <source>Processing threads</source>
         <translation>Procesirajuće niti</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="942"/>
+        <location filename="trayicon.cpp" line="947"/>
         <source>Extensions</source>
         <translation>Ekstenzije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="968"/>
+        <location filename="trayicon.cpp" line="973"/>
         <source>User manual (PDF)</source>
         <translation>Uputstvo (PDF)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="977"/>
+        <location filename="trayicon.cpp" line="982"/>
         <source>Linux specific notes</source>
         <translation>Linux specifične beleške</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="980"/>
+        <location filename="trayicon.cpp" line="985"/>
         <source>Mac OS X specific notes</source>
         <translation>Mac OS X specifične beleške</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1039"/>
+        <location filename="trayicon.cpp" line="1044"/>
         <source>mpv configuration file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1106"/>
+        <location filename="trayicon.cpp" line="1111"/>
         <source>Help</source>
         <translation>Pomoć</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1540"/>
+        <location filename="trayicon.cpp" line="1556"/>
         <source>SVP - Extensions</source>
         <translation>SVP - Ekstenzije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1540"/>
+        <location filename="trayicon.cpp" line="1556"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>Moramo da restartujemo Manager kako bi se poprimile promene.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1629"/>
+        <location filename="trayicon.cpp" line="1645"/>
         <source>%1% off the Pro version</source>
         <translation>%1% popusta na Pro verziju</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="916"/>
+        <location filename="trayicon.cpp" line="921"/>
         <source>Reset on seek</source>
         <translation>Resetuj na premotavanje</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="633"/>
+        <location filename="trayicon.cpp" line="645"/>
         <source>Profile for an active video</source>
         <translation>Profili za aktivan video</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="644"/>
+        <location filename="trayicon.cpp" line="656"/>
         <source>Open file via mpv...</source>
         <translation>Otvori pomoću mpv...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="816"/>
+        <location filename="trayicon.cpp" line="821"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GB-svesnost zakrpa</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="917"/>
+        <location filename="trayicon.cpp" line="922"/>
         <source>Don&apos;t reset</source>
         <translation>Nemoj resetovati</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="919"/>
+        <location filename="trayicon.cpp" line="924"/>
         <source>Soft reset</source>
         <translation>Soft reset</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="920"/>
+        <location filename="trayicon.cpp" line="925"/>
         <source>Hard reset</source>
         <translation>Hard reset</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="927"/>
+        <location filename="trayicon.cpp" line="932"/>
         <source>Running multiple videos</source>
         <translation>Pokretanje više videa</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="928"/>
+        <location filename="trayicon.cpp" line="933"/>
         <source>Use SVP in all opened videos</source>
         <translation>Koristi SVP u svim otvorenim videima</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="929"/>
+        <location filename="trayicon.cpp" line="934"/>
         <source>First opened video only</source>
         <translation>Samo za prvootvoreni video</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="930"/>
+        <location filename="trayicon.cpp" line="935"/>
         <source>Latest opened video only</source>
         <translation>Samo za poslednje otvoren video</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="946"/>
+        <location filename="trayicon.cpp" line="951"/>
         <source>Reset settings to defaults</source>
         <translation>Resetuj podešavanja na podrazumevana</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="948"/>
+        <location filename="trayicon.cpp" line="953"/>
         <source>SVP - Configuration reset</source>
         <translation>SVP - Resetovanje podešavanja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="948"/>
+        <location filename="trayicon.cpp" line="953"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
         <translation>Da li ste sigurni da želite da resetujete sva SVP podešavanja na podrazumevane vrednosti?</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="949"/>
+        <location filename="trayicon.cpp" line="954"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="949"/>
+        <location filename="trayicon.cpp" line="954"/>
         <source>Yes, but keep video profiles</source>
         <translation>Da, ali zadrži video profile</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="949"/>
+        <location filename="trayicon.cpp" line="954"/>
         <source>Yes, reset all settings</source>
         <translation>Da, resetuj sva podešavanja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="955"/>
+        <location filename="trayicon.cpp" line="960"/>
         <source>All settings...</source>
         <translation>Sva podešavanja...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="964"/>
+        <location filename="trayicon.cpp" line="969"/>
         <source>Information</source>
         <translation>Informacije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="966"/>
+        <location filename="trayicon.cpp" line="971"/>
         <source>User manual (online)</source>
         <translation>Uputstvo (online)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="984"/>
+        <location filename="trayicon.cpp" line="989"/>
         <source>Video player configuration</source>
         <translation>Podešavanje video plejera</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1005"/>
+        <location filename="trayicon.cpp" line="1010"/>
         <source>Full list</source>
         <translation>Puna lista</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1016"/>
+        <location filename="trayicon.cpp" line="1021"/>
         <source>Send problem report...</source>
         <translation>Pošalji izveštaj o problemu...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1021"/>
+        <location filename="trayicon.cpp" line="1026"/>
         <source>Events log</source>
         <translation>Dnevnik događaja</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1026"/>
+        <location filename="trayicon.cpp" line="1031"/>
         <source>Additional information</source>
         <translation>Dodatne informacije</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1029"/>
+        <location filename="trayicon.cpp" line="1034"/>
         <source>Last generated script</source>
         <translation>Poslednji generisan skript</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1033"/>
+        <location filename="trayicon.cpp" line="1038"/>
         <source>OpenCL devices and capabilities</source>
         <translation>OpenCL uređaji i sposobnosti</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1063"/>
+        <location filename="trayicon.cpp" line="1068"/>
         <source>Version and credits...</source>
         <translation>Verzija i zasluge...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1069"/>
+        <location filename="trayicon.cpp" line="1074"/>
         <source>Order full version</source>
         <translation>Naruči full verziju</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1090"/>
+        <location filename="trayicon.cpp" line="1095"/>
         <source>Exit</source>
         <translation>Exit</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1302"/>
+        <location filename="trayicon.cpp" line="1310"/>
         <source>SVP - Video player</source>
         <translation>SVP - Video plejer</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1302"/>
+        <location filename="trayicon.cpp" line="1310"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>U nemogućnosti pri komunikaciji sa video plejerom. Proverite da li je pod različitim korisničkim nalogom.</translation>
     </message>
@@ -3034,36 +3051,36 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Izaberi VLC exe</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="150"/>
+        <location filename="vlcvideoplayer.cpp" line="151"/>
         <source>32-bit VLC is not supported. Please install 64-bit version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="219"/>
+        <location filename="vlcvideoplayer.cpp" line="220"/>
         <source>Operation failed. Check that SVP Manager has write access to &apos;%1&apos;.</source>
         <translation>Operacija neuspešna. Proverite da SVP Manager ima pristup pisanja na &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="221"/>
+        <location filename="vlcvideoplayer.cpp" line="222"/>
         <source>SVP support DISABLED, you can now use deinterlace filter in VLC.</source>
         <translation>SVP podrška ONEMOGUĆENA, sada možete koristiti deinterlace filter u VLC-u.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="222"/>
+        <location filename="vlcvideoplayer.cpp" line="223"/>
         <source>SVP support ENABLED but the deinterlace filter in VLC is not available any more.</source>
         <translation>SVP podrška OMOGUĆENA, ali deinterlace filter u VLC-u nije više raspoloživ.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="225"/>
+        <location filename="vlcvideoplayer.cpp" line="226"/>
         <source>Got it</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="116"/>
         <location filename="vlcvideoplayer.cpp" line="119"/>
-        <location filename="vlcvideoplayer.cpp" line="150"/>
-        <location filename="vlcvideoplayer.cpp" line="224"/>
+        <location filename="vlcvideoplayer.cpp" line="151"/>
         <location filename="vlcvideoplayer.cpp" line="225"/>
+        <location filename="vlcvideoplayer.cpp" line="226"/>
         <source>SVP in VLC</source>
         <translation>SVP u VLC-u</translation>
     </message>

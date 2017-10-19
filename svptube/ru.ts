@@ -196,7 +196,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="740"/>
+        <location filename="traywnd.cpp" line="708"/>
         <source>Cancel download</source>
         <translation>Отменить загрузку</translation>
     </message>
@@ -216,102 +216,97 @@
         <translation>Нет подходящих форматов видео, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;показать все форматы&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="88"/>
+        <location filename="traywnd.cpp" line="53"/>
         <source>Launch player</source>
         <translation>Запустить проигрыватель</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="89"/>
+        <location filename="traywnd.cpp" line="54"/>
         <source>Copy URL</source>
         <translation>Скопировать URL</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="91"/>
+        <location filename="traywnd.cpp" line="56"/>
         <source>Download...</source>
         <translation>Загрузить...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="327"/>
+        <location filename="traywnd.cpp" line="301"/>
         <source>Unknown: select to load</source>
         <translation>Неизвестно: выберите для загрузки</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="451"/>
+        <location filename="traywnd.cpp" line="425"/>
         <source>No subtitles</source>
         <translation>Без субтитров</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="478"/>
+        <location filename="traywnd.cpp" line="452"/>
         <source>Auto-generated</source>
         <translation>Автоматически сгенерированные</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="600"/>
+        <location filename="traywnd.cpp" line="577"/>
         <source>Multiple streams</source>
         <translation>Несколько потоков</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="602"/>
+        <location filename="traywnd.cpp" line="579"/>
         <source>Video</source>
         <translation>Видео</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="603"/>
+        <location filename="traywnd.cpp" line="580"/>
         <source>Audio</source>
         <translation>Аудио</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="603"/>
+        <location filename="traywnd.cpp" line="580"/>
         <source>%1 Kbps</source>
         <translation>%1 Кб/с</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="606"/>
+        <location filename="traywnd.cpp" line="583"/>
         <source>%1 Mbps</source>
         <translation>%1 Мб/с</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="643"/>
+        <location filename="traywnd.cpp" line="623"/>
         <source>Show another %1 hidden formats</source>
         <translation>Показать еще %1 скрытых форматов</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="660"/>
-        <source>Choose ffmpeg executable</source>
-        <translation>Укажите исполняемый файл ffmpeg</translation>
-    </message>
-    <message>
-        <location filename="traywnd.cpp" line="685"/>
+        <location filename="traywnd.cpp" line="653"/>
         <source>Download clip as...</source>
         <translation>Загрузить клип как...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Прервать загрузку?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>No</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="844"/>
+        <location filename="traywnd.cpp" line="812"/>
         <source>%1% of %2 downloaded</source>
         <translation>Загружено %1% из %2</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="845"/>
+        <location filename="traywnd.cpp" line="813"/>
         <source>%1 downloaded</source>
         <translation>Загружено %1</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="850"/>
+        <location filename="traywnd.cpp" line="818"/>
         <source>queued</source>
         <translation>в очереди</translation>
     </message>
@@ -384,17 +379,17 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="155"/>
+        <location filename="tubeplugin.cpp" line="158"/>
         <source>Player for web site</source>
         <translation>Проигрыватель для сайта</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="159"/>
+        <location filename="tubeplugin.cpp" line="162"/>
         <source>Same as for all web sites</source>
         <translation>Тот же, что для всех сайтов</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="415"/>
+        <location filename="tubeplugin.cpp" line="417"/>
         <source>Player for</source>
         <translation>Проигрыватель для</translation>
     </message>
@@ -449,81 +444,86 @@
         <translation>Скрывать V+A (DASH) форматы</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="128"/>
+        <location filename="tubeplugin.cpp" line="127"/>
+        <source>Prefer HDR formats</source>
+        <translation>Предпочитать HDR форматы</translation>
+    </message>
+    <message>
+        <location filename="tubeplugin.cpp" line="131"/>
         <source>Video player</source>
         <translation>Проигрыватель видео</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="132"/>
+        <location filename="tubeplugin.cpp" line="135"/>
         <source>System default</source>
         <translation>По-умолчанию в системе</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="137"/>
-        <location filename="tubeplugin.cpp" line="161"/>
+        <location filename="tubeplugin.cpp" line="140"/>
+        <location filename="tubeplugin.cpp" line="164"/>
         <source>mpv player</source>
         <translation>mpv</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="140"/>
-        <location filename="tubeplugin.cpp" line="162"/>
+        <location filename="tubeplugin.cpp" line="143"/>
+        <location filename="tubeplugin.cpp" line="165"/>
         <source>Choose application...</source>
         <translation>Выбрать...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="170"/>
+        <location filename="tubeplugin.cpp" line="173"/>
         <source>Authentication</source>
         <translation>Авторизация</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="171"/>
+        <location filename="tubeplugin.cpp" line="174"/>
         <source>Add web site authentication data...</source>
         <translation>Добавить данные для авторизации...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="181"/>
+        <location filename="tubeplugin.cpp" line="184"/>
         <source>User manual (online)</source>
         <translation>Справка (на сайте)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="185"/>
+        <location filename="tubeplugin.cpp" line="188"/>
         <source>Powered by youtube-dl</source>
         <translation>Спасибо команде youtube-dl!</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="202"/>
+        <location filename="tubeplugin.cpp" line="205"/>
         <source>SVPtube 2 - Online video link extractor</source>
         <translation>SVPtube 2</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="252"/>
+        <location filename="tubeplugin.cpp" line="256"/>
         <source>Disabled</source>
         <translation>Не активен</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="291"/>
         <location filename="tubeplugin.cpp" line="295"/>
+        <location filename="tubeplugin.cpp" line="299"/>
         <source>Forget</source>
         <translation>Забыть</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="294"/>
+        <location filename="tubeplugin.cpp" line="298"/>
         <source>SVPtube</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="294"/>
+        <location filename="tubeplugin.cpp" line="298"/>
         <source>Do you really want to forget authentication data for &apos;%1&apos;?</source>
         <translation>Забыть данные для авторизации на сайте &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="295"/>
+        <location filename="tubeplugin.cpp" line="299"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="335"/>
-        <location filename="tubeplugin.cpp" line="366"/>
+        <location filename="tubeplugin.cpp" line="339"/>
+        <location filename="tubeplugin.cpp" line="368"/>
         <source>Choose video player</source>
         <translation>Выберите проигрыватель видео</translation>
     </message>

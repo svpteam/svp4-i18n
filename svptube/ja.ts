@@ -196,7 +196,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="740"/>
+        <location filename="traywnd.cpp" line="708"/>
         <source>Cancel download</source>
         <translation>ダウンロードのキャンセル</translation>
     </message>
@@ -216,102 +216,97 @@
         <translation>ビデオフォーマットに合ったフィルタがありません（&lt;a href=&quot;#&quot;&gt;&lt;b&gt;全てのフォーマットを表示&lt;/b&gt;&lt;/a&gt;）</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="88"/>
+        <location filename="traywnd.cpp" line="53"/>
         <source>Launch player</source>
         <translation>プレーヤーの起動</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="89"/>
+        <location filename="traywnd.cpp" line="54"/>
         <source>Copy URL</source>
         <translation>URLのコピー</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="91"/>
+        <location filename="traywnd.cpp" line="56"/>
         <source>Download...</source>
         <translation>ダウンロード...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="327"/>
+        <location filename="traywnd.cpp" line="301"/>
         <source>Unknown: select to load</source>
         <translation>不明： 読み込み対象を選んでください</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="451"/>
+        <location filename="traywnd.cpp" line="425"/>
         <source>No subtitles</source>
         <translation>字幕無し</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="478"/>
+        <location filename="traywnd.cpp" line="452"/>
         <source>Auto-generated</source>
         <translation>自動生成</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="600"/>
+        <location filename="traywnd.cpp" line="577"/>
         <source>Multiple streams</source>
         <translation>複数ストリーム</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="602"/>
+        <location filename="traywnd.cpp" line="579"/>
         <source>Video</source>
         <translation>映像</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="603"/>
+        <location filename="traywnd.cpp" line="580"/>
         <source>Audio</source>
         <translation>音声</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="603"/>
+        <location filename="traywnd.cpp" line="580"/>
         <source>%1 Kbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="606"/>
+        <location filename="traywnd.cpp" line="583"/>
         <source>%1 Mbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="643"/>
+        <location filename="traywnd.cpp" line="623"/>
         <source>Show another %1 hidden formats</source>
         <translation>隠れている %1 種のフォーマットを表示する</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="660"/>
-        <source>Choose ffmpeg executable</source>
-        <translation>ffmpegの実行ファイルの選択</translation>
-    </message>
-    <message>
-        <location filename="traywnd.cpp" line="685"/>
+        <location filename="traywnd.cpp" line="653"/>
         <source>Download clip as...</source>
         <translation>クリップをダウンロード...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>本当にダウンロードをキャンセルして良いですか？</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>Yes</source>
         <translation>Yes</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>No</source>
         <translation>No</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="844"/>
+        <location filename="traywnd.cpp" line="812"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% of %2 downloaded</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="845"/>
+        <location filename="traywnd.cpp" line="813"/>
         <source>%1 downloaded</source>
         <translation>%1 downloaded</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="850"/>
+        <location filename="traywnd.cpp" line="818"/>
         <source>queued</source>
         <translation>queued</translation>
     </message>
@@ -384,17 +379,17 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="155"/>
+        <location filename="tubeplugin.cpp" line="158"/>
         <source>Player for web site</source>
         <translation>Webサイト用のプレーヤー</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="159"/>
+        <location filename="tubeplugin.cpp" line="162"/>
         <source>Same as for all web sites</source>
         <translation>全てのWebサイトで同じにする</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="415"/>
+        <location filename="tubeplugin.cpp" line="417"/>
         <source>Player for</source>
         <translation>Player for</translation>
     </message>
@@ -449,81 +444,86 @@
         <translation>Hide V+A (DASH) formats</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="128"/>
+        <location filename="tubeplugin.cpp" line="127"/>
+        <source>Prefer HDR formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="tubeplugin.cpp" line="131"/>
         <source>Video player</source>
         <translation>ビデオプレーヤー</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="132"/>
+        <location filename="tubeplugin.cpp" line="135"/>
         <source>System default</source>
         <translation>システムの既定</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="137"/>
-        <location filename="tubeplugin.cpp" line="161"/>
+        <location filename="tubeplugin.cpp" line="140"/>
+        <location filename="tubeplugin.cpp" line="164"/>
         <source>mpv player</source>
         <translation>mpvプレーヤー</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="140"/>
-        <location filename="tubeplugin.cpp" line="162"/>
+        <location filename="tubeplugin.cpp" line="143"/>
+        <location filename="tubeplugin.cpp" line="165"/>
         <source>Choose application...</source>
         <translation>アプリケーション選択...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="170"/>
+        <location filename="tubeplugin.cpp" line="173"/>
         <source>Authentication</source>
         <translation>認証</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="171"/>
+        <location filename="tubeplugin.cpp" line="174"/>
         <source>Add web site authentication data...</source>
         <translation>ウェブサイトの認証データを追加...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="181"/>
+        <location filename="tubeplugin.cpp" line="184"/>
         <source>User manual (online)</source>
         <translation>ユーザーマニュアル(オンライン）</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="185"/>
+        <location filename="tubeplugin.cpp" line="188"/>
         <source>Powered by youtube-dl</source>
         <translation>Powered by youtube-dl</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="202"/>
+        <location filename="tubeplugin.cpp" line="205"/>
         <source>SVPtube 2 - Online video link extractor</source>
         <translation>SVPtube 2 - Online video link extractor</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="252"/>
+        <location filename="tubeplugin.cpp" line="256"/>
         <source>Disabled</source>
         <translation>無効</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="291"/>
         <location filename="tubeplugin.cpp" line="295"/>
+        <location filename="tubeplugin.cpp" line="299"/>
         <source>Forget</source>
         <translation>忘れる</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="294"/>
+        <location filename="tubeplugin.cpp" line="298"/>
         <source>SVPtube</source>
         <translation>SVPtube</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="294"/>
+        <location filename="tubeplugin.cpp" line="298"/>
         <source>Do you really want to forget authentication data for &apos;%1&apos;?</source>
         <translation>本当に &apos;%1&apos; の認証データを忘れても良いですか？</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="295"/>
+        <location filename="tubeplugin.cpp" line="299"/>
         <source>Cancel</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="335"/>
-        <location filename="tubeplugin.cpp" line="366"/>
+        <location filename="tubeplugin.cpp" line="339"/>
+        <location filename="tubeplugin.cpp" line="368"/>
         <source>Choose video player</source>
         <translation>プレーヤーの選択</translation>
     </message>

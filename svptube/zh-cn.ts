@@ -196,7 +196,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="740"/>
+        <location filename="traywnd.cpp" line="708"/>
         <source>Cancel download</source>
         <translation>取消下载</translation>
     </message>
@@ -216,102 +216,97 @@
         <translation>没有匹配的资源 &lt;a href=&quot;#&quot;&gt;&lt;b&gt;显示所有资源&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="88"/>
+        <location filename="traywnd.cpp" line="53"/>
         <source>Launch player</source>
         <translation>启动播放器</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="89"/>
+        <location filename="traywnd.cpp" line="54"/>
         <source>Copy URL</source>
         <translation>复制链接地址</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="91"/>
+        <location filename="traywnd.cpp" line="56"/>
         <source>Download...</source>
         <translation>下载……</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="327"/>
+        <location filename="traywnd.cpp" line="301"/>
         <source>Unknown: select to load</source>
         <translation>未知: 选择以加载</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="451"/>
+        <location filename="traywnd.cpp" line="425"/>
         <source>No subtitles</source>
         <translation>没有字幕</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="478"/>
+        <location filename="traywnd.cpp" line="452"/>
         <source>Auto-generated</source>
         <translation>自动生成</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="600"/>
+        <location filename="traywnd.cpp" line="577"/>
         <source>Multiple streams</source>
         <translation>多个资源</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="602"/>
+        <location filename="traywnd.cpp" line="579"/>
         <source>Video</source>
         <translation>视频</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="603"/>
+        <location filename="traywnd.cpp" line="580"/>
         <source>Audio</source>
         <translation>音频</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="603"/>
+        <location filename="traywnd.cpp" line="580"/>
         <source>%1 Kbps</source>
         <translation>%1 Kbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="606"/>
+        <location filename="traywnd.cpp" line="583"/>
         <source>%1 Mbps</source>
         <translation>%1 Mbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="643"/>
+        <location filename="traywnd.cpp" line="623"/>
         <source>Show another %1 hidden formats</source>
         <translation>显示另外 %1 隐藏资源</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="660"/>
-        <source>Choose ffmpeg executable</source>
-        <translation>选择 ffmpeg 可执行文件</translation>
-    </message>
-    <message>
-        <location filename="traywnd.cpp" line="685"/>
+        <location filename="traywnd.cpp" line="653"/>
         <source>Download clip as...</source>
         <translation>视频另存为……</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>真的要取消此下载吗?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="741"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="844"/>
+        <location filename="traywnd.cpp" line="812"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% / %2 已下载</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="845"/>
+        <location filename="traywnd.cpp" line="813"/>
         <source>%1 downloaded</source>
         <translation>%1 已下载</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="850"/>
+        <location filename="traywnd.cpp" line="818"/>
         <source>queued</source>
         <translation type="unfinished"></translation>
     </message>
@@ -384,17 +379,17 @@
         <translation>4K</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="155"/>
+        <location filename="tubeplugin.cpp" line="158"/>
         <source>Player for web site</source>
         <translation>用于网页的播放器</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="159"/>
+        <location filename="tubeplugin.cpp" line="162"/>
         <source>Same as for all web sites</source>
         <translation>与默认播放器设置相同</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="415"/>
+        <location filename="tubeplugin.cpp" line="417"/>
         <source>Player for</source>
         <translation>自定义播放器用于</translation>
     </message>
@@ -449,81 +444,86 @@
         <translation>隐藏 V+A (DASH) 资源</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="128"/>
+        <location filename="tubeplugin.cpp" line="127"/>
+        <source>Prefer HDR formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="tubeplugin.cpp" line="131"/>
         <source>Video player</source>
         <translation>播放器</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="132"/>
+        <location filename="tubeplugin.cpp" line="135"/>
         <source>System default</source>
         <translation>系统默认</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="137"/>
-        <location filename="tubeplugin.cpp" line="161"/>
+        <location filename="tubeplugin.cpp" line="140"/>
+        <location filename="tubeplugin.cpp" line="164"/>
         <source>mpv player</source>
         <translation>mpv 播放器</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="140"/>
-        <location filename="tubeplugin.cpp" line="162"/>
+        <location filename="tubeplugin.cpp" line="143"/>
+        <location filename="tubeplugin.cpp" line="165"/>
         <source>Choose application...</source>
         <translation>选择应用程序……</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="170"/>
+        <location filename="tubeplugin.cpp" line="173"/>
         <source>Authentication</source>
         <translation>认证</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="171"/>
+        <location filename="tubeplugin.cpp" line="174"/>
         <source>Add web site authentication data...</source>
         <translation>添加网页认证数据……</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="181"/>
+        <location filename="tubeplugin.cpp" line="184"/>
         <source>User manual (online)</source>
         <translation>用户手册 (在线)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="185"/>
+        <location filename="tubeplugin.cpp" line="188"/>
         <source>Powered by youtube-dl</source>
         <translation>由 youtube-dl 驱动</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="202"/>
+        <location filename="tubeplugin.cpp" line="205"/>
         <source>SVPtube 2 - Online video link extractor</source>
         <translation>SVPtube 2 - 解析在线视频</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="252"/>
+        <location filename="tubeplugin.cpp" line="256"/>
         <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="291"/>
         <location filename="tubeplugin.cpp" line="295"/>
+        <location filename="tubeplugin.cpp" line="299"/>
         <source>Forget</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="294"/>
+        <location filename="tubeplugin.cpp" line="298"/>
         <source>SVPtube</source>
         <translation>SVPtube</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="294"/>
+        <location filename="tubeplugin.cpp" line="298"/>
         <source>Do you really want to forget authentication data for &apos;%1&apos;?</source>
         <translation>你真的要删除 &apos;%1&apos; 的认证数据吗？</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="295"/>
+        <location filename="tubeplugin.cpp" line="299"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="335"/>
-        <location filename="tubeplugin.cpp" line="366"/>
+        <location filename="tubeplugin.cpp" line="339"/>
+        <location filename="tubeplugin.cpp" line="368"/>
         <source>Choose video player</source>
         <translation>选择播放器</translation>
     </message>
