@@ -99,79 +99,79 @@
         <translation>登録キー:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="214"/>
+        <location filename="activationwnd.ui" line="220"/>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="227"/>
+        <location filename="activationwnd.ui" line="233"/>
         <source>F1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="250"/>
+        <location filename="activationwnd.ui" line="256"/>
         <source>Server:</source>
         <translation>サーバー:</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="329"/>
+        <location filename="activationwnd.ui" line="278"/>
+        <source>Worldwide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="activationwnd.ui" line="369"/>
         <source>Register now!</source>
         <translation>今すぐ登録！</translation>
     </message>
     <message>
-        <location filename="activationwnd.ui" line="342"/>
+        <location filename="activationwnd.ui" line="385"/>
         <source>An active Internet connection is required.</source>
         <translation>インターネット接続が必要です。</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="25"/>
-        <source>Main</source>
-        <translation>Main</translation>
-    </message>
-    <message>
-        <location filename="activationwnd.cpp" line="27"/>
-        <source>Use the main server (svp-team.com)</source>
-        <translation>メインサーバー(svp-team.com)を使用する</translation>
-    </message>
-    <message>
-        <location filename="activationwnd.cpp" line="30"/>
+        <location filename="activationwnd.ui" line="319"/>
         <source>China</source>
         <translation>China</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="31"/>
+        <location filename="activationwnd.cpp" line="37"/>
         <source>Choose this if you&apos;re actually in China!</source>
         <translation>中国にいる場合はこちらを選んで下さい！</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="72"/>
+        <location filename="activationwnd.cpp" line="76"/>
         <source>Please wait for the activation server to respond...</source>
         <translation>登録用サーバーの応答を待っています...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="179"/>
+        <location filename="activationwnd.cpp" line="191"/>
         <source>Connection error, please try again later</source>
         <translation>接続エラーが発生しましたので、後でもう一度お試しください</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="183"/>
+        <location filename="activationwnd.cpp" line="196"/>
         <source>Invalid e-mail or registration key</source>
         <translation>Eメールアドレスまたは登録キーが間違っています</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="184"/>
+        <location filename="activationwnd.cpp" line="197"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation>このSVPエディションでは使えない登録キーです</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="185"/>
+        <location filename="activationwnd.cpp" line="198"/>
         <source>Too many activations for the registration key</source>
         <translation>登録キーの許容数を超える登録はできません</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="186"/>
+        <location filename="activationwnd.cpp" line="199"/>
         <source>Unknown error</source>
         <translation>原因不明のエラーが発生しました</translation>
+    </message>
+    <message>
+        <location filename="activationwnd.cpp" line="202"/>
+        <source>Error writing license file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -945,47 +945,47 @@
     </message>
     <message>
         <location filename="performancewnd.ui" line="403"/>
-        <location filename="performancewnd.cpp" line="136"/>
+        <location filename="performancewnd.cpp" line="137"/>
         <source>NOW</source>
         <translation>NOW</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="56"/>
+        <location filename="performancewnd.cpp" line="57"/>
         <source>%1 GHz</source>
         <translation>%1 GHz</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="62"/>
+        <location filename="performancewnd.cpp" line="63"/>
         <source>%1 GB</source>
         <translation>%1 GB</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="114"/>
+        <location filename="performancewnd.cpp" line="115"/>
         <source>GB</source>
         <translation>GB</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="204"/>
+        <location filename="performancewnd.cpp" line="209"/>
         <source>%1% of %2 GHz</source>
         <translation>%1% of %2 GHz</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="225"/>
+        <location filename="performancewnd.cpp" line="230"/>
         <source>%1 GB of %2 GB</source>
         <translation>%1 GB of %2 GB</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="245"/>
+        <location filename="performancewnd.cpp" line="249"/>
         <source>N/A</source>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="260"/>
+        <location filename="performancewnd.cpp" line="264"/>
         <source>Cores</source>
         <translation>Cores</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="260"/>
+        <location filename="performancewnd.cpp" line="264"/>
         <source>Overall</source>
         <translation>Overall</translation>
     </message>
@@ -993,114 +993,114 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="43"/>
+        <location filename="playbackobject.cpp" line="52"/>
         <source>2D mode</source>
         <translation>2Dモード</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="45"/>
+        <location filename="playbackobject.cpp" line="54"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
         <translation>3D: Side-by-side stereo pair</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="44"/>
+        <location filename="playbackobject.cpp" line="53"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
         <translation>3D: Over-under stereo pair</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="63"/>
+        <location filename="playbackobject.cpp" line="72"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP － 4GBパッチの適用</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="64"/>
+        <location filename="playbackobject.cpp" line="73"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>動画プレーヤーが4GB対応になっていません。SVPを使う前に4GBパッチを適用することを強くお勧めします。
 「パッチを適用する」のボタンを押す前に、動画プレーヤーを終了しておいて下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="65"/>
+        <location filename="playbackobject.cpp" line="74"/>
         <source>Patch</source>
         <translation>パッチを適用する</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="65"/>
+        <location filename="playbackobject.cpp" line="74"/>
         <source>Not now</source>
         <translation>今はやめておく</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="65"/>
+        <location filename="playbackobject.cpp" line="74"/>
         <source>Don&apos;t ask again</source>
         <translation>今後は確認しない</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="251"/>
+        <location filename="playbackobject.cpp" line="261"/>
         <source>Playing at %1 fps</source>
         <translation>Playing at %1 fps</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="253"/>
+        <location filename="playbackobject.cpp" line="263"/>
         <source>Paused</source>
         <translation>Paused</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="254"/>
+        <location filename="playbackobject.cpp" line="264"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="256"/>
-        <location filename="playbackobject.cpp" line="887"/>
+        <location filename="playbackobject.cpp" line="266"/>
+        <location filename="playbackobject.cpp" line="935"/>
         <source>10 bit</source>
         <translation>10 bit</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="277"/>
+        <location filename="playbackobject.cpp" line="287"/>
         <source>SVP: enabled</source>
         <translation>SVP: 有効</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="278"/>
+        <location filename="playbackobject.cpp" line="288"/>
         <source>SVP: disabled</source>
         <translation>SVP: 無効</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="879"/>
+        <location filename="playbackobject.cpp" line="927"/>
         <source>Black bars: </source>
         <translation>黒ベタ検出:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="885"/>
+        <location filename="playbackobject.cpp" line="933"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: playing at %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="905"/>
+        <location filename="playbackobject.cpp" line="953"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: フレームサイズの調整</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="976"/>
+        <location filename="playbackobject.cpp" line="1024"/>
         <source>You&apos;re using mpv built without Vapoursynth support! SVP won&apos;t work with it, consider installing correct mpv version.</source>
         <translation>Vapoursynthをサポートしていないmpvが使われているのでSVPが動作しません。適切なmpvをインストールしてみて下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="993"/>
+        <location filename="playbackobject.cpp" line="1041"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>互換性が無いバージョンのAvisynthを使用しています！SVPが動作しませんので、&lt;SVP-installation-path&gt;\pluginsフォルダにあるavisynth.dllを使用して下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1000"/>
+        <location filename="playbackobject.cpp" line="1048"/>
         <source>Error initializing OpenCL subsystem. Please re-install graphics drivers.</source>
         <translation>OpenCLの初期化でエラーが起きました。グラフィックドライバを再インストールしてみて下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1372"/>
+        <location filename="playbackobject.cpp" line="1422"/>
         <source>Other profiles</source>
         <translation>その他のプロファイル</translation>
     </message>
@@ -1260,7 +1260,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="258"/>
-        <location filename="profilewnd.cpp" line="617"/>
+        <location filename="profilewnd.cpp" line="618"/>
         <source>fps</source>
         <translation></translation>
     </message>
@@ -1270,47 +1270,47 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>正確な値を使う</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="428"/>
+        <location filename="profilewnd.cpp" line="429"/>
         <source>SVP - Video profiles</source>
         <translation>SVP - ビデオプロファイル</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="428"/>
+        <location filename="profilewnd.cpp" line="429"/>
         <source>Are you sure you want to delete this profile?</source>
         <translation>本当にこのプロファイルを削除してもよろしいですか？</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="550"/>
+        <location filename="profilewnd.cpp" line="551"/>
         <source>Rendering options</source>
         <translation>レンダリング関連オプション</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="554"/>
+        <location filename="profilewnd.cpp" line="555"/>
         <source>Motion vectors options</source>
         <translation>動きベクトル関連オプション</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="558"/>
+        <location filename="profilewnd.cpp" line="559"/>
         <source>Miscellaneous options</source>
         <translation>その他のオプション</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="616"/>
+        <location filename="profilewnd.cpp" line="617"/>
         <source>Movie</source>
         <translation>動画</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="616"/>
+        <location filename="profilewnd.cpp" line="617"/>
         <source>Screen</source>
         <translation>モニタ</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="617"/>
+        <location filename="profilewnd.cpp" line="618"/>
         <source>Fixed</source>
         <translation>固定</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="670"/>
+        <location filename="profilewnd.cpp" line="671"/>
         <source>User defined options</source>
         <translation>ユーザー定義オプション</translation>
     </message>
@@ -1318,22 +1318,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="290"/>
+        <location filename="main.cpp" line="294"/>
         <source>SVP - error</source>
         <translation>SVP - エラーが発生しました</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="290"/>
+        <location filename="main.cpp" line="294"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>先にSVP3.1のマネージャーを終了して下さい。</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="109"/>
+        <location filename="performancewnd.cpp" line="110"/>
         <source>Show per-core CPU usage in Performance Monitor window</source>
         <translation>パフォーマンスモニタでコア毎のCPU使用率を表示する</translation>
     </message>
     <message>
-        <location filename="performancewnd.cpp" line="116"/>
+        <location filename="performancewnd.cpp" line="117"/>
         <source>Performance graphs time scale</source>
         <translation>パフォーマンスグラフのタイムスケール</translation>
     </message>
@@ -1343,133 +1343,138 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Copy of </translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="573"/>
+        <location filename="profile.cpp" line="580"/>
         <source>Frame area</source>
         <translation>フレーム領域</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="574"/>
+        <location filename="profile.cpp" line="581"/>
         <source>Source frame area</source>
         <translation>ソースフレーム領域</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="575"/>
+        <location filename="profile.cpp" line="582"/>
         <source>Frame width</source>
         <translation>フレームの幅</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="576"/>
+        <location filename="profile.cpp" line="583"/>
         <source>Frame height</source>
         <translation>フレームの高さ</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="577"/>
+        <location filename="profile.cpp" line="584"/>
         <source>Video frame rate</source>
         <translation>映像フレームレート</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="578"/>
+        <location filename="profile.cpp" line="585"/>
         <source>Is network stream</source>
         <oldsource>Is stream</oldsource>
         <translation>ネットワークストリーム</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="579"/>
+        <location filename="profile.cpp" line="586"/>
         <source>Video player</source>
         <translation>プレーヤー</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="580"/>
+        <location filename="profile.cpp" line="587"/>
         <source>Is stereo</source>
         <translation>ステレオ</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="581"/>
+        <location filename="profile.cpp" line="588"/>
         <source>Is interlaced</source>
         <translation>インタレース</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="582"/>
+        <location filename="profile.cpp" line="589"/>
+        <source>Is variable frame rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="profile.cpp" line="590"/>
         <source>File name</source>
         <translation>ファイル名</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="583"/>
+        <location filename="profile.cpp" line="591"/>
         <source>File extension</source>
         <translation>ファイル拡張子</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="584"/>
+        <location filename="profile.cpp" line="592"/>
         <source>Full file path</source>
         <translation>ファイルのフルパス</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="585"/>
+        <location filename="profile.cpp" line="593"/>
         <source>Video codec</source>
         <translation>映像コーデック</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="586"/>
+        <location filename="profile.cpp" line="594"/>
         <source>Color depth</source>
         <translation>色深度</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="587"/>
+        <location filename="profile.cpp" line="595"/>
         <source>Is on battery</source>
         <translation>バッテリー駆動</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="588"/>
+        <location filename="profile.cpp" line="596"/>
         <source>Expert: add scores</source>
         <translation>Expert: add scores</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="589"/>
+        <location filename="profile.cpp" line="597"/>
         <source>Expert: OR</source>
         <translation>Expert: OR</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="589"/>
+        <location filename="profile.cpp" line="597"/>
         <source>OR</source>
         <translation>OR</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="627"/>
+        <location filename="profile.cpp" line="636"/>
         <source>Mpix</source>
         <translation>Mpix</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="629"/>
+        <location filename="profile.cpp" line="638"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="630"/>
+        <location filename="profile.cpp" line="639"/>
         <source>fps</source>
         <translation>fps</translation>
     </message>
     <message>
-        <location filename="profile.cpp" line="631"/>
+        <location filename="profile.cpp" line="640"/>
         <source>bits</source>
         <translation>bits</translation>
     </message>
     <message>
-        <location filename="profilescollection.cpp" line="23"/>
+        <location filename="profilescollection.cpp" line="24"/>
         <source>Automatic</source>
         <translation>自動</translation>
     </message>
     <message>
-        <location filename="profilescollection.cpp" line="29"/>
+        <location filename="profilescollection.cpp" line="30"/>
         <source>Default pattern</source>
         <translation>デフォルトパターン</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="385"/>
+        <location filename="profilewnd.cpp" line="386"/>
         <source>Last edited FRC profile</source>
         <translation>最後に編集したFRCプロファイル</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="756"/>
+        <location filename="profilewnd.cpp" line="757"/>
         <source>Custom</source>
         <translation>カスタム</translation>
     </message>
@@ -1847,34 +1852,34 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>パフォーマンスデータ</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="210"/>
-        <location filename="reportwnd.cpp" line="238"/>
-        <location filename="reportwnd.cpp" line="240"/>
+        <location filename="reportwnd.cpp" line="211"/>
+        <location filename="reportwnd.cpp" line="239"/>
+        <location filename="reportwnd.cpp" line="241"/>
         <source>Attach image(s)</source>
         <translation>添付画像</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="238"/>
+        <location filename="reportwnd.cpp" line="239"/>
         <source>Some images ignored due to file size limitation (%1 MB max)</source>
         <translation>ファイルサイズ制限(最大 %1 MB)により、一部の画像は送信できません</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="240"/>
+        <location filename="reportwnd.cpp" line="241"/>
         <source>Unable to load some of images</source>
         <translation>一部の画像が読み込めません</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="341"/>
+        <location filename="reportwnd.cpp" line="342"/>
         <source>Connecting...</source>
         <translation>接続中...</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="373"/>
+        <location filename="reportwnd.cpp" line="374"/>
         <source>Sending... %1% (%2 KB/sec)</source>
         <translation>送信中... %1% (%2 KB/sec)</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="386"/>
+        <location filename="reportwnd.cpp" line="387"/>
         <source>Error, try again later</source>
         <translation>エラーが発生したので、後でもう一度お試しください</translation>
     </message>
@@ -1882,412 +1887,412 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>Settings</name>
     <message>
-        <location filename="settings.cpp" line="840"/>
+        <location filename="settings.cpp" line="848"/>
         <source>Frames interpolation mode</source>
         <translation>Frames interpolation mode</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="842"/>
+        <location filename="settings.cpp" line="850"/>
         <source>&quot;2m&quot; (min artifacts)</source>
         <translation>&quot;2m&quot; (min artifacts)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="842"/>
+        <location filename="settings.cpp" line="850"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
         <translation>&quot;1.5m&quot; (less artifacts)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="843"/>
+        <location filename="settings.cpp" line="851"/>
         <source>&quot;1m&quot; (average mode)</source>
         <translation>&quot;1m&quot; (average mode)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="843"/>
+        <location filename="settings.cpp" line="851"/>
         <source>Adaptive</source>
         <translation>Adaptive</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="843"/>
+        <location filename="settings.cpp" line="851"/>
         <source>Uniform (max fluidity)</source>
         <translation>Uniform (max fluidity)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="845"/>
+        <location filename="settings.cpp" line="853"/>
         <source>Defines the ratio of the number of source frames to the number of interpolated frames. The lower the number of interpolated frames are inserted, the lower the smoothness is, but also the lower number of artifacts are introduced.</source>
         <translation>ソースフレームと補間フレームの比率を定義します。補間フレーム数が少ないほど動きの滑らかさは減りますが、映像の乱れも減ります。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="846"/>
+        <location filename="settings.cpp" line="854"/>
         <source>the minimum number of interpolated frames. For example, if the frame rate is increased up to 2.5 of the original rate, each original frame is repeated twice.</source>
         <translation>補間フレーム数は最小となります。例えばフレームレートを2.5倍にすると、各ソースフレームが2回繰り返されます。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="847"/>
+        <location filename="settings.cpp" line="855"/>
         <source>similar to the 1m mode, but the interpolated frames are closer in time to the original frames, which reduces the visibility of artifacts.</source>
         <translation>1mとほぼ同じですが、補間されたフレームが時間的によりソースフレームに近いので、映像の乱れが減ります。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="848"/>
+        <location filename="settings.cpp" line="856"/>
         <source>each original frame is used once.</source>
         <translation>各ソースフレームが1回使用されます。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="849"/>
+        <location filename="settings.cpp" line="857"/>
         <source>automatic mode selection for every frame, depending on the quality of the deduced motion vectors. In the scenes, which are difficult to analyze, the smoothness will decrease.</source>
         <translation>推定動きベクトルの品質に応じてモードが自動的に選択されます。解析しにくいシーンの場合、滑らかさが減ります。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="850"/>
+        <location filename="settings.cpp" line="858"/>
         <source>gives the greatest possible smoothness, but in some cases (a non-integer coefficient for increasing the frame rate) results in most frames being interpolated thus increases artifacts visibility.</source>
         <translation>滑らかさは最大になりますが、場合によっては補間フレームが増えすぎて映像の乱れも増えます。（特にフレームレートの増加率が非整数の場合）</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="854"/>
+        <location filename="settings.cpp" line="862"/>
         <source>SVP shader</source>
         <translation>SVP shader</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="856"/>
+        <location filename="settings.cpp" line="864"/>
         <source>1. Fastest (slow PCs)</source>
         <translation>1. Fastest (slow PCs)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="856"/>
+        <location filename="settings.cpp" line="864"/>
         <source>2. Sharp (anime)</source>
         <translation>2. Sharp (anime)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="857"/>
+        <location filename="settings.cpp" line="865"/>
         <source>10. By blocks (CPU only)</source>
         <translation>10. By blocks (CPU only)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="857"/>
+        <location filename="settings.cpp" line="865"/>
         <source>11. Simple Lite</source>
         <translation>11. Simple Lite</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="858"/>
+        <location filename="settings.cpp" line="866"/>
         <source>21. Simple</source>
         <translation>21. Simple</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="858"/>
+        <location filename="settings.cpp" line="866"/>
         <source>13. Standard</source>
         <translation>13. Standard</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="858"/>
+        <location filename="settings.cpp" line="866"/>
         <source>23. Complicated</source>
         <translation>23. Complicated</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="860"/>
+        <location filename="settings.cpp" line="868"/>
         <source>An algorithm for interpolated frame calculation that uses two or more source frames and the deduced motion vectors.</source>
         <translation>2枚以上のソースフレームと推定動きベクトルを使って補間フレームを計算するアルゴリズム。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="861"/>
+        <location filename="settings.cpp" line="869"/>
         <source> the fastest algorithm that is useful for systems with slow CPU and without GPU.</source>
         <translation>最速のアルゴリズムです。GPUがなくてCPUも遅いといったシステム向けです。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="862"/>
+        <location filename="settings.cpp" line="870"/>
         <source>gives sharp images, because it does not blend neighboring frames; recommended for hand-drawn animation.</source>
         <translation>近接フレームが混ざらないので鮮明な映像になります。アニメーション向けとして推奨。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="863"/>
+        <location filename="settings.cpp" line="871"/>
         <source>uses simple blending, but performs motion compensation by image blocks rather than by pixels. It runs noticeably faster than the others if GPU is not used.</source>
         <translation>シンプルなブレンド方式ですが、動き補償はピクセル単位ではなくブロック単位となります。GPUを使わない場合は他より高速です。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="864"/>
+        <location filename="settings.cpp" line="872"/>
         <source>simple blending of frames based on the motion.</source>
         <translation>動き補償を用いたシンプルなフレームベースのブレンド方式です。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="865"/>
+        <location filename="settings.cpp" line="873"/>
         <source>uses simple blending and applies masking, which helps reduce halos around moving objects and at frame edges.</source>
         <translation>シンプルなブレンド方式に加え、動いている物体の周囲やフレーム境界のノイズを減らすためのマスキングを行います。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="866"/>
+        <location filename="settings.cpp" line="874"/>
         <source>a variant of 11th algorithm, without masking, but giving more smoothness with some increase in the visibility of artifacts.</source>
         <translation>11と似ていますがマスキングを行いません。動きがより滑らかになりますが、映像の乱れもやや増えます。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="867"/>
+        <location filename="settings.cpp" line="875"/>
         <source>an algorithm with the most complex masking.</source>
         <translation>最も複雑なマスキングを行うアルゴリズムです。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="883"/>
+        <location filename="settings.cpp" line="891"/>
         <source>Motion vectors grid</source>
         <translation>Motion vectors grid</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="885"/>
+        <location filename="settings.cpp" line="893"/>
         <source>32 px. Large 0</source>
         <translation>32 px. Large 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="885"/>
+        <location filename="settings.cpp" line="893"/>
         <source>28 px. Large 1</source>
         <translation>28 px. Large 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="885"/>
+        <location filename="settings.cpp" line="893"/>
         <source>24 px. Large 2</source>
         <translation>24 px. Large 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="886"/>
+        <location filename="settings.cpp" line="894"/>
         <source>16 px. Average 0</source>
         <translation>16 px. Average 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="886"/>
+        <location filename="settings.cpp" line="894"/>
         <source>14 px. Average 1</source>
         <translation>14 px. Average 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="886"/>
+        <location filename="settings.cpp" line="894"/>
         <source>12 px. Average 2</source>
         <translation>12 px. Average 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="887"/>
+        <location filename="settings.cpp" line="895"/>
         <source>8 px. Small 0</source>
         <translation>8 px. Small 0</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="887"/>
+        <location filename="settings.cpp" line="895"/>
         <source>7 px. Small 1</source>
         <translation>7 px. Small 1</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="887"/>
+        <location filename="settings.cpp" line="895"/>
         <source>6 px. Small 2</source>
         <translation>6 px. Small 2</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="889"/>
+        <location filename="settings.cpp" line="897"/>
         <source>The motion vector search algorithm works with small blocks of the video frame. The smaller these blocks are, the more likely you’ll find motion of small objects, with more wave artifacts noticeable at the edges of objects.</source>
         <translation>動きベクトルの検索アルゴリズムは映像フレームの小さなブロック単位で行われます。ブロックが小さいほど小さな物体の動きまで追えるようになりますが、物体の境界に波状の乱れが目立つようにもなります。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="893"/>
+        <location filename="settings.cpp" line="901"/>
         <source>Decrease grid step</source>
         <translation>Decrease grid step</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="895"/>
-        <location filename="settings.cpp" line="920"/>
-        <location filename="settings.cpp" line="936"/>
+        <location filename="settings.cpp" line="903"/>
+        <location filename="settings.cpp" line="928"/>
+        <location filename="settings.cpp" line="944"/>
         <source>Disabled</source>
         <translation>Disabled</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="896"/>
+        <location filename="settings.cpp" line="904"/>
         <source>By two with local refinement</source>
         <translation>By two with local refinement</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="896"/>
+        <location filename="settings.cpp" line="904"/>
         <source>By two with global refinement</source>
         <translation>By two with global refinement</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="898"/>
+        <location filename="settings.cpp" line="906"/>
         <source>Additional refinement of motion vectors while reducing block sizes twice.</source>
         <translation>ブロックサイズを小さくして動きベクトルを改良します。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="902"/>
+        <location filename="settings.cpp" line="910"/>
         <source>Search radius</source>
         <translation>Search radius</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="904"/>
+        <location filename="settings.cpp" line="912"/>
         <source>Small and fast</source>
         <translation>Small and fast</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="904"/>
-        <location filename="settings.cpp" line="928"/>
+        <location filename="settings.cpp" line="912"/>
+        <location filename="settings.cpp" line="936"/>
         <source>Small</source>
         <translation>Small</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="904"/>
-        <location filename="settings.cpp" line="920"/>
+        <location filename="settings.cpp" line="912"/>
         <location filename="settings.cpp" line="928"/>
-        <location filename="settings.cpp" line="937"/>
+        <location filename="settings.cpp" line="936"/>
+        <location filename="settings.cpp" line="945"/>
         <source>Average</source>
         <translation>Average</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="904"/>
-        <location filename="settings.cpp" line="928"/>
+        <location filename="settings.cpp" line="912"/>
+        <location filename="settings.cpp" line="936"/>
         <source>Large</source>
         <translation>Large</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="906"/>
+        <location filename="settings.cpp" line="914"/>
         <source>The range of motion vector search, limits the maximum length of the vector and the degree of &quot;fluidity&quot; of the image. The larger the radius is, the more likely you’ll get a wrong vector, resulting in more interpolation artifacts.</source>
         <translation>動きベクトルの探索範囲です。ベクトルの最大長や滑らかさの程度を制限します。探索範囲が広いほど誤ったベクトルになりやすく、補間の乱れにもつながります。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="907"/>
+        <location filename="settings.cpp" line="915"/>
         <source>does not allow using the more resource-intensive SADT function to compare image blocks.</source>
         <translation>ブロック比較において、より多くのリソースが必要なSADT機能を使わないようにします。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="911"/>
+        <location filename="settings.cpp" line="919"/>
         <source>Motion vectors precision</source>
         <translation>Motion vectors precision</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="912"/>
+        <location filename="settings.cpp" line="920"/>
         <source>Two pixels</source>
         <translation>Two pixels</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="912"/>
+        <location filename="settings.cpp" line="920"/>
         <source>One pixel</source>
         <translation>One pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="912"/>
+        <location filename="settings.cpp" line="920"/>
         <source>Half pixel</source>
         <translation>Half pixel</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="914"/>
+        <location filename="settings.cpp" line="922"/>
         <source>A higher accuracy in the search for motion vectors increases the smoothness of slow motion such as slow moving closing credits on a black background. High accuracy dramatically increases the use of RAM, especially if no GPU is used.</source>
         <translation>動きベクトル探索の精度を上げると、ゆっくり流れる字幕のような遅い動きも滑らかにできます。ただしメモリ使用量が大きく増加します。(特にGPUを使わない場合)</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="918"/>
+        <location filename="settings.cpp" line="926"/>
         <source>Wide search</source>
         <translation>Wide search</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="920"/>
-        <location filename="settings.cpp" line="937"/>
+        <location filename="settings.cpp" line="928"/>
+        <location filename="settings.cpp" line="945"/>
         <source>Strong</source>
         <translation>Strong</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="920"/>
-        <location filename="settings.cpp" line="937"/>
+        <location filename="settings.cpp" line="928"/>
+        <location filename="settings.cpp" line="945"/>
         <source>Strongest</source>
         <translation>Strongest</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="922"/>
+        <location filename="settings.cpp" line="930"/>
         <source>A last attempt to find the motion vector with a larger radius in case if regular search did not provide a good enough result.</source>
         <translation>通常の動きベクトル探索の結果があまり良くなかった場合、より広い範囲で動きベクトルを探索します。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="926"/>
+        <location filename="settings.cpp" line="934"/>
         <source>Width of top coarse level</source>
         <translation>Width of top coarse level</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="930"/>
+        <location filename="settings.cpp" line="938"/>
         <source>For hierarchical search of motion vectors, at different levels different search options are used – particularly, at the last levels (the largest ones), more simple options are used to reduce the CPU load. The smaller this value is, the larger number of high levels will have the lower options.</source>
         <translation>階層的な動きベクトル探索では、使用オプションはレベルによって異なります。最終レベル（最大範囲）の場合、CPU負荷を減らすため、負荷の低いオプションが使われます。この値が小さいほど、高いレベルにおいて、より負荷の低いオプションが使われます。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="934"/>
+        <location filename="settings.cpp" line="942"/>
         <source>Artifacts masking</source>
         <translation>Artifacts masking</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="936"/>
+        <location filename="settings.cpp" line="944"/>
         <source>Weakest</source>
         <translation>Weakest</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="936"/>
+        <location filename="settings.cpp" line="944"/>
         <source>Weak</source>
         <translation>Weak</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="939"/>
+        <location filename="settings.cpp" line="947"/>
         <source>Additional masking of possible distortions of the frame areas with unreliable motion vectors. These areas can be overlaid with the areas of the original frames with some degree of transparency. The stronger the masking is, the blurrier image and the worse smoothness will be.</source>
         <translation>動きベクトルが不確かで歪んでいる可能性のあるフレーム領域に追加のマスキングを行います。このような領域には、ある程度透明化したソースフレームの領域を重ねることができます。マスキングが強いほど、映像がボヤけやすくなり、滑らかさも低下します。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="940"/>
+        <location filename="settings.cpp" line="948"/>
         <source>the optimal values will be used.</source>
         <translation>最適な値が使われます。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="941"/>
+        <location filename="settings.cpp" line="949"/>
         <source>can result in appearance of specific artifacts, for example, triple edges.</source>
         <translation>3重エッジなど特殊な映像の乱れが起きることがあります。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="945"/>
+        <location filename="settings.cpp" line="953"/>
         <source>Processing of scene changes</source>
         <translation>Processing of scene changes</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="946"/>
+        <location filename="settings.cpp" line="954"/>
         <source>Blend adjacent frames</source>
         <translation>Blend adjacent frames</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="946"/>
+        <location filename="settings.cpp" line="954"/>
         <source>Repeat frame</source>
         <translation>Repeat frame</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="948"/>
+        <location filename="settings.cpp" line="956"/>
         <source>The method of creating intermediate frames at the moments of scene change, that is, when there are no motion vectors available.</source>
         <translation>シーンチェンジ(つまり動きベクトルがない)時の中間フレーム生成方法です。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="949"/>
+        <location filename="settings.cpp" line="957"/>
         <source>intermediate frames are created using simple blending of two frames; this results in smooth transition between scenes.</source>
         <translation>２枚のフレームをシンプルにブレンドした中間フレームを生成し、シーン移行を滑らかにします。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="950"/>
+        <location filename="settings.cpp" line="958"/>
         <source> intermediate frames are copies of original frames; this results in instant scene change.</source>
         <translation>ソースフレームをコピーして中間フレームとします。瞬間的なシーンチェンジとなります。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="954"/>
+        <location filename="settings.cpp" line="962"/>
         <source>Rendering device</source>
         <translation>Rendering device</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="955"/>
-        <location filename="settings.cpp" line="967"/>
+        <location filename="settings.cpp" line="963"/>
+        <location filename="settings.cpp" line="975"/>
         <source>Do not change</source>
         <translation>Do not change</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="955"/>
+        <location filename="settings.cpp" line="963"/>
         <source>CPU only</source>
         <translation>CPU only</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="960"/>
+        <location filename="settings.cpp" line="968"/>
         <source>Allows using a GPU device different from the one specified in the Main menu.</source>
         <translation>メインメニューで設定したものとは異なるGPUを使うことができます。</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="964"/>
+        <location filename="settings.cpp" line="972"/>
         <source>Processing threads</source>
         <translation>処理スレッド数</translation>
     </message>
     <message>
-        <location filename="settings.cpp" line="970"/>
+        <location filename="settings.cpp" line="978"/>
         <source>An addition to the &quot;Processing threads&quot; value set in the Main menu. The number of calculation threads directly affects how much RAM will be used.</source>
         <translation>メインメニューで設定した「処理スレッド数」の値を追加調整できます。スレッド数はメモリ使用量に直接的な影響を与えます。</translation>
     </message>
@@ -2381,553 +2386,559 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="trayicon.cpp" line="497"/>
+        <location filename="trayicon.cpp" line="507"/>
         <source>Start with SVP with right click on the icon</source>
         <translation>アイコン右クリックでSVP開始</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="498"/>
+        <location filename="trayicon.cpp" line="508"/>
         <source>Language was changed to %1</source>
         <translation>言語設定が%1に変更されました</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="502"/>
+        <location filename="trayicon.cpp" line="512"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
         <translation>SVPのライセンス登録に成功しました。ありがとうございます！</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="508"/>
-        <location filename="trayicon.cpp" line="1085"/>
+        <location filename="trayicon.cpp" line="518"/>
+        <location filename="trayicon.cpp" line="1118"/>
         <source>Updates available</source>
         <translation>アップデートが可能です</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="550"/>
+        <location filename="trayicon.cpp" line="567"/>
         <source>No active playback</source>
         <translation>再生動画：無し</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="573"/>
+        <location filename="trayicon.cpp" line="595"/>
         <source>SVP Control Panel</source>
         <translation>SVPコントロールパネル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="682"/>
+        <location filename="trayicon.cpp" line="709"/>
         <source>Video frame</source>
         <translation>ビデオフレーム</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="685"/>
+        <location filename="trayicon.cpp" line="712"/>
         <source>Detect and cut off black bars</source>
         <translation>黒ベタを自動検出してカット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="686"/>
+        <location filename="trayicon.cpp" line="713"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
         <translation>映像フレーム内の黒ベタ部分の自動検出とカット処理</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="694"/>
+        <location filename="trayicon.cpp" line="721"/>
         <source>Keep aspect ratio</source>
         <translation>画面比を維持する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="695"/>
+        <location filename="trayicon.cpp" line="722"/>
         <source>Crop to the screen aspect ratio</source>
         <translation>画面比にあわせてクロップする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="697"/>
+        <location filename="trayicon.cpp" line="724"/>
         <source>Frame cropping mode applied before any size changing</source>
         <translation>フレームのクロップ処理は各種サイズ変更処理の前に適用されます</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="702"/>
+        <location filename="trayicon.cpp" line="729"/>
         <source>Keep normal size</source>
         <translation>元のサイズを維持する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="703"/>
+        <location filename="trayicon.cpp" line="730"/>
         <source>Decrease to screen size</source>
         <translation>画面サイズに縮小する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="705"/>
+        <location filename="trayicon.cpp" line="732"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
         <translation>フレームレート変換を簡略化するためサイズを縮小する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="710"/>
+        <location filename="trayicon.cpp" line="737"/>
         <source>Advanced controls...</source>
         <translation>高度なコントロール...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="716"/>
+        <location filename="trayicon.cpp" line="743"/>
         <source>Outer lighting</source>
         <translation>外枠のライティング</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="545"/>
-        <location filename="trayicon.cpp" line="722"/>
+        <location filename="trayicon.cpp" line="562"/>
+        <location filename="trayicon.cpp" line="750"/>
         <source>Disabled</source>
         <translation>無効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="719"/>
+        <location filename="trayicon.cpp" line="746"/>
         <source>Fill black bars</source>
         <translation>余白部分のみ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="514"/>
+        <location filename="trayicon.cpp" line="524"/>
         <source>Default configuration restored</source>
         <translation>デフォルト設定に戻りました</translation>
     </message>
     <message>
-        <source>Can&apos;t find mpv executable. Do you want to find it manually?</source>
-        <oldsource>Can&apos;t find mpv executable, check &apos;main.player&apos; path in All settings</oldsource>
-        <translation type="vanished">実行可能なmpvが見つかりません。手動で探しますか？</translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="667"/>
+        <location filename="trayicon.cpp" line="694"/>
         <source>Open</source>
         <translation>Open</translation>
     </message>
     <message>
-        <source>mpv executable</source>
-        <translation type="vanished">mpvの実行ファイル</translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="668"/>
+        <location filename="trayicon.cpp" line="695"/>
         <source>Video files</source>
         <translation>ビデオファイル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="669"/>
+        <location filename="trayicon.cpp" line="696"/>
         <source>All files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="689"/>
+        <location filename="trayicon.cpp" line="716"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
         <translation>黒ベタ検出を継続して行うか一度のみとするか</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="720"/>
+        <location filename="trayicon.cpp" line="747"/>
         <source>Glow lights</source>
         <translation>グローライト</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="725"/>
+        <location filename="trayicon.cpp" line="749"/>
+        <source>Fix 3D aspect ratio only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="753"/>
         <source>Outer lighting mode</source>
         <translation>外枠のライティングモード</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="728"/>
+        <location filename="trayicon.cpp" line="756"/>
         <source>Glow border width</source>
         <translation>グロー幅</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="733"/>
+        <location filename="trayicon.cpp" line="761"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
         <translation>外枠ライティングでの最大拡大率</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="736"/>
+        <location filename="trayicon.cpp" line="764"/>
         <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
         <translation>ライティング有効化におけるフレームとモニタのアスペクト比の最小誤差</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="739"/>
+        <location filename="trayicon.cpp" line="767"/>
         <source>Enabled in full screen only</source>
         <translation>フルスクリーン時のみ有効</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="741"/>
+        <location filename="trayicon.cpp" line="769"/>
         <source>Enable outer lighting for full screen playback only</source>
         <translation>フルスクリーン時のみライティングを有効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="753"/>
+        <location filename="trayicon.cpp" line="781"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
         <translation>フルスクリーン状態になった際にライティングを再初期化するためのディレイ（ms単位）</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="756"/>
+        <location filename="trayicon.cpp" line="784"/>
         <source>Disabled in 3D mode</source>
         <translation>3Dモードでは無効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="758"/>
+        <location filename="trayicon.cpp" line="786"/>
         <source>Enable outer lighting only for 2D videos</source>
         <translation>2Dモード時のみライティングを有効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="764"/>
+        <location filename="trayicon.cpp" line="795"/>
         <source>Light patterns</source>
         <translation>ライトのパターン</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="768"/>
+        <location filename="trayicon.cpp" line="799"/>
         <source>Manage patterns...</source>
         <translation>パターンの管理...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="779"/>
+        <location filename="trayicon.cpp" line="810"/>
         <source>My options</source>
         <translation>個人設定オプション</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="786"/>
+        <location filename="trayicon.cpp" line="817"/>
         <source>Temporarily disable SVP</source>
         <translation>一時的にSVPを無効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="788"/>
+        <location filename="trayicon.cpp" line="819"/>
         <source>SVP is disabled until next start</source>
         <translation>次に開始するまでSVPは無効となります</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="790"/>
+        <location filename="trayicon.cpp" line="821"/>
         <source>Utilities</source>
         <translation>ユーティリティ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="792"/>
+        <location filename="trayicon.cpp" line="823"/>
         <source>Performance Monitor</source>
         <translation>パフォーマンスモニタ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="797"/>
+        <location filename="trayicon.cpp" line="828"/>
         <source>Assess system performance</source>
         <translation>システムパフォーマンスの判定</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="806"/>
+        <location filename="trayicon.cpp" line="837"/>
         <source>Demonstration mode</source>
         <translation>デモモード</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="807"/>
+        <location filename="trayicon.cpp" line="838"/>
         <source>Fluency and tearing test</source>
         <translation>滑らかさとティアリングのテスト</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="819"/>
+        <location filename="trayicon.cpp" line="850"/>
         <source>Apply 4GB aware patch...</source>
         <translation>4GBパッチの適用...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="822"/>
+        <location filename="trayicon.cpp" line="853"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
         <translation>「続ける」を押した後、使っているプレーヤーの実行ファイルを選択して下さい。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="823"/>
+        <location filename="trayicon.cpp" line="854"/>
         <source>Continue</source>
         <translation>続ける</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="823"/>
+        <location filename="trayicon.cpp" line="854"/>
         <source>Cancel</source>
         <translation>やめる</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="830"/>
+        <location filename="trayicon.cpp" line="861"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
         <translation>SVP in VLC (replace &apos;deinterlace&apos; filter)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="841"/>
+        <location filename="trayicon.cpp" line="872"/>
         <source>Additional programs and features...</source>
         <translation>その他のプログラムや機能...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="850"/>
+        <location filename="trayicon.cpp" line="881"/>
         <source>Application settings</source>
         <translation>アプリケーション設定</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="855"/>
+        <location filename="trayicon.cpp" line="886"/>
         <source>No acceleration</source>
         <translation>アクセラレーション無し</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="860"/>
+        <location filename="trayicon.cpp" line="891"/>
         <source>Using</source>
         <translation>Using</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="874"/>
+        <location filename="trayicon.cpp" line="905"/>
         <source>GPU acceleration</source>
         <translation>GPUアクセラレーション</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="878"/>
+        <location filename="trayicon.cpp" line="909"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
         <translation>GPUアクセラレーションが使えないのは何故？</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="885"/>
+        <location filename="trayicon.cpp" line="916"/>
         <source>Show OSD messages</source>
         <translation>OSDメッセージを表示</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="887"/>
+        <location filename="trayicon.cpp" line="918"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>キーボードショートカットの編集...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="895"/>
+        <location filename="trayicon.cpp" line="926"/>
         <source>Load at Windows startup</source>
         <translation>Windows起動時にロードする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="897"/>
+        <location filename="trayicon.cpp" line="928"/>
         <source>Load at system startup</source>
         <translation>システム起動時にロードする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="906"/>
+        <location filename="trayicon.cpp" line="937"/>
         <source>Minimize to tray</source>
         <translation>トレイに最小化</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="910"/>
+        <location filename="trayicon.cpp" line="941"/>
         <source>Additional options</source>
         <translation>その他のオプション</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="914"/>
+        <location filename="trayicon.cpp" line="947"/>
+        <source>Treat 23.810 source frame rate as 23.976</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="949"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>インターレース動画はフレームレートを２倍として扱う</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="916"/>
+        <location filename="trayicon.cpp" line="945"/>
         <source>Allow output in 10 bit color depth</source>
         <translation>10bit深度での出力を許可する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="918"/>
+        <location filename="trayicon.cpp" line="951"/>
         <source>Turn stereo mode on by aspect ratio</source>
         <translation>画面比を判定してステレオモードをONにする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="941"/>
+        <location filename="trayicon.cpp" line="974"/>
         <source>Auto</source>
         <translation>自動</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="943"/>
+        <location filename="trayicon.cpp" line="976"/>
         <source>%1 thread(s)</source>
         <translation>%1スレッド</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="944"/>
+        <location filename="trayicon.cpp" line="977"/>
         <source>Processing threads</source>
         <translation>処理スレッド数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="947"/>
+        <location filename="trayicon.cpp" line="980"/>
         <source>Extensions</source>
         <translation>拡張機能</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="973"/>
+        <location filename="trayicon.cpp" line="1006"/>
         <source>User manual (PDF)</source>
         <translation>ユーザーマニュアル(PDF)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="982"/>
+        <location filename="trayicon.cpp" line="1015"/>
         <source>Linux specific notes</source>
         <translation>Linux特記事項</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="985"/>
+        <location filename="trayicon.cpp" line="1018"/>
         <source>Mac OS X specific notes</source>
         <translation>Mac OS X 特記事項</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1044"/>
+        <location filename="trayicon.cpp" line="1077"/>
         <source>mpv configuration file</source>
         <translation>mpvの設定ファイル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1111"/>
+        <location filename="trayicon.cpp" line="1144"/>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1556"/>
+        <location filename="trayicon.cpp" line="1597"/>
         <source>SVP - Extensions</source>
         <translation>SVP - 拡張機能</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1556"/>
+        <location filename="trayicon.cpp" line="1597"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>変更を反映するにはマネージャの再起動が必要です。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1645"/>
+        <location filename="trayicon.cpp" line="1700"/>
         <source>%1% off the Pro version</source>
         <translation>%1% off the Pro version</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="921"/>
+        <location filename="trayicon.cpp" line="954"/>
         <source>Reset on seek</source>
         <translation>シーク時のリセット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="645"/>
+        <location filename="trayicon.cpp" line="525"/>
+        <source>License check failed, please re-register! Click here to restart SVP.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="667"/>
         <source>Profile for an active video</source>
         <translation>アクティブ動画のプロファイル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="656"/>
+        <location filename="trayicon.cpp" line="683"/>
         <source>Open file via mpv...</source>
         <translation>mpvでファイルを開く...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="821"/>
+        <location filename="trayicon.cpp" line="852"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GBパッチの適用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="922"/>
+        <location filename="trayicon.cpp" line="955"/>
         <source>Don&apos;t reset</source>
         <translation>リセットしない</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="924"/>
+        <location filename="trayicon.cpp" line="957"/>
         <source>Soft reset</source>
         <translation>ソフトリセット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="925"/>
+        <location filename="trayicon.cpp" line="958"/>
         <source>Hard reset</source>
         <translation>ハードリセット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="932"/>
+        <location filename="trayicon.cpp" line="965"/>
         <source>Running multiple videos</source>
         <translation>複数の動画での利用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="933"/>
+        <location filename="trayicon.cpp" line="966"/>
         <source>Use SVP in all opened videos</source>
         <translation>開いた全ての動画でSVPを利用する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="934"/>
+        <location filename="trayicon.cpp" line="967"/>
         <source>First opened video only</source>
         <translation>最初に開いた動画でのみ利用する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="935"/>
+        <location filename="trayicon.cpp" line="968"/>
         <source>Latest opened video only</source>
         <translation>最後に開いた動画でのみ利用する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="951"/>
+        <location filename="trayicon.cpp" line="984"/>
         <source>Reset settings to defaults</source>
         <translation>設定をデフォルト値にリセットする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="953"/>
+        <location filename="trayicon.cpp" line="986"/>
         <source>SVP - Configuration reset</source>
         <translation>SVP - 設定のリセット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="953"/>
+        <location filename="trayicon.cpp" line="986"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
         <translation>本当にSVPの設定をデフォルト値にリセットしてよいですか？</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="954"/>
+        <location filename="trayicon.cpp" line="987"/>
         <source>No</source>
         <translation>No</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="954"/>
+        <location filename="trayicon.cpp" line="987"/>
         <source>Yes, but keep video profiles</source>
         <translation>Yes(ただしプロファイルは残す)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="954"/>
+        <location filename="trayicon.cpp" line="987"/>
         <source>Yes, reset all settings</source>
         <translation>Yes(全てリセット)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="960"/>
+        <location filename="trayicon.cpp" line="993"/>
         <source>All settings...</source>
         <translation>全ての設定...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="969"/>
+        <location filename="trayicon.cpp" line="1002"/>
         <source>Information</source>
         <translation>インフォメーション</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="971"/>
+        <location filename="trayicon.cpp" line="1004"/>
         <source>User manual (online)</source>
         <translation>ユーザーマニュアル(オンライン)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="989"/>
+        <location filename="trayicon.cpp" line="1022"/>
         <source>Video player configuration</source>
         <translation>各種プレーヤーの設定方法</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1010"/>
+        <location filename="trayicon.cpp" line="1043"/>
         <source>Full list</source>
         <translation>全てのリスト</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1021"/>
+        <location filename="trayicon.cpp" line="1054"/>
         <source>Send problem report...</source>
         <translation>レポートの送信...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1026"/>
+        <location filename="trayicon.cpp" line="1059"/>
         <source>Events log</source>
         <translation>イベントログ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1031"/>
+        <location filename="trayicon.cpp" line="1064"/>
         <source>Additional information</source>
         <translation>その他の情報</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1034"/>
+        <location filename="trayicon.cpp" line="1067"/>
         <source>Last generated script</source>
         <translation>最後に生成されたスクリプト</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1038"/>
+        <location filename="trayicon.cpp" line="1071"/>
         <source>OpenCL devices and capabilities</source>
         <translation>OpenCLデバイスの詳細</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1068"/>
+        <location filename="trayicon.cpp" line="1101"/>
         <source>Version and credits...</source>
         <translation>バージョン情報とクレジット...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1074"/>
+        <location filename="trayicon.cpp" line="1107"/>
         <source>Order full version</source>
         <translation>フルバージョンの購入</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1095"/>
+        <location filename="trayicon.cpp" line="1128"/>
         <source>Exit</source>
         <translation>SVPを終了する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1310"/>
+        <location filename="trayicon.cpp" line="1345"/>
         <source>SVP - Video player</source>
         <translation>SVP - 動画プレーヤー</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1310"/>
+        <location filename="trayicon.cpp" line="1345"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>動画プレーヤーと連携できません。別のユーザーアカウントで実行されていないか確認して下さい。</translation>
     </message>
@@ -2935,72 +2946,67 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>UnlockWnd</name>
     <message>
-        <location filename="unlockwnd.ui" line="36"/>
-        <source>SVP 4 advanced features</source>
-        <translation>SVP4の高度な機能</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="81"/>
-        <source>More video players - VLC, mpv, Plex</source>
-        <translation>VLC,mpv,Plexといったプレーヤーをサポート</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="216"/>
-        <source>Advanced video preprocessing</source>
-        <translation>高度な映像プリプロセッシング（前処理）</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="261"/>
-        <source>custom crop and resize</source>
-        <translation>クロップやリサイズのカスタマイズ</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="306"/>
-        <source>tracking black fields detection</source>
-        <translation>黒ベタ検出のトラッキング</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="126"/>
-        <source>Fully customizable video profiles</source>
-        <translation>ビデオプロファイルの完全カスタマイズ</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="171"/>
+        <location filename="unlockwnd.ui" line="419"/>
         <source>Intelligent video profiles selection based on multiple conditions</source>
         <translation>複数の条件を指定したインテリジェントなプロファイル選択</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="351"/>
-        <source>Customizable outer lighting patterns</source>
+        <location filename="unlockwnd.ui" line="34"/>
+        <source>SVP 4 Pro features</source>
+        <translation>SVP4の高度な機能</translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="76"/>
+        <source>More &lt;a href=#&gt;video players&lt;/a&gt; - &lt;b&gt;mpv, Plex, VLC&lt;/b&gt;</source>
+        <translation>&lt;a href=#&gt;VLC,mpv,Ple&lt;/a&gt;xといったプレーヤーをサポート</translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="121"/>
+        <source>&lt;a href=#&gt;SVPtube&lt;/a&gt; helps watching &lt;b&gt;online videos&lt;/b&gt;</source>
+        <translation>オンラインビデオ鑑賞に便利な&lt;a href=#&gt;SVPtube&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="170"/>
+        <source>&lt;a href=#&gt;SVPcode&lt;/a&gt; for high frame rate &lt;b&gt;video transcoding&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="215"/>
+        <source>&lt;a href=#&gt;SVPcast&lt;/a&gt; for &lt;b&gt;streaming&lt;/b&gt; to Chromecast, Apple TV and mobile devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="325"/>
+        <source>Fully customizable &lt;a href=#&gt;video profiles&lt;/a&gt;</source>
+        <translation>ビデオプロファイルの完全カスタマイズ</translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="370"/>
+        <source>10-bit color depth (mpv and VLC)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="unlockwnd.ui" line="464"/>
+        <source>Customizable &lt;a href=#&gt;outer lighting&lt;/a&gt; patterns</source>
         <translation>ライティングパターンのカスタマイズ</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="396"/>
-        <source>Support for additional modules</source>
-        <translation>追加モジュールのサポート</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="441"/>
-        <source>SVPtube helps watching online videos</source>
-        <translation>オンラインビデオ鑑賞に便利なSVPtube</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="486"/>
-        <source>SVPlight controls LED lighting hardware</source>
-        <translation>LEDライト機器を制御するSVPlight</translation>
+        <location filename="unlockwnd.ui" line="513"/>
+        <source>Full resolution &lt;b&gt;4K and BD3D&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="531"/>
-        <source>Customizable video processing script</source>
-        <translation>映像処理スクリプトのカスタマイズ</translation>
+        <source>And &lt;a href=#&gt;more&lt;/a&gt;...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="561"/>
+        <location filename="unlockwnd.ui" line="564"/>
         <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
         <translation>SVP4 Proの &lt;b&gt;%1パーセント割引&lt;/b&gt;を受けることが出来ます！</translation>
     </message>
     <message>
-        <location filename="unlockwnd.ui" line="587"/>
+        <location filename="unlockwnd.ui" line="590"/>
         <source>Order now!</source>
         <translation>今すぐ購入を！</translation>
     </message>
@@ -3008,7 +3014,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>UpdateWnd</name>
     <message>
-        <location filename="updatewnd.cpp" line="388"/>
+        <location filename="updatewnd.cpp" line="396"/>
         <source>More info...</source>
         <translation>詳細情報...</translation>
     </message>
