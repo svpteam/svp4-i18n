@@ -474,7 +474,8 @@
     <message>
         <location filename="tubeplugin.cpp" line="142"/>
         <location filename="tubeplugin.cpp" line="167"/>
-        <source>SVPcast</source>
+        <source>Stream via SVPcast</source>
+        <oldsource>SVPcast</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
