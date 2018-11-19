@@ -76,10 +76,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send feedback</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>User manual (online)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -199,6 +195,26 @@
         <source>Last streaming log</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Ignore ASS subtitles style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative subtitles font size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last chosen subtitles language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative distance from the bottom edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Additional mpv options (see mpv manual)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceFinder</name>
@@ -219,10 +235,6 @@
     </message>
     <message>
         <source>%v fps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio track</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -279,6 +291,14 @@
     </message>
     <message>
         <source>Enter PIN code you see on the screen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No subtitles</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

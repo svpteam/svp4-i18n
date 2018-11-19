@@ -48,42 +48,42 @@
     <message>
         <location filename="ledconfiguration.ui" line="159"/>
         <source>Lightpack USB device</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="193"/>
         <source>Prismatik / AmbiBox remote API</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="227"/>
         <source>Paintpack USB device (DMX mode)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="261"/>
         <source>Boblight remote API (Hyperion)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="264"/>
         <source>Boblight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="358"/>
         <source>Server IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバIPアドレス</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="466"/>
         <source>&lt;a href=#&gt;Connect!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=#&gt;接続&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="630"/>
         <source>From &lt;b&gt;Boblight&lt;/b&gt; server</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Boblight&lt;/b&gt;サーバから読み込む</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="738"/>
@@ -236,12 +236,12 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="775"/>
         <source>Unable to get lights configuration from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバから光源コンフィギュレーションを取得できません。</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="780"/>
         <source>SVPlight needs at least two lights defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPlightは最低2つの光源を定義する必要があります。</translation>
     </message>
 </context>
 <context>
@@ -368,12 +368,12 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="107"/>
         <source>Prismatik is not running on specified TCP port.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定されたTCPポートでPrismatikが動作していません。</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="108"/>
         <source>Boblight service is not running on specified IP/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定されたIP/ポートでBoblightサービスが動作していません。</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="109"/>

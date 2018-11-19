@@ -165,11 +165,15 @@
     </message>
     <message>
         <source>show log</source>
-        <translation>показать журнал</translation>
+        <translation>журнал</translation>
     </message>
     <message>
         <source>Basic (0) vs. Advanced (1)</source>
         <translation>Новичок (0) или Мастер (1)</translation>
+    </message>
+    <message>
+        <source>Encoded file name template, where original file name = $BASE.$EXTS.&lt;file-type&gt;</source>
+        <translation>Шаблон имени файла результата, если имя исходника = $BASE.$EXTS.&lt;file-type&gt;</translation>
     </message>
 </context>
 <context>

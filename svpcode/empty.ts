@@ -171,6 +171,10 @@
         <source>Basic (0) vs. Advanced (1)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Encoded file name template, where original file name = $BASE.$EXTS.&lt;file-type&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConfigurationWnd</name>

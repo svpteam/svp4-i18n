@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="en">
 <context>
     <name>CodePlugin</name>
     <message>
@@ -171,6 +171,10 @@
         <source>Basic (0) vs. Advanced (1)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Encoded file name template, where original file name = $BASE.$EXTS.&lt;file-type&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConfigurationWnd</name>
@@ -224,7 +228,7 @@
     </message>
     <message>
         <source>ovc:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Output video codec</source>
@@ -236,7 +240,7 @@
     </message>
     <message>
         <source>ovcopts:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Output video codec options for libavcodec</source>
@@ -252,7 +256,7 @@
     </message>
     <message>
         <source>fmt:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>As source</source>
@@ -260,27 +264,27 @@
     </message>
     <message>
         <source>MKV</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>MP4</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WEBM</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>AVI</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>MOV</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>WMV</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>mpv help</source>
@@ -312,7 +316,7 @@
     </message>
     <message>
         <source>H.264 (AVC)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Software</source>
@@ -320,15 +324,15 @@
     </message>
     <message>
         <source>NVENC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>QuickSync</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>H.265 (HEVC)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Quality and bitrate</source>

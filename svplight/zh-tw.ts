@@ -48,42 +48,42 @@
     <message>
         <location filename="ledconfiguration.ui" line="159"/>
         <source>Lightpack USB device</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="193"/>
         <source>Prismatik / AmbiBox remote API</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="227"/>
         <source>Paintpack USB device (DMX mode)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="261"/>
         <source>Boblight remote API (Hyperion)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="264"/>
         <source>Boblight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="358"/>
         <source>Server IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>伺服器 IP 位址</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="466"/>
         <source>&lt;a href=#&gt;Connect!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=#&gt;連接！&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="630"/>
         <source>From &lt;b&gt;Boblight&lt;/b&gt; server</source>
-        <translation type="unfinished"></translation>
+        <translation>由 &lt;b&gt;Boblight&lt;/b&gt; 伺服器匯入</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="738"/>
@@ -118,32 +118,32 @@
     <message>
         <location filename="ledconfiguration.ui" line="968"/>
         <source>R - G - B (default)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="973"/>
         <source>G - R - B</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="978"/>
         <source>R - B - G</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="983"/>
         <source>G - B - R</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="988"/>
         <source>B - G - R</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="993"/>
         <source>B - R - G</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="1192"/>
@@ -156,32 +156,32 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="150"/>
         <source>2 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>2 燈光區</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="151"/>
         <source>4 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>4 燈光區</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="152"/>
         <source>10 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>10 燈光區</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="153"/>
         <source>20 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>20 燈光區</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="154"/>
         <source>30 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>30 燈光區</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="155"/>
         <source>60 zones</source>
-        <translation type="unfinished"></translation>
+        <translation>60 燈光區</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="156"/>
@@ -201,7 +201,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="272"/>
         <source>Turn runnign lights effect on or off</source>
-        <translation type="unfinished"></translation>
+        <translation>開關移動燈光效果</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="342"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="767"/>
         <source>Prismatik</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="767"/>
@@ -236,12 +236,12 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="775"/>
         <source>Unable to get lights configuration from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法由伺服器取得燈光配置。</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="780"/>
         <source>SVPlight needs at least two lights defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPlight 需定義至少兩種燈光。</translation>
     </message>
 </context>
 <context>
@@ -335,7 +335,7 @@
     <message>
         <location filename="ledcontrol.ui" line="598"/>
         <source>+1 s</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="667"/>
@@ -353,7 +353,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="100"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="100"/>
@@ -368,12 +368,12 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="107"/>
         <source>Prismatik is not running on specified TCP port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prismatik 未於指定 TCP 埠上運作。</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="108"/>
         <source>Boblight service is not running on specified IP/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boblight 伺服器未於指定 IP/埠上運作。</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="109"/>
@@ -388,7 +388,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="139"/>
         <source>%1%2 ms</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="155"/>

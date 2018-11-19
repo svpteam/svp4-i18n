@@ -76,10 +76,6 @@
         <translation>Выберите папку с видео для Web UI</translation>
     </message>
     <message>
-        <source>Send feedback</source>
-        <translation>Написать предложение или отзыв</translation>
-    </message>
-    <message>
         <source>User manual (online)</source>
         <translation>Инструкция (online)</translation>
     </message>
@@ -199,6 +195,26 @@
         <source>Last streaming log</source>
         <translation>Журнал последней трансляции</translation>
     </message>
+    <message>
+        <source>Ignore ASS subtitles style</source>
+        <translation>Игнорировать стиль ASS субтитров</translation>
+    </message>
+    <message>
+        <source>Relative subtitles font size</source>
+        <translation>Относительный размер шрифта субтитров</translation>
+    </message>
+    <message>
+        <source>Last chosen subtitles language</source>
+        <translation>Последний выбранный язык субтитров</translation>
+    </message>
+    <message>
+        <source>Relative distance from the bottom edge</source>
+        <translation>Относительное расстояние субтитров от нижнего края</translation>
+    </message>
+    <message>
+        <source>Additional mpv options (see mpv manual)</source>
+        <translation>Дополнительные аргументы для запуска mpv</translation>
+    </message>
 </context>
 <context>
     <name>DeviceFinder</name>
@@ -220,10 +236,6 @@
     <message>
         <source>%v fps</source>
         <translation>%v к/с</translation>
-    </message>
-    <message>
-        <source>Audio track</source>
-        <translation>Аудио дорожка</translation>
     </message>
     <message>
         <source>Video profile</source>
@@ -280,6 +292,14 @@
     <message>
         <source>Enter PIN code you see on the screen:</source>
         <translation>Введите PIN-код который виден на экране:</translation>
+    </message>
+    <message>
+        <source>Language:</source>
+        <translation>Языки:</translation>
+    </message>
+    <message>
+        <source>No subtitles</source>
+        <translation>Без субтитров</translation>
     </message>
 </context>
 </TS>
