@@ -2803,7 +2803,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1138"/>
         <source>Mac OS X specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>macOS specific notes</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1197"/>
@@ -3112,7 +3112,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="146"/>
         <source>Choose the VLC executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose a VLC executable</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="159"/>
