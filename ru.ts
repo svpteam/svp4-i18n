@@ -2209,7 +2209,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="897"/>
         <source>A higher accuracy in the search for motion vectors increases the smoothness of slow motion such as slow moving closing credits on a black background. High accuracy dramatically increases the use of RAM, especially if no GPU is used.</source>
-        <translation>Более высокая точность поиска векторов движения увеличивает плавность медленного движения, например, заключительных титров на черном фоне. Высокая точность резко увеличивает использование оперативной памяти, особенно без использования GPU.</translation>
+        <translation>Лучшая точность (меньший разброс) поиска векторов движения увеличивает плавность медленного движения, например, заключительных титров на черном фоне. Лучшая точность резко увеличивает использование оперативной памяти, особенно без использования GPU.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="901"/>
@@ -2833,7 +2833,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="616"/>
         <source>License check failed, please re-register! Click here to restart SVP.</source>
-        <translation>Провера лицензии неуспешна. Нажмите для перезапуска SVP и повторной активации.</translation>
+        <translation>Проверка лицензии неуспешна. Нажмите для перезапуска SVP и повторной активации.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="761"/>
@@ -3011,7 +3011,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="76"/>
         <source>More &lt;a href=#&gt;video players&lt;/a&gt; - &lt;b&gt;mpv, Plex, VLC&lt;/b&gt;</source>
-        <translation>Больше &lt;a href=#&gt;video players&lt;/a&gt;проигрывателей видео&lt;/a&gt; - &lt;b&gt;VLC, mpv, Plex&lt;/b&gt;</translation>
+        <translation>Больше &lt;a href=#&gt;проигрывателей видео&lt;/a&gt; - &lt;b&gt;VLC, mpv, Plex&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="121"/>
@@ -3026,7 +3026,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="215"/>
         <source>&lt;a href=#&gt;SVPcast&lt;/a&gt; for &lt;b&gt;streaming&lt;/b&gt; to Chromecast, Apple TV and mobile devices</source>
-        <translation>&lt;a href=#&gt;SVPcast&lt;/a&gt; &lt;b&gt;стримит&lt;/b&gt; на Chromecast, Apple TV и мобильные устройства</translation>
+        <translation>&lt;a href=#&gt;SVPcast&lt;/a&gt; &lt;b&gt;транслирует&lt;/b&gt; на Chromecast, Apple TV и мобильные устройства</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="325"/>
@@ -3089,7 +3089,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.ui" line="46"/>
         <source>Changes since last update:</source>
-        <translation>Изменения, появившиеся после последнего обновления</translation>
+        <translation>Изменения, появившиеся после последнего обновления:</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="85"/>
