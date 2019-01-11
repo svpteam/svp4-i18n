@@ -48,7 +48,7 @@
     <message>
         <location filename="aboutdlg.cpp" line="35"/>
         <source>Evaluation version</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробна версія</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="92"/>
@@ -81,22 +81,22 @@
     <message>
         <location filename="activationwnd.ui" line="81"/>
         <source>If you don&apos;t have registration key you can purchase it through &lt;a href=#&gt;our web site&lt;/a&gt;.</source>
-        <translation>Купити ключ для реєстрації можливо через &lt;a href=#&gt;наш сайт&lt;/a&gt;.</translation>
+        <translation>Купити реєстраційний код можливо через &lt;a href=#&gt;наш сайт&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="140"/>
         <source>I have a registration key</source>
-        <translation type="unfinished"></translation>
+        <translation>Я маю реєстраційний код</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="170"/>
         <source>I want to evaluate SVP</source>
-        <translation type="unfinished"></translation>
+        <translation>Я хочу спершу спробувати SVP</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="301"/>
         <source>Press the button below to begin or continue the evaluation period.</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть кнопку нижче аби розпочати/продовжити пробний період.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="407"/>
@@ -111,7 +111,7 @@
     <message>
         <location filename="activationwnd.ui" line="263"/>
         <source>Registration key:</source>
-        <translation>Ключ для реєстрації:</translation>
+        <translation>Реєстраційний код:</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="197"/>
@@ -126,17 +126,17 @@
     <message>
         <location filename="activationwnd.ui" line="410"/>
         <source>Go to the License Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти до Менеджеру ліцензій</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="433"/>
         <source>Server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="455"/>
         <source>Worldwide</source>
-        <translation type="unfinished"></translation>
+        <translation>Основний</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="323"/>
@@ -151,12 +151,12 @@
     <message>
         <location filename="activationwnd.ui" line="496"/>
         <source>China</source>
-        <translation type="unfinished"></translation>
+        <translation>Китайський</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="63"/>
         <source>Choose this if you&apos;re actually in China!</source>
-        <translation type="unfinished"></translation>
+        <translation>Обирайте якщо ви дійсно знаходитесь в КНР!</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="112"/>
@@ -171,22 +171,22 @@
     <message>
         <location filename="activationwnd.cpp" line="247"/>
         <source>Invalid e-mail or registration key</source>
-        <translation>Невірна e-mail адреса чи ключ для реєстрації</translation>
+        <translation>Невірна e-mail адреса чи реєстраційний код</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="248"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation>Ключ для реєстрації несумісний з цією версією SVP</translation>
+        <translation>Реєстраційний код несумісний з цією версією SVP</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="249"/>
         <source>Too many activations for the registration key</source>
-        <translation>Забагато активних реєстрацій для цього ключа</translation>
+        <translation>Забагато активних реєстрацій для цього коду</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="250"/>
         <source>Trial period expired, please purchase registration key!</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробний період закінчився, будь ласка, купіть реєстраційний код!</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="251"/>
@@ -196,7 +196,7 @@
     <message>
         <location filename="activationwnd.cpp" line="254"/>
         <source>Error writing license file</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка при записі файлу ліцензії</translation>
     </message>
 </context>
 <context>
@@ -805,7 +805,7 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="145"/>
         <source>Enable for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Вмикати тільки в повноекранному режимі</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="230"/>
@@ -915,23 +915,23 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="72"/>
         <source>Force constant frame rate in mpv (compatibility feature)</source>
-        <translation type="unfinished"></translation>
+        <translation>Нав&apos;язувати постійну кадрову частоту в mpv (функція сумісності)</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="176"/>
         <source>Can&apos;t find mpv executable. Do you want to find it manually?</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдається знайти виконуючий файл mpv. Бажаєте вказати його вручну?</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="180"/>
         <source>Open</source>
-        <translation type="unfinished">Відкрити</translation>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="182"/>
         <location filename="mpvvideoplayer.cpp" line="184"/>
         <source>mpv executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконуючий файл mpv</translation>
     </message>
 </context>
 <context>
@@ -1028,7 +1028,7 @@
     <message>
         <location filename="playbackobject.cpp" line="64"/>
         <source>2D mode</source>
-        <translation>Режим 3D</translation>
+        <translation>Режим 2D</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="66"/>
@@ -1120,7 +1120,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="1040"/>
         <source>You&apos;re using mpv built without Vapoursynth support! SVP won&apos;t work with it, consider installing correct mpv version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви використовуєте mpv без вбудованої підтримки Vapoursynth, що є несумісним з SVP! Встановіть потрібну версію mpv.</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="1057"/>
@@ -1130,7 +1130,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="1064"/>
         <source>Error initializing OpenCL subsystem. Please re-install graphics drivers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка ініціалізації OpenCL. Будь ласка, перевстановіть драйвер графічного адаптеру.</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="1438"/>
@@ -1300,7 +1300,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="274"/>
         <source>Force the exact value</source>
-        <translation type="unfinished"></translation>
+        <translation>Нав&apos;язати використання цілих значень</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="435"/>
@@ -1424,7 +1424,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="596"/>
         <source>Is variable frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Плаваюча кадрова частота?</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="597"/>
@@ -1454,7 +1454,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="602"/>
         <source>Is HDR</source>
-        <translation type="unfinished"></translation>
+        <translation>HDR?</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="603"/>
@@ -1469,12 +1469,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="605"/>
         <source>Expert: OR</source>
-        <translation type="unfinished"></translation>
+        <translation>Експерт: АБО</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="605"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>АБО</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="645"/>
@@ -1550,7 +1550,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="67"/>
         <source>Don&apos;t show updates popups</source>
-        <translation type="unfinished"></translation>
+        <translation>Не показувати сповіщення щодо оновлень</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="70"/>
@@ -1636,12 +1636,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="95"/>
         <source>Align video frame height to the multiple of this value</source>
-        <translation type="unfinished"></translation>
+        <translation>Кратність корекції висоти кадру до вказаної величини</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="97"/>
         <source>Allow 10-bit output, otherwise force YUV 4:2:0 8-bit output format</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити вивід у 10 біт (за замовчуванням YUV 4:2:0 8 біт)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="100"/>
@@ -1932,12 +1932,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="825"/>
         <source>&quot;2m&quot; (min artifacts)</source>
-        <translation>&quot;2m&quot; (первинні дублями, мін артефактів)</translation>
+        <translation>&quot;2m&quot; (первинні дублями, мін. артефактів)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="825"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
-        <translation>&quot;1.5m&quot; (первинні кадри зближені)</translation>
+        <translation>&quot;1.5m&quot; (новостворені кадри зближені)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="826"/>
@@ -1952,37 +1952,37 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="826"/>
         <source>Uniform (max fluidity)</source>
-        <translation>Рівномірне (макс плавність)</translation>
+        <translation>Рівномірне (макс. плавність)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="828"/>
         <source>Defines the ratio of the number of source frames to the number of interpolated frames. The lower the number of interpolated frames are inserted, the lower the smoothness is, but also the lower number of artifacts are introduced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Визначає кратність первинних кадрів до новостворених у кінцевому результаті. Чим менше cтворених кадрів, тим менша плавність відео, але й з меншою кількістю артефактів.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="829"/>
         <source>the minimum number of interpolated frames. For example, if the frame rate is increased up to 2.5 of the original rate, each original frame is repeated twice.</source>
-        <translation type="unfinished"></translation>
+        <translation>мінімальна кількість новостворених кадрів. Наприклад, при збільшенні кадрової частоти у 2,5 рази, кожен первинний кадр повториться.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="830"/>
         <source>similar to the 1m mode, but the interpolated frames are closer in time to the original frames, which reduces the visibility of artifacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>аналогічно режиму 1m, проте новостворені кадри ближче в часі до первинних, що знижує помітність артефактів.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="831"/>
         <source>each original frame is used once.</source>
-        <translation type="unfinished"></translation>
+        <translation>кожен первинний кадр використовується один раз.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="832"/>
         <source>automatic mode selection for every frame, depending on the quality of the deduced motion vectors. In the scenes, which are difficult to analyze, the smoothness will decrease.</source>
-        <translation type="unfinished"></translation>
+        <translation>автоматичний вибір режиму в кожній сцені, залежно від якості знайдених векторів руху. У складних випадках пошуку плавність знизиться.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="833"/>
         <source>gives the greatest possible smoothness, but in some cases (a non-integer coefficient for increasing the frame rate) results in most frames being interpolated thus increases artifacts visibility.</source>
-        <translation type="unfinished"></translation>
+        <translation>надає максимально можливу плавність, але в окремих випадках (дробний множинник збільшення кадрової частоти) призводить до того, що більшість кадрів є новоствореними з відповідним показником артефактів.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="837"/>
@@ -2027,42 +2027,42 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="843"/>
         <source>An algorithm for interpolated frame calculation that uses two or more source frames and the deduced motion vectors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Алгоритм обчислення новостворених кадрівз з використанням двох або більше первинних кадрів та знайдених векторів руху.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="844"/>
         <source> the fastest algorithm that is useful for systems with slow CPU and without GPU.</source>
-        <translation type="unfinished"></translation>
+        <translation>найшвидший алгоритм, корисний для систем з повільним CPU та без GPU.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="845"/>
         <source>gives sharp images, because it does not blend neighboring frames; recommended for hand-drawn animation.</source>
-        <translation type="unfinished"></translation>
+        <translation>надає чітке зображення, адже не змішує сусідні кадри; рекомендований для анімації.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="846"/>
         <source>uses simple blending, but performs motion compensation by image blocks rather than by pixels. It runs noticeably faster than the others if GPU is not used.</source>
-        <translation type="unfinished"></translation>
+        <translation>використовує змішування, проте аналіз руху використовується по цілим блокам, а не по-піксельно. Працює помірно швидко при відсутньому GPU.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="847"/>
         <source>simple blending of frames based on the motion.</source>
-        <translation type="unfinished"></translation>
+        <translation>використовує змішування кадрів з урахуванням руху.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="848"/>
         <source>uses simple blending and applies masking, which helps reduce halos around moving objects and at frame edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>використовує змішування разом з додавання маскування, котре допомагає зменшити гало навкруги рухомих об&apos;єктів та по краям кадрів.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="849"/>
         <source>a variant of 11th algorithm, without masking, but giving more smoothness with some increase in the visibility of artifacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>варіація 11-го алгоритму без маскування, проте з більшою плавністю в шкоду непомітності артефактів.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="850"/>
         <source>an algorithm with the most complex masking.</source>
-        <translation type="unfinished"></translation>
+        <translation>алгоритм з найбільш витонченим маскуванням.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="866"/>
@@ -2117,7 +2117,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="872"/>
         <source>The motion vector search algorithm works with small blocks of the video frame. The smaller these blocks are, the more likely you’ll find motion of small objects, with more wave artifacts noticeable at the edges of objects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Алгоритм пошуку векторів руху працює із невеликими блоками зображення. Що менші ці блоки, то більша вірогідність помітити рух дрібних об&apos;єктів, алейі з більшою помітністю хвильових артефактів на  гранях.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="876"/>
@@ -2144,7 +2144,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="881"/>
         <source>Additional refinement of motion vectors while reducing block sizes twice.</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткове уточнення векторів руху з одночасним зменшенням блоків удвічі.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="885"/>
@@ -2179,12 +2179,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="889"/>
         <source>The range of motion vector search, limits the maximum length of the vector and the degree of &quot;fluidity&quot; of the image. The larger the radius is, the more likely you’ll get a wrong vector, resulting in more interpolation artifacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дальність пошуку векторів руху, обмежує максимальну довжину вектору та ступінь &quot;рухомості&quot; зображення. Чим більший радіус пошуку, тим більша вірогідність отримати помилковий вектор, що призведе до обчислювальних артефактів.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="890"/>
         <source>does not allow using the more resource-intensive SADT function to compare image blocks.</source>
-        <translation type="unfinished"></translation>
+        <translation>запобігає використанню більш навантажуючої функції SADT при порівнянні блоків зображення.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="894"/>
@@ -2209,7 +2209,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="897"/>
         <source>A higher accuracy in the search for motion vectors increases the smoothness of slow motion such as slow moving closing credits on a black background. High accuracy dramatically increases the use of RAM, especially if no GPU is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Точніший пошук векторів руху підвищує плавність повільноплинного зображення, наприклад, при заключних титрах на чорному фоні. Точніший пошук різко підвищує використання ОЗП, особливо без GPU.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="901"/>
@@ -2231,7 +2231,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="905"/>
         <source>A last attempt to find the motion vector with a larger radius in case if regular search did not provide a good enough result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторна спроба знайти ветор руху в ширшому радіусі у випадку, коли звичайний пошук не надав задовільного результату.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="909"/>
@@ -2241,7 +2241,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="913"/>
         <source>For hierarchical search of motion vectors, at different levels different search options are used – particularly, at the last levels (the largest ones), more simple options are used to reduce the CPU load. The smaller this value is, the larger number of high levels will have the lower options.</source>
-        <translation type="unfinished"></translation>
+        <translation>При ієрархічному пошуці векторів руху для різних рівнів використовуються різні параметри пошуку -  на останніх, найширших, рівнях для зменшення навантаження CPU використовуються більш прості параметри. Чим менше виставлене значення, тим більша кількість рівнів буде опрацьована спрощеними параметрами пошуку.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="917"/>
@@ -2261,17 +2261,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="922"/>
         <source>Additional masking of possible distortions of the frame areas with unreliable motion vectors. These areas can be overlaid with the areas of the original frames with some degree of transparency. The stronger the masking is, the blurrier image and the worse smoothness will be.</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткове маскування потенційно спотворених зон кадру через ненадійні вектори руху. На такі зони можуть бути накладені блоки з первинних кадрів з додаванням прозорості. Що сильніше маскування, то розмитіше зображення та менша плавність.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="923"/>
         <source>the optimal values will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>оптимальні значення.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="924"/>
         <source>can result in appearance of specific artifacts, for example, triple edges.</source>
-        <translation type="unfinished"></translation>
+        <translation>може призвести до появи специфічних артефактів як  потрійні контури.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="928"/>
@@ -2291,17 +2291,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="931"/>
         <source>The method of creating intermediate frames at the moments of scene change, that is, when there are no motion vectors available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Спосіб побудови проміжних кадрів у момент зміни сцени, себто коли відсутні вектори руху.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="932"/>
         <source>intermediate frames are created using simple blending of two frames; this results in smooth transition between scenes.</source>
-        <translation type="unfinished"></translation>
+        <translation>плавний перехід завдяки простому змішуванню двох кадрів поміж сценами.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="933"/>
         <source> intermediate frames are copies of original frames; this results in instant scene change.</source>
-        <translation type="unfinished"></translation>
+        <translation>різка зміна завдяки повтору первинних кадрів поміж сценами.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="937"/>
@@ -2322,7 +2322,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="943"/>
         <source>Allows using a GPU device different from the one specified in the Main menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволяє профілю використання GPU, відмінного від обраного в Головному Меню.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="947"/>
@@ -2332,7 +2332,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="953"/>
         <source>An addition to the &quot;Processing threads&quot; value set in the Main menu. The number of calculation threads directly affects how much RAM will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Доданок до значення &quot;Кількість обчислювальних потоків&quot;, обраного в Головному Меню. Чим більша кількість потоків, тим більший обсяг використання ОЗП.</translation>
     </message>
 </context>
 <context>
@@ -2418,7 +2418,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="systeminfo.cpp" line="570"/>
         <source>Choose ffmpeg executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконуючий файл ffmpeg</translation>
     </message>
 </context>
 <context>
@@ -2528,17 +2528,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="616"/>
         <source>License check failed, please re-register! Click here to restart SVP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка ліцензії невдала! Натисніть тут для перезапуску SVP та повторної активації.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="617"/>
         <source>You have %1 day(s) left in your evaluation.</source>
-        <translation type="unfinished"></translation>
+        <translation>У Вас залишилось %1 дні(в) пробного періоду.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="780"/>
         <source>Run VLC with SVP...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск VLC з SVP...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="800"/>
@@ -2553,7 +2553,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="802"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Усі файли</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="824"/>
@@ -2568,7 +2568,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="857"/>
         <source>Fix 3D aspect ratio only</source>
-        <translation type="unfinished"></translation>
+        <translation>Правка лишень співідношення 3D відео</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="861"/>
@@ -2588,22 +2588,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="872"/>
         <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
-        <translation type="unfinished"></translation>
+        <translation>Мінімальна різниця між співвідношенням сторін кадру та екрану для вмикання підсвічування полів</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="875"/>
         <source>Enabled in full screen only</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки в повноекранному режимі</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="877"/>
         <source>Enable outer lighting for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Вмикати підсвічування полів тільки в повноекранному режимі програвання відео</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="889"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
-        <translation type="unfinished"></translation>
+        <translation>Затримка зміни режиму підсвічування при зміні повноекранного режиму, мс</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="892"/>
@@ -2638,7 +2638,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="927"/>
         <source>SVP is disabled until next start</source>
-        <translation>Вимкнення SVP до наступного запуску </translation>
+        <translation>Вимкнення SVP до наступного запуску</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="929"/>
@@ -2743,7 +2743,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1050"/>
         <source>Minimize to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Зховати до області повідомлень</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1054"/>
@@ -2753,12 +2753,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1064"/>
         <source>Try to recover HDR colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновлювати кольори в HDR відео</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1067"/>
         <source>Treat 23.810 source frame rate as 23.976</source>
-        <translation type="unfinished"></translation>
+        <translation>Сприймати кадрову частоту 23.810 як 23.976</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1069"/>
@@ -2768,7 +2768,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1058"/>
         <source>Allow output in 10 bit color depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити вивід у 10 біт</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1094"/>
@@ -2808,7 +2808,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1197"/>
         <source>mpv configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл конфігурації mpv</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1264"/>
@@ -2843,7 +2843,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="789"/>
         <source>Open file via mpv...</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити файл через  mpv...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="960"/>
@@ -3011,7 +3011,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="76"/>
         <source>More &lt;a href=#&gt;video players&lt;/a&gt; - &lt;b&gt;mpv, Plex, VLC&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Більше &lt;a href=#&gt;відеопрогравачів&lt;/a&gt; - &lt;b&gt;mpv, Plex, VLC&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="121"/>
@@ -3021,12 +3021,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="170"/>
         <source>&lt;a href=#&gt;SVPcode&lt;/a&gt; for high frame rate &lt;b&gt;video transcoding&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=#&gt;SVPcode&lt;/a&gt; &lt;b&gt;перекодує&lt;/b&gt; відео з високою кадровою частотою</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="215"/>
         <source>&lt;a href=#&gt;SVPcast&lt;/a&gt; for &lt;b&gt;streaming&lt;/b&gt; to Chromecast, Apple TV and mobile devices</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=#&gt;SVPcast&lt;/a&gt; &lt;b&gt;транслює&lt;/b&gt; на Chromecast, Apple TV та мобільні пристрої</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="325"/>
@@ -3036,7 +3036,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="370"/>
         <source>10-bit color depth (mpv and VLC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Глибина кольору 10-біт (в mpv та VLC)</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="464"/>
@@ -3046,17 +3046,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="513"/>
         <source>Full resolution &lt;b&gt;4K and BD3D&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Повноцінний розмір&lt;b&gt;4K та BD3D&lt;/b&gt; відео</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="531"/>
         <source>And &lt;a href=#&gt;more&lt;/a&gt;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Та &lt;a href=#&gt;більше&lt;/a&gt;...</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="564"/>
         <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам доступна &lt;b&gt;%1%-а знижка&lt;/b&gt; на SVP 4 Pro!</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="590"/>
@@ -3122,7 +3122,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="159"/>
         <source>32-bit VLC is not supported. Please install 64-bit version.</source>
-        <translation type="unfinished"></translation>
+        <translation>32-бітний VLC не підтримується. Будь ласка, встановіть 64-бітну версію.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="228"/>
@@ -3142,12 +3142,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="234"/>
         <source>Got it</source>
-        <translation type="unfinished"></translation>
+        <translation>Зрозуміло</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="245"/>
         <source>Install SVP filter for VLC using &apos;Utilities -&gt; SVP in VLC&apos; first</source>
-        <translation type="unfinished"></translation>
+        <translation>Спочатку увімкніть SVP фільтр через &apos;Допоміжні програми -&gt; SVP для VLC&apos;</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="124"/>
