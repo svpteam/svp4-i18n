@@ -956,12 +956,12 @@
     <message>
         <location filename="performancewnd.ui" line="224"/>
         <source>Memory</source>
-        <translation>內存</translation>
+        <translation>記憶體</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="250"/>
         <source>Video player memory usage</source>
-        <translation>播放器內存使用</translation>
+        <translation>播放器記憶體使用</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="340"/>
