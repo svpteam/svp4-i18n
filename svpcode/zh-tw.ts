@@ -418,6 +418,34 @@
         <source>Finish and clear intermediate files</source>
         <translation>完成並清除中繼檔案</translation>
     </message>
+    <message>
+        <source>Reset to original frame size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. libx264</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The libavfilter graph string. Separate &apos;before&apos; and &apos;after interpolation&apos; filterchains with &apos;;&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. gradfun=20:30,vflip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FFmpeg filters documentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Black fields:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fine tuning:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Encoder</name>

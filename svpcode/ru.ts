@@ -380,7 +380,7 @@
     </message>
     <message>
         <source>%1 files</source>
-        <translation>% файл(ов)</translation>
+        <translation>%1 файл(ов)</translation>
     </message>
     <message>
         <source>Start</source>
@@ -417,6 +417,34 @@
     <message>
         <source>Finish and clear intermediate files</source>
         <translation>Завершить и удалить промежуточные  файлы</translation>
+    </message>
+    <message>
+        <source>Reset to original frame size</source>
+        <translation>Кодировать с исходным размером кадра</translation>
+    </message>
+    <message>
+        <source>e.g. libx264</source>
+        <translation>например: libx264</translation>
+    </message>
+    <message>
+        <source>The libavfilter graph string. Separate &apos;before&apos; and &apos;after interpolation&apos; filterchains with &apos;;&apos;.</source>
+        <translation>Граф libavfilter. Можно указать две цепочки фильтров (&quot;до&quot; и &quot;после&quot; интерполяции) через &apos;;&apos;.</translation>
+    </message>
+    <message>
+        <source>e.g. gradfun=20:30,vflip</source>
+        <translation>например: gradfun=20:30,vflip</translation>
+    </message>
+    <message>
+        <source>FFmpeg filters documentation</source>
+        <translation>Справка по фильтрам FFmpeg</translation>
+    </message>
+    <message>
+        <source>Black fields:</source>
+        <translation>Черные поля:</translation>
+    </message>
+    <message>
+        <source>Fine tuning:</source>
+        <translation>Коррекция:</translation>
     </message>
 </context>
 <context>
