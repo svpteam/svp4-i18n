@@ -146,7 +146,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="1192"/>
+        <location filename="ledconfiguration.ui" line="1197"/>
         <source>Adjust brightness and colors...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -204,42 +204,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="342"/>
+        <location filename="ledconfigurationwnd.cpp" line="346"/>
         <source>Reset configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="342"/>
+        <location filename="ledconfigurationwnd.cpp" line="346"/>
         <source>Current lights configuration will be lost! Is it OK to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="734"/>
+        <location filename="ledconfigurationwnd.cpp" line="738"/>
         <source>Prismatik profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="734"/>
+        <location filename="ledconfigurationwnd.cpp" line="738"/>
         <source>Error importing profile from Prismatik.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="767"/>
+        <location filename="ledconfigurationwnd.cpp" line="771"/>
         <source>Prismatik</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="767"/>
+        <location filename="ledconfigurationwnd.cpp" line="771"/>
         <source>For the better experience please open Prismatik settings window and set &quot;Mode - Scene luminosity threshold&quot; to 1 (one).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="775"/>
+        <location filename="ledconfigurationwnd.cpp" line="779"/>
         <source>Unable to get lights configuration from the server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="780"/>
+        <location filename="ledconfigurationwnd.cpp" line="784"/>
         <source>SVPlight needs at least two lights defined.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -263,6 +263,7 @@
     </message>
     <message>
         <location filename="ledcontrol.ui" line="159"/>
+        <location filename="ledcontrolwnd.cpp" line="31"/>
         <source>Brightness</source>
         <translation type="unfinished"></translation>
     </message>
@@ -277,7 +278,7 @@
         <location filename="ledcontrol.ui" line="200"/>
         <location filename="ledcontrol.ui" line="275"/>
         <location filename="ledcontrol.ui" line="335"/>
-        <location filename="ledcontrol.ui" line="440"/>
+        <location filename="ledcontrol.ui" line="444"/>
         <source>MAX</source>
         <translation type="unfinished"></translation>
     </message>
@@ -288,57 +289,68 @@
     </message>
     <message>
         <location filename="ledcontrol.ui" line="238"/>
+        <location filename="ledcontrolwnd.cpp" line="32"/>
         <source>Make dark scenes brighter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="294"/>
+        <location filename="ledcontrolwnd.cpp" line="33"/>
         <source>Saturation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="384"/>
+        <location filename="ledcontrol.ui" line="388"/>
         <source>Smooth motion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="403"/>
+        <location filename="ledcontrol.ui" line="407"/>
+        <location filename="ledcontrolwnd.cpp" line="29"/>
         <source>Smooth transitions between colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="430"/>
-        <location filename="ledcontrol.ui" line="560"/>
+        <location filename="ledcontrol.ui" line="434"/>
+        <location filename="ledcontrol.ui" line="564"/>
         <source>OFF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="459"/>
+        <location filename="ledcontrol.ui" line="463"/>
+        <location filename="ledcontrolwnd.cpp" line="35"/>
         <source>Color correction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="481"/>
+        <location filename="ledcontrol.ui" line="485"/>
         <source>Click to choose wall color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="508"/>
+        <location filename="ledcontrol.ui" line="512"/>
         <source>Delay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="527"/>
+        <location filename="ledcontrol.ui" line="531"/>
+        <location filename="ledcontrolwnd.cpp" line="34"/>
         <source>Presentation delay, in ms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="598"/>
+        <location filename="ledcontrol.ui" line="602"/>
         <source>+1 s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="667"/>
+        <location filename="ledcontrol.ui" line="618"/>
+        <location filename="ledcontrolwnd.cpp" line="30"/>
+        <source>Smooth scene changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ledcontrol.ui" line="687"/>
         <source>Setup LED lighting hardware...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -346,52 +358,52 @@
 <context>
     <name>LEDControlWnd</name>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="76"/>
+        <location filename="ledcontrolwnd.cpp" line="85"/>
         <source>No engine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="100"/>
+        <location filename="ledcontrolwnd.cpp" line="109"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="100"/>
+        <location filename="ledcontrolwnd.cpp" line="109"/>
         <source>FAIL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="106"/>
+        <location filename="ledcontrolwnd.cpp" line="115"/>
         <source>Paintpack isn&apos;t connected OR K8062d library not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="107"/>
+        <location filename="ledcontrolwnd.cpp" line="116"/>
         <source>Prismatik is not running on specified TCP port.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="108"/>
+        <location filename="ledcontrolwnd.cpp" line="117"/>
         <source>Boblight service is not running on specified IP/port.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="109"/>
+        <location filename="ledcontrolwnd.cpp" line="118"/>
         <source>Lighting hardware isn&apos;t connected OR is blocked by some other app.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="113"/>
+        <location filename="ledcontrolwnd.cpp" line="122"/>
         <source>Playing video...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="139"/>
+        <location filename="ledcontrolwnd.cpp" line="148"/>
         <source>%1%2 ms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="155"/>
+        <location filename="ledcontrolwnd.cpp" line="164"/>
         <source>Choose a wall color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -399,32 +411,32 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="67"/>
+        <location filename="lightplugin.cpp" line="71"/>
         <source>Toggle LED lighting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="72"/>
+        <location filename="lightplugin.cpp" line="76"/>
         <source>LED lighting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="73"/>
+        <location filename="lightplugin.cpp" line="77"/>
         <source>Turn on</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="82"/>
+        <location filename="lightplugin.cpp" line="86"/>
         <source>Adjust brightness and colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="88"/>
         <source>Setup hardware...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="89"/>
+        <location filename="lightplugin.cpp" line="93"/>
         <source>User manual (online)</source>
         <translation type="unfinished"></translation>
     </message>

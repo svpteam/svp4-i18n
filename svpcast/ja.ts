@@ -120,22 +120,6 @@
         <translation>VAAPI / H.264</translation>
     </message>
     <message>
-        <source>NVIDIA NVENC / H.265</source>
-        <translation>NVIDIA NVENC / H.265</translation>
-    </message>
-    <message>
-        <source>Intel QuickSync / H.265</source>
-        <translation>Intel QuickSync / H.265</translation>
-    </message>
-    <message>
-        <source>AMD AMF / H.265</source>
-        <translation>AMD AMF / H.265</translation>
-    </message>
-    <message>
-        <source>VAAPI / H.265</source>
-        <translation>VAAPI / H.265</translation>
-    </message>
-    <message>
         <source>Video encoder</source>
         <translation>動画エンコーダ</translation>
     </message>
@@ -214,6 +198,10 @@
     <message>
         <source>Additional mpv options (see mpv manual)</source>
         <translation>mpvの追加引数 (mpvのマニュアルをご参照ください)</translation>
+    </message>
+    <message>
+        <source>Forget and rescan</source>
+        <translation>最初からスキャンし直す</translation>
     </message>
 </context>
 <context>
@@ -300,6 +288,18 @@
     <message>
         <source>No subtitles</source>
         <translation>字幕なし</translation>
+    </message>
+    <message>
+        <source>Load subtitles</source>
+        <translation>字幕を読み込む</translation>
+    </message>
+    <message>
+        <source>Subtitle files</source>
+        <translation>字幕ファイル</translation>
+    </message>
+    <message>
+        <source>All files</source>
+        <translation>全てのファイル</translation>
     </message>
 </context>
 </TS>

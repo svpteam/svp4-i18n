@@ -120,22 +120,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>NVIDIA NVENC / H.265</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Intel QuickSync / H.265</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AMD AMF / H.265</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>VAAPI / H.265</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Video encoder</source>
         <translation type="unfinished"></translation>
     </message>
@@ -213,6 +197,10 @@
     </message>
     <message>
         <source>Additional mpv options (see mpv manual)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forget and rescan</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -299,6 +287,18 @@
     </message>
     <message>
         <source>No subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtitle files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

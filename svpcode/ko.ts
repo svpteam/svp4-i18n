@@ -420,31 +420,31 @@
     </message>
     <message>
         <source>Reset to original frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>원래 프레임 크기로 재설정</translation>
     </message>
     <message>
         <source>e.g. libx264</source>
-        <translation type="unfinished"></translation>
+        <translation>예: libx264</translation>
     </message>
     <message>
         <source>The libavfilter graph string. Separate &apos;before&apos; and &apos;after interpolation&apos; filterchains with &apos;;&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>libavfilter 그래프 문자열입니다. &apos;이전&apos;과 &apos;보간 후&apos; 필터 체인을 &apos;;&apos;로 구분하십시오.</translation>
     </message>
     <message>
         <source>e.g. gradfun=20:30,vflip</source>
-        <translation type="unfinished"></translation>
+        <translation>예: gradfun=20:30,vflip</translation>
     </message>
     <message>
         <source>FFmpeg filters documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>FFmpeg 문서 필터링</translation>
     </message>
     <message>
         <source>Black fields:</source>
-        <translation type="unfinished"></translation>
+        <translation>필드:</translation>
     </message>
     <message>
         <source>Fine tuning:</source>
-        <translation type="unfinished"></translation>
+        <translation>고급 설정:</translation>
     </message>
 </context>
 <context>

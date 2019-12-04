@@ -120,22 +120,6 @@
         <translation>VAAPI / H.264</translation>
     </message>
     <message>
-        <source>NVIDIA NVENC / H.265</source>
-        <translation>NVIDIA NVENC / H.265</translation>
-    </message>
-    <message>
-        <source>Intel QuickSync / H.265</source>
-        <translation>Intel QuickSync / H.265</translation>
-    </message>
-    <message>
-        <source>AMD AMF / H.265</source>
-        <translation>AMD AMF / H.265</translation>
-    </message>
-    <message>
-        <source>VAAPI / H.265</source>
-        <translation>VAAPI / H.265</translation>
-    </message>
-    <message>
         <source>Video encoder</source>
         <translation>視訊編碼器</translation>
     </message>
@@ -214,6 +198,10 @@
     <message>
         <source>Additional mpv options (see mpv manual)</source>
         <translation>其它 mpv 選項（見 mpv 手冊）</translation>
+    </message>
+    <message>
+        <source>Forget and rescan</source>
+        <translation>忽略並重新掃描</translation>
     </message>
 </context>
 <context>
@@ -300,6 +288,18 @@
     <message>
         <source>No subtitles</source>
         <translation>無字幕</translation>
+    </message>
+    <message>
+        <source>Load subtitles</source>
+        <translation>載入字幕</translation>
+    </message>
+    <message>
+        <source>Subtitle files</source>
+        <translation>字幕檔案</translation>
+    </message>
+    <message>
+        <source>All files</source>
+        <translation>所有檔案</translation>
     </message>
 </context>
 </TS>

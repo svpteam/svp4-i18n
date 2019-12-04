@@ -146,7 +146,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="1192"/>
+        <location filename="ledconfiguration.ui" line="1197"/>
         <source>Adjust brightness and colors...</source>
         <translation>明るさと色の調整...</translation>
     </message>
@@ -204,42 +204,42 @@
         <translation>ライトエフェクトのON/OFF</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="342"/>
+        <location filename="ledconfigurationwnd.cpp" line="346"/>
         <source>Reset configuration</source>
         <translation>設定のリセット</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="342"/>
+        <location filename="ledconfigurationwnd.cpp" line="346"/>
         <source>Current lights configuration will be lost! Is it OK to continue?</source>
         <translation>現在のライト設定は失われます！本当に続けて良いですか？</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="734"/>
+        <location filename="ledconfigurationwnd.cpp" line="738"/>
         <source>Prismatik profile</source>
         <translation>Prismatik profile</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="734"/>
+        <location filename="ledconfigurationwnd.cpp" line="738"/>
         <source>Error importing profile from Prismatik.</source>
         <translation>Prismatikからのプロファイルのインポートでエラーが発生しました。</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="767"/>
+        <location filename="ledconfigurationwnd.cpp" line="771"/>
         <source>Prismatik</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="767"/>
+        <location filename="ledconfigurationwnd.cpp" line="771"/>
         <source>For the better experience please open Prismatik settings window and set &quot;Mode - Scene luminosity threshold&quot; to 1 (one).</source>
         <translation>Prismatikの設定ウィンドウを開き、&quot;Mode - Scene luminosity threshold&quot;を 1(one) に設定するとより良くなります。</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="775"/>
+        <location filename="ledconfigurationwnd.cpp" line="779"/>
         <source>Unable to get lights configuration from the server.</source>
         <translation>サーバから光源コンフィギュレーションを取得できません。</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="780"/>
+        <location filename="ledconfigurationwnd.cpp" line="784"/>
         <source>SVPlight needs at least two lights defined.</source>
         <translation>SVPlightは最低2つの光源を定義する必要があります。</translation>
     </message>
@@ -263,6 +263,7 @@
     </message>
     <message>
         <location filename="ledcontrol.ui" line="159"/>
+        <location filename="ledcontrolwnd.cpp" line="31"/>
         <source>Brightness</source>
         <translation>明るさ</translation>
     </message>
@@ -277,7 +278,7 @@
         <location filename="ledcontrol.ui" line="200"/>
         <location filename="ledcontrol.ui" line="275"/>
         <location filename="ledcontrol.ui" line="335"/>
-        <location filename="ledcontrol.ui" line="440"/>
+        <location filename="ledcontrol.ui" line="444"/>
         <source>MAX</source>
         <translation>MAX</translation>
     </message>
@@ -288,57 +289,68 @@
     </message>
     <message>
         <location filename="ledcontrol.ui" line="238"/>
+        <location filename="ledcontrolwnd.cpp" line="32"/>
         <source>Make dark scenes brighter</source>
         <translation>暗いシーンを明るくする</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="294"/>
+        <location filename="ledcontrolwnd.cpp" line="33"/>
         <source>Saturation</source>
         <translation>彩度</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="384"/>
+        <location filename="ledcontrol.ui" line="388"/>
         <source>Smooth motion</source>
         <translation>Smooth motion</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="403"/>
+        <location filename="ledcontrol.ui" line="407"/>
+        <location filename="ledcontrolwnd.cpp" line="29"/>
         <source>Smooth transitions between colors</source>
         <translation>色の変化のスムーズさの度合い</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="430"/>
-        <location filename="ledcontrol.ui" line="560"/>
+        <location filename="ledcontrol.ui" line="434"/>
+        <location filename="ledcontrol.ui" line="564"/>
         <source>OFF</source>
         <translation>OFF</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="459"/>
+        <location filename="ledcontrol.ui" line="463"/>
+        <location filename="ledcontrolwnd.cpp" line="35"/>
         <source>Color correction</source>
         <translation>カラー調整</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="481"/>
+        <location filename="ledcontrol.ui" line="485"/>
         <source>Click to choose wall color</source>
         <translation>クリックでウォールカラーの設定</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="508"/>
+        <location filename="ledcontrol.ui" line="512"/>
         <source>Delay</source>
         <translation>ディレイ</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="527"/>
+        <location filename="ledcontrol.ui" line="531"/>
+        <location filename="ledcontrolwnd.cpp" line="34"/>
         <source>Presentation delay, in ms</source>
         <translation>表示ディレイ（ms単位）</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="598"/>
+        <location filename="ledcontrol.ui" line="602"/>
         <source>+1 s</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="667"/>
+        <location filename="ledcontrol.ui" line="618"/>
+        <location filename="ledcontrolwnd.cpp" line="30"/>
+        <source>Smooth scene changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ledcontrol.ui" line="687"/>
         <source>Setup LED lighting hardware...</source>
         <translation>LEDライティングハードウェアのセットアップ...</translation>
     </message>
@@ -346,52 +358,52 @@
 <context>
     <name>LEDControlWnd</name>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="76"/>
+        <location filename="ledcontrolwnd.cpp" line="85"/>
         <source>No engine</source>
         <translation>No engine</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="100"/>
+        <location filename="ledcontrolwnd.cpp" line="109"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="100"/>
+        <location filename="ledcontrolwnd.cpp" line="109"/>
         <source>FAIL</source>
         <translation>FAIL</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="106"/>
+        <location filename="ledcontrolwnd.cpp" line="115"/>
         <source>Paintpack isn&apos;t connected OR K8062d library not found.</source>
         <translation>Paintpackが接続されていないか、K8062dライブラリが見つかりません。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="107"/>
+        <location filename="ledcontrolwnd.cpp" line="116"/>
         <source>Prismatik is not running on specified TCP port.</source>
         <translation>指定されたTCPポートでPrismatikが動作していません。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="108"/>
+        <location filename="ledcontrolwnd.cpp" line="117"/>
         <source>Boblight service is not running on specified IP/port.</source>
         <translation>指定されたIP/ポートでBoblightサービスが動作していません。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="109"/>
+        <location filename="ledcontrolwnd.cpp" line="118"/>
         <source>Lighting hardware isn&apos;t connected OR is blocked by some other app.</source>
         <translation>ライティングハードウェアが接続されていないか、他のアプリケーションにブロックされています。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="113"/>
+        <location filename="ledcontrolwnd.cpp" line="122"/>
         <source>Playing video...</source>
         <translation>ビデオの再生...</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="139"/>
+        <location filename="ledcontrolwnd.cpp" line="148"/>
         <source>%1%2 ms</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="155"/>
+        <location filename="ledcontrolwnd.cpp" line="164"/>
         <source>Choose a wall color</source>
         <translation>ウォールカラーの設定</translation>
     </message>
@@ -399,32 +411,32 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="67"/>
+        <location filename="lightplugin.cpp" line="71"/>
         <source>Toggle LED lighting</source>
         <translation>LEDライティングのON/OFF</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="72"/>
+        <location filename="lightplugin.cpp" line="76"/>
         <source>LED lighting</source>
         <translation>LEDライティング</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="73"/>
+        <location filename="lightplugin.cpp" line="77"/>
         <source>Turn on</source>
         <translation>ONにする</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="82"/>
+        <location filename="lightplugin.cpp" line="86"/>
         <source>Adjust brightness and colors</source>
         <translation>明るさと色の調整</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="88"/>
         <source>Setup hardware...</source>
         <translation>ハードウェアのセットアップ...</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="89"/>
+        <location filename="lightplugin.cpp" line="93"/>
         <source>User manual (online)</source>
         <translation>ユーザーマニュアル(オンライン)</translation>
     </message>

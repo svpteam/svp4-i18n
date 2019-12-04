@@ -58,7 +58,7 @@
         <location filename="siteauthdlg.ui" line="172"/>
         <location filename="siteauthdlg.ui" line="190"/>
         <location filename="siteauthdlg.ui" line="307"/>
-        <location filename="siteauth.cpp" line="184"/>
+        <location filename="siteauth.cpp" line="183"/>
         <source>optional</source>
         <translation>オプション</translation>
     </message>
@@ -148,12 +148,12 @@
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="245"/>
+        <location filename="siteauth.cpp" line="244"/>
         <source>Open cookie file...</source>
         <translation>Cookieファイルを開く...</translation>
     </message>
     <message>
-        <location filename="siteauth.cpp" line="246"/>
+        <location filename="siteauth.cpp" line="245"/>
         <source>Text files</source>
         <translation>テキストファイル</translation>
     </message>
@@ -203,7 +203,7 @@
     </message>
     <message>
         <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="731"/>
+        <location filename="traywnd.cpp" line="760"/>
         <source>Cancel download</source>
         <translation>ダウンロードのキャンセル</translation>
     </message>
@@ -238,82 +238,97 @@
         <translation>ダウンロード...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="305"/>
+        <location filename="traywnd.cpp" line="311"/>
         <source>Unknown: select to load</source>
         <translation>不明： 読み込み対象を選んでください</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="436"/>
+        <location filename="traywnd.cpp" line="442"/>
         <source>No subtitles</source>
         <translation>字幕無し</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="463"/>
+        <location filename="traywnd.cpp" line="473"/>
         <source>Auto-generated</source>
         <translation>自動生成</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="594"/>
+        <location filename="traywnd.cpp" line="608"/>
         <source>Multiple streams</source>
         <translation>複数ストリーム</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="596"/>
+        <location filename="traywnd.cpp" line="610"/>
         <source>Video</source>
         <translation>映像</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="597"/>
+        <location filename="traywnd.cpp" line="611"/>
         <source>Audio</source>
         <translation>音声</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="597"/>
+        <location filename="traywnd.cpp" line="611"/>
         <source>%1 Kbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="601"/>
+        <location filename="traywnd.cpp" line="615"/>
         <source>%1 Mbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="641"/>
+        <location filename="traywnd.cpp" line="655"/>
         <source>Show another %1 hidden formats</source>
         <translation>隠れている %1 種のフォーマットを表示する</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="671"/>
+        <location filename="traywnd.cpp" line="687"/>
+        <source>Video clips</source>
+        <translation>動画クリップ</translation>
+    </message>
+    <message>
+        <location filename="traywnd.cpp" line="688"/>
+        <source>Matroska video clips</source>
+        <translation>MKV/Matroska 動画クリップ</translation>
+    </message>
+    <message>
+        <location filename="traywnd.cpp" line="689"/>
+        <source>All files</source>
+        <translation>全てのファイル</translation>
+    </message>
+    <message>
+        <location filename="traywnd.cpp" line="694"/>
         <source>Download clip as...</source>
         <translation>クリップをダウンロード...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="732"/>
+        <location filename="traywnd.cpp" line="761"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>本当にダウンロードをキャンセルして良いですか？</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="732"/>
+        <location filename="traywnd.cpp" line="761"/>
         <source>Yes</source>
         <translation>Yes</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="732"/>
+        <location filename="traywnd.cpp" line="761"/>
         <source>No</source>
         <translation>No</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="835"/>
+        <location filename="traywnd.cpp" line="864"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% of %2 downloaded</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="836"/>
+        <location filename="traywnd.cpp" line="865"/>
         <source>%1 downloaded</source>
         <translation>%1 downloaded</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="841"/>
+        <location filename="traywnd.cpp" line="870"/>
         <source>queued</source>
         <translation>queued</translation>
     </message>
@@ -321,228 +336,228 @@
 <context>
     <name>TubePlugin</name>
     <message>
-        <location filename="tubeplugin.cpp" line="64"/>
+        <location filename="tubeplugin.cpp" line="68"/>
         <source>Show SVPtube window</source>
         <translation>SVPtubeウィンドウを表示</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="68"/>
+        <location filename="tubeplugin.cpp" line="72"/>
         <source>Online videos</source>
         <translation>オンラインビデオ</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="71"/>
+        <location filename="tubeplugin.cpp" line="75"/>
         <source>Show video formats window...</source>
         <translation>ビデオフォーマットウィンドウを表示...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="75"/>
+        <location filename="tubeplugin.cpp" line="79"/>
         <source>Monitor clipboard</source>
         <translation>クリップボードの監視</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="77"/>
+        <location filename="tubeplugin.cpp" line="81"/>
         <source>Autoplay</source>
         <translation>自動再生</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="81"/>
+        <location filename="tubeplugin.cpp" line="85"/>
         <source>Preferred resolution</source>
         <translation>お好みの解像度</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="83"/>
+        <location filename="tubeplugin.cpp" line="87"/>
         <source>240p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="84"/>
+        <location filename="tubeplugin.cpp" line="88"/>
         <source>360p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="85"/>
+        <location filename="tubeplugin.cpp" line="89"/>
         <source>480p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="86"/>
+        <location filename="tubeplugin.cpp" line="90"/>
         <source>720p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="87"/>
+        <location filename="tubeplugin.cpp" line="91"/>
         <source>1080p</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="88"/>
+        <location filename="tubeplugin.cpp" line="92"/>
         <source>2K</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="89"/>
+        <location filename="tubeplugin.cpp" line="93"/>
         <source>4K</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="163"/>
+        <location filename="tubeplugin.cpp" line="167"/>
         <source>Player for web site</source>
         <translation>Webサイト用のプレーヤー</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="167"/>
+        <location filename="tubeplugin.cpp" line="171"/>
         <source>Same as for all web sites</source>
         <translation>全てのWebサイトで同じにする</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="400"/>
+        <location filename="tubeplugin.cpp" line="405"/>
         <source>Player for</source>
         <translation>Player for</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="96"/>
+        <location filename="tubeplugin.cpp" line="100"/>
         <source>Video formats filter</source>
         <translation>ビデオフォーマットフィルター</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="65"/>
+        <location filename="tubeplugin.cpp" line="69"/>
         <source>Previous video in SVPtube playlist</source>
         <translation>前のビデオ（SVPtubeプレイリスト）</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="66"/>
+        <location filename="tubeplugin.cpp" line="70"/>
         <source>Next video in SVPtube playlist</source>
         <translation>次のビデオ（SVPtubeプレイリスト）</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="99"/>
+        <location filename="tubeplugin.cpp" line="103"/>
         <source>Show MP4 only (more stable)</source>
         <translation>MP4のみ表示 (安定性重視)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="100"/>
+        <location filename="tubeplugin.cpp" line="104"/>
         <source>Show VP9 and MP4 (VP9 preferred)</source>
         <translation>VP9とMP4を表示 (VP9優先)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="101"/>
+        <location filename="tubeplugin.cpp" line="105"/>
         <source>Show HEVC, VP9 and MP4 (HEVC preferred)</source>
         <translation>HEVCとVP9とMP4を表示 (HEVC優先)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="102"/>
+        <location filename="tubeplugin.cpp" line="106"/>
         <source>Show AV1, HEVC, VP9 and MP4 (AV1 preferred)</source>
         <translation>AV1とHEVCとVP9とMP4を表示 (AV1優先)</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="103"/>
+        <location filename="tubeplugin.cpp" line="107"/>
         <source>Show all formats</source>
         <translation>すべてのフォーマットを表示</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="109"/>
+        <location filename="tubeplugin.cpp" line="113"/>
         <source>Show HTTP streams only</source>
         <translation>HTTPストリームのみ表示</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="110"/>
+        <location filename="tubeplugin.cpp" line="114"/>
         <source>Show HTTP and M3U8 streams</source>
         <translation>HTTPとM3U8ストリームのみ表示</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="111"/>
+        <location filename="tubeplugin.cpp" line="115"/>
         <source>Show all streams</source>
         <translation>すべてのストリームを表示</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="123"/>
+        <location filename="tubeplugin.cpp" line="127"/>
         <source>Hide V+A (DASH) formats</source>
         <translation>V+A(DASH)フォーマットを隠す</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="131"/>
+        <location filename="tubeplugin.cpp" line="135"/>
         <source>Prefer HDR formats</source>
         <translation>HDRフォーマットを優先</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="135"/>
+        <location filename="tubeplugin.cpp" line="139"/>
         <source>Video player</source>
         <translation>ビデオプレーヤー</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="139"/>
+        <location filename="tubeplugin.cpp" line="143"/>
         <source>System default</source>
         <translation>システムの既定</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="144"/>
-        <location filename="tubeplugin.cpp" line="169"/>
+        <location filename="tubeplugin.cpp" line="148"/>
+        <location filename="tubeplugin.cpp" line="173"/>
         <source>mpv player</source>
         <translation>mpvプレーヤー</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="145"/>
-        <location filename="tubeplugin.cpp" line="170"/>
+        <location filename="tubeplugin.cpp" line="149"/>
+        <location filename="tubeplugin.cpp" line="174"/>
         <source>Stream via SVPcast</source>
         <oldsource>SVPcast</oldsource>
         <translation>SVPcast経由でストリーム</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="148"/>
-        <location filename="tubeplugin.cpp" line="171"/>
+        <location filename="tubeplugin.cpp" line="152"/>
+        <location filename="tubeplugin.cpp" line="175"/>
         <source>Choose application...</source>
         <translation>アプリケーション選択...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="179"/>
+        <location filename="tubeplugin.cpp" line="183"/>
         <source>Authentication</source>
         <translation>認証</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="180"/>
+        <location filename="tubeplugin.cpp" line="184"/>
         <source>Add web site authentication data...</source>
         <translation>ウェブサイトの認証データを追加...</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="190"/>
+        <location filename="tubeplugin.cpp" line="194"/>
         <source>User manual (online)</source>
         <translation>ユーザーマニュアル(オンライン）</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="194"/>
+        <location filename="tubeplugin.cpp" line="198"/>
         <source>Powered by youtube-dl</source>
         <translation>Powered by youtube-dl</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="211"/>
+        <location filename="tubeplugin.cpp" line="215"/>
         <source>SVPtube 2 - Online video link extractor</source>
         <translation>SVPtube 2 - Online video link extractor</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="262"/>
+        <location filename="tubeplugin.cpp" line="267"/>
         <source>Disabled</source>
         <translation>無効</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="302"/>
-        <location filename="tubeplugin.cpp" line="306"/>
+        <location filename="tubeplugin.cpp" line="307"/>
+        <location filename="tubeplugin.cpp" line="311"/>
         <source>Forget</source>
         <translation>忘れる</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="305"/>
+        <location filename="tubeplugin.cpp" line="310"/>
         <source>Do you really want to forget authentication data for &apos;%1&apos;?</source>
         <translation>本当に &apos;%1&apos; の認証データを忘れても良いですか？</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="306"/>
+        <location filename="tubeplugin.cpp" line="311"/>
         <source>Cancel</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="tubeplugin.cpp" line="346"/>
-        <location filename="tubeplugin.cpp" line="375"/>
+        <location filename="tubeplugin.cpp" line="351"/>
+        <location filename="tubeplugin.cpp" line="380"/>
         <source>Choose video player</source>
         <translation>プレーヤーの選択</translation>
     </message>

@@ -420,31 +420,31 @@
     </message>
     <message>
         <source>Reset to original frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>オリジナルのフレームサイズに戻す</translation>
     </message>
     <message>
         <source>e.g. libx264</source>
-        <translation type="unfinished"></translation>
+        <translation>例：libx264</translation>
     </message>
     <message>
         <source>The libavfilter graph string. Separate &apos;before&apos; and &apos;after interpolation&apos; filterchains with &apos;;&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>libavfilterのグラフ関連の文字列。「補間前」と「補間後」のフィルターチェーンを&apos;;&apos;で区切ってください。</translation>
     </message>
     <message>
         <source>e.g. gradfun=20:30,vflip</source>
-        <translation type="unfinished"></translation>
+        <translation>例：gradfun=20:30,vflip</translation>
     </message>
     <message>
         <source>FFmpeg filters documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>FFmpegフィルターに関する資料</translation>
     </message>
     <message>
         <source>Black fields:</source>
-        <translation type="unfinished"></translation>
+        <translation>黒いバー:</translation>
     </message>
     <message>
         <source>Fine tuning:</source>
-        <translation type="unfinished"></translation>
+        <translation>調整:</translation>
     </message>
 </context>
 <context>

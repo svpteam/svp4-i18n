@@ -420,31 +420,31 @@
     </message>
     <message>
         <source>Reset to original frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>重設為原始畫面尺寸</translation>
     </message>
     <message>
         <source>e.g. libx264</source>
-        <translation type="unfinished"></translation>
+        <translation>例如 libx264</translation>
     </message>
     <message>
         <source>The libavfilter graph string. Separate &apos;before&apos; and &apos;after interpolation&apos; filterchains with &apos;;&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>libavfilter 圖形字串。用 [&apos;;&apos; 分隔「插值前」和「插值後」的篩選鏈。</translation>
     </message>
     <message>
         <source>e.g. gradfun=20:30,vflip</source>
-        <translation type="unfinished"></translation>
+        <translation>例如 gradfun=20:30,vflip</translation>
     </message>
     <message>
         <source>FFmpeg filters documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>FFmpeg 篩選器文件</translation>
     </message>
     <message>
         <source>Black fields:</source>
-        <translation type="unfinished"></translation>
+        <translation>畫面：</translation>
     </message>
     <message>
         <source>Fine tuning:</source>
-        <translation type="unfinished"></translation>
+        <translation>微調：</translation>
     </message>
 </context>
 <context>

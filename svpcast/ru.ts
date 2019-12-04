@@ -120,22 +120,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>NVIDIA NVENC / H.265</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Intel QuickSync / H.265</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>AMD AMF / H.265</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>VAAPI / H.265</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Video encoder</source>
         <translation>Кодировщик видео</translation>
     </message>
@@ -214,6 +198,10 @@
     <message>
         <source>Additional mpv options (see mpv manual)</source>
         <translation>Дополнительные аргументы для запуска mpv</translation>
+    </message>
+    <message>
+        <source>Forget and rescan</source>
+        <translation>Повторное сканирование</translation>
     </message>
 </context>
 <context>
@@ -300,6 +288,18 @@
     <message>
         <source>No subtitles</source>
         <translation>Без субтитров</translation>
+    </message>
+    <message>
+        <source>Load subtitles</source>
+        <translation>Открыть субтитры</translation>
+    </message>
+    <message>
+        <source>Subtitle files</source>
+        <translation>Файлы субтитров</translation>
+    </message>
+    <message>
+        <source>All files</source>
+        <translation>Все файлы</translation>
     </message>
 </context>
 </TS>

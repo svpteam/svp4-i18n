@@ -146,7 +146,7 @@
         <translation>蓝 - 红 - 绿</translation>
     </message>
     <message>
-        <location filename="ledconfiguration.ui" line="1192"/>
+        <location filename="ledconfiguration.ui" line="1197"/>
         <source>Adjust brightness and colors...</source>
         <translation>调整亮度和颜色...</translation>
     </message>
@@ -204,42 +204,42 @@
         <translation>开关跑马灯效果</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="342"/>
+        <location filename="ledconfigurationwnd.cpp" line="346"/>
         <source>Reset configuration</source>
         <translation>重置配置</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="342"/>
+        <location filename="ledconfigurationwnd.cpp" line="346"/>
         <source>Current lights configuration will be lost! Is it OK to continue?</source>
         <translation>将丢失当前灯光配置！是否继续？</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="734"/>
+        <location filename="ledconfigurationwnd.cpp" line="738"/>
         <source>Prismatik profile</source>
         <translation>Prismatik 配置</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="734"/>
+        <location filename="ledconfigurationwnd.cpp" line="738"/>
         <source>Error importing profile from Prismatik.</source>
         <translation>从 Prismatik导入配置错误。</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="767"/>
+        <location filename="ledconfigurationwnd.cpp" line="771"/>
         <source>Prismatik</source>
         <translation>Prismatik</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="767"/>
+        <location filename="ledconfigurationwnd.cpp" line="771"/>
         <source>For the better experience please open Prismatik settings window and set &quot;Mode - Scene luminosity threshold&quot; to 1 (one).</source>
         <translation>为了更好的体验，请打开 Prismatik 设置窗口并把“Mode - Scene luminosity threshold”设为 1。</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="775"/>
+        <location filename="ledconfigurationwnd.cpp" line="779"/>
         <source>Unable to get lights configuration from the server.</source>
         <translation>无法从服务器获取光源配置。</translation>
     </message>
     <message>
-        <location filename="ledconfigurationwnd.cpp" line="780"/>
+        <location filename="ledconfigurationwnd.cpp" line="784"/>
         <source>SVPlight needs at least two lights defined.</source>
         <translation>SVPlight 需要至少定义两个光源。</translation>
     </message>
@@ -263,6 +263,7 @@
     </message>
     <message>
         <location filename="ledcontrol.ui" line="159"/>
+        <location filename="ledcontrolwnd.cpp" line="31"/>
         <source>Brightness</source>
         <translation>亮度</translation>
     </message>
@@ -277,7 +278,7 @@
         <location filename="ledcontrol.ui" line="200"/>
         <location filename="ledcontrol.ui" line="275"/>
         <location filename="ledcontrol.ui" line="335"/>
-        <location filename="ledcontrol.ui" line="440"/>
+        <location filename="ledcontrol.ui" line="444"/>
         <source>MAX</source>
         <translation>最大</translation>
     </message>
@@ -288,57 +289,68 @@
     </message>
     <message>
         <location filename="ledcontrol.ui" line="238"/>
+        <location filename="ledcontrolwnd.cpp" line="32"/>
         <source>Make dark scenes brighter</source>
         <translation>让暗色场景变亮</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="294"/>
+        <location filename="ledcontrolwnd.cpp" line="33"/>
         <source>Saturation</source>
         <translation>饱和度</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="384"/>
+        <location filename="ledcontrol.ui" line="388"/>
         <source>Smooth motion</source>
         <translation>平滑运动</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="403"/>
+        <location filename="ledcontrol.ui" line="407"/>
+        <location filename="ledcontrolwnd.cpp" line="29"/>
         <source>Smooth transitions between colors</source>
         <translation>平滑颜色过渡</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="430"/>
-        <location filename="ledcontrol.ui" line="560"/>
+        <location filename="ledcontrol.ui" line="434"/>
+        <location filename="ledcontrol.ui" line="564"/>
         <source>OFF</source>
         <translation>关</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="459"/>
+        <location filename="ledcontrol.ui" line="463"/>
+        <location filename="ledcontrolwnd.cpp" line="35"/>
         <source>Color correction</source>
         <translation>颜色校正</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="481"/>
+        <location filename="ledcontrol.ui" line="485"/>
         <source>Click to choose wall color</source>
         <translation>点击选择墙面颜色</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="508"/>
+        <location filename="ledcontrol.ui" line="512"/>
         <source>Delay</source>
         <translation>延迟</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="527"/>
+        <location filename="ledcontrol.ui" line="531"/>
+        <location filename="ledcontrolwnd.cpp" line="34"/>
         <source>Presentation delay, in ms</source>
         <translation>显示延迟，以毫秒为单位</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="598"/>
+        <location filename="ledcontrol.ui" line="602"/>
         <source>+1 s</source>
         <translation>+1 秒</translation>
     </message>
     <message>
-        <location filename="ledcontrol.ui" line="667"/>
+        <location filename="ledcontrol.ui" line="618"/>
+        <location filename="ledcontrolwnd.cpp" line="30"/>
+        <source>Smooth scene changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ledcontrol.ui" line="687"/>
         <source>Setup LED lighting hardware...</source>
         <translation>设置 LED 灯光硬件...</translation>
     </message>
@@ -346,52 +358,52 @@
 <context>
     <name>LEDControlWnd</name>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="76"/>
+        <location filename="ledcontrolwnd.cpp" line="85"/>
         <source>No engine</source>
         <translation>没有引擎</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="100"/>
+        <location filename="ledcontrolwnd.cpp" line="109"/>
         <source>OK</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="100"/>
+        <location filename="ledcontrolwnd.cpp" line="109"/>
         <source>FAIL</source>
         <translation>失败</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="106"/>
+        <location filename="ledcontrolwnd.cpp" line="115"/>
         <source>Paintpack isn&apos;t connected OR K8062d library not found.</source>
         <translation>Painpack 未连接或 K8062d 库未找到。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="107"/>
+        <location filename="ledcontrolwnd.cpp" line="116"/>
         <source>Prismatik is not running on specified TCP port.</source>
         <translation>Prismatik 未运行于规定的 TCP 端口。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="108"/>
+        <location filename="ledcontrolwnd.cpp" line="117"/>
         <source>Boblight service is not running on specified IP/port.</source>
         <translation>Boblight 服务未运行于规定的 IP/端口。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="109"/>
+        <location filename="ledcontrolwnd.cpp" line="118"/>
         <source>Lighting hardware isn&apos;t connected OR is blocked by some other app.</source>
         <translation>灯光硬件未连接或被其他应用阻挡了。</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="113"/>
+        <location filename="ledcontrolwnd.cpp" line="122"/>
         <source>Playing video...</source>
         <translation>播放视频...</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="139"/>
+        <location filename="ledcontrolwnd.cpp" line="148"/>
         <source>%1%2 ms</source>
         <translation>%1%2 毫秒</translation>
     </message>
     <message>
-        <location filename="ledcontrolwnd.cpp" line="155"/>
+        <location filename="ledcontrolwnd.cpp" line="164"/>
         <source>Choose a wall color</source>
         <translation>选择墙面颜色</translation>
     </message>
@@ -399,32 +411,32 @@
 <context>
     <name>LightPlugin</name>
     <message>
-        <location filename="lightplugin.cpp" line="67"/>
+        <location filename="lightplugin.cpp" line="71"/>
         <source>Toggle LED lighting</source>
         <translation>LED 灯光开关</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="72"/>
+        <location filename="lightplugin.cpp" line="76"/>
         <source>LED lighting</source>
         <translation>LED 灯光</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="73"/>
+        <location filename="lightplugin.cpp" line="77"/>
         <source>Turn on</source>
         <translation>开启</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="82"/>
+        <location filename="lightplugin.cpp" line="86"/>
         <source>Adjust brightness and colors</source>
         <translation>调整亮度和颜色</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="84"/>
+        <location filename="lightplugin.cpp" line="88"/>
         <source>Setup hardware...</source>
         <translation>设置硬件...</translation>
     </message>
     <message>
-        <location filename="lightplugin.cpp" line="89"/>
+        <location filename="lightplugin.cpp" line="93"/>
         <source>User manual (online)</source>
         <translation>用户手册 (在线)</translation>
     </message>
