@@ -31,17 +31,17 @@
         <translation>ライセンスの管理...</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="222"/>
+        <location filename="aboutdlg.cpp" line="236"/>
         <source>Developers</source>
         <translation>Developers</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="222"/>
+        <location filename="aboutdlg.cpp" line="236"/>
         <source>Special thanks</source>
         <translation>Special thanks</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="94"/>
+        <location filename="aboutdlg.cpp" line="108"/>
         <source>Indiegogo Co-Authors</source>
         <translation>Indiegogo Co-Authors</translation>
     </message>
@@ -51,17 +51,27 @@
         <translation>評価バージョン</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="95"/>
+        <location filename="aboutdlg.cpp" line="40"/>
+        <source>Enter license key...</source>
+        <translation>ライセンスキーを入力します</translation>
+    </message>
+    <message>
+        <location filename="aboutdlg.cpp" line="90"/>
+        <source>%1 day(s) left</source>
+        <translation>残り%1日</translation>
+    </message>
+    <message>
+        <location filename="aboutdlg.cpp" line="109"/>
         <source>Pre-Indiegogo donators</source>
         <translation>Pre-Indiegogo donators</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="96"/>
+        <location filename="aboutdlg.cpp" line="110"/>
         <source>Indiegogo Part of the Team members</source>
         <translation>Indiegogo Part of the Team members</translation>
     </message>
     <message>
-        <location filename="aboutdlg.cpp" line="97"/>
+        <location filename="aboutdlg.cpp" line="111"/>
         <source>Indiegogo funders</source>
         <translation>Indiegogo funders</translation>
     </message>
@@ -164,37 +174,37 @@
         <translation>登録用サーバーの応答を待っています...</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="280"/>
+        <location filename="activationwnd.cpp" line="297"/>
         <source>Connection error, please try again later</source>
         <translation>接続エラーが発生しましたので、後でもう一度お試しください</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="285"/>
+        <location filename="activationwnd.cpp" line="302"/>
         <source>Invalid e-mail or registration key</source>
         <translation>Eメールアドレスまたは登録キーが間違っています</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="286"/>
+        <location filename="activationwnd.cpp" line="303"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
         <translation>このSVPエディションでは使えない登録キーです</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="287"/>
+        <location filename="activationwnd.cpp" line="304"/>
         <source>Too many activations for the registration key</source>
         <translation>登録キーの許容数を超える登録はできません</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="288"/>
+        <location filename="activationwnd.cpp" line="305"/>
         <source>Trial period expired, please purchase registration key!</source>
         <translation>評価期間が終了しました。登録キーを購入してください。</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="289"/>
+        <location filename="activationwnd.cpp" line="306"/>
         <source>Unknown error</source>
         <translation>原因不明のエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="activationwnd.cpp" line="292"/>
+        <location filename="activationwnd.cpp" line="309"/>
         <source>Error writing license file</source>
         <translation>ライセンスファイルの書き込みでエラーが発生</translation>
     </message>
@@ -1023,114 +1033,114 @@
 <context>
     <name>PlaybackObject</name>
     <message>
-        <location filename="playbackobject.cpp" line="74"/>
+        <location filename="playbackobject.cpp" line="75"/>
         <source>2D mode</source>
         <translation>2Dモード</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="76"/>
+        <location filename="playbackobject.cpp" line="77"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
         <translation>3D: Side-by-side stereo pair</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="75"/>
+        <location filename="playbackobject.cpp" line="76"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
         <translation>3D: Over-under stereo pair</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="94"/>
+        <location filename="playbackobject.cpp" line="95"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP － 4GBパッチの適用</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="95"/>
+        <location filename="playbackobject.cpp" line="96"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>動画プレーヤーが4GB対応になっていません。SVPを使う前に4GBパッチを適用することを強くお勧めします。
 「パッチを適用する」のボタンを押す前に、動画プレーヤーを終了しておいて下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="96"/>
+        <location filename="playbackobject.cpp" line="97"/>
         <source>Patch</source>
         <translation>パッチを適用する</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="96"/>
+        <location filename="playbackobject.cpp" line="97"/>
         <source>Not now</source>
         <translation>今はやめておく</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="96"/>
+        <location filename="playbackobject.cpp" line="97"/>
         <source>Don&apos;t ask again</source>
         <translation>今後は確認しない</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="286"/>
+        <location filename="playbackobject.cpp" line="287"/>
         <source>Playing at %1 fps</source>
         <translation>Playing at %1 fps</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="288"/>
+        <location filename="playbackobject.cpp" line="289"/>
         <source>Paused</source>
         <translation>Paused</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="289"/>
+        <location filename="playbackobject.cpp" line="290"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="291"/>
-        <location filename="playbackobject.cpp" line="1008"/>
+        <location filename="playbackobject.cpp" line="292"/>
+        <location filename="playbackobject.cpp" line="1009"/>
         <source>10 bit</source>
         <translation>10 bit</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="312"/>
+        <location filename="playbackobject.cpp" line="313"/>
         <source>SVP: enabled</source>
         <translation>SVP: 有効</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="313"/>
+        <location filename="playbackobject.cpp" line="314"/>
         <source>SVP: disabled</source>
         <translation>SVP: 無効</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="999"/>
+        <location filename="playbackobject.cpp" line="1000"/>
         <source>Black bars: </source>
         <translation>黒いバー: </translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1006"/>
+        <location filename="playbackobject.cpp" line="1007"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: playing at %1
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1026"/>
+        <location filename="playbackobject.cpp" line="1027"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: フレームサイズの調整</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1097"/>
+        <location filename="playbackobject.cpp" line="1098"/>
         <source>You&apos;re using mpv built without Vapoursynth support! SVP won&apos;t work with it, consider installing correct mpv version.</source>
         <translation>Vapoursynthをサポートしていないmpvが使われているのでSVPが動作しません。適切なmpvをインストールしてみて下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1114"/>
+        <location filename="playbackobject.cpp" line="1115"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>互換性が無いバージョンのAvisynthを使用しています！SVPが動作しませんので、&lt;SVP-installation-path&gt;\pluginsフォルダにあるavisynth.dllを使用して下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1121"/>
+        <location filename="playbackobject.cpp" line="1122"/>
         <source>Error initializing OpenCL subsystem. Please re-install graphics drivers.</source>
         <translation>OpenCLの初期化でエラーが起きました。グラフィックドライバを再インストールしてみて下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1500"/>
+        <location filename="playbackobject.cpp" line="1501"/>
         <source>Other profiles</source>
         <translation>その他のプロファイル</translation>
     </message>
@@ -1231,7 +1241,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="748"/>
         <source>Artifacts masking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Artifacts masking</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="760"/>
@@ -1651,61 +1661,66 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="trayicon.cpp" line="92"/>
+        <source>Use multiple command queues: 0 - no, 1 - yes except on Intel GPUs, 2 - always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="93"/>
         <source>Number of CPU computation threads</source>
         <translation>CPU計算の処理スレッド数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="93"/>
+        <location filename="trayicon.cpp" line="94"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>モニタのリフレッシュレートと目標リフレッシュレートとの相対誤差の上限値</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="94"/>
+        <location filename="trayicon.cpp" line="95"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
         <translation>FRCエンジンで処理するソースFPSの最大値</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="95"/>
+        <location filename="trayicon.cpp" line="96"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation>フレームの幅を4または8の倍数に揃える</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="96"/>
+        <location filename="trayicon.cpp" line="97"/>
         <source>Align video frame height to the multiple of this value</source>
         <translation>フレームの高さをこの値の倍数に揃える</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="98"/>
+        <location filename="trayicon.cpp" line="99"/>
         <source>Allow 10-bit output, otherwise force YUV 4:2:0 8-bit output format</source>
         <translation>10bit出力を許可する（許可しない場合YUV4:2:0の8bit出力となる）</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="101"/>
+        <location filename="trayicon.cpp" line="102"/>
         <source>Fix washed-out HDR colors in DirectShow players by doing simple tone mapping</source>
         <translation>簡単なトーンマッピングでDirectShowプレーヤーでのHDRの色あせを修正する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="102"/>
+        <location filename="trayicon.cpp" line="103"/>
         <source>Improve tone mapping by estimating average and peak luma values in each frame</source>
         <translation>各フレームで平均輝度と最大輝度を推定してトーンマッピングを向上させる</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="103"/>
+        <location filename="trayicon.cpp" line="104"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>4GBパッチの適用について確認しない</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="104"/>
+        <location filename="trayicon.cpp" line="105"/>
         <source>Fixes fonts and UI elements after display scaling changes or switching to another montor</source>
         <translation>ディスプレーの解像度の変更語や別のモニターに切り替えた際にフォントやユーザーインターフェースを固定する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="106"/>
+        <location filename="trayicon.cpp" line="107"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>システムパフォーマンスの判定について確認しない</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="107"/>
+        <location filename="trayicon.cpp" line="108"/>
         <source>Launch SVP disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2601,7 +2616,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>SystemInfo</name>
     <message>
-        <location filename="systeminfo.cpp" line="612"/>
+        <location filename="systeminfo.cpp" line="610"/>
         <source>Choose ffmpeg executable</source>
         <translation>ffmpeg実行ファイルを選択</translation>
     </message>
@@ -2609,374 +2624,374 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="trayicon.cpp" line="679"/>
+        <location filename="trayicon.cpp" line="681"/>
         <source>Start with SVP with right click on the icon</source>
         <translation>アイコン右クリックでSVP開始</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="680"/>
+        <location filename="trayicon.cpp" line="682"/>
         <source>Language was changed to %1</source>
         <translation>言語設定が%1に変更されました</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="684"/>
+        <location filename="trayicon.cpp" line="686"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
         <translation>SVPのライセンス登録に成功しました。ありがとうございます！</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="690"/>
-        <location filename="trayicon.cpp" line="1360"/>
+        <location filename="trayicon.cpp" line="692"/>
+        <location filename="trayicon.cpp" line="1368"/>
         <source>Updates available</source>
         <translation>アップデートが可能です</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="739"/>
+        <location filename="trayicon.cpp" line="741"/>
         <source>No active playback</source>
         <translation>再生動画：無し</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="778"/>
+        <location filename="trayicon.cpp" line="780"/>
         <source>SVP Control Panel</source>
         <translation>SVPコントロールパネル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="910"/>
+        <location filename="trayicon.cpp" line="912"/>
         <source>Video frame</source>
         <translation>ビデオフレーム</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="913"/>
+        <location filename="trayicon.cpp" line="915"/>
         <source>Detect and cut off black bars</source>
         <translation>黒いバーを自動検出してカット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="914"/>
+        <location filename="trayicon.cpp" line="916"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
         <translation>映像フレーム内の黒いバー部分の自動検出とカット処理</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="922"/>
+        <location filename="trayicon.cpp" line="924"/>
         <source>Keep aspect ratio</source>
         <translation>画面比を維持する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="923"/>
+        <location filename="trayicon.cpp" line="925"/>
         <source>Crop to the screen aspect ratio</source>
         <translation>画面比にあわせてクロップする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="925"/>
+        <location filename="trayicon.cpp" line="927"/>
         <source>Frame cropping mode applied before any size changing</source>
         <translation>フレームのクロップ処理は各種サイズ変更処理の前に適用されます</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="930"/>
+        <location filename="trayicon.cpp" line="932"/>
         <source>Keep normal size</source>
         <translation>元のサイズを維持する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="931"/>
+        <location filename="trayicon.cpp" line="933"/>
         <source>Decrease to screen size</source>
         <translation>画面サイズに縮小する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="933"/>
+        <location filename="trayicon.cpp" line="935"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
         <translation>フレームレート変換を簡略化するためサイズを縮小する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="938"/>
+        <location filename="trayicon.cpp" line="940"/>
         <source>Advanced controls...</source>
         <translation>高度なコントロール...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="944"/>
+        <location filename="trayicon.cpp" line="946"/>
         <source>Outer lighting</source>
         <translation>外枠のライティング</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="734"/>
-        <location filename="trayicon.cpp" line="951"/>
+        <location filename="trayicon.cpp" line="736"/>
+        <location filename="trayicon.cpp" line="953"/>
         <source>Disabled</source>
         <translation>無効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="947"/>
+        <location filename="trayicon.cpp" line="949"/>
         <source>Fill black bars</source>
         <translation>黒いバー部分のみ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="696"/>
+        <location filename="trayicon.cpp" line="698"/>
         <source>Default configuration restored</source>
         <translation>デフォルト設定に戻りました</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="698"/>
+        <location filename="trayicon.cpp" line="700"/>
         <source>You have %1 day(s) left in your evaluation.</source>
-        <translation>評価試用期間の残りは%1です。</translation>
+        <translation>評価試用期間の残りは%1日です。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="874"/>
+        <location filename="trayicon.cpp" line="876"/>
         <source>Run VLC with SVP...</source>
         <translation>SVPでVLCを実行...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="893"/>
+        <location filename="trayicon.cpp" line="895"/>
         <source>Open</source>
         <translation>Open</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="894"/>
+        <location filename="trayicon.cpp" line="896"/>
         <source>Video files</source>
         <translation>ビデオファイル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="895"/>
+        <location filename="trayicon.cpp" line="897"/>
         <source>All files</source>
         <translation>すべてのファイル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="917"/>
+        <location filename="trayicon.cpp" line="919"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
         <translation>黒いバー検出を継続して行うか一度のみとするか</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="948"/>
+        <location filename="trayicon.cpp" line="950"/>
         <source>Glow lights</source>
         <translation>グローライト</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="950"/>
+        <location filename="trayicon.cpp" line="952"/>
         <source>Fix 3D aspect ratio only</source>
         <translation>3Dアスペクト比のみ固定</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="954"/>
+        <location filename="trayicon.cpp" line="956"/>
         <source>Outer lighting mode</source>
         <translation>外枠のライティングモード</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="957"/>
+        <location filename="trayicon.cpp" line="959"/>
         <source>Glow border width</source>
         <translation>グロー幅</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="962"/>
+        <location filename="trayicon.cpp" line="964"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
         <translation>外枠ライティングでの最大拡大率</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="965"/>
+        <location filename="trayicon.cpp" line="967"/>
         <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
         <translation>ライティング有効化におけるフレームとモニタのアスペクト比の最小誤差</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="968"/>
+        <location filename="trayicon.cpp" line="970"/>
         <source>Enabled in full screen only</source>
         <translation>フルスクリーン時のみ有効</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="970"/>
+        <location filename="trayicon.cpp" line="972"/>
         <source>Enable outer lighting for full screen playback only</source>
         <translation>フルスクリーン時のみライティングを有効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="982"/>
+        <location filename="trayicon.cpp" line="984"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
         <translation>フルスクリーン状態になった際にライティングを再初期化するためのディレイ（ms単位）</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="985"/>
+        <location filename="trayicon.cpp" line="987"/>
         <source>Disabled in 3D mode</source>
         <translation>3Dモードでは無効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="987"/>
+        <location filename="trayicon.cpp" line="989"/>
         <source>Enable outer lighting only for 2D videos</source>
         <translation>2Dモード時のみライティングを有効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="996"/>
+        <location filename="trayicon.cpp" line="998"/>
         <source>Light patterns</source>
         <translation>ライトのパターン</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1000"/>
+        <location filename="trayicon.cpp" line="1002"/>
         <source>Manage patterns...</source>
         <translation>パターンの管理...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1011"/>
+        <location filename="trayicon.cpp" line="1013"/>
         <source>My options</source>
         <translation>個人設定オプション</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1018"/>
+        <location filename="trayicon.cpp" line="1020"/>
         <source>Temporarily disable SVP</source>
         <translation>一時的にSVPを無効にする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1021"/>
+        <location filename="trayicon.cpp" line="1023"/>
         <source>SVP is disabled until next start</source>
         <translation>次に開始するまでSVPは無効となります</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1023"/>
+        <location filename="trayicon.cpp" line="1025"/>
         <source>Utilities</source>
         <translation>ユーティリティ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1025"/>
+        <location filename="trayicon.cpp" line="1027"/>
         <source>Performance Monitor</source>
         <translation>パフォーマンスモニタ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1030"/>
+        <location filename="trayicon.cpp" line="1032"/>
         <source>Assess system performance</source>
         <translation>システムパフォーマンスの判定</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1039"/>
+        <location filename="trayicon.cpp" line="1041"/>
         <source>Demonstration mode</source>
         <translation>デモモード</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1040"/>
+        <location filename="trayicon.cpp" line="1042"/>
         <source>Fluency and tearing test</source>
         <translation>滑らかさとティアリングのテスト</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1052"/>
+        <location filename="trayicon.cpp" line="1054"/>
         <source>Apply 4GB aware patch...</source>
         <translation>4GBパッチの適用...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1055"/>
+        <location filename="trayicon.cpp" line="1057"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
         <translation>「続ける」を押した後、使っているプレーヤーの実行ファイルを選択して下さい。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1056"/>
+        <location filename="trayicon.cpp" line="1058"/>
         <source>Continue</source>
         <translation>続ける</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1056"/>
+        <location filename="trayicon.cpp" line="1058"/>
         <source>Cancel</source>
         <translation>やめる</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1063"/>
+        <location filename="trayicon.cpp" line="1065"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
         <translation>SVP in VLC (replace &apos;deinterlace&apos; filter)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1079"/>
+        <location filename="trayicon.cpp" line="1081"/>
         <source>Additional programs and features...</source>
         <translation>その他のプログラムや機能...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1088"/>
+        <location filename="trayicon.cpp" line="1090"/>
         <source>Application settings</source>
         <translation>アプリケーション設定</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1093"/>
+        <location filename="trayicon.cpp" line="1095"/>
         <source>No acceleration</source>
         <translation>加速無し</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1096"/>
+        <location filename="trayicon.cpp" line="1098"/>
         <source>Using</source>
         <translation>Using</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1107"/>
+        <location filename="trayicon.cpp" line="1109"/>
         <source>GPU acceleration</source>
         <translation>GPU加速</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1111"/>
+        <location filename="trayicon.cpp" line="1113"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
         <translation>GPU加速が使えないのは何故？</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1117"/>
+        <location filename="trayicon.cpp" line="1119"/>
         <source>Use NVIDIA Optical Flow</source>
         <translation>NVIDIA Optical Flow を使用する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1119"/>
+        <location filename="trayicon.cpp" line="1121"/>
         <source>64-bit only</source>
         <translation>64ビットのみ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1130"/>
+        <location filename="trayicon.cpp" line="1132"/>
         <source>Dark mode</source>
         <translation>ダークモード</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1133"/>
+        <location filename="trayicon.cpp" line="1135"/>
         <source>Show OSD messages</source>
         <translation>OSDメッセージを表示</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1135"/>
+        <location filename="trayicon.cpp" line="1137"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>キーボードショートカットの編集...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1143"/>
+        <location filename="trayicon.cpp" line="1145"/>
         <source>Load at Windows startup</source>
         <translation>Windows起動時にロードする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1145"/>
+        <location filename="trayicon.cpp" line="1147"/>
         <source>Load at system startup</source>
         <translation>システム起動時にロードする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1154"/>
+        <location filename="trayicon.cpp" line="1156"/>
         <source>Minimize to tray</source>
         <translation>トレイに最小化</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1158"/>
+        <location filename="trayicon.cpp" line="1160"/>
         <source>Additional options</source>
         <translation>その他のオプション</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1168"/>
+        <location filename="trayicon.cpp" line="1170"/>
         <source>Try to recover HDR colors</source>
         <translation>HDRカラーの復帰を試みる</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1173"/>
+        <location filename="trayicon.cpp" line="1175"/>
         <source>Treat 23.810 source frame rate as 23.976</source>
         <translation>23.810ソースフレームレートを23.976として処理</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1175"/>
+        <location filename="trayicon.cpp" line="1177"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>インターレース動画はフレームレートを２倍として扱う</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1355"/>
+        <location filename="trayicon.cpp" line="1363"/>
         <source>Enter license key...</source>
         <translation>ライセンスキーを入力します</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1958"/>
+        <location filename="trayicon.cpp" line="1966"/>
         <source>There&apos;re some jobs running [%1], are you sure you want to abort them?</source>
         <translation>複数の処理が進行中です [%1]。処理を中止してよろしいですか？</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1162"/>
+        <location filename="trayicon.cpp" line="1164"/>
         <source>Allow output in 10 bit color depth</source>
         <translation>10bit深度での出力を許可する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1177"/>
+        <location filename="trayicon.cpp" line="1179"/>
         <source>Turn stereo mode on by aspect ratio</source>
         <translation>画面比を判定してステレオモードをONにする</translation>
     </message>
@@ -3021,62 +3036,62 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>mpvの設定ファイル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1388"/>
+        <location filename="trayicon.cpp" line="1396"/>
         <source>Help</source>
         <translation>ヘルプ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1837"/>
+        <location filename="trayicon.cpp" line="1845"/>
         <source>SVP - Extensions</source>
         <translation>SVP - 拡張機能</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1837"/>
+        <location filename="trayicon.cpp" line="1845"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>変更を反映するにはマネージャの再起動が必要です。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1938"/>
+        <location filename="trayicon.cpp" line="1946"/>
         <source>%1% off the Pro version</source>
         <translation>%1% off the Pro version</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1180"/>
+        <location filename="trayicon.cpp" line="1182"/>
         <source>Reset on seek</source>
         <translation>シーク時のリセット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="697"/>
+        <location filename="trayicon.cpp" line="699"/>
         <source>License check failed, please re-register! Click here to restart SVP.</source>
         <translation>ライセンスのチェックに失敗しました。登録をやり直してください。ここをクリックしてSVPを再起動します。</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="852"/>
+        <location filename="trayicon.cpp" line="854"/>
         <source>Profile for an active video</source>
         <translation>アクティブ動画のプロファイル</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="882"/>
+        <location filename="trayicon.cpp" line="884"/>
         <source>Open file via mpv...</source>
         <translation>mpvでファイルを開く...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1054"/>
+        <location filename="trayicon.cpp" line="1056"/>
         <source>SVP - 4GB aware patch</source>
         <translation>SVP - 4GBパッチの適用</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1181"/>
+        <location filename="trayicon.cpp" line="1183"/>
         <source>Don&apos;t reset</source>
         <translation>リセットしない</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1183"/>
+        <location filename="trayicon.cpp" line="1185"/>
         <source>Soft reset</source>
         <translation>ソフトリセット</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1184"/>
+        <location filename="trayicon.cpp" line="1186"/>
         <source>Hard reset</source>
         <translation>ハードリセット</translation>
     </message>
@@ -3191,22 +3206,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>バージョン情報とクレジット...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1341"/>
+        <location filename="trayicon.cpp" line="1349"/>
         <source>Order full version</source>
         <translation>フルバージョンの購入</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1370"/>
+        <location filename="trayicon.cpp" line="1378"/>
         <source>Exit</source>
         <translation>SVPを終了する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1588"/>
+        <location filename="trayicon.cpp" line="1596"/>
         <source>SVP - Video player</source>
         <translation>SVP - 動画プレーヤー</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1588"/>
+        <location filename="trayicon.cpp" line="1596"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>動画プレーヤーと連携できません。別のユーザーアカウントで実行されていないか確認して下さい。</translation>
     </message>
