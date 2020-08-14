@@ -203,6 +203,22 @@
         <source>Forget and rescan</source>
         <translation>最初からスキャンし直す</translation>
     </message>
+    <message>
+        <source>Fallback to H.264 on error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use &apos;www.svp-team.com/cast&apos; as a shortcut to the local Web UI server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Optional unique computer name i.e. &apos;www.svp-team.com/cast/name&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update every &lt;value&gt; seconds, useful in case of dynamic external IP address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceFinder</name>

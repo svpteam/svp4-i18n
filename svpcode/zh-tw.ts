@@ -175,6 +175,22 @@
         <source>Encoded file name template, where original file name = $BASE.$EXTS.&lt;file-type&gt;</source>
         <translation>編碼的檔案名稱範本，原始檔案名稱 = $BASE.$EXTS.&lt;file-type&gt;</translation>
     </message>
+    <message>
+        <source>Output color depth: 0 - as source, 1 - force 8-bit, 2 - force 10-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable SVP while encoding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transcoding finished but remuxing failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEED REMUXING</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConfigurationWnd</name>
@@ -359,14 +375,6 @@
         <translation>刪除設定檔</translation>
     </message>
     <message>
-        <source>Video only, don&apos;t mux with source tracks</source>
-        <translation>僅限視訊，不要跟來源音軌多工</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>無</translation>
-    </message>
-    <message>
         <source>SVP - Encoder profiles</source>
         <translation>SVP─編碼器設定檔</translation>
     </message>
@@ -446,6 +454,30 @@
         <source>Fine tuning:</source>
         <translation>微調：</translation>
     </message>
+    <message>
+        <source>Video only, drop all other tracks</source>
+        <translation>僅限視訊，不要跟來源音軌多工</translation>
+    </message>
+    <message>
+        <source>Transcoding powered by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10-bit encoding requires GPU acceleration enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Encoder</name>
@@ -465,16 +497,16 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>My settings</source>
-        <translation>我的設定</translation>
-    </message>
-    <message>
-        <source>Default H.264 / software</source>
-        <translation>預設 H.264 / 軟體</translation>
-    </message>
-    <message>
         <source>Copy of </source>
         <translation>的複製 </translation>
+    </message>
+    <message>
+        <source>Default %1 / %2</source>
+        <translation>預設 %1 / %2</translation>
+    </message>
+    <message>
+        <source>software</source>
+        <translation>軟體</translation>
     </message>
 </context>
 </TS>

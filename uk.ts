@@ -245,22 +245,32 @@
         <translation>Завантаження системи:</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="250"/>
+        <location filename="benchmarkwnd.ui" line="220"/>
+        <source>Your video card supports full hardware acceleration via NVIDIA Optical Flow, do you want to enable it now? You can always do it later from the &apos;GPU acceleration&apos; menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="benchmarkwnd.ui" line="230"/>
+        <source>Enable NVIDIA Optical Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="benchmarkwnd.ui" line="285"/>
         <source>Start</source>
         <translation>Початок</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="266"/>
+        <location filename="benchmarkwnd.ui" line="301"/>
         <source>Skip</source>
         <translation>Іншим разом</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="279"/>
+        <location filename="benchmarkwnd.ui" line="314"/>
         <source>Don&apos;t ask</source>
         <translation>Не питати більше</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.ui" line="330"/>
+        <location filename="benchmarkwnd.ui" line="365"/>
         <source>Assessing now:</source>
         <translation>Аналізується:</translation>
     </message>
@@ -280,22 +290,22 @@
         <translation>Повторний аналіз швидкоспроможності.</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="42"/>
+        <location filename="benchmarkwnd.cpp" line="43"/>
         <source>TOO HIGH</source>
         <translation>ЗАВИСОКА</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="91"/>
+        <location filename="benchmarkwnd.cpp" line="99"/>
         <source>motion vectors estimation</source>
         <translation>пошук векторів руху</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="95"/>
+        <location filename="benchmarkwnd.cpp" line="103"/>
         <source>CPU-based frame rendering</source>
         <translation>побудова нових кадрів на CPU</translation>
     </message>
     <message>
-        <location filename="benchmarkwnd.cpp" line="99"/>
+        <location filename="benchmarkwnd.cpp" line="107"/>
         <source>GPU-based frame rendering</source>
         <translation>побудова нових кадрів на GPU</translation>
     </message>
@@ -407,77 +417,82 @@
         <translation>Індекс SVP. Клацніть для перегляду завантаження CPU.</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="178"/>
+        <location filename="controlpanel.cpp" line="200"/>
         <source>Video profiles</source>
         <translation>Профілі відео</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="185"/>
+        <location filename="controlpanel.cpp" line="207"/>
         <source>Frame size</source>
         <translation>Величина кадру</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="192"/>
+        <location filename="controlpanel.cpp" line="214"/>
         <source>Black bars lighting</source>
         <translation>Підсвічування полів</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="199"/>
+        <location filename="controlpanel.cpp" line="221"/>
         <source>Performance monitor</source>
         <translation>Монітор завантаження</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="206"/>
+        <location filename="controlpanel.cpp" line="228"/>
         <source>Updates</source>
         <translation>Оновлення SVP</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="149"/>
+        <location filename="controlpanel.cpp" line="169"/>
         <source>N/A</source>
         <translation>--</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="213"/>
+        <location filename="controlpanel.cpp" line="114"/>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="controlpanel.cpp" line="235"/>
         <source>Report a problem</source>
         <translation>Доповісти про проблему</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="220"/>
+        <location filename="controlpanel.cpp" line="242"/>
         <source>Events log</source>
         <translation>Журнал</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="227"/>
+        <location filename="controlpanel.cpp" line="249"/>
         <source>Application settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="234"/>
+        <location filename="controlpanel.cpp" line="256"/>
         <source>Control options</source>
         <translation>Дистанційне керування</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="241"/>
+        <location filename="controlpanel.cpp" line="263"/>
         <source>Unlock SVP features</source>
         <translation>Повна версія</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="248"/>
+        <location filename="controlpanel.cpp" line="270"/>
         <source>More...</source>
         <translation>Ще...</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="254"/>
+        <location filename="controlpanel.cpp" line="276"/>
         <source>Help...</source>
         <translation>Довідка...</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="436"/>
+        <location filename="controlpanel.cpp" line="464"/>
         <source>No active playback</source>
         <translation>Програвання відео відсутнє</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="451"/>
+        <location filename="controlpanel.cpp" line="479"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
         <translation>+ також %1</translation>
@@ -627,29 +642,24 @@
         <translation>Відмовлено в доступі до відеопрогравача. Можливо SVP запущений з правами адміністратора?</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="86"/>
+        <location filename="ffdshowvideoplayer.cpp" line="87"/>
         <source>64-bit SVP engine is not installed</source>
         <translation>Модуль підтримки 64-бітних програвачів не встановлений</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="87"/>
+        <location filename="ffdshowvideoplayer.cpp" line="88"/>
         <source>32-bit SVP engine is not installed</source>
         <translation>Модуль підтримки 32-бітних програвачів не встановлений</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="111"/>
+        <location filename="ffdshowvideoplayer.cpp" line="112"/>
         <source>Unable to locate Avisynth, please re-install it</source>
         <translation>Avisynth не знайдений, спробуйте встановити його повторно</translation>
     </message>
     <message>
-        <location filename="ffdshowvideoplayer.cpp" line="124"/>
+        <location filename="ffdshowvideoplayer.cpp" line="125"/>
         <source>Legacy Avisynth 2.5 is not supported, please use either Avisynth 2.6 or Avisynth+</source>
         <translation>Avisynth 2.5 застарілий та не підтримується, використовуйте оновлений Avisynth 2.6 чи Avisynth+</translation>
-    </message>
-    <message>
-        <location filename="ffdshowvideoplayer.cpp" line="140"/>
-        <source>Error communicating with the video player. Maybe SVP is running with administrator privileges?</source>
-        <translation>Помилка звернення до відеопрогравача. Можливо SVP запущений з правами адміністратора?</translation>
     </message>
 </context>
 <context>
@@ -908,7 +918,7 @@
 <context>
     <name>MpvFinder</name>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="58"/>
+        <location filename="mpvvideoplayer.cpp" line="59"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
         <translation>Шлях до сокету mpv для JSON IPC (див. опис налаштування --input-ipc-server)</translation>
     </message>
@@ -928,18 +938,18 @@
         <translation>Нав&apos;язувати постійну кадрову частоту в mpv (функція сумісності)</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="194"/>
+        <location filename="mpvvideoplayer.cpp" line="288"/>
         <source>Can&apos;t find mpv executable. Do you want to find it manually?</source>
         <translation>Не вдається знайти виконуючий файл mpv. Бажаєте вказати його вручну?</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="198"/>
+        <location filename="mpvvideoplayer.cpp" line="292"/>
         <source>Open</source>
         <translation>Відкрити</translation>
     </message>
     <message>
-        <location filename="mpvvideoplayer.cpp" line="200"/>
-        <location filename="mpvvideoplayer.cpp" line="202"/>
+        <location filename="mpvvideoplayer.cpp" line="294"/>
+        <location filename="mpvvideoplayer.cpp" line="296"/>
         <source>mpv executable</source>
         <translation>Виконуючий файл mpv</translation>
     </message>
@@ -1096,7 +1106,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="292"/>
-        <location filename="playbackobject.cpp" line="1009"/>
+        <location filename="playbackobject.cpp" line="1017"/>
         <source>10 bit</source>
         <translation>10 біт</translation>
     </message>
@@ -1111,39 +1121,39 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>SVP: вимкнено</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1000"/>
+        <location filename="playbackobject.cpp" line="1008"/>
         <source>Black bars: </source>
         <translation>Поля:</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1007"/>
+        <location filename="playbackobject.cpp" line="1015"/>
         <source>SVP: playing at %1
 %2%3</source>
         <translation>SVP: програвання %1 к/с
 %2%3</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1027"/>
+        <location filename="playbackobject.cpp" line="1036"/>
         <source>SVP: adjusting frame size</source>
         <translation>SVP: встановлення величини кадру</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1098"/>
+        <location filename="playbackobject.cpp" line="1107"/>
         <source>You&apos;re using mpv built without Vapoursynth support! SVP won&apos;t work with it, consider installing correct mpv version.</source>
         <translation>Ви використовуєте mpv без вбудованої підтримки Vapoursynth, що є несумісним з SVP! Встановіть потрібну версію mpv.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1115"/>
+        <location filename="playbackobject.cpp" line="1124"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
         <translation>Використовується несумісна версія Avisynth! Для роботи SVP потрібно замінити файл &apos;avisynth.dll&apos; на той, що в директорії &lt;Папка-інсталляції-SVP&gt;\plugins.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1122"/>
+        <location filename="playbackobject.cpp" line="1131"/>
         <source>Error initializing OpenCL subsystem. Please re-install graphics drivers.</source>
         <translation>Помилка ініціалізації OpenCL. Будь ласка, перевстановіть драйвер графічного адаптеру.</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1501"/>
+        <location filename="playbackobject.cpp" line="1512"/>
         <source>Other profiles</source>
         <translation>Інші профілі</translation>
     </message>
@@ -1308,7 +1318,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="268"/>
-        <location filename="profilewnd.cpp" line="683"/>
+        <location filename="profilewnd.cpp" line="682"/>
         <source>fps</source>
         <translation>к/с</translation>
     </message>
@@ -1328,53 +1338,53 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Ви впевнені, що хочете видалити цей профіль?</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="573"/>
+        <location filename="profilewnd.cpp" line="572"/>
         <source>Reset to predefined values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="582"/>
+        <location filename="profilewnd.cpp" line="581"/>
         <source>Automatic profile #%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="582"/>
+        <location filename="profilewnd.cpp" line="581"/>
         <source>Default profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="610"/>
+        <location filename="profilewnd.cpp" line="609"/>
         <source>Rendering options</source>
         <translation>Побудова кадрів</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="614"/>
-        <location filename="profilewnd.cpp" line="619"/>
+        <location filename="profilewnd.cpp" line="613"/>
+        <location filename="profilewnd.cpp" line="618"/>
         <source>Motion vectors options</source>
         <translation>Пошук векторів руху</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="623"/>
+        <location filename="profilewnd.cpp" line="622"/>
         <source>Miscellaneous options</source>
         <translation>Загальні налаштування</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="682"/>
+        <location filename="profilewnd.cpp" line="681"/>
         <source>Movie</source>
         <translation>Відео</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="682"/>
+        <location filename="profilewnd.cpp" line="681"/>
         <source>Screen</source>
         <translation>Екран</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="683"/>
+        <location filename="profilewnd.cpp" line="682"/>
         <source>Fixed</source>
         <translation>Фіксована</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="740"/>
+        <location filename="profilewnd.cpp" line="739"/>
         <source>User defined options</source>
         <translation>Налаштування користувача</translation>
     </message>
@@ -1382,12 +1392,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>ProfilesCollection</name>
     <message>
-        <location filename="profilescollection.cpp" line="35"/>
+        <location filename="profilescollection.cpp" line="44"/>
+        <source>Ignore HFR sources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="profilescollection.cpp" line="58"/>
         <source>SVPcast streaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="profilescollection.cpp" line="42"/>
+        <location filename="profilescollection.cpp" line="68"/>
         <source>Virtual reality (VR)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1395,14 +1410,19 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="main.cpp" line="303"/>
+        <location filename="main.cpp" line="291"/>
         <source>SVP - error</source>
         <translation>SVP - Помилка</translation>
     </message>
     <message>
-        <location filename="main.cpp" line="303"/>
+        <location filename="main.cpp" line="291"/>
         <source>Please close SVP 3.1 Manager first.</source>
         <translation>Будь ласка, закрийте Менеджер SVP 3.1.</translation>
+    </message>
+    <message>
+        <location filename="main.cpp" line="573"/>
+        <source>You&apos;re running SVP with Administrative privileges and it won&apos;t work correctly with many video players. Please restart SVP as a regular user. Are you sure you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="111"/>
@@ -1546,7 +1566,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Автоматичний</translation>
     </message>
     <message>
-        <location filename="profilescollection.cpp" line="50"/>
+        <location filename="profilescollection.cpp" line="77"/>
         <source>Default pattern</source>
         <translation>Звичайна</translation>
     </message>
@@ -1556,7 +1576,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Останній змінений профіль</translation>
     </message>
     <message>
-        <location filename="profilewnd.cpp" line="829"/>
+        <location filename="profilewnd.cpp" line="828"/>
         <source>Custom</source>
         <translation>Інший</translation>
     </message>
@@ -1622,108 +1642,98 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Сприймати черезстрокове відео з подвоєною частотою кадрів після проведеного деінтерлейсу</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="78"/>
+        <location filename="trayicon.cpp" line="79"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
         <translation>Визначати стереопари по характерному співвідношенню сторін</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="80"/>
+        <location filename="trayicon.cpp" line="81"/>
         <source>Delay to help ReClock to detected the video frame rate, in milliseconds</source>
         <translation>Затримка вмикання уплавнення для ReClock в мс</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="82"/>
+        <location filename="trayicon.cpp" line="83"/>
         <source>Clips shorter than this value in seconds will be ignored</source>
         <translation>Мінімальна довжина відео в секундах для опрацьовування з SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="84"/>
         <location filename="trayicon.cpp" line="85"/>
+        <location filename="trayicon.cpp" line="86"/>
         <source>Measured CPU performance</source>
         <translation>Виміряна швидкоспроможність процесору</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="87"/>
+        <location filename="trayicon.cpp" line="88"/>
         <source>How many times SVP Manager was started</source>
         <translation>Кількість проведених запусків SVP Менеджеру</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="88"/>
+        <location filename="trayicon.cpp" line="89"/>
         <source>How many videos was viewed with SVP</source>
         <translation>Скільки відеофайлів було переглянуто з SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="90"/>
+        <location filename="trayicon.cpp" line="91"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>Використовувати відеокарту з цим ID</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="91"/>
+        <location filename="trayicon.cpp" line="92"/>
         <source>Use NVIDIA Optical Flow for motion vectors search (Turing GPUs and later)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="92"/>
+        <location filename="trayicon.cpp" line="93"/>
         <source>Use multiple command queues: 0 - no, 1 - yes except on Intel GPUs, 2 - always</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="93"/>
+        <location filename="trayicon.cpp" line="94"/>
         <source>Number of CPU computation threads</source>
         <translation>Кількість обчислювальних потоків процесору</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="94"/>
+        <location filename="trayicon.cpp" line="95"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>Максимально допустима різниця між цільовою частотою та екранною</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="95"/>
-        <source>Max source FPS that will be processed by the FRC engine</source>
-        <translation>Максимальна кадрова частота відео, яке буде опрацьовуватись</translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="96"/>
+        <location filename="trayicon.cpp" line="97"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation>Кратність корекції ширини кадру (4 чи 8)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="97"/>
+        <location filename="trayicon.cpp" line="98"/>
         <source>Align video frame height to the multiple of this value</source>
         <translation>Кратність корекції висоти кадру до вказаної величини</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="99"/>
+        <location filename="trayicon.cpp" line="100"/>
         <source>Allow 10-bit output, otherwise force YUV 4:2:0 8-bit output format</source>
         <translation>Дозволити вивід у 10 біт (за замовчуванням YUV 4:2:0 8 біт)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="102"/>
+        <location filename="trayicon.cpp" line="103"/>
         <source>Fix washed-out HDR colors in DirectShow players by doing simple tone mapping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="103"/>
+        <location filename="trayicon.cpp" line="104"/>
         <source>Improve tone mapping by estimating average and peak luma values in each frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="104"/>
+        <location filename="trayicon.cpp" line="105"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>Не питати про підтримку 4 ГБ пам&apos;яті</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="105"/>
-        <source>Fixes fonts and UI elements after display scaling changes or switching to another montor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="107"/>
+        <location filename="trayicon.cpp" line="108"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>Не питати про аналіз швидкоспроможності системи</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="108"/>
+        <location filename="trayicon.cpp" line="109"/>
         <source>Launch SVP disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1960,38 +1970,43 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="88"/>
+        <source>log</source>
+        <translation>журнал</translation>
+    </message>
+    <message>
+        <location filename="reportwnd.cpp" line="89"/>
         <source>Performance data</source>
         <translation>Показники швидкоспроможності</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="210"/>
-        <location filename="reportwnd.cpp" line="238"/>
+        <location filename="reportwnd.cpp" line="212"/>
         <location filename="reportwnd.cpp" line="240"/>
+        <location filename="reportwnd.cpp" line="242"/>
         <source>Attach image(s)</source>
         <translation>Прикріпити зображення</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="238"/>
+        <location filename="reportwnd.cpp" line="240"/>
         <source>Some images ignored due to file size limitation (%1 MB max)</source>
         <translation>Декотрі зображення проігноровані - перевищена максимальна вага %1 МБ</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="240"/>
+        <location filename="reportwnd.cpp" line="242"/>
         <source>Unable to load some of images</source>
         <translation>Помилка відкриття декотрих зображень</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="341"/>
+        <location filename="reportwnd.cpp" line="343"/>
         <source>Connecting...</source>
         <translation>Встановлення зв&apos;язку...</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="373"/>
+        <location filename="reportwnd.cpp" line="375"/>
         <source>Sending... %1% (%2 KB/sec)</source>
         <translation>Відправка... %1% (%2 КБ/сек)</translation>
     </message>
     <message>
-        <location filename="reportwnd.cpp" line="386"/>
+        <location filename="reportwnd.cpp" line="388"/>
         <source>Error, try again later</source>
         <translation>Помилка відправки, будь ласка, спробуйте пізніше</translation>
     </message>
@@ -2596,22 +2611,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Панель керування SVP</translation>
     </message>
     <message>
-        <location filename="statuswnd.cpp" line="123"/>
+        <location filename="statuswnd.cpp" line="128"/>
         <source>No active playback</source>
         <translation>Відсутнє програвання відео</translation>
     </message>
     <message>
-        <location filename="statuswnd.cpp" line="124"/>
+        <location filename="statuswnd.cpp" line="129"/>
         <source>1 active video</source>
         <translation>1 активне відео</translation>
     </message>
     <message>
-        <location filename="statuswnd.cpp" line="125"/>
+        <location filename="statuswnd.cpp" line="130"/>
         <source>%1 active videos</source>
         <translation>%1 активних відео</translation>
     </message>
     <message>
-        <location filename="statuswnd.cpp" line="129"/>
+        <location filename="statuswnd.cpp" line="134"/>
         <source>%1 inactive</source>
         <translation>%1 неактивних</translation>
     </message>
@@ -2619,7 +2634,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>SystemInfo</name>
     <message>
-        <location filename="systeminfo.cpp" line="610"/>
+        <location filename="systeminfo.cpp" line="612"/>
+        <source>Can&apos;t find ffmpeg executable. Do you want to find it manually?</source>
+        <translation>Не вдається знайти виконуючий файл ffmpeg. Бажаєте вказати його вручну?</translation>
+    </message>
+    <message>
+        <location filename="systeminfo.cpp" line="616"/>
         <source>Choose ffmpeg executable</source>
         <translation>Виконуючий файл ffmpeg</translation>
     </message>
@@ -2627,33 +2647,33 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="trayicon.cpp" line="681"/>
+        <location filename="trayicon.cpp" line="660"/>
         <source>Start with SVP with right click on the icon</source>
         <translation>Натисніть правою кнопкою по іконці SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="682"/>
+        <location filename="trayicon.cpp" line="661"/>
         <source>Language was changed to %1</source>
         <translation>Мова інтерфейсу була змінена на %1</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="686"/>
+        <location filename="trayicon.cpp" line="665"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
         <translation>Ваша копія SVP успішно зареєстрована. Дякуємо!</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="692"/>
-        <location filename="trayicon.cpp" line="1368"/>
+        <location filename="trayicon.cpp" line="671"/>
+        <location filename="trayicon.cpp" line="1354"/>
         <source>Updates available</source>
         <translation>Вже є нова версія</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="741"/>
+        <location filename="trayicon.cpp" line="720"/>
         <source>No active playback</source>
         <translation>Програвання відео відсутнє</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="780"/>
+        <location filename="trayicon.cpp" line="759"/>
         <source>SVP Control Panel</source>
         <translation>Панель керування SVP</translation>
     </message>
@@ -2713,7 +2733,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Підсвічування полів</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="736"/>
+        <location filename="trayicon.cpp" line="715"/>
         <location filename="trayicon.cpp" line="953"/>
         <source>Disabled</source>
         <translation>Вимкнено</translation>
@@ -2724,37 +2744,37 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Підсвічувати поля</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="698"/>
+        <location filename="trayicon.cpp" line="677"/>
         <source>Default configuration restored</source>
         <translation>Фабричні налаштування відновлені</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="699"/>
+        <location filename="trayicon.cpp" line="678"/>
         <source>License check failed, please re-register! Click here to restart SVP.</source>
         <translation>Перевірка ліцензії невдала! Натисніть тут для перезапуску SVP та повторної активації.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="700"/>
+        <location filename="trayicon.cpp" line="679"/>
         <source>You have %1 day(s) left in your evaluation.</source>
         <translation>У Вас залишилось %1 дні(в) пробного періоду.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="876"/>
+        <location filename="trayicon.cpp" line="855"/>
         <source>Run VLC with SVP...</source>
         <translation>Запуск VLC з SVP...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="895"/>
+        <location filename="trayicon.cpp" line="874"/>
         <source>Open</source>
         <translation>Відкрити</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="896"/>
+        <location filename="trayicon.cpp" line="875"/>
         <source>Video files</source>
         <translation>Відеофайл</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="897"/>
+        <location filename="trayicon.cpp" line="876"/>
         <source>All files</source>
         <translation>Усі файли</translation>
     </message>
@@ -2880,196 +2900,213 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1058"/>
+        <location filename="trayicon.cpp" line="1065"/>
         <source>Continue</source>
         <translation>Продовжити</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1058"/>
+        <location filename="trayicon.cpp" line="1065"/>
         <source>Cancel</source>
         <translation>Відміна</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1065"/>
-        <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
-        <translation>SVP для VLC (заміна фільтру &apos;deinterlace&apos;)</translation>
+        <location filename="trayicon.cpp" line="1061"/>
+        <source>Set environment variables for VLC and libmpv...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1081"/>
+        <location filename="trayicon.cpp" line="1064"/>
+        <source>We&apos;re going to modify PATH and PYTHONPATH environment variables. This is only required for VLC and libmpv-based players such as Plex. Warning: this will also remove any other Python folders from PATH!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="1065"/>
+        <source>More info...</source>
+        <translation>Дод. інформація...</translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="1093"/>
         <source>Additional programs and features...</source>
         <translation>Додаткові програми та модулі...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1090"/>
+        <location filename="trayicon.cpp" line="1102"/>
         <source>Application settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1095"/>
+        <location filename="trayicon.cpp" line="1107"/>
         <source>No acceleration</source>
         <translation>Не використовувати апаратне прискорення</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1098"/>
+        <location filename="trayicon.cpp" line="1110"/>
         <source>Using</source>
         <translation>Використовувати</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1109"/>
+        <location filename="trayicon.cpp" line="1121"/>
         <source>GPU acceleration</source>
         <translation>Прискорення GPU</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1113"/>
+        <location filename="trayicon.cpp" line="1125"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
         <translation>Чому відсутнє прискорення GPU?</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1119"/>
+        <location filename="trayicon.cpp" line="1131"/>
         <source>Use NVIDIA Optical Flow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1121"/>
+        <location filename="trayicon.cpp" line="1133"/>
         <source>64-bit only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1132"/>
+        <location filename="trayicon.cpp" line="1145"/>
         <source>Dark mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1135"/>
+        <location filename="trayicon.cpp" line="1148"/>
         <source>Show OSD messages</source>
         <translation>Відображати OSD повідомлення</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1137"/>
+        <location filename="trayicon.cpp" line="1150"/>
         <source>Edit keyboard shortcuts...</source>
         <translation>Змінити комбінації клавіш...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1145"/>
+        <location filename="trayicon.cpp" line="1158"/>
         <source>Load at Windows startup</source>
         <translation>Запускати разом з Windows</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1147"/>
+        <location filename="trayicon.cpp" line="1160"/>
         <source>Load at system startup</source>
         <translation>Запускати разом з системою</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1156"/>
+        <location filename="trayicon.cpp" line="1169"/>
         <source>Minimize to tray</source>
         <translation>Зховати до області повідомлень</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1160"/>
+        <location filename="trayicon.cpp" line="1173"/>
         <source>Additional options</source>
         <translation>Додаткові налаштування</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1170"/>
+        <location filename="trayicon.cpp" line="1183"/>
         <source>Try to recover HDR colors</source>
         <translation>Відновлювати кольори в HDR відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1175"/>
+        <location filename="trayicon.cpp" line="1188"/>
         <source>Treat 23.810 source frame rate as 23.976</source>
         <translation>Сприймати кадрову частоту 23.810 як 23.976</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1177"/>
+        <location filename="trayicon.cpp" line="1190"/>
         <source>Assume double frame rate for interlaced videos</source>
         <translation>Деінтерлейс відео подвоює частоту кадрів</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1363"/>
+        <location filename="trayicon.cpp" line="1384"/>
         <source>Enter license key...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1966"/>
+        <location filename="trayicon.cpp" line="1931"/>
+        <source>SVP is NOT a video player. Please launch any supported video player to watch a video.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="1981"/>
         <source>There&apos;re some jobs running [%1], are you sure you want to abort them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1164"/>
+        <location filename="trayicon.cpp" line="1177"/>
         <source>Allow output in 10 bit color depth</source>
         <translation>Дозволити вивід у 10 біт</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1200"/>
+        <location filename="trayicon.cpp" line="1213"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1202"/>
+        <location filename="trayicon.cpp" line="1215"/>
         <source>%1 thread(s)</source>
         <translation>%1 потоки(ів)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1203"/>
+        <location filename="trayicon.cpp" line="1216"/>
         <source>Processing threads</source>
         <translation>Кількість обчислювальних потоків</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1213"/>
+        <location filename="trayicon.cpp" line="1225"/>
         <source>Extensions</source>
         <translation>Додатки</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1238"/>
+        <location filename="trayicon.cpp" line="1250"/>
         <source>User manual (PDF)</source>
         <translation>Довідка користувача (PDF)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1247"/>
+        <location filename="trayicon.cpp" line="1259"/>
         <source>Linux specific notes</source>
         <translation>Нотатки для Linux</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1250"/>
+        <location filename="trayicon.cpp" line="1262"/>
         <source>Mac OS X specific notes</source>
         <translation>Нотатки для Mac OS X</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1309"/>
+        <location filename="trayicon.cpp" line="1321"/>
         <source>mpv configuration file</source>
         <translation>Файл конфігурації mpv</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1396"/>
+        <location filename="trayicon.cpp" line="1408"/>
         <source>Help</source>
         <translation>Довідка</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1845"/>
+        <location filename="trayicon.cpp" line="1857"/>
         <source>SVP - Extensions</source>
         <translation>SVP - Додатки</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1845"/>
+        <location filename="trayicon.cpp" line="1857"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
         <translation>Необхідно перезапустити Менеджер для введення змін у дію.</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1946"/>
+        <location filename="trayicon.cpp" line="1961"/>
         <source>%1% off the Pro version</source>
         <translation>%1% знижка на Pro версію</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1182"/>
+        <location filename="trayicon.cpp" line="1195"/>
         <source>Reset on seek</source>
         <translation>Зкидання при перемотуванні</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="854"/>
+        <location filename="trayicon.cpp" line="833"/>
         <source>Profile for an active video</source>
         <translation>Профілі активного відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="884"/>
+        <location filename="trayicon.cpp" line="863"/>
         <source>Open file via mpv...</source>
         <translation>Відкрити файл через  mpv...</translation>
     </message>
@@ -3079,152 +3116,152 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>SVP - підтримка 4 ГБ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1179"/>
+        <location filename="trayicon.cpp" line="1077"/>
+        <source>SVP in VLC</source>
+        <translation>SVP для VLC</translation>
+    </message>
+    <message>
+        <location filename="trayicon.cpp" line="1192"/>
         <source>Turn stereo mode on by aspect ratio</source>
         <translation>Визначати 3D за співвідношенням сторін</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1183"/>
+        <location filename="trayicon.cpp" line="1196"/>
         <source>Don&apos;t reset</source>
         <translation>Не здійснювати</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1185"/>
+        <location filename="trayicon.cpp" line="1198"/>
         <source>Soft reset</source>
         <translation>М&apos;яко</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1186"/>
+        <location filename="trayicon.cpp" line="1199"/>
         <source>Hard reset</source>
         <translation>Жорстко</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1192"/>
+        <location filename="trayicon.cpp" line="1205"/>
         <source>Running multiple videos</source>
         <translation>Управління кількома відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1193"/>
+        <location filename="trayicon.cpp" line="1206"/>
         <source>Use SVP in all opened videos</source>
         <translation>Використовувати SVP з усіма відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1194"/>
+        <location filename="trayicon.cpp" line="1207"/>
         <source>First opened video only</source>
         <translation>Тільки з першим відкритим відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1195"/>
+        <location filename="trayicon.cpp" line="1208"/>
         <source>Latest opened video only</source>
         <translation>Тільки з останнім відкритим відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1209"/>
-        <source>Restart SVP after changing display scaling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="trayicon.cpp" line="1217"/>
+        <location filename="trayicon.cpp" line="1229"/>
         <source>Reset settings to defaults</source>
         <translation>Зкинути всі налаштування</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1219"/>
+        <location filename="trayicon.cpp" line="1231"/>
         <source>SVP - Configuration reset</source>
         <translation>SVP - Відновлення фабричних налаштувань</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1219"/>
+        <location filename="trayicon.cpp" line="1231"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
         <translation>Чи дійсно Ви бажаєте зкинути всі налаштування SVP до фабричних?</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1220"/>
+        <location filename="trayicon.cpp" line="1232"/>
         <source>No</source>
         <translation>Ні</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1220"/>
+        <location filename="trayicon.cpp" line="1232"/>
         <source>Yes, but keep video profiles</source>
         <translation>Так, але зберегти профілі відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1220"/>
+        <location filename="trayicon.cpp" line="1232"/>
         <source>Yes, reset all settings</source>
         <translation>Так, зкинути ВСЕ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1225"/>
+        <location filename="trayicon.cpp" line="1237"/>
         <source>All settings...</source>
         <translation>Усі налаштування...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1234"/>
+        <location filename="trayicon.cpp" line="1246"/>
         <source>Information</source>
         <translation>Інформація</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1236"/>
+        <location filename="trayicon.cpp" line="1248"/>
         <source>User manual (online)</source>
         <translation>Довідка користувача (онлайн)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1254"/>
+        <location filename="trayicon.cpp" line="1266"/>
         <source>Video player configuration</source>
         <translation>Налаштування відеопрогравача</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1275"/>
+        <location filename="trayicon.cpp" line="1287"/>
         <source>Full list</source>
         <translation>Повний список програвачів</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1286"/>
+        <location filename="trayicon.cpp" line="1298"/>
         <source>Send problem report...</source>
         <translation>Доповісти про проблему...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1291"/>
+        <location filename="trayicon.cpp" line="1303"/>
         <source>Events log</source>
         <translation>Журнал</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1296"/>
+        <location filename="trayicon.cpp" line="1308"/>
         <source>Additional information</source>
         <translation>Додаткова інформація</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1299"/>
+        <location filename="trayicon.cpp" line="1311"/>
         <source>Last generated script</source>
         <translation>Останніц згенерований скрипт</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1303"/>
+        <location filename="trayicon.cpp" line="1315"/>
         <source>OpenCL devices and capabilities</source>
         <translation>Конфігурація OpenCL</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1331"/>
+        <location filename="trayicon.cpp" line="1343"/>
         <source>Version and credits...</source>
         <translation>Версія та розробники...</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1349"/>
+        <location filename="trayicon.cpp" line="1370"/>
         <source>Order full version</source>
         <translation>Замовити повну версію</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1378"/>
+        <location filename="trayicon.cpp" line="1390"/>
         <source>Exit</source>
         <translation>Вихід</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1596"/>
+        <location filename="trayicon.cpp" line="1608"/>
         <source>SVP - Video player</source>
         <translation>SVP - Програвач відео</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="1596"/>
+        <location filename="trayicon.cpp" line="1608"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>Помилка звернення до відеопрогравача. Перевірте чи не був запущений SVP з-під іншого акаунту користувача.</translation>
     </message>
@@ -3300,12 +3337,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>UpdateWnd</name>
     <message>
-        <location filename="updatewnd.cpp" line="404"/>
+        <location filename="updatewnd.cpp" line="419"/>
         <source>More info...</source>
         <translation>Дод. інформація...</translation>
     </message>
     <message>
-        <location filename="updatewnd.cpp" line="96"/>
+        <location filename="updatewnd.cpp" line="107"/>
         <source>ver.</source>
         <translation>вер.</translation>
     </message>
@@ -3315,7 +3352,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>Завантажити оновлений пакет...</translation>
     </message>
     <message>
-        <location filename="updatewnd.cpp" line="98"/>
+        <location filename="updatewnd.cpp" line="109"/>
         <source>plus %1 more update(s)</source>
         <translation>і ще %1 оновлень</translation>
     </message>
@@ -3338,63 +3375,63 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
 <context>
     <name>VLCManager</name>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="135"/>
+        <location filename="vlcvideoplayer.cpp" line="146"/>
         <source>Please install Vapoursynth via Homebrew.</source>
         <translation>Будь-ласка, встановіть Vapoursynth через Homebrew.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="138"/>
+        <location filename="vlcvideoplayer.cpp" line="149"/>
         <source>Install &apos;VLC support&apos; package and check Vapoursynth installation.</source>
         <translation>Встановіть пакет &apos;VLC support&apos; та перевірте наявність встановленого Vapoursynth.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="157"/>
+        <location filename="vlcvideoplayer.cpp" line="169"/>
+        <source>Can&apos;t find VLC executable. Do you want to find it manually?</source>
+        <translation>Не вдається знайти виконуючий файл VLC. Бажаєте вказати його вручну?</translation>
+    </message>
+    <message>
+        <location filename="vlcvideoplayer.cpp" line="173"/>
         <source>Choose the VLC executable</source>
         <translation>Виконуючий файл VLC</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="170"/>
+        <location filename="vlcvideoplayer.cpp" line="186"/>
         <source>32-bit VLC is not supported. Please install 64-bit version.</source>
         <translation>32-бітний VLC не підтримується. Будь ласка, встановіть 64-бітну версію.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="201"/>
+        <location filename="vlcvideoplayer.cpp" line="217"/>
         <source>Only VLC 3.0.x is supported right now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="255"/>
+        <location filename="vlcvideoplayer.cpp" line="286"/>
         <source>Operation failed. Check that SVP Manager has write access to &apos;%1&apos;.</source>
         <translation>Невдала заміна фільтру. Перевірте, що Менеджер має права на запис в &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="257"/>
-        <source>SVP support DISABLED, you can now use deinterlace filter in VLC.</source>
-        <translation>Підтримка SVP у VLC ВИМКНЕНА, що дозволяє використання деінтерлейсу.</translation>
+        <location filename="vlcvideoplayer.cpp" line="288"/>
+        <source>SVP support DISABLED.</source>
+        <translation>Підтримка SVP у VLC ВИМКНЕНА.</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="258"/>
-        <source>SVP support ENABLED but the deinterlace filter in VLC is not available any more.</source>
-        <translation>Підтримка SVP у VLC УВІМКНЕНА, що унеможливлює використання деінтерлейсу.</translation>
-    </message>
-    <message>
-        <location filename="vlcvideoplayer.cpp" line="263"/>
+        <location filename="vlcvideoplayer.cpp" line="294"/>
         <source>Got it</source>
         <translation>Зрозуміло</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="276"/>
+        <location filename="vlcvideoplayer.cpp" line="307"/>
         <source>Install SVP filter for VLC using &apos;Utilities -&gt; SVP in VLC&apos; first</source>
         <translation>Спочатку увімкніть SVP фільтр через &apos;Допоміжні програми -&gt; SVP для VLC&apos;</translation>
     </message>
     <message>
-        <location filename="vlcvideoplayer.cpp" line="135"/>
-        <location filename="vlcvideoplayer.cpp" line="138"/>
-        <location filename="vlcvideoplayer.cpp" line="170"/>
-        <location filename="vlcvideoplayer.cpp" line="201"/>
-        <location filename="vlcvideoplayer.cpp" line="260"/>
-        <location filename="vlcvideoplayer.cpp" line="263"/>
-        <location filename="vlcvideoplayer.cpp" line="276"/>
+        <location filename="vlcvideoplayer.cpp" line="146"/>
+        <location filename="vlcvideoplayer.cpp" line="149"/>
+        <location filename="vlcvideoplayer.cpp" line="186"/>
+        <location filename="vlcvideoplayer.cpp" line="217"/>
+        <location filename="vlcvideoplayer.cpp" line="291"/>
+        <location filename="vlcvideoplayer.cpp" line="294"/>
+        <location filename="vlcvideoplayer.cpp" line="307"/>
         <source>SVP in VLC</source>
         <translation>SVP для VLC</translation>
     </message>

@@ -203,6 +203,22 @@
         <source>Forget and rescan</source>
         <translation>Повторное сканирование</translation>
     </message>
+    <message>
+        <source>Fallback to H.264 on error</source>
+        <translation>Программный H.264 при ошибке кодировщика</translation>
+    </message>
+    <message>
+        <source>Use &apos;www.svp-team.com/cast&apos; as a shortcut to the local Web UI server</source>
+        <translation>Использовать псевдоним &apos;www.svp-team.com/cast&apos; для доступа к Web UI в вашей локальной сети</translation>
+    </message>
+    <message>
+        <source>Optional unique computer name i.e. &apos;www.svp-team.com/cast/name&apos;</source>
+        <translation>Необязательное имя компьютера (если их несколько в сети),  &apos;www.svp-team.com/cast/name&apos;</translation>
+    </message>
+    <message>
+        <source>Update every &lt;value&gt; seconds, useful in case of dynamic external IP address</source>
+        <translation>Обновлять с заданным периодом в сек., необходимо в случае динамического внешнего IP</translation>
+    </message>
 </context>
 <context>
     <name>DeviceFinder</name>

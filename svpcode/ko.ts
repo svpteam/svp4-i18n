@@ -175,6 +175,22 @@
         <source>Encoded file name template, where original file name = $BASE.$EXTS.&lt;file-type&gt;</source>
         <translation>인코딩 파일 이름 템플릿, 원래의 파일이름 = $BASE.$EXTS.&lt;file-type&gt;</translation>
     </message>
+    <message>
+        <source>Output color depth: 0 - as source, 1 - force 8-bit, 2 - force 10-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable SVP while encoding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transcoding finished but remuxing failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEED REMUXING</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConfigurationWnd</name>
@@ -359,14 +375,6 @@
         <translation>프로필 삭제</translation>
     </message>
     <message>
-        <source>Video only, don&apos;t mux with source tracks</source>
-        <translation>동영상만, 원본 트랙으로 멀티플렉싱하지 않기</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>없음</translation>
-    </message>
-    <message>
         <source>SVP - Encoder profiles</source>
         <translation>SVP – 인코더 프로필</translation>
     </message>
@@ -446,6 +454,30 @@
         <source>Fine tuning:</source>
         <translation>고급 설정:</translation>
     </message>
+    <message>
+        <source>Video only, drop all other tracks</source>
+        <translation>동영상만, 원본 트랙으로 멀티플렉싱하지 않기</translation>
+    </message>
+    <message>
+        <source>Transcoding powered by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10-bit encoding requires GPU acceleration enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Encoder</name>
@@ -465,16 +497,16 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>My settings</source>
-        <translation>나의 설정</translation>
-    </message>
-    <message>
-        <source>Default H.264 / software</source>
-        <translation>기본 H.264 / 소프트웨어</translation>
-    </message>
-    <message>
         <source>Copy of </source>
         <translation>원 복사대상 </translation>
+    </message>
+    <message>
+        <source>Default %1 / %2</source>
+        <translation>기본 %1 / %2</translation>
+    </message>
+    <message>
+        <source>software</source>
+        <translation>소프트웨어</translation>
     </message>
 </context>
 </TS>

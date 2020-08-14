@@ -175,6 +175,22 @@
         <source>Encoded file name template, where original file name = $BASE.$EXTS.&lt;file-type&gt;</source>
         <translation>已编码的文件名模板，其中原始文件名 = $BASE.$EXTS.&lt;file-type&gt;</translation>
     </message>
+    <message>
+        <source>Output color depth: 0 - as source, 1 - force 8-bit, 2 - force 10-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable SVP while encoding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transcoding finished but remuxing failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NEED REMUXING</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ConfigurationWnd</name>
@@ -359,14 +375,6 @@
         <translation>删除配置文件</translation>
     </message>
     <message>
-        <source>Video only, don&apos;t mux with source tracks</source>
-        <translation>仅视频，不与源音轨复用</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>无</translation>
-    </message>
-    <message>
         <source>SVP - Encoder profiles</source>
         <translation>SVP - 编码器配置文件</translation>
     </message>
@@ -446,6 +454,30 @@
         <source>Fine tuning:</source>
         <translation>微调：</translation>
     </message>
+    <message>
+        <source>Video only, drop all other tracks</source>
+        <translation>仅视频，不与源音轨复用</translation>
+    </message>
+    <message>
+        <source>Transcoding powered by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10-bit encoding requires GPU acceleration enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10-bit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Encoder</name>
@@ -465,16 +497,16 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>My settings</source>
-        <translation>我的设置</translation>
-    </message>
-    <message>
-        <source>Default H.264 / software</source>
-        <translation>默认的 H.264/软件</translation>
-    </message>
-    <message>
         <source>Copy of </source>
         <translation>拷贝 </translation>
+    </message>
+    <message>
+        <source>Default %1 / %2</source>
+        <translation>默认的 %1 / %2</translation>
+    </message>
+    <message>
+        <source>software</source>
+        <translation>软件</translation>
     </message>
 </context>
 </TS>

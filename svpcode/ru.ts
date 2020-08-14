@@ -175,6 +175,22 @@
         <source>Encoded file name template, where original file name = $BASE.$EXTS.&lt;file-type&gt;</source>
         <translation>Шаблон имени файла результата, если имя исходника = $BASE.$EXTS.&lt;file-type&gt;</translation>
     </message>
+    <message>
+        <source>Output color depth: 0 - as source, 1 - force 8-bit, 2 - force 10-bit</source>
+        <translation>Глубина цвета кодера: 0 - как у исходника, 1 - 8-бит, 2 - 10-бит</translation>
+    </message>
+    <message>
+        <source>Disable SVP while encoding</source>
+        <translation>Отключать SVP во время кодирования</translation>
+    </message>
+    <message>
+        <source>Transcoding finished but remuxing failed</source>
+        <translation>Перекодирование завершено БЕЗ сведения дорожек</translation>
+    </message>
+    <message>
+        <source>NEED REMUXING</source>
+        <translation>ТРЕБУЕТСЯ СВЕДЕНИЕ</translation>
+    </message>
 </context>
 <context>
     <name>ConfigurationWnd</name>
@@ -359,14 +375,6 @@
         <translation>Удалить профиль</translation>
     </message>
     <message>
-        <source>Video only, don&apos;t mux with source tracks</source>
-        <translation>Только плавное видео, не сводить с треками источника</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Нет</translation>
-    </message>
-    <message>
         <source>SVP - Encoder profiles</source>
         <translation>SVP - Профили кодирования</translation>
     </message>
@@ -446,6 +454,30 @@
         <source>Fine tuning:</source>
         <translation>Коррекция:</translation>
     </message>
+    <message>
+        <source>Transcoding powered by:</source>
+        <translation>Перекодирование при помощи:</translation>
+    </message>
+    <message>
+        <source>Video only, drop all other tracks</source>
+        <translation>Только видео, не добавлять остальные дорожки</translation>
+    </message>
+    <message>
+        <source>depth:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>8-bit</source>
+        <translation>8-бит</translation>
+    </message>
+    <message>
+        <source>10-bit encoding requires GPU acceleration enabled</source>
+        <translation>10-битное кодирование требует включенного &quot;Ускорения GPU&quot;</translation>
+    </message>
+    <message>
+        <source>10-bit</source>
+        <translation>10-бит</translation>
+    </message>
 </context>
 <context>
     <name>Encoder</name>
@@ -465,16 +497,16 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>My settings</source>
-        <translation>Мои параметры</translation>
-    </message>
-    <message>
-        <source>Default H.264 / software</source>
-        <translation>По-умолчанию (x264)</translation>
-    </message>
-    <message>
         <source>Copy of </source>
         <translation>Копия</translation>
+    </message>
+    <message>
+        <source>Default %1 / %2</source>
+        <translation>По-умолчанию %1 / %2</translation>
+    </message>
+    <message>
+        <source>software</source>
+        <translation>программный</translation>
     </message>
 </context>
 </TS>
