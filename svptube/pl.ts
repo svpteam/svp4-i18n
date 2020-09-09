@@ -46,13 +46,13 @@
     <message>
         <location filename="siteauthdlg.ui" line="129"/>
         <source>Cookies:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="136"/>
         <source>User-Agent:</source>
         <oldsource>User-agent:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="206"/>
@@ -65,17 +65,17 @@
     <message>
         <location filename="siteauthdlg.ui" line="249"/>
         <source>Two-factor authentication code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod autoryzacji dwuskładnikowej</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="258"/>
         <source>two-factor code</source>
-        <translation type="unfinished"></translation>
+        <translation>kod dwuskładnikowy</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="361"/>
         <source>May be useful for geo restricted access</source>
-        <translation type="unfinished"></translation>
+        <translation>Może być przydatne w przypadku dostępu z ograniczeniami geograficznymi</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="364"/>
@@ -85,42 +85,42 @@
     <message>
         <location filename="siteauthdlg.ui" line="302"/>
         <source>Clear cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść cookies</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="326"/>
         <source>Cookies file in Mozilla/Netscape format</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik cookie w formacie Mozill/Netscape</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="329"/>
         <source>Load from text file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczytaj z pliku tekstowego ...</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="338"/>
         <source>The complete User-Agent string from your web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompletny wpis User-Agent z Twojej przeglądarki internetowej</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="395"/>
         <source>Specify a proper scheme, for example: socks5://127.0.0.1:1080</source>
-        <translation type="unfinished"></translation>
+        <translation>Określ odpowiedni schemat, na przykład:socks5://127.0.0.1:1080</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="378"/>
         <source>How?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jak?</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="385"/>
         <source>Copy the complete User-Agent string from this web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiuj kompletny User-Agent z tej strony internetowej</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="388"/>
         <source>Find out!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dowiedz się!</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="421"/>
@@ -150,33 +150,33 @@
     <message>
         <location filename="siteauth.cpp" line="244"/>
         <source>Open cookie file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz plik cookie...</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="245"/>
         <source>Text files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki tekstowe</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="296"/>
         <source>Provide either user/password or cookies/user-agent as a login data if required by the selected web site.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podaj użytkownika/hasło lub pliki cookie/agenta użytkownika jako dane logowania, jeśli jest to wymagane przez wybraną witrynę internetową.</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="319"/>
         <source>Two-factor code expired, please update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod dwuskładnikowy wygasł, proszę zaktualizuj.</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="329"/>
         <source>SET</source>
-        <translation type="unfinished"></translation>
+        <translation>USTAW</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="329"/>
         <location filename="siteauth.cpp" line="344"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Żaden</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@
     <message>
         <location filename="traywnd.cpp" line="641"/>
         <source>Multiple streams</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiele strumieni</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="643"/>
@@ -290,17 +290,17 @@
     <message>
         <location filename="traywnd.cpp" line="720"/>
         <source>Video clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipy wideo</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="721"/>
         <source>Matroska video clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipi wideo Matroska</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="722"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <location filename="traywnd.cpp" line="727"/>
@@ -335,7 +335,7 @@
     <message>
         <location filename="traywnd.cpp" line="903"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>w kolejce</translation>
     </message>
 </context>
 <context>
@@ -408,17 +408,17 @@
     <message>
         <location filename="tubeplugin.cpp" line="176"/>
         <source>Player for web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzacz dla strony internetowej</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="180"/>
         <source>Same as for all web sites</source>
-        <translation type="unfinished"></translation>
+        <translation>Taki sam, jak w przypadku wszystkich witryn internetowych</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="417"/>
         <source>Player for</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzacz dla</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="109"/>
@@ -428,12 +428,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="78"/>
         <source>Previous video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprzednie wideo na liście odtwarzania SVPtube</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="79"/>
         <source>Next video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Następne wideo na liście odtwarzania SVPtube</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="112"/>
@@ -483,7 +483,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="144"/>
         <source>Prefer HDR formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferuj formaty HDR</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="148"/>
@@ -506,7 +506,7 @@
         <location filename="tubeplugin.cpp" line="183"/>
         <source>Stream via SVPcast</source>
         <oldsource>SVPcast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Streamuj za pomocą SVPcast</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="161"/>
@@ -542,7 +542,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="276"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączony</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="316"/>
@@ -563,17 +563,17 @@
     <message>
         <location filename="tubeplugin.cpp" line="361"/>
         <source>Executables</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki wykonawcze</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="364"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacje</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="368"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="371"/>

@@ -36,7 +36,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="681"/>
         <source>From &lt;a href=#&gt;AmbiBox&lt;/a&gt; profile</source>
-        <translation>Z profilu &lt;a href=#&gt;AmbiBox&lt;/a&gt; </translation>
+        <translation>Z profilu &lt;a href=#&gt;AmbiBox&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="656"/>
@@ -48,47 +48,47 @@
     <message>
         <location filename="ledconfiguration.ui" line="159"/>
         <source>Lightpack USB device</source>
-        <translation type="unfinished"></translation>
+        <translation>Urządzenie USB Lightpack</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="193"/>
         <source>Prismatik / AmbiBox remote API</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdalny interfejs API Prismatik / AmbiBox</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="227"/>
         <source>Paintpack USB device (DMX mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>Urządzenie Paintpack USB (tryb DMX)</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="261"/>
         <source>Boblight remote API (Hyperion)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdalny interfejs API Boblight (Hyperion)</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="264"/>
         <source>Boblight</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="358"/>
         <source>Server IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres IP serwera</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="466"/>
         <source>&lt;a href=#&gt;Connect!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=#&gt;Połącz!&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="630"/>
         <source>From &lt;b&gt;Boblight&lt;/b&gt; server</source>
-        <translation type="unfinished"></translation>
+        <translation>Z serwera  &lt;b&gt;Boblight&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="738"/>
         <source>From &lt;a href=#&gt;Prismatik&lt;/a&gt; profile</source>
-        <translation>Z profilu &lt;a href=#&gt;Prismatik&lt;/a&gt; </translation>
+        <translation>Z profilu &lt;a href=#&gt;Prismatik&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="811"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="838"/>
         <source> zones</source>
-        <translation>strefy</translation>
+        <translation> strefy</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="863"/>
@@ -236,12 +236,12 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="779"/>
         <source>Unable to get lights configuration from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można pobrać konfiguracji oświetlenia z serwera.</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="784"/>
         <source>SVPlight needs at least two lights defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVPlight wymaga zdefiniowania co najmniej dwóch świateł.</translation>
     </message>
 </context>
 <context>
@@ -347,12 +347,12 @@
         <location filename="ledcontrol.ui" line="618"/>
         <location filename="ledcontrolwnd.cpp" line="30"/>
         <source>Smooth scene changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Płynne zmiany scen</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="687"/>
         <source>Setup LED lighting hardware...</source>
-        <translation>Konfiguracja sprzętu LED...</translation>
+        <translation>Konfiguracja sprzętu oświetleniowego LED...</translation>
     </message>
 </context>
 <context>
@@ -380,12 +380,12 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="116"/>
         <source>Prismatik is not running on specified TCP port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prismatik nie działa na określonym porcie TCP.</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="117"/>
         <source>Boblight service is not running on specified IP/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usługa Boblight nie działa na określonym IP/porcie.</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="118"/>
