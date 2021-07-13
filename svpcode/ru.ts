@@ -478,6 +478,10 @@
         <source>10-bit</source>
         <translation>10-бит</translation>
     </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Encoder</name>

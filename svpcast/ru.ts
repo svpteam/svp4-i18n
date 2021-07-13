@@ -219,6 +219,18 @@
         <source>Update every &lt;value&gt; seconds, useful in case of dynamic external IP address</source>
         <translation>Обновлять с заданным периодом в сек., необходимо в случае динамического внешнего IP</translation>
     </message>
+    <message>
+        <source>Activate deband filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downscale to 1080p</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceFinder</name>
@@ -271,7 +283,7 @@
     </message>
     <message>
         <source>Hz</source>
-        <translation>Гц</translation>
+        <translation type="vanished">Гц</translation>
     </message>
     <message>
         <source>channels</source>

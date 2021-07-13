@@ -219,6 +219,18 @@
         <source>Update every &lt;value&gt; seconds, useful in case of dynamic external IP address</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Activate deband filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downscale to 1080p</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DeviceFinder</name>
@@ -267,10 +279,6 @@
     </message>
     <message>
         <source>Link copied to clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
