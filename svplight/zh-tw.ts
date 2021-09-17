@@ -48,27 +48,27 @@
     <message>
         <location filename="ledconfiguration.ui" line="159"/>
         <source>Lightpack USB device</source>
-        <translation></translation>
+        <translation>Lightpack USB 裝置</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="193"/>
         <source>Prismatik / AmbiBox remote API</source>
-        <translation></translation>
+        <translation>Prismatik / AmbiBox 遠端 API</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="227"/>
         <source>Paintpack USB device (DMX mode)</source>
-        <translation></translation>
+        <translation>Paintpack USB 裝置（DMX 模式）</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="261"/>
         <source>Boblight remote API (Hyperion)</source>
-        <translation></translation>
+        <translation>Boblight 遠端 API (Hyperion)</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="264"/>
         <source>Boblight</source>
-        <translation></translation>
+        <translation>雪花燈</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="358"/>
@@ -211,7 +211,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="346"/>
         <source>Current lights configuration will be lost! Is it OK to continue?</source>
-        <translation>將丟失當前燈光配置！是否繼續？</translation>
+        <translation>將丟失當前燈光設定檔！是否繼續？</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="738"/>
@@ -347,7 +347,7 @@
         <location filename="ledcontrol.ui" line="618"/>
         <location filename="ledcontrolwnd.cpp" line="30"/>
         <source>Smooth scene changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">流暢的場景變化</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="687"/>
@@ -360,7 +360,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="85"/>
         <source>No engine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">沒有引擎</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="109"/>

@@ -439,92 +439,87 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="199"/>
+        <location filename="controlpanel.cpp" line="201"/>
         <source>Video profiles</source>
         <translation>Cấu hình video</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="206"/>
+        <location filename="controlpanel.cpp" line="208"/>
         <source>Frame size</source>
         <translation>Kích thước khung hình</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="213"/>
+        <location filename="controlpanel.cpp" line="215"/>
         <source>Black bars lighting</source>
         <translation>Làm sáng dải đen</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="220"/>
+        <location filename="controlpanel.cpp" line="222"/>
         <source>Performance monitor</source>
         <translation>Màn giám sát hiệu năng</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="227"/>
+        <location filename="controlpanel.cpp" line="229"/>
         <source>Updates</source>
         <translation>Cập nhật</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="168"/>
+        <location filename="controlpanel.cpp" line="170"/>
         <source>N/A</source>
         <translation>Trống</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="93"/>
+        <location filename="controlpanel.cpp" line="95"/>
         <source>Utilities</source>
         <translation>Công cụ</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="93"/>
+        <location filename="controlpanel.cpp" line="95"/>
         <source>Control Panel</source>
         <translation>Bảng Điều Khiển</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="113"/>
+        <location filename="controlpanel.cpp" line="115"/>
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="234"/>
+        <location filename="controlpanel.cpp" line="236"/>
         <source>Report a problem</source>
         <translation>Báo cáo một vấn đề</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="241"/>
+        <location filename="controlpanel.cpp" line="243"/>
         <source>Events log</source>
         <translation>Báo cáo sự kiện</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="248"/>
+        <location filename="controlpanel.cpp" line="250"/>
         <source>Application settings</source>
         <translation>Cài đặt ứng dụng</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="255"/>
+        <location filename="controlpanel.cpp" line="257"/>
         <source>Control options</source>
         <translation>Tùy chỉnh điều khiển</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="262"/>
-        <source>Unlock SVP features</source>
-        <translation>Mở khóa các tính năng của SVP</translation>
-    </message>
-    <message>
-        <location filename="controlpanel.cpp" line="269"/>
+        <location filename="controlpanel.cpp" line="271"/>
         <source>More...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="275"/>
+        <location filename="controlpanel.cpp" line="277"/>
         <source>Help...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="466"/>
+        <location filename="controlpanel.cpp" line="468"/>
         <source>No active playback</source>
         <translation>Không có video đang chạy</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="481"/>
+        <location filename="controlpanel.cpp" line="483"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
         <translation type="unfinished"></translation>
@@ -616,14 +611,6 @@
         <location filename="customoptionwnd.ui" line="245"/>
         <source>Reset</source>
         <translation>Thiết lập lại</translation>
-    </message>
-    <message>
-        <source>Off</source>
-        <translation type="vanished">Tắt</translation>
-    </message>
-    <message>
-        <source>On</source>
-        <translation type="vanished">Bật</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="54"/>
@@ -1178,7 +1165,7 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1560"/>
+        <location filename="playbackobject.cpp" line="1561"/>
         <source>Other profiles</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1616,164 +1603,164 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
         <translation>Tùy chỉnh</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="60"/>
+        <location filename="trayicon.cpp" line="62"/>
         <source>If we&apos;re running in portable mode</source>
         <translation>Nếu ta đang chạy ở chế độ portable</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="61"/>
+        <location filename="trayicon.cpp" line="63"/>
         <source>Directory to store all the settings and log files</source>
         <translation>Thư mục chứa tất cả tập tin cấu hình và báo cáo</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="62"/>
+        <location filename="trayicon.cpp" line="64"/>
         <source>Last generated AVS script</source>
         <translation>Mã AVS được tạo gần đây</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="64"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>Whether to place SVP icon into system tray or not</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="65"/>
+        <location filename="trayicon.cpp" line="67"/>
         <source>User interface language</source>
         <oldsource>User interface complexity</oldsource>
         <translation>Ngôn ngữ giao diện người dùng</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="70"/>
         <source>Time of last successful check</source>
         <translation>Thời gian lần kiểm tra thành công gần đây nhất</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="70"/>
+        <location filename="trayicon.cpp" line="72"/>
         <source>Don&apos;t show updates popups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="73"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Turn off and then on when fast forward or rewind actions occured to minimize freezing</source>
         <translation>Tắt rồi bật lại khi tua để giảm thiểu khả năng bị đứng hình</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="76"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
         <translation>Khoảng thời gian mà khung hình kế tiếp được nhận diện khi tua, tính bằng giây</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="76"/>
+        <location filename="trayicon.cpp" line="78"/>
         <source>Alter video player process priority</source>
         <translation>Thay đổi ưu tiên của trình chơi video</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="78"/>
+        <location filename="trayicon.cpp" line="80"/>
         <source>How to handle multiple videos running at the same time</source>
         <translation>Cách để xử lý khi nhiều video chạy cùng lúc</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="80"/>
+        <location filename="trayicon.cpp" line="82"/>
         <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
         <translation>Cho rằng interlaced video sẽ có gấp đôi chỉ số khung hình sau khi de-interlace</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="81"/>
+        <location filename="trayicon.cpp" line="83"/>
         <source>Automatically turn on stereo mode for videos with 3D tags in file names (SBS,OU,etc.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="82"/>
+        <location filename="trayicon.cpp" line="84"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
         <translation>Tự động bật chế độ stereo với video có tỷ lệ khung hình quá to hoặc quá nhỏ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="84"/>
+        <location filename="trayicon.cpp" line="86"/>
         <source>Delay to help ReClock to detected the video frame rate, in milliseconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="86"/>
+        <location filename="trayicon.cpp" line="88"/>
         <source>Clips shorter than this value in seconds will be ignored</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="88"/>
-        <location filename="trayicon.cpp" line="89"/>
+        <location filename="trayicon.cpp" line="90"/>
+        <location filename="trayicon.cpp" line="91"/>
         <source>Measured CPU performance</source>
         <translation>Đo hiệu năng CPU</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="91"/>
+        <location filename="trayicon.cpp" line="93"/>
         <source>How many times SVP Manager was started</source>
         <translation>Số lần mà Trình quản lý SVP được bật</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="92"/>
+        <location filename="trayicon.cpp" line="94"/>
         <source>How many videos was viewed with SVP</source>
         <translation>Số video được xem với SVP</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="94"/>
+        <location filename="trayicon.cpp" line="96"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>ID của thiết bị GPU được sử dụng tính toán FRC</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="95"/>
+        <location filename="trayicon.cpp" line="97"/>
         <source>Use NVIDIA Optical Flow for motion vectors search (Turing GPUs and later)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="96"/>
+        <location filename="trayicon.cpp" line="98"/>
         <source>Use multiple command queues: 0 - no, 1 - yes except on Intel GPUs, 2 - always</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="97"/>
+        <location filename="trayicon.cpp" line="99"/>
         <source>Number of CPU computation threads</source>
         <translation>Số luồng tính toán của CPU</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="98"/>
+        <location filename="trayicon.cpp" line="100"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>Khác biệt tối đã giữa màn hình và tốc độ làm tươi hướng tới</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="100"/>
+        <location filename="trayicon.cpp" line="102"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="101"/>
+        <location filename="trayicon.cpp" line="103"/>
         <source>Align video frame height to the multiple of this value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="103"/>
+        <location filename="trayicon.cpp" line="105"/>
         <source>Allow 10-bit output, otherwise force YUV 4:2:0 8-bit output format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="106"/>
+        <location filename="trayicon.cpp" line="108"/>
         <source>Fix washed-out HDR colors in DirectShow players by doing simple tone mapping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="107"/>
+        <location filename="trayicon.cpp" line="109"/>
         <source>Improve tone mapping by estimating average and peak luma values in each frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="108"/>
+        <location filename="trayicon.cpp" line="110"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>Đừng hỏi về sử dụng bản vá 4GB</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="111"/>
+        <location filename="trayicon.cpp" line="113"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>Đừng hỏi đo hiệu năng hệ thống</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="112"/>
+        <location filename="trayicon.cpp" line="114"/>
         <source>Launch SVP disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3413,74 +3400,6 @@ Xin hãy đóng trình chơi video trước khi bấm nút &apos;Sử dụng&apo
         <location filename="trayicon.cpp" line="1654"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>Không thể kết nối được với trình chơi video. Hãy kiểm tra xem nó có đang chạy ở tài khoản khác không.</translation>
-    </message>
-</context>
-<context>
-    <name>UnlockWnd</name>
-    <message>
-        <location filename="unlockwnd.ui" line="419"/>
-        <source>Intelligent video profiles selection based on multiple conditions</source>
-        <translation>Lựa chọn cấu hình video thông minh</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="34"/>
-        <source>SVP 4 Pro features</source>
-        <translation>Tính năng nâng cao của SVP 4 Pro</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="76"/>
-        <source>More &lt;a href=#&gt;video players&lt;/a&gt; - &lt;b&gt;mpv, Plex, VLC&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="121"/>
-        <source>&lt;a href=#&gt;SVPtube&lt;/a&gt; helps watching &lt;b&gt;online videos&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="170"/>
-        <source>&lt;a href=#&gt;SVPcode&lt;/a&gt; for high frame rate &lt;b&gt;video transcoding&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="215"/>
-        <source>&lt;a href=#&gt;SVPcast&lt;/a&gt; for &lt;b&gt;streaming&lt;/b&gt; to Chromecast, Apple TV and mobile devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="325"/>
-        <source>Fully customizable &lt;a href=#&gt;video profiles&lt;/a&gt;</source>
-        <translation>Cấu hình video có thể được tùy biến tối đa</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="370"/>
-        <source>10-bit color depth (mpv and VLC)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="464"/>
-        <source>Customizable &lt;a href=#&gt;outer lighting&lt;/a&gt; patterns</source>
-        <translation>Tùy biến mẫu sáng ngoài</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="513"/>
-        <source>Full resolution &lt;b&gt;4K and BD3D&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="531"/>
-        <source>And &lt;a href=#&gt;more&lt;/a&gt;...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="564"/>
-        <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="590"/>
-        <source>Order now!</source>
-        <translation>Mua ngay!</translation>
     </message>
 </context>
 <context>

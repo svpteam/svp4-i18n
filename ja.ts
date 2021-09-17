@@ -440,92 +440,87 @@
         <translation>SVP Index。クリックでCPU使用率へ切替。</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="199"/>
+        <location filename="controlpanel.cpp" line="201"/>
         <source>Video profiles</source>
         <translation>ビデオプロファイル</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="206"/>
+        <location filename="controlpanel.cpp" line="208"/>
         <source>Frame size</source>
         <translation>フレームサイズ</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="213"/>
+        <location filename="controlpanel.cpp" line="215"/>
         <source>Black bars lighting</source>
         <translation>外枠のライティング</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="220"/>
+        <location filename="controlpanel.cpp" line="222"/>
         <source>Performance monitor</source>
         <translation>パフォーマンスモニタ</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="227"/>
+        <location filename="controlpanel.cpp" line="229"/>
         <source>Updates</source>
         <translation>アップデート</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="168"/>
+        <location filename="controlpanel.cpp" line="170"/>
         <source>N/A</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="93"/>
+        <location filename="controlpanel.cpp" line="95"/>
         <source>Utilities</source>
         <translation>ユーティリティ</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="93"/>
+        <location filename="controlpanel.cpp" line="95"/>
         <source>Control Panel</source>
         <translation>コントロールパネル</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="113"/>
+        <location filename="controlpanel.cpp" line="115"/>
         <source>Stay on top</source>
         <translation>常に手前に表示</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="234"/>
+        <location filename="controlpanel.cpp" line="236"/>
         <source>Report a problem</source>
         <translation>問題を報告する</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="241"/>
+        <location filename="controlpanel.cpp" line="243"/>
         <source>Events log</source>
         <translation>イベントログ</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="248"/>
+        <location filename="controlpanel.cpp" line="250"/>
         <source>Application settings</source>
         <translation>アプリケーションの設定</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="255"/>
+        <location filename="controlpanel.cpp" line="257"/>
         <source>Control options</source>
         <translation>操作オプション</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="262"/>
-        <source>Unlock SVP features</source>
-        <translation>SVPの機能制限解除</translation>
-    </message>
-    <message>
-        <location filename="controlpanel.cpp" line="269"/>
+        <location filename="controlpanel.cpp" line="271"/>
         <source>More...</source>
         <translation>その他...</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="275"/>
+        <location filename="controlpanel.cpp" line="277"/>
         <source>Help...</source>
         <translation>ヘルプ...</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="466"/>
+        <location filename="controlpanel.cpp" line="468"/>
         <source>No active playback</source>
         <translation>アクティブ動画：無し</translation>
     </message>
     <message>
-        <location filename="controlpanel.cpp" line="481"/>
+        <location filename="controlpanel.cpp" line="483"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
         <translation></translation>
@@ -617,14 +612,6 @@
         <location filename="customoptionwnd.ui" line="245"/>
         <source>Reset</source>
         <translation>リセット</translation>
-    </message>
-    <message>
-        <source>Off</source>
-        <translation type="vanished">Off</translation>
-    </message>
-    <message>
-        <source>On</source>
-        <translation type="vanished">On</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="54"/>
@@ -1181,7 +1168,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>OpenCLの初期化でエラーが起きました。グラフィックドライバを再インストールしてみて下さい。</translation>
     </message>
     <message>
-        <location filename="playbackobject.cpp" line="1560"/>
+        <location filename="playbackobject.cpp" line="1561"/>
         <source>Other profiles</source>
         <translation>その他のプロファイル</translation>
     </message>
@@ -1619,164 +1606,164 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <translation>カスタム</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="60"/>
+        <location filename="trayicon.cpp" line="62"/>
         <source>If we&apos;re running in portable mode</source>
         <translation>ポータブルモードで実行しているかどうか</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="61"/>
+        <location filename="trayicon.cpp" line="63"/>
         <source>Directory to store all the settings and log files</source>
         <translation>全ての設定やログファイルを保存するディレクトリ</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="62"/>
+        <location filename="trayicon.cpp" line="64"/>
         <source>Last generated AVS script</source>
         <translation>最後に生成したAVSスクリプト</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="64"/>
+        <location filename="trayicon.cpp" line="66"/>
         <source>Whether to place SVP icon into system tray or not</source>
         <translation>システムトレイにSVPアイコンを表示するかどうか</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="65"/>
+        <location filename="trayicon.cpp" line="67"/>
         <source>User interface language</source>
         <oldsource>User interface complexity</oldsource>
         <translation>ユーザーインタフェース言語</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="68"/>
+        <location filename="trayicon.cpp" line="70"/>
         <source>Time of last successful check</source>
         <translation>最後にアップデートチェックに成功した時刻</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="70"/>
+        <location filename="trayicon.cpp" line="72"/>
         <source>Don&apos;t show updates popups</source>
         <translation>更新ポップアップを表示しない</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="73"/>
+        <location filename="trayicon.cpp" line="75"/>
         <source>Turn off and then on when fast forward or rewind actions occured to minimize freezing</source>
         <translation>フリーズを最小限にするため、早送り・早戻しが行われた場合は一度オフにしてからオンにする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="74"/>
+        <location filename="trayicon.cpp" line="76"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
         <translation>シーク検出の閾値（秒単位）</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="76"/>
+        <location filename="trayicon.cpp" line="78"/>
         <source>Alter video player process priority</source>
         <translation>プレーヤーのプロセス優先度を変更する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="78"/>
+        <location filename="trayicon.cpp" line="80"/>
         <source>How to handle multiple videos running at the same time</source>
         <translation>複数の動画で同時に実行する場合の扱い方</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="80"/>
+        <location filename="trayicon.cpp" line="82"/>
         <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
         <translation>インターレース動画は、インタレース解除後に倍のフレームレートとして扱う</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="81"/>
+        <location filename="trayicon.cpp" line="83"/>
         <source>Automatically turn on stereo mode for videos with 3D tags in file names (SBS,OU,etc.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="82"/>
+        <location filename="trayicon.cpp" line="84"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
         <translation>画面比が極端に大きい（または小さい）動画で自動的にステレオモードをONにする</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="84"/>
+        <location filename="trayicon.cpp" line="86"/>
         <source>Delay to help ReClock to detected the video frame rate, in milliseconds</source>
         <translation>ReClockのフレームレート検出のためのディレイ(ミリ秒単位)</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="86"/>
+        <location filename="trayicon.cpp" line="88"/>
         <source>Clips shorter than this value in seconds will be ignored</source>
         <translation>これより短い秒数のクリップは無視する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="88"/>
-        <location filename="trayicon.cpp" line="89"/>
+        <location filename="trayicon.cpp" line="90"/>
+        <location filename="trayicon.cpp" line="91"/>
         <source>Measured CPU performance</source>
         <translation>計測されたCPUパフォーマンス</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="91"/>
+        <location filename="trayicon.cpp" line="93"/>
         <source>How many times SVP Manager was started</source>
         <translation>SVPマネージャーの起動回数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="92"/>
+        <location filename="trayicon.cpp" line="94"/>
         <source>How many videos was viewed with SVP</source>
         <translation>SVPで視聴した動画の本数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="94"/>
+        <location filename="trayicon.cpp" line="96"/>
         <source>ID of GPU device using for FRC computations</source>
         <translation>FRC計算に使用しているGPUデバイスのID</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="95"/>
+        <location filename="trayicon.cpp" line="97"/>
         <source>Use NVIDIA Optical Flow for motion vectors search (Turing GPUs and later)</source>
         <translation>NVIDIA Optical Flowを用いて動きベクトル探索を行う（TuringGPU以降が必要）</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="96"/>
+        <location filename="trayicon.cpp" line="98"/>
         <source>Use multiple command queues: 0 - no, 1 - yes except on Intel GPUs, 2 - always</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="97"/>
+        <location filename="trayicon.cpp" line="99"/>
         <source>Number of CPU computation threads</source>
         <translation>CPU計算の処理スレッド数</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="98"/>
+        <location filename="trayicon.cpp" line="100"/>
         <source>Max relative difference between screen and target refresh rates</source>
         <translation>モニタのリフレッシュレートと目標リフレッシュレートとの相対誤差の上限値</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="100"/>
+        <location filename="trayicon.cpp" line="102"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
         <translation>フレームの幅を4または8の倍数に揃える</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="101"/>
+        <location filename="trayicon.cpp" line="103"/>
         <source>Align video frame height to the multiple of this value</source>
         <translation>フレームの高さをこの値の倍数に揃える</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="103"/>
+        <location filename="trayicon.cpp" line="105"/>
         <source>Allow 10-bit output, otherwise force YUV 4:2:0 8-bit output format</source>
         <translation>10bit出力を許可する（許可しない場合YUV4:2:0の8bit出力となる）</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="106"/>
+        <location filename="trayicon.cpp" line="108"/>
         <source>Fix washed-out HDR colors in DirectShow players by doing simple tone mapping</source>
         <translation>簡単なトーンマッピングでDirectShowプレーヤーでのHDRの色あせを修正する</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="107"/>
+        <location filename="trayicon.cpp" line="109"/>
         <source>Improve tone mapping by estimating average and peak luma values in each frame</source>
         <translation>各フレームで平均輝度と最大輝度を推定してトーンマッピングを向上させる</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="108"/>
+        <location filename="trayicon.cpp" line="110"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
         <translation>4GBパッチの適用について確認しない</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="111"/>
+        <location filename="trayicon.cpp" line="113"/>
         <source>Don&apos;t ask about system performance assessment</source>
         <translation>システムパフォーマンスの判定について確認しない</translation>
     </message>
     <message>
-        <location filename="trayicon.cpp" line="112"/>
+        <location filename="trayicon.cpp" line="114"/>
         <source>Launch SVP disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3416,74 +3403,6 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="trayicon.cpp" line="1654"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
         <translation>動画プレーヤーと連携できません。別のユーザーアカウントで実行されていないか確認して下さい。</translation>
-    </message>
-</context>
-<context>
-    <name>UnlockWnd</name>
-    <message>
-        <location filename="unlockwnd.ui" line="419"/>
-        <source>Intelligent video profiles selection based on multiple conditions</source>
-        <translation>複数の条件を指定したインテリジェントなプロファイル選択</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="34"/>
-        <source>SVP 4 Pro features</source>
-        <translation>SVP4の高度な機能</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="76"/>
-        <source>More &lt;a href=#&gt;video players&lt;/a&gt; - &lt;b&gt;mpv, Plex, VLC&lt;/b&gt;</source>
-        <translation>&lt;a href=#&gt;VLC,mpv,Ple&lt;/a&gt;xといったプレーヤーをサポート</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="121"/>
-        <source>&lt;a href=#&gt;SVPtube&lt;/a&gt; helps watching &lt;b&gt;online videos&lt;/b&gt;</source>
-        <translation>オンラインビデオ鑑賞に便利な&lt;a href=#&gt;SVPtube&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="170"/>
-        <source>&lt;a href=#&gt;SVPcode&lt;/a&gt; for high frame rate &lt;b&gt;video transcoding&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="215"/>
-        <source>&lt;a href=#&gt;SVPcast&lt;/a&gt; for &lt;b&gt;streaming&lt;/b&gt; to Chromecast, Apple TV and mobile devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="325"/>
-        <source>Fully customizable &lt;a href=#&gt;video profiles&lt;/a&gt;</source>
-        <translation>ビデオプロファイルの完全カスタマイズ</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="370"/>
-        <source>10-bit color depth (mpv and VLC)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="464"/>
-        <source>Customizable &lt;a href=#&gt;outer lighting&lt;/a&gt; patterns</source>
-        <translation>ライティングパターンのカスタマイズ</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="513"/>
-        <source>Full resolution &lt;b&gt;4K and BD3D&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="531"/>
-        <source>And &lt;a href=#&gt;more&lt;/a&gt;...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="564"/>
-        <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
-        <translation>SVP4 Proの &lt;b&gt;%1パーセント割引&lt;/b&gt;を受けることが出来ます！</translation>
-    </message>
-    <message>
-        <location filename="unlockwnd.ui" line="590"/>
-        <source>Order now!</source>
-        <translation>今すぐ購入を！</translation>
     </message>
 </context>
 <context>

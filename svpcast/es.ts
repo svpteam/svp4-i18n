@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_TW">
+<TS version="2.1" language="es_ES">
 <context>
     <name>CastPlugin</name>
     <message>
         <source>Start streaming / show controls</source>
-        <translation>開始串流 / 顯示控制項</translation>
+        <translation>Iniciar streaming / mostrar controles</translation>
     </message>
     <message>
         <source>Stream a video file...</source>
-        <translation>串流一個影片檔案…</translation>
+        <translation>Stremear archivo de video...</translation>
     </message>
     <message>
         <source>Stream to</source>
-        <translation>串流至</translation>
+        <translation>Streamear a</translation>
     </message>
     <message>
         <source>Software / H.264</source>
-        <translation>軟體 / H.264</translation>
+        <translation>Software/ H.264</translation>
     </message>
     <message>
         <source>VideoToolbox / H.264</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Bandwidth limit</source>
-        <translation>頻寬限制</translation>
+        <translation>Limite banda ancha</translation>
     </message>
     <message>
         <source>75M</source>
@@ -61,47 +61,47 @@
     </message>
     <message>
         <source>Web UI</source>
-        <translation>Web UI</translation>
+        <translation>UI Web</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>已啟用</translation>
+        <translation>Activado</translation>
     </message>
     <message>
         <source>Choose videos folder...</source>
-        <translation>選擇影像資料夾…</translation>
+        <translation>Escoger folder de videos...</translation>
     </message>
     <message>
         <source>Choose Web UI videos folder</source>
-        <translation>選擇 Web UI 影像資料夾</translation>
+        <translation>Escoger Web UI videos folder</translation>
     </message>
     <message>
         <source>User manual (online)</source>
-        <translation>使用手冊（線上）</translation>
+        <translation>Manual usuario (online)</translation>
     </message>
     <message>
         <source>HTTP Live Streaming (HLS)</source>
-        <translation>HTTP串流媒體(HLS)</translation>
+        <translation>Live streaming HTTP (HLS)</translation>
     </message>
     <message>
         <source>Stream video</source>
-        <translation>串流影像</translation>
+        <translation>Transmitir video</translation>
     </message>
     <message>
         <source>Video files</source>
-        <translation>影片檔案</translation>
+        <translation>Archivos de video</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>所有檔案</translation>
+        <translation>Todos los archivos</translation>
     </message>
     <message>
         <source>Streaming</source>
-        <translation>串流</translation>
+        <translation>Transmision</translation>
     </message>
     <message>
         <source>Show controls</source>
-        <translation>顯示控制項</translation>
+        <translation>Mostrar controles</translation>
     </message>
     <message>
         <source>NVIDIA NVENC / H.264</source>
@@ -121,133 +121,133 @@
     </message>
     <message>
         <source>Video encoder</source>
-        <translation>影像編碼器</translation>
+        <translation>Codificador de video</translation>
     </message>
     <message>
         <source>Downmix multichannel audio to stereo</source>
-        <translation>將多聲道音訊混合為立體聲</translation>
+        <translation>Bajar audio multi a stereo</translation>
     </message>
     <message>
         <source>Open in web browser</source>
-        <translation>在網頁瀏覽器開啟</translation>
+        <translation>Abrir en navegador </translation>
     </message>
     <message>
         <source>Comma-separated list of additional ffmpeg encoder options, see &apos;mpv --ovcopts=help&apos;</source>
-        <translation>其它 ffmpeg 編碼器選項的逗號分隔清單，見 &apos;mpv --ovcopts=help&apos;</translation>
+        <translation>Lista separada por coma para opciones adicionales para encoder ffmpeg, ver &apos;mpv --ovcopts=help&apos;</translation>
     </message>
     <message>
         <source>One of the video encoders built into mpv, see &apos;mpv --ovc=help&apos;</source>
-        <translation>其中一個影像編碼器內建於 mpv，見 &apos;mpv --ovc=help&apos;</translation>
+        <translation>Uno de los encoders unidos dentro mpv, ver &apos;mpv --ovc=help&apos;</translation>
     </message>
     <message>
         <source>Always encode audio as 2-channel AAC, otherwise encode multi-channel audio as (E)AC3</source>
-        <translation>永遠將音訊編碼為 2 頻道 AAC，或者將多頻道音訊編碼為 (E)AC3</translation>
+        <translation>Siempre codifica audio como 2-canales AAC, de otra manera codificar en audio multi-canal como (E)AC3</translation>
     </message>
     <message>
         <source>Target network bandwidth, in Mbps</source>
-        <translation>目標網路頻寬，以 Mbps 計算</translation>
+        <translation>Objetivo de ancho de banda, en Mbps</translation>
     </message>
     <message>
         <source>Attempt to encode in realtime lowering peak CPU usage</source>
-        <translation>試圖在即時降低尖峰 CPU 使用率編碼</translation>
+        <translation>Intentar codificar en tiempo real reduciendo picos de uso de CPU</translation>
     </message>
     <message>
         <source>A folder containing video files that will be available via Web UI</source>
-        <translation>內有影片檔案的資料夾，將透過 Web UI 提供</translation>
+        <translation>Un folder conteniendo archivos de video que estaran disponibles via Web UI</translation>
     </message>
     <message>
         <source>Enable or disable Web UI for mobiles</source>
-        <translation>啟用或停用行動裝置 Web UI</translation>
+        <translation>Activar o desactivar UI Web para móviles</translation>
     </message>
     <message>
         <source>TCP port for a Web UI</source>
-        <translation>一個 Web UI 的 TCP 連接埠</translation>
+        <translation>Port TCP para UI Web</translation>
     </message>
     <message>
         <source>A device (IP address) to stream to</source>
-        <translation>串流至裝置（IP 位址）</translation>
+        <translation>Dispositivo (dirección IP) a la cual transmitir</translation>
     </message>
     <message>
         <source>Temporary files location</source>
-        <translation>暫存檔案位置</translation>
+        <translation>Locación de archivos temp</translation>
     </message>
     <message>
         <source>Print additional development information to Events log</source>
-        <translation>列印其它發展資料至事件日誌</translation>
+        <translation>Añadior information adicional de desarrollo al log de eventos</translation>
     </message>
     <message>
         <source>Last streaming log</source>
-        <translation>上次串流記錄</translation>
+        <translation>Log del ultimo streaming</translation>
     </message>
     <message>
         <source>Ignore ASS subtitles style</source>
-        <translation>略過 ASS 字幕樣式</translation>
+        <translation>Ignorar subtítulos estilo ASS</translation>
     </message>
     <message>
         <source>Relative subtitles font size</source>
-        <translation>相對字幕字型大小</translation>
+        <translation>Tamaño de substritos relativo</translation>
     </message>
     <message>
         <source>Last chosen subtitles language</source>
-        <translation>上次選擇字幕語言</translation>
+        <translation>Ultimo lenguaje de substitulos usado</translation>
     </message>
     <message>
         <source>Relative distance from the bottom edge</source>
-        <translation>與下邊緣的相對距離</translation>
+        <translation>Distancia relativa del borde inferior</translation>
     </message>
     <message>
         <source>Additional mpv options (see mpv manual)</source>
-        <translation>其它 mpv 選項（見 mpv 手冊）</translation>
+        <translation>Opciones mpv adicionales (ver manual mpv)</translation>
     </message>
     <message>
         <source>Forget and rescan</source>
-        <translation>忽略並重新掃描</translation>
+        <translation>Olvidad y re-escanear</translation>
     </message>
     <message>
         <source>Fallback to H.264 on error</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a H.264 en caso de error</translation>
     </message>
     <message>
         <source>Use &apos;www.svp-team.com/cast&apos; as a shortcut to the local Web UI server</source>
-        <translation type="unfinished">使用&apos;www.svp-team.com/cast&apos; 作為本地 Web UI 服務器的快捷方式</translation>
+        <translation>Usar &apos;www.svp-team.com/cast&apos; como atajo para el servidor de UI Web local</translation>
     </message>
     <message>
         <source>Optional unique computer name i.e. &apos;www.svp-team.com/cast/name&apos;</source>
-        <translation type="unfinished">可選的唯一計算機名稱為:&apos;www.svp-team.com/cast/name&apos;</translation>
+        <translation>Nombre de computadora unico opciones i.e. &apos;www.svp-team.com/cast/name&apos;</translation>
     </message>
     <message>
         <source>Update every &lt;value&gt; seconds, useful in case of dynamic external IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>Actaualizar cada &lt;valor&gt; segundos, util en caso de IP externas dinamicas</translation>
     </message>
     <message>
         <source>Activate deband filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar fildro antibanding</translation>
     </message>
     <message>
         <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
-        <translation type="unfinished">為HDR啟用色調映射(可能嚴重影響編碼效能)</translation>
+        <translation>Hacer mapeado de tonos para fuentes HDR, puede lastimar el rendimiento de codificado mucho</translation>
     </message>
     <message>
         <source>Downscale to 1080p</source>
-        <translation type="unfinished">縮減至1080P</translation>
+        <translation>Desescalar a 1080p</translation>
     </message>
 </context>
 <context>
     <name>DeviceFinder</name>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation>Desconocido</translation>
     </message>
 </context>
 <context>
     <name>PlaybackControl</name>
     <message>
         <source>SVP Streaming</source>
-        <translation>SVP 串流</translation>
+        <translation>Transmisión SVP</translation>
     </message>
     <message>
         <source>Encoding performance</source>
-        <translation>編碼效能</translation>
+        <translation>Redimiento codificación</translation>
     </message>
     <message>
         <source>%v fps</source>
@@ -255,39 +255,35 @@
     </message>
     <message>
         <source>Video profile</source>
-        <translation>影像設定檔</translation>
+        <translation>Perfil de video</translation>
     </message>
     <message>
         <source>Pause / resume</source>
-        <translation>暫停 / 繼續</translation>
+        <translation>Pausa / continuar</translation>
     </message>
     <message>
         <source>Stop streaming</source>
-        <translation>停止串流</translation>
+        <translation>Dejar de transmitir</translation>
     </message>
     <message>
         <source>Mute volume</source>
-        <translation>靜音</translation>
+        <translation>Mutar volumen</translation>
     </message>
     <message>
         <source>Click to copy link to clipboard</source>
-        <translation>按一下來複製連結到剪貼簿</translation>
+        <translation>Click para copiar al portapapeles</translation>
     </message>
     <message>
         <source>MOVE MOUSE OVER</source>
-        <translation>移動滑鼠</translation>
+        <translation>MOVER RATON ENCIMA</translation>
     </message>
     <message>
         <source>Link copied to clipboard</source>
-        <translation>連結已複製到剪貼簿</translation>
-    </message>
-    <message>
-        <source>Hz</source>
-        <translation type="vanished">Hz</translation>
+        <translation>Link copiado al portapapeles</translation>
     </message>
     <message>
         <source>channels</source>
-        <translation>頻道</translation>
+        <translation>canales</translation>
     </message>
     <message>
         <source>kb/s</source>
@@ -295,39 +291,39 @@
     </message>
     <message>
         <source>No audio</source>
-        <translation>無音訊</translation>
+        <translation>No audio</translation>
     </message>
     <message>
         <source>starting...</source>
-        <translation>正在開始…</translation>
+        <translation>iniciando...</translation>
     </message>
     <message>
         <source>buffering...</source>
-        <translation>正在緩衝處理…</translation>
+        <translation>buffering...</translation>
     </message>
     <message>
         <source>Enter PIN code you see on the screen:</source>
-        <translation>輸入您在畫面上看到的 PIN 碼：</translation>
+        <translation>Introducir codigo PIN que vez en pantalla:</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation>語言：</translation>
+        <translation>Lenguaje:</translation>
     </message>
     <message>
         <source>No subtitles</source>
-        <translation>無字幕</translation>
+        <translation>Sin subtítulos</translation>
     </message>
     <message>
         <source>Load subtitles</source>
-        <translation>載入字幕</translation>
+        <translation>Cargar subtítulos</translation>
     </message>
     <message>
         <source>Subtitle files</source>
-        <translation>字幕檔案</translation>
+        <translation>Archivos de subtítulos</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation>所有檔案</translation>
+        <translation>Todos los archivos</translation>
     </message>
 </context>
 </TS>
