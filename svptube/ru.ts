@@ -80,7 +80,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="364"/>
         <source>e.g. 111.222.333.444:55, optional</source>
-        <translation>например 111.222.333.444:55, не обязательноl</translation>
+        <translation>например 111.222.333.444:55, не обязательно</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="302"/>
