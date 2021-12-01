@@ -58,7 +58,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="227"/>
         <source>Paintpack USB device (DMX mode)</source>
-        <translation>Paintpack подключенный по USB</translation>
+        <translation>Paintpack подключённый по USB</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="261"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="ledconfiguration.ui" line="838"/>
         <source> zones</source>
-        <translation>зон</translation>
+        <translation> зон</translation>
     </message>
     <message>
         <location filename="ledconfiguration.ui" line="863"/>
@@ -196,12 +196,12 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="267"/>
         <source>Turn lights on or off</source>
-        <translation>Включить/выключить подсветку</translation>
+        <translation>Включить/отключить подсветку</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="272"/>
         <source>Turn runnign lights effect on or off</source>
-        <translation>Включить/выключить &quot;бегущие огни&quot;</translation>
+        <translation>Включить/отключить &quot;бегущие огни&quot;</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="346"/>
@@ -231,7 +231,7 @@
     <message>
         <location filename="ledconfigurationwnd.cpp" line="771"/>
         <source>For the better experience please open Prismatik settings window and set &quot;Mode - Scene luminosity threshold&quot; to 1 (one).</source>
-        <translation>Мы рекомендуем установить  параметр &quot;Режимы - Порог освещенности сцены&quot; равным 1. в настройках Призматика.</translation>
+        <translation>Мы рекомендуем установить  параметр &quot;Режимы - Порог освещённости сцены&quot; равным 1. в настройках Призматика.</translation>
     </message>
     <message>
         <location filename="ledconfigurationwnd.cpp" line="779"/>
@@ -314,7 +314,7 @@
         <location filename="ledcontrol.ui" line="434"/>
         <location filename="ledcontrol.ui" line="564"/>
         <source>OFF</source>
-        <translation>ВЫКЛ</translation>
+        <translation>ОТКЛ</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="463"/>
@@ -375,7 +375,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="115"/>
         <source>Paintpack isn&apos;t connected OR K8062d library not found.</source>
-        <translation>Paintpack не подсоединен ИЛИ отсутствует библиотека K8062d.</translation>
+        <translation>Paintpack не подсоединён ИЛИ отсутствует библиотека K8062d.</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="116"/>

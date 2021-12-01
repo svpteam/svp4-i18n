@@ -6,7 +6,7 @@
     <message>
         <location filename="avsfvideoplayer.cpp" line="147"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation>Доступ к проигрывателю запрещен системой. Возможно он запущен с правами администратора?</translation>
+        <translation>Доступ к проигрывателю запрещён системой. Возможно он запущен с правами администратора?</translation>
     </message>
     <message>
         <location filename="avsfvideoplayer.cpp" line="170"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="aboutdlg.cpp" line="110"/>
         <source>Indiegogo Part of the Team members</source>
-        <translation>Indiegogo - Серебрянная медаль</translation>
+        <translation>Indiegogo - Серебряная медаль</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="111"/>
@@ -184,7 +184,7 @@
     <message>
         <location filename="activationwnd.ui" line="339"/>
         <source>An active Internet connection is required.</source>
-        <translation>Необходимо активное подключение к Internet.</translation>
+        <translation>Необходимо активное подключение к Интернету.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="496"/>
@@ -265,7 +265,7 @@
     <message>
         <location filename="benchmarkwnd.ui" line="112"/>
         <source>This will only take one minute, please close any performance consuming applications including web browser before proceeding.</source>
-        <translation>Это займет всего несколько минут. Пожалуйста, закройте все ресурсоемкие приложения, включая интернет-браузер, перед началом тестирования.</translation>
+        <translation>Это займёт всего несколько минут. Пожалуйста, закройте все ресурсоёмкие приложения, включая интернет-браузер, перед началом тестирования.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="139"/>
@@ -507,7 +507,7 @@
     <message>
         <location filename="controlpanel.cpp" line="271"/>
         <source>More...</source>
-        <translation>Еще...</translation>
+        <translation>Ещё...</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="277"/>
@@ -523,7 +523,7 @@
         <location filename="controlpanel.cpp" line="483"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
-        <translation>+ еще %1</translation>
+        <translation>+ ещё %1</translation>
     </message>
 </context>
 <context>
@@ -591,7 +591,7 @@
     <message>
         <location filename="customoptionwnd.ui" line="205"/>
         <source>ON or OFF</source>
-        <translation>ВКЛ / ВЫКЛ</translation>
+        <translation>ВКЛ / ОТКЛ</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="215"/>
@@ -629,7 +629,7 @@
     <message>
         <location filename="daumvideoplayer.cpp" line="184"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation>Доступ к проигрывателю запрещен системой. Возможно он запущен с правами администратора?</translation>
+        <translation>Доступ к проигрывателю запрещён системой. Возможно он запущен с правами администратора?</translation>
     </message>
     <message>
         <location filename="daumvideoplayer.cpp" line="212"/>
@@ -657,7 +657,7 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="74"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation>Доступ к проигрывателю запрещен системой. Возможно он запущен с правами администратора?</translation>
+        <translation>Доступ к проигрывателю запрещён системой. Возможно он запущен с правами администратора?</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="91"/>
@@ -691,7 +691,7 @@
         <location filename="framecontrolwnd.ui" line="138"/>
         <location filename="framecontrolwnd.ui" line="483"/>
         <source>Disabled</source>
-        <translation>Выкл</translation>
+        <translation>Откл</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="172"/>
@@ -948,7 +948,7 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="88"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
-        <translation>Доп. аргументы для запуска проигрывателя, разделенные символом &apos;;&apos;</translation>
+        <translation>Доп. аргументы для запуска проигрывателя, разделённые символом &apos;;&apos;</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="91"/>
@@ -1136,7 +1136,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="315"/>
         <source>SVP: disabled</source>
-        <translation>SVP: выключено</translation>
+        <translation>SVP: отключено</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="1048"/>
@@ -1173,7 +1173,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="1561"/>
         <source>Other profiles</source>
-        <translation>Еще профили</translation>
+        <translation>Ещё профили</translation>
     </message>
 </context>
 <context>
@@ -1277,7 +1277,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="760"/>
         <source>No masking</source>
-        <translation>Выключено</translation>
+        <translation>Отключено</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="792"/>
@@ -1460,7 +1460,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="performancewnd.cpp" line="118"/>
         <source>Performance graphs time scale</source>
-        <translation>Временной мастшаб графиков производительности</translation>
+        <translation>Временной масштаб графиков производительности</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="41"/>
@@ -1511,7 +1511,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="649"/>
         <source>Is interlaced</source>
-        <translation>Черезстрочное?</translation>
+        <translation>Чересстрочное?</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="650"/>
@@ -1601,7 +1601,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="400"/>
         <source>Last edited FRC profile</source>
-        <translation>Последний измененный профиль</translation>
+        <translation>Последний изменённый профиль</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="847"/>
@@ -1667,7 +1667,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="82"/>
         <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
-        <translation>Предполагать что черезстрочное видео имеет удвоенную частоту после де-интерлейса</translation>
+        <translation>Предполагать что чересстрочное видео имеет удвоенную частоту после деинтерлейса</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="83"/>
@@ -1718,7 +1718,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="98"/>
         <source>Use multiple command queues: 0 - no, 1 - yes except on Intel GPUs, 2 - always</source>
-        <translation>Несколько коммандных очередей OpenCL: 0 - нет, 1 - да, кроме Intel GPU, 2 - да</translation>
+        <translation>Несколько командных очередей OpenCL: 0 - нет, 1 - да, кроме Intel GPU, 2 - да</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="99"/>
@@ -1806,7 +1806,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="237"/>
         <source>Off</source>
-        <translation>Выкл</translation>
+        <translation>Откл</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="293"/>
@@ -1836,7 +1836,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="119"/>
         <source>Whether remote API is in use or not</source>
-        <translation>Включено ли удаленное управление</translation>
+        <translation>Включено ли удалённое управление</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="120"/>
@@ -1856,7 +1856,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="204"/>
         <source>Enable/disable SVP</source>
-        <translation>Включить/выключить SVP</translation>
+        <translation>Включить/отключить SVP</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="207"/>
@@ -1876,7 +1876,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="216"/>
         <source>Toggle outer lighting</source>
-        <translation>Вкл/выкл подсветку полей</translation>
+        <translation>Вкл/откл подсветку полей</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="218"/>
@@ -1886,7 +1886,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="221"/>
         <source>Toggle black bars detection</source>
-        <translation>Вкл/выкл определение полей</translation>
+        <translation>Вкл/откл определение полей</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="222"/>
@@ -1896,7 +1896,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="224"/>
         <source>Toggle video frame crop</source>
-        <translation>Вкл/выкл обрезку кадра</translation>
+        <translation>Вкл/откл обрезку кадра</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="226"/>
@@ -1916,7 +1916,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="234"/>
         <source>Toggle fluency and tearing test</source>
-        <translation>Вкл/выкл тест плавности</translation>
+        <translation>Вкл/откл тест плавности</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="242"/>
@@ -2046,7 +2046,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.cpp" line="387"/>
         <source>Sending... %1% (%2 KB/sec)</source>
-        <translation>Отправка... %1% (%2 Кб/сек)</translation>
+        <translation>Отправка... %1% (%2 Кб/с)</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="400"/>
@@ -2069,7 +2069,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="828"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
-        <translation>&quot;1.5m&quot; (&quot;1m&quot;, расчетные прижаты)</translation>
+        <translation>&quot;1.5m&quot; (&quot;1m&quot;, расчётные прижаты)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="829"/>
@@ -2114,7 +2114,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="836"/>
         <source>gives the greatest possible smoothness, but in some cases (a non-integer coefficient for increasing the frame rate) results in most frames being interpolated thus increases artifacts visibility.</source>
-        <translation>дает максимально возможную плавность, но в некоторых случаях (не целый коэффициент увеличения частоты кадров) приводит к тому, что большинство кадров оказывается интерполированными.</translation>
+        <translation>даёт максимально возможную плавность, но в некоторых случаях (не целый коэффициент увеличения частоты кадров) приводит к тому, что большинство кадров оказывается интерполированными.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="840"/>
@@ -2184,12 +2184,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="853"/>
         <source>23. Complicated</source>
-        <translation>23. Усложненный</translation>
+        <translation>23. Усложнённый</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="855"/>
         <source>An algorithm for interpolated frame calculation that uses two or more source frames and the deduced motion vectors.</source>
-        <translation>Алгоритм расчета интерполированных кадров с использованием двух или более исходных кадров и найденных векторов движения.</translation>
+        <translation>Алгоритм расчёта интерполированных кадров с использованием двух или более исходных кадров и найденных векторов движения.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="856"/>
@@ -2209,7 +2209,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="859"/>
         <source>simple blending of frames based on the motion.</source>
-        <translation>алгоритм с простым смешиванием кадров с учетом движения.</translation>
+        <translation>алгоритм с простым смешиванием кадров с учётом движения.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="860"/>
@@ -2345,12 +2345,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="901"/>
         <source>The range of motion vector search, limits the maximum length of the vector and the degree of &quot;fluidity&quot; of the image. The larger the radius is, the more likely you’ll get a wrong vector, resulting in more interpolation artifacts.</source>
-        <translation>Дальность поиска вектора движения, ограничивает максимальную длину вектора и степень &quot;подвижности&quot; изображения. Чем больше дальность поиска, тем больше вероятность получить ошибочный вектор, что приведет к артефактам интерполяции.</translation>
+        <translation>Дальность поиска вектора движения, ограничивает максимальную длину вектора и степень &quot;подвижности&quot; изображения. Чем больше дальность поиска, тем больше вероятность получить ошибочный вектор, что приведёт к артефактам интерполяции.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="902"/>
         <source>does not allow using the more resource-intensive SADT function to compare image blocks.</source>
-        <translation>не использовать более ресурсоемкую функцию SADT для сравнения блоков.</translation>
+        <translation>не использовать более ресурсоёмкую функцию SADT для сравнения блоков.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="906"/>
@@ -2375,7 +2375,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="909"/>
         <source>A higher accuracy in the search for motion vectors increases the smoothness of slow motion such as slow moving closing credits on a black background. High accuracy dramatically increases the use of RAM, especially if no GPU is used.</source>
-        <translation>Более высокая точность поиска векторов движения увеличивает плавность медленного движения, например, заключительных титров на черном фоне. Высокая точность резко увеличивает использование оперативной памяти, особенно без использования GPU.</translation>
+        <translation>Более высокая точность поиска векторов движения увеличивает плавность медленного движения, например, заключительных титров на чёрном фоне. Высокая точность резко увеличивает использование оперативной памяти, особенно без использования GPU.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="913"/>
@@ -2498,7 +2498,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="971"/>
         <source>An addition to the &quot;Processing threads&quot; value set in the Main menu. The number of calculation threads directly affects how much RAM will be used.</source>
-        <translation>Добавка к значению Кол-во потоков расчета, заданному в Главном меню. Количество потоков расчета напрямую влияет на объем использованной оперативной памяти.</translation>
+        <translation>Добавка к значению Кол-во потоков расчёта, заданному в Главном меню. Количество потоков расчёта напрямую влияет на объем использованной оперативной памяти.</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="975"/>
@@ -2805,7 +2805,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="951"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
-        <translation>Анализ кадра для поиска черных полей и автоматичская их обрезка </translation>
+        <translation>Анализ кадра для поиска черных полей и автоматическая их обрезка </translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="959"/>
@@ -2851,7 +2851,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="trayicon.cpp" line="750"/>
         <location filename="trayicon.cpp" line="988"/>
         <source>Disabled</source>
-        <translation>Выключена</translation>
+        <translation>Отключена</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="984"/>
@@ -2936,12 +2936,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1019"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
-        <translation>Задержка включения/выключения подсветки после смены режима</translation>
+        <translation>Задержка включения/отключения подсветки после смены режима</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1022"/>
         <source>Disabled in 3D mode</source>
-        <translation>Выключена в режиме 3D</translation>
+        <translation>Отключена в режиме 3D</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1024"/>
@@ -3110,7 +3110,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1207"/>
         <source>Load at system startup</source>
-        <translation>Загружить при старте системы</translation>
+        <translation>Загружать при старте системы</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1216"/>
@@ -3185,7 +3185,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1266"/>
         <source>Processing threads</source>
-        <translation>Кол-во потоков расчета</translation>
+        <translation>Кол-во потоков расчёта</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1271"/>
@@ -3486,7 +3486,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="302"/>
         <source>SVP support DISABLED.</source>
-        <translation>Поддежка SVP в VLC ВЫКЛЮЧЕНА.</translation>
+        <translation>Поддержка SVP в VLC ОТКЛЮЧЕНА.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="308"/>

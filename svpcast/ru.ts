@@ -267,7 +267,7 @@
     </message>
     <message>
         <source>Mute volume</source>
-        <translation>Выключить звук</translation>
+        <translation>Отключить звук</translation>
     </message>
     <message>
         <source>Click to copy link to clipboard</source>

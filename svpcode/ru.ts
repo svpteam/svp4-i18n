@@ -141,15 +141,15 @@
     </message>
     <message>
         <source>Additional command-line arguments for encoding step (via mpv)</source>
-        <translation>Дополнительные аргументы коммандной строки для mpv</translation>
+        <translation>Дополнительные аргументы командной строки для mpv</translation>
     </message>
     <message>
         <source>Additional command-line arguments for muxing step (via ffmpeg)</source>
-        <translation>Дополнительные аргументы коммандной строки для сведения через ffmpeg</translation>
+        <translation>Дополнительные аргументы командной строки для сведения через ffmpeg</translation>
     </message>
     <message>
         <source>Additional command-line arguments for muxing step (via mkvmerge)</source>
-        <translation>Дополнительные аргументы коммандной строки для сведения через mkvmerge</translation>
+        <translation>Дополнительные аргументы командной строки для сведения через mkvmerge</translation>
     </message>
     <message>
         <source>DONE</source>
@@ -328,7 +328,7 @@
     </message>
     <message>
         <source>Encoder type</source>
-        <translation>Кодировшик</translation>
+        <translation>Кодировщик</translation>
     </message>
     <message>
         <source>H.264 (AVC)</source>
@@ -472,7 +472,7 @@
     </message>
     <message>
         <source>10-bit encoding requires GPU acceleration enabled</source>
-        <translation>10-битное кодирование требует включенного &quot;Ускорения GPU&quot;</translation>
+        <translation>10-битное кодирование требует включённого &quot;Ускорения GPU&quot;</translation>
     </message>
     <message>
         <source>10-bit</source>
