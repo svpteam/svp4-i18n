@@ -52,7 +52,7 @@
         <location filename="siteauthdlg.ui" line="136"/>
         <source>User-Agent:</source>
         <oldsource>User-agent:</oldsource>
-        <translation>User-Agent:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="206"/>
@@ -160,7 +160,7 @@
     <message>
         <location filename="siteauth.cpp" line="296"/>
         <source>Provide either user/password or cookies/user-agent as a login data if required by the selected web site.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 웹 사이트에서 요구하는 경우 로그인 데이터로 사용자/비밀번호 또는 쿠키/user-agent 제공합니다.</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="319"/>
@@ -187,7 +187,7 @@
         <translation>재생목록</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="159"/>
+        <location filename="traywnd.ui" line="158"/>
         <source>Waiting for an URL of some online video...</source>
         <translation>온라인 동영상의 URL을 기다리는 중...</translation>
     </message>
@@ -207,133 +207,138 @@
         <translation>재생목록의 다음 클립</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="793"/>
+        <location filename="traywnd.ui" line="223"/>
+        <location filename="traywnd.cpp" line="854"/>
         <source>Cancel download</source>
         <translation>다운로드 취소</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="298"/>
+        <location filename="traywnd.ui" line="306"/>
+        <source>Select audio language</source>
+        <translation>오디오 언어 선택</translation>
+    </message>
+    <message>
+        <location filename="traywnd.ui" line="329"/>
         <source>Select subtitles</source>
         <translation>자막 선택</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="326"/>
+        <location filename="traywnd.ui" line="357"/>
         <source>Play</source>
         <translation>재생</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="387"/>
+        <location filename="traywnd.ui" line="418"/>
         <source>No video formats matching filters, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;show all formats&lt;/b&gt;&lt;/a&gt;</source>
         <translation>필터와 일치하는 동영상 포맷 없음, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;모든 포맷 표시&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="50"/>
+        <location filename="traywnd.cpp" line="60"/>
         <source>Play...</source>
         <translation>재생...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="56"/>
+        <location filename="traywnd.cpp" line="66"/>
         <source>Copy URL</source>
         <translation>URL 복사</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="58"/>
+        <location filename="traywnd.cpp" line="68"/>
         <source>Download...</source>
         <translation>다운로드...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="336"/>
+        <location filename="traywnd.cpp" line="366"/>
         <source>Unknown: select to load</source>
         <translation>알 수 없음: 선택하여 로딩</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="471"/>
+        <location filename="traywnd.cpp" line="531"/>
         <source>No subtitles</source>
         <translation>자막없음</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="502"/>
+        <location filename="traywnd.cpp" line="561"/>
         <source>Auto-generated</source>
         <translation>자동생성됨</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="641"/>
+        <location filename="traywnd.cpp" line="702"/>
         <source>Multiple streams</source>
         <translation>복수의 스트리밍</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="643"/>
+        <location filename="traywnd.cpp" line="704"/>
         <source>Video</source>
         <translation>동영상</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>Audio</source>
         <translation>오디오</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>%1 Kbps</source>
         <translation>%1 Kbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="648"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>%1 Mbps</source>
         <translation>%1 Mbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="688"/>
+        <location filename="traywnd.cpp" line="749"/>
         <source>Show another %1 hidden formats</source>
         <translation>%1개의 또 다른 숨겨진 포맷 표시</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="720"/>
+        <location filename="traywnd.cpp" line="781"/>
         <source>Video clips</source>
         <translation>비디오 클립</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="721"/>
+        <location filename="traywnd.cpp" line="782"/>
         <source>Matroska video clips</source>
         <translation>MKV/Matroska 비디오 클립</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="722"/>
+        <location filename="traywnd.cpp" line="783"/>
         <source>All files</source>
         <translation>모든 파일</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="727"/>
+        <location filename="traywnd.cpp" line="788"/>
         <source>Download clip as...</source>
         <translation>클립을 다른 이름으로 다운로드...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>정말로 이 다운로드를 취소하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Yes</source>
         <translation>예</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>No</source>
         <translation>아니오</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="897"/>
+        <location filename="traywnd.cpp" line="958"/>
         <source>%1% of %2 downloaded</source>
         <translation>%2개 중 %1%개 다운로드됨</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="898"/>
+        <location filename="traywnd.cpp" line="959"/>
         <source>%1 downloaded</source>
         <translation>%1개 다운로드됨</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="903"/>
+        <location filename="traywnd.cpp" line="964"/>
         <source>queued</source>
         <translation>대기열 추가됨</translation>
     </message>
@@ -563,12 +568,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="361"/>
         <source>Executables</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 파일</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="364"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>애플리케이션</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="368"/>

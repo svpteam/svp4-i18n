@@ -52,7 +52,7 @@
         <location filename="siteauthdlg.ui" line="136"/>
         <source>User-Agent:</source>
         <oldsource>User-agent:</oldsource>
-        <translation>User-Agent:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="206"/>
@@ -160,7 +160,7 @@
     <message>
         <location filename="siteauth.cpp" line="296"/>
         <source>Provide either user/password or cookies/user-agent as a login data if required by the selected web site.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forneça usuário/senha ou cookies/user-agent como dados de login, se exigido pelo site selecionado.</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="319"/>
@@ -187,7 +187,7 @@
         <translation>Playlist</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="159"/>
+        <location filename="traywnd.ui" line="158"/>
         <source>Waiting for an URL of some online video...</source>
         <translation>Aguardando por um URL de vídeo online...</translation>
     </message>
@@ -207,135 +207,140 @@
         <translation>Próximo vídeo na playlist</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="793"/>
+        <location filename="traywnd.ui" line="223"/>
+        <location filename="traywnd.cpp" line="854"/>
         <source>Cancel download</source>
         <translation>Cancelar download</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="298"/>
+        <location filename="traywnd.ui" line="306"/>
+        <source>Select audio language</source>
+        <translation>Selecione o idioma do áudio</translation>
+    </message>
+    <message>
+        <location filename="traywnd.ui" line="329"/>
         <source>Select subtitles</source>
         <translation>Selecionar legendas</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="326"/>
+        <location filename="traywnd.ui" line="357"/>
         <source>Play</source>
         <translation>Reproduzir</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="387"/>
+        <location filename="traywnd.ui" line="418"/>
         <source>No video formats matching filters, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;show all formats&lt;/b&gt;&lt;/a&gt;</source>
         <translation>Nenhum formato de vídeo encontrado pelos filtros, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;exibir todos os formatos&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="50"/>
+        <location filename="traywnd.cpp" line="60"/>
         <source>Play...</source>
         <translation>Reproduzir...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="56"/>
+        <location filename="traywnd.cpp" line="66"/>
         <source>Copy URL</source>
         <translation>Copiar URL</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="58"/>
+        <location filename="traywnd.cpp" line="68"/>
         <source>Download...</source>
         <translation>Baixar...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="336"/>
+        <location filename="traywnd.cpp" line="366"/>
         <source>Unknown: select to load</source>
         <translation>Desconhecido: selecione para processar</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="471"/>
+        <location filename="traywnd.cpp" line="531"/>
         <source>No subtitles</source>
         <translation>Sem legendas</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="502"/>
+        <location filename="traywnd.cpp" line="561"/>
         <source>Auto-generated</source>
         <translation>Gerado automáticamente</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="641"/>
+        <location filename="traywnd.cpp" line="702"/>
         <source>Multiple streams</source>
         <translation>Multiplo streams</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="643"/>
+        <location filename="traywnd.cpp" line="704"/>
         <source>Video</source>
         <translation>Vídeo</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>Audio</source>
         <translation>Áudio</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>%1 Kbps</source>
         <translation>%1 Kbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="648"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>%1 Mbps</source>
         <translation>%1 Mbps</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="688"/>
+        <location filename="traywnd.cpp" line="749"/>
         <source>Show another %1 hidden formats</source>
         <translation>Exibir outros %1 formatos ocultos</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="720"/>
+        <location filename="traywnd.cpp" line="781"/>
         <source>Video clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Clipes de vídeo</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="721"/>
+        <location filename="traywnd.cpp" line="782"/>
         <source>Matroska video clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Clipes de vídeo Matroska</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="722"/>
+        <location filename="traywnd.cpp" line="783"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="727"/>
+        <location filename="traywnd.cpp" line="788"/>
         <source>Download clip as...</source>
         <translation>Baixar vídeo como...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Você tem certeza que deseja cancelar este download?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Yes</source>
         <translation>Sim</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>No</source>
         <translation>Não</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="897"/>
+        <location filename="traywnd.cpp" line="958"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% de %2 baixado</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="898"/>
+        <location filename="traywnd.cpp" line="959"/>
         <source>%1 downloaded</source>
         <translation>%1 baixado</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="903"/>
+        <location filename="traywnd.cpp" line="964"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>enfileirados</translation>
     </message>
 </context>
 <context>
@@ -483,7 +488,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="144"/>
         <source>Prefer HDR formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefira formatos HDR</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="148"/>
@@ -506,7 +511,7 @@
         <location filename="tubeplugin.cpp" line="183"/>
         <source>Stream via SVPcast</source>
         <oldsource>SVPcast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Transmita via SVPcast</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="161"/>
@@ -542,7 +547,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="276"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="316"/>
@@ -563,17 +568,17 @@
     <message>
         <location filename="tubeplugin.cpp" line="361"/>
         <source>Executables</source>
-        <translation type="unfinished"></translation>
+        <translation>Executáveis</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="364"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicativos</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="368"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="371"/>

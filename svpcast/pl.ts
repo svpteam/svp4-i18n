@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Stream a video file...</source>
-        <translation>Przesyłaj strumieniowo plik wideo...</translation>
+        <translation>Transmituj strumieniowo plik wideo...</translation>
     </message>
     <message>
         <source>Stream to</source>
@@ -224,12 +224,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
-        <translation type="unfinished"></translation>
+        <source>Search for AppleTVs using atvremote</source>
+        <translation>Wyszukaj AppleTV za pomocą atvremote</translation>
     </message>
     <message>
-        <source>Downscale to 1080p</source>
-        <translation type="unfinished"></translation>
+        <source>Stream the link you copied</source>
+        <translation>Transmituj skopiowany link</translation>
+    </message>
+    <message>
+        <source>Stream to SVPlayer @Android,@iOS</source>
+        <translation>Transmisja strumieniowa do SVPlayer na Android/iOS</translation>
     </message>
 </context>
 <context>

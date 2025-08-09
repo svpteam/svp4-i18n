@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>Fallback to H.264 on error</source>
-        <translation type="unfinished"></translation>
+        <translation>오류 발생 시 H.264로 폴백</translation>
     </message>
     <message>
         <source>Use &apos;www.svp-team.com/cast&apos; as a shortcut to the local Web UI server</source>
@@ -224,12 +224,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
-        <translation type="unfinished"></translation>
+        <source>Search for AppleTVs using atvremote</source>
+        <translation>atvremote를 사용하여 AppleTV 검색</translation>
     </message>
     <message>
-        <source>Downscale to 1080p</source>
-        <translation type="unfinished"></translation>
+        <source>Stream the link you copied</source>
+        <translation>복사한 링크를 스트리밍하세요</translation>
+    </message>
+    <message>
+        <source>Stream to SVPlayer @Android,@iOS</source>
+        <translation>Android または iOS 用の SVPlayer にストリーミングする</translation>
     </message>
 </context>
 <context>
@@ -280,10 +284,6 @@
     <message>
         <source>Link copied to clipboard</source>
         <translation>링크가 클립보드로 복사됨</translation>
-    </message>
-    <message>
-        <source>Hz</source>
-        <translation type="vanished">Hz</translation>
     </message>
     <message>
         <source>channels</source>

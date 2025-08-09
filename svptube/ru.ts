@@ -80,7 +80,7 @@
     <message>
         <location filename="siteauthdlg.ui" line="364"/>
         <source>e.g. 111.222.333.444:55, optional</source>
-        <translation>например 111.222.333.444:55, не обязательно</translation>
+        <translation>например 111.222.333.444:55, не обязательноl</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="302"/>
@@ -187,7 +187,7 @@
         <translation>Список клипов</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="159"/>
+        <location filename="traywnd.ui" line="158"/>
         <source>Waiting for an URL of some online video...</source>
         <translation>Ожидаю сслыку на потоковое видео...</translation>
     </message>
@@ -207,133 +207,138 @@
         <translation>Следующий клип в списке</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="793"/>
+        <location filename="traywnd.ui" line="223"/>
+        <location filename="traywnd.cpp" line="854"/>
         <source>Cancel download</source>
         <translation>Отменить загрузку</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="298"/>
+        <location filename="traywnd.ui" line="306"/>
+        <source>Select audio language</source>
+        <translation>Выбор языка аудио</translation>
+    </message>
+    <message>
+        <location filename="traywnd.ui" line="329"/>
         <source>Select subtitles</source>
         <translation>Выбор языка субтитров</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="326"/>
+        <location filename="traywnd.ui" line="357"/>
         <source>Play</source>
         <translation>Смотреть</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="387"/>
+        <location filename="traywnd.ui" line="418"/>
         <source>No video formats matching filters, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;show all formats&lt;/b&gt;&lt;/a&gt;</source>
         <translation>Нет подходящих форматов видео, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;показать все форматы&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="50"/>
+        <location filename="traywnd.cpp" line="60"/>
         <source>Play...</source>
         <translation>Смотреть...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="56"/>
+        <location filename="traywnd.cpp" line="66"/>
         <source>Copy URL</source>
         <translation>Скопировать URL</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="58"/>
+        <location filename="traywnd.cpp" line="68"/>
         <source>Download...</source>
         <translation>Загрузить...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="336"/>
+        <location filename="traywnd.cpp" line="366"/>
         <source>Unknown: select to load</source>
         <translation>Неизвестно: выберите для загрузки</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="471"/>
+        <location filename="traywnd.cpp" line="531"/>
         <source>No subtitles</source>
         <translation>Без субтитров</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="502"/>
+        <location filename="traywnd.cpp" line="561"/>
         <source>Auto-generated</source>
         <translation>Автоматически сгенерированные</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="641"/>
+        <location filename="traywnd.cpp" line="702"/>
         <source>Multiple streams</source>
         <translation>Несколько потоков</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="643"/>
+        <location filename="traywnd.cpp" line="704"/>
         <source>Video</source>
         <translation>Видео</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>Audio</source>
         <translation>Аудио</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>%1 Kbps</source>
         <translation>%1 Кб/с</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="648"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>%1 Mbps</source>
         <translation>%1 Мб/с</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="688"/>
+        <location filename="traywnd.cpp" line="749"/>
         <source>Show another %1 hidden formats</source>
         <translation>Показать еще %1 скрытых форматов</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="720"/>
+        <location filename="traywnd.cpp" line="781"/>
         <source>Video clips</source>
         <translation>Файлы видео</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="721"/>
+        <location filename="traywnd.cpp" line="782"/>
         <source>Matroska video clips</source>
         <translation>Файлы видео MKV</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="722"/>
+        <location filename="traywnd.cpp" line="783"/>
         <source>All files</source>
         <translation>Все файлы</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="727"/>
+        <location filename="traywnd.cpp" line="788"/>
         <source>Download clip as...</source>
         <translation>Загрузить клип как...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Прервать загрузку?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>No</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="897"/>
+        <location filename="traywnd.cpp" line="958"/>
         <source>%1% of %2 downloaded</source>
         <translation>Загружено %1% из %2</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="898"/>
+        <location filename="traywnd.cpp" line="959"/>
         <source>%1 downloaded</source>
         <translation>Загружено %1</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="903"/>
+        <location filename="traywnd.cpp" line="964"/>
         <source>queued</source>
         <translation>в очереди</translation>
     </message>

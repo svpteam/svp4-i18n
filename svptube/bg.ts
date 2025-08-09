@@ -46,13 +46,13 @@
     <message>
         <location filename="siteauthdlg.ui" line="129"/>
         <source>Cookies:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cookies:</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="136"/>
         <source>User-Agent:</source>
         <oldsource>User-agent:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="206"/>
@@ -65,17 +65,17 @@
     <message>
         <location filename="siteauthdlg.ui" line="249"/>
         <source>Two-factor authentication code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код за двуфакторно удостоверяване</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="258"/>
         <source>two-factor code</source>
-        <translation type="unfinished"></translation>
+        <translation>двуфакторен код</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="361"/>
         <source>May be useful for geo restricted access</source>
-        <translation type="unfinished"></translation>
+        <translation>Може да е полезно за достъп с географски ограничения</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="364"/>
@@ -85,42 +85,42 @@
     <message>
         <location filename="siteauthdlg.ui" line="302"/>
         <source>Clear cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Изчистване на cookies</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="326"/>
         <source>Cookies file in Mozilla/Netscape format</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл с cookies във формат Mozilla/Netscape</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="329"/>
         <source>Load from text file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареждане от текстов файл...</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="338"/>
         <source>The complete User-Agent string from your web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Пълният низ User-Agent от вашия уеб браузър</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="395"/>
         <source>Specify a proper scheme, for example: socks5://127.0.0.1:1080</source>
-        <translation type="unfinished"></translation>
+        <translation>Посочете подходяща схема, например:  socks5://127.0.0.1:1080</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="378"/>
         <source>How?</source>
-        <translation type="unfinished"></translation>
+        <translation>Как?</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="385"/>
         <source>Copy the complete User-Agent string from this web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирайте пълния низ User-Agent от този уеб сайт</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="388"/>
         <source>Find out!</source>
-        <translation type="unfinished"></translation>
+        <translation>Да знам!</translation>
     </message>
     <message>
         <location filename="siteauthdlg.ui" line="421"/>
@@ -150,33 +150,33 @@
     <message>
         <location filename="siteauth.cpp" line="244"/>
         <source>Open cookie file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне на файл с cookies...</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="245"/>
         <source>Text files</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстови файлове</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="296"/>
         <source>Provide either user/password or cookies/user-agent as a login data if required by the selected web site.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставете потребител/парола или cookies/user-agent като данни за вход, ако това се изисква от избрания уебсай.</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="319"/>
         <source>Two-factor code expired, please update.</source>
-        <translation type="unfinished"></translation>
+        <translation>Срокът на валидност на двуфакторния код е изтекъл, актуализирайте го.</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="329"/>
         <source>SET</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадено</translation>
     </message>
     <message>
         <location filename="siteauth.cpp" line="329"/>
         <location filename="siteauth.cpp" line="344"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма</translation>
     </message>
 </context>
 <context>
@@ -187,7 +187,7 @@
         <translation>Плейлист</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="159"/>
+        <location filename="traywnd.ui" line="158"/>
         <source>Waiting for an URL of some online video...</source>
         <translation>Чака се адрес на онлайн видео (URL)...</translation>
     </message>
@@ -207,135 +207,140 @@
         <translation>Следващ клип</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="221"/>
-        <location filename="traywnd.cpp" line="793"/>
+        <location filename="traywnd.ui" line="223"/>
+        <location filename="traywnd.cpp" line="854"/>
         <source>Cancel download</source>
         <translation>Спри свалянето</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="298"/>
+        <location filename="traywnd.ui" line="306"/>
+        <source>Select audio language</source>
+        <translation>Избор на аудио език</translation>
+    </message>
+    <message>
+        <location filename="traywnd.ui" line="329"/>
         <source>Select subtitles</source>
         <translation>Избери субтитри</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="326"/>
+        <location filename="traywnd.ui" line="357"/>
         <source>Play</source>
         <translation>Пусни</translation>
     </message>
     <message>
-        <location filename="traywnd.ui" line="387"/>
+        <location filename="traywnd.ui" line="418"/>
         <source>No video formats matching filters, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;show all formats&lt;/b&gt;&lt;/a&gt;</source>
         <translation>Няма подходящи видео формати, &lt;a href=&quot;#&quot;&gt;&lt;b&gt;покажи всички формати&lt;/b&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="50"/>
+        <location filename="traywnd.cpp" line="60"/>
         <source>Play...</source>
         <translation>Пусни...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="56"/>
+        <location filename="traywnd.cpp" line="66"/>
         <source>Copy URL</source>
         <translation>Копирай адрес (URL)</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="58"/>
+        <location filename="traywnd.cpp" line="68"/>
         <source>Download...</source>
         <translation>Свали...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="336"/>
+        <location filename="traywnd.cpp" line="366"/>
         <source>Unknown: select to load</source>
         <translation>Неизвестно: изберете за зареждане</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="471"/>
+        <location filename="traywnd.cpp" line="531"/>
         <source>No subtitles</source>
         <translation>Няма субтитри</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="502"/>
+        <location filename="traywnd.cpp" line="561"/>
         <source>Auto-generated</source>
         <translation>Автоматично генерирано</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="641"/>
+        <location filename="traywnd.cpp" line="702"/>
         <source>Multiple streams</source>
-        <translation type="unfinished"></translation>
+        <translation>Множество потоци</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="643"/>
+        <location filename="traywnd.cpp" line="704"/>
         <source>Video</source>
         <translation>Видео</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>Audio</source>
         <translation>Аудио</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="644"/>
+        <location filename="traywnd.cpp" line="705"/>
         <source>%1 Kbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="648"/>
+        <location filename="traywnd.cpp" line="709"/>
         <source>%1 Mbps</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="688"/>
+        <location filename="traywnd.cpp" line="749"/>
         <source>Show another %1 hidden formats</source>
         <translation>Покажи още %1 скрити формата</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="720"/>
+        <location filename="traywnd.cpp" line="781"/>
         <source>Video clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Видеоклипове</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="721"/>
+        <location filename="traywnd.cpp" line="782"/>
         <source>Matroska video clips</source>
-        <translation type="unfinished"></translation>
+        <translation>Видеоклипове в Matroska</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="722"/>
+        <location filename="traywnd.cpp" line="783"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Всички файлове</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="727"/>
+        <location filename="traywnd.cpp" line="788"/>
         <source>Download clip as...</source>
         <translation>Сваляне на клип като...</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Are you sure you want to cancel this download?</source>
         <translation>Наистина ли искате да спрете свалянето?</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="794"/>
+        <location filename="traywnd.cpp" line="855"/>
         <source>No</source>
         <translation>Не</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="897"/>
+        <location filename="traywnd.cpp" line="958"/>
         <source>%1% of %2 downloaded</source>
         <translation>%1% от %2 свалени</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="898"/>
+        <location filename="traywnd.cpp" line="959"/>
         <source>%1 downloaded</source>
         <translation>%1% свалени</translation>
     </message>
     <message>
-        <location filename="traywnd.cpp" line="903"/>
+        <location filename="traywnd.cpp" line="964"/>
         <source>queued</source>
-        <translation type="unfinished"></translation>
+        <translation>на опашка</translation>
     </message>
 </context>
 <context>
@@ -408,17 +413,17 @@
     <message>
         <location filename="tubeplugin.cpp" line="176"/>
         <source>Player for web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Плеър за уеб сайт</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="180"/>
         <source>Same as for all web sites</source>
-        <translation type="unfinished"></translation>
+        <translation>Същото като за всички уебсайтове</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="417"/>
         <source>Player for</source>
-        <translation type="unfinished"></translation>
+        <translation>Плеър за</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="109"/>
@@ -428,12 +433,12 @@
     <message>
         <location filename="tubeplugin.cpp" line="78"/>
         <source>Previous video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Предишно видео в плейлиста на SVPtube</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="79"/>
         <source>Next video in SVPtube playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Следващото видео в плейлиста на SVPtube</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="112"/>
@@ -483,7 +488,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="144"/>
         <source>Prefer HDR formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпочитане на HDR формати</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="148"/>
@@ -506,7 +511,7 @@
         <location filename="tubeplugin.cpp" line="183"/>
         <source>Stream via SVPcast</source>
         <oldsource>SVPcast</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Предаване чрез SVPcast</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="161"/>
@@ -542,7 +547,7 @@
     <message>
         <location filename="tubeplugin.cpp" line="276"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Изключено</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="316"/>
@@ -563,17 +568,17 @@
     <message>
         <location filename="tubeplugin.cpp" line="361"/>
         <source>Executables</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпълними файлове</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="364"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложения</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="368"/>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Всички файлове</translation>
     </message>
     <message>
         <location filename="tubeplugin.cpp" line="371"/>

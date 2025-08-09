@@ -224,12 +224,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
-        <translation type="unfinished"></translation>
+        <source>Search for AppleTVs using atvremote</source>
+        <translation>Поиск AppleTV с помощью atvremote</translation>
     </message>
     <message>
-        <source>Downscale to 1080p</source>
-        <translation type="unfinished"></translation>
+        <source>Stream the link you copied</source>
+        <translation>Транслировать скопированную ссылку</translation>
+    </message>
+    <message>
+        <source>Stream to SVPlayer @Android,@iOS</source>
+        <translation>Транслировать на SVPlayer для Android/iOS</translation>
     </message>
 </context>
 <context>
@@ -267,7 +271,7 @@
     </message>
     <message>
         <source>Mute volume</source>
-        <translation>Отключить звук</translation>
+        <translation>Выключить звук</translation>
     </message>
     <message>
         <source>Click to copy link to clipboard</source>
@@ -280,10 +284,6 @@
     <message>
         <source>Link copied to clipboard</source>
         <translation>Ссылка скопирована</translation>
-    </message>
-    <message>
-        <source>Hz</source>
-        <translation type="vanished">Гц</translation>
     </message>
     <message>
         <source>channels</source>

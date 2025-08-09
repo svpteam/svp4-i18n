@@ -224,11 +224,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
+        <source>Search for AppleTVs using atvremote</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Downscale to 1080p</source>
+        <source>Stream the link you copied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream to SVPlayer @Android,@iOS</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -347,7 +347,7 @@
         <location filename="ledcontrol.ui" line="618"/>
         <location filename="ledcontrolwnd.cpp" line="30"/>
         <source>Smooth scene changes</source>
-        <translation type="unfinished">流暢的場景變化</translation>
+        <translation>流暢的場景變化</translation>
     </message>
     <message>
         <location filename="ledcontrol.ui" line="687"/>
@@ -360,7 +360,7 @@
     <message>
         <location filename="ledcontrolwnd.cpp" line="85"/>
         <source>No engine</source>
-        <translation type="unfinished">沒有引擎</translation>
+        <translation>沒有引擎</translation>
     </message>
     <message>
         <location filename="ledcontrolwnd.cpp" line="109"/>

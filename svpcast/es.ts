@@ -224,12 +224,16 @@
         <translation>Activar fildro antibanding</translation>
     </message>
     <message>
-        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
-        <translation>Hacer mapeado de tonos para fuentes HDR, puede lastimar el rendimiento de codificado mucho</translation>
+        <source>Search for AppleTVs using atvremote</source>
+        <translation>Busque AppleTV usando atvremote</translation>
     </message>
     <message>
-        <source>Downscale to 1080p</source>
-        <translation>Desescalar a 1080p</translation>
+        <source>Stream the link you copied</source>
+        <translation>Stremear el enlace que copiaste</translation>
+    </message>
+    <message>
+        <source>Stream to SVPlayer @Android,@iOS</source>
+        <translation>Transmite a SVPlayer para Android o iOS</translation>
     </message>
 </context>
 <context>

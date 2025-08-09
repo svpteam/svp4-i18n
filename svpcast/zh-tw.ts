@@ -205,15 +205,15 @@
     </message>
     <message>
         <source>Fallback to H.264 on error</source>
-        <translation type="unfinished"></translation>
+        <translation>出錯時回退到 H.264</translation>
     </message>
     <message>
         <source>Use &apos;www.svp-team.com/cast&apos; as a shortcut to the local Web UI server</source>
-        <translation type="unfinished">使用&apos;www.svp-team.com/cast&apos; 作為本地 Web UI 服務器的快捷方式</translation>
+        <translation>使用&apos;www.svp-team.com/cast&apos; 作為本地 Web UI 服務器的快捷方式</translation>
     </message>
     <message>
         <source>Optional unique computer name i.e. &apos;www.svp-team.com/cast/name&apos;</source>
-        <translation type="unfinished">可選的唯一計算機名稱為:&apos;www.svp-team.com/cast/name&apos;</translation>
+        <translation>可選的唯一計算機名稱為:&apos;www.svp-team.com/cast/name&apos;</translation>
     </message>
     <message>
         <source>Update every &lt;value&gt; seconds, useful in case of dynamic external IP address</source>
@@ -224,12 +224,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do tone mapping for HDR sources, may hurt encoding performance a lot</source>
-        <translation type="unfinished">為HDR啟用色調映射(可能嚴重影響編碼效能)</translation>
+        <source>Search for AppleTVs using atvremote</source>
+        <translation>使用 atvremote 搜尋 AppleTV</translation>
     </message>
     <message>
-        <source>Downscale to 1080p</source>
-        <translation type="unfinished">縮減至1080P</translation>
+        <source>Stream the link you copied</source>
+        <translation>串流您複製的鏈接</translation>
+    </message>
+    <message>
+        <source>Stream to SVPlayer @Android,@iOS</source>
+        <translation>串流至 Android 或 iOS 版 SVPlayer</translation>
     </message>
 </context>
 <context>
@@ -280,10 +284,6 @@
     <message>
         <source>Link copied to clipboard</source>
         <translation>連結已複製到剪貼簿</translation>
-    </message>
-    <message>
-        <source>Hz</source>
-        <translation type="vanished">Hz</translation>
     </message>
     <message>
         <source>channels</source>

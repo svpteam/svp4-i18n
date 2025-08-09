@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Disable SVP while encoding</source>
-        <translation type="unfinished">編碼時禁用SVP</translation>
+        <translation>編碼時禁用SVP</translation>
     </message>
     <message>
         <source>Transcoding finished but remuxing failed</source>
@@ -460,7 +460,7 @@
     </message>
     <message>
         <source>Transcoding powered by:</source>
-        <translation type="unfinished">轉碼由:</translation>
+        <translation>轉碼由:</translation>
     </message>
     <message>
         <source>depth:</source>
